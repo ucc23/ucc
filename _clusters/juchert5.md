@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 5.8
-dens_val: 0.04
+rc_val: 10
+dens_val: 0.03
 N_membs_val: 23
 scix_url: Juchert%205
 posit_table: |

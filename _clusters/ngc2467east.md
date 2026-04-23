@@ -13,15 +13,15 @@ glon: 243.15696
 glat: 0.45132
 r50: 2.7
 plx: 0.2005
-UTI: "0.02"
-UTI_COLOR: "#e2a9b3"
+UTI: "0.01"
+UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#e5f4ce"
+UTI_C_dens_COL: "#f0f8d5"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.72
-UTI_C_dens: 0.67
+UTI_C_dens: 0.61
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.03
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-rc_val: 1.5
-dens_val: 3.4
+rc_val: 1.6
+dens_val: 3.0
 N_membs_val: 93
 scix_url: NGC%202467-East
 posit_table: |
@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 18](/_clusters/haffner18/)| 96.8 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.74 |
-    |[Haffner 19](/_clusters/haffner19/)| 43.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.81 |
+    |[Haffner 18](/_clusters/haffner18/)| 96.8 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.73 |
+    |[Haffner 19](/_clusters/haffner19/)| 43.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.84 |
 N_rows_shared: "2"
 ---

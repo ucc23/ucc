@@ -16,12 +16,12 @@ plx: 0.8966
 UTI: "0.01"
 UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#d7eec9"
-UTI_C_dens_COL: "#f1f9d6"
+UTI_C_dens_COL: "#f5fbdc"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e2a9b3"
 UTI_C_N: 0.74
-UTI_C_dens: 0.6
+UTI_C_dens: 0.57
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.02
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 3.0
+rc_val: 1.7
+dens_val: 2.8
 N_membs_val: 98
 scix_url: UBC%2089
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 17](/_clusters/coingaia17/)| 98.0 | 81.23 | 37.57 | 0.89 | 0.29 | -4.31 | 8.92 |0.05 |
-    |[Saloranta 10](/_clusters/saloranta10/)| 91.8 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.52 |
+    |[COIN-Gaia 17](/_clusters/coingaia17/)| 98.0 | 81.23 | 37.57 | 0.89 | 0.29 | -4.31 | 8.92 |0.06 |
+    |[Saloranta 10](/_clusters/saloranta10/)| 91.8 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.51 |
 N_rows_shared: "2"
 ---

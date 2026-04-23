@@ -13,15 +13,15 @@ glon: 14.10049
 glat: -0.74705
 r50: 3.8
 plx: 0.6081
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.21
+UTI_C_dens: 0.16
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.0
-dens_val: 1.0
+rc_val: 2.5
+dens_val: 0.8
 N_membs_val: 17
 scix_url: MCM%203
 posit_table: |
@@ -70,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[G3CC 55](/_clusters/g3cc55/)| 12.0 | 274.56 | -16.96 | 0.69 | -0.35 | -1.65 | -20.32 |0.04 |
-    |[VVVX CL093](/_clusters/vvvxcl093/)| 12.0 | 274.38 | -16.97 | 0.61 | -1.54 | -3.1 | 4.2 |0.29 |
+    |[G3CC 55](/_clusters/g3cc55/)| 12.0 | 274.56 | -16.96 | 0.69 | -0.35 | -1.65 | -20.32 |0.03 |
+    |[VVVX CL093](/_clusters/vvvxcl093/)| 12.0 | 274.38 | -16.97 | 0.61 | -1.54 | -3.1 | 4.2 |0.28 |
     |[VVVX CL095](/_clusters/vvvxcl095/)| 12.0 | 274.4 | -16.93 | 0.52 | -0.27 | -2.16 | -11.4 |0.03 |
 N_rows_shared: "3"
 ---

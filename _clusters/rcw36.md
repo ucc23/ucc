@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-rc_val: 0.3
-dens_val: 46
+rc_val: 0.4
+dens_val: 25
 N_membs_val: 42
 scix_url: RCW36
 posit_table: |

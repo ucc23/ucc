@@ -13,15 +13,15 @@ glon: 351.87491
 glat: 17.61963
 r50: 128.9
 plx: 6.7139
-UTI: "0.38"
-UTI_COLOR: "#fef0d2"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#e3f3cd"
-UTI_C_dens_COL: "#fbcbbd"
+UTI_C_dens_COL: "#f9c9bc"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
-UTI_C_dens: 0.2
+UTI_C_dens: 0.19
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 3.0
+rc_val: 2.9
 dens_val: 1.0
 N_membs_val: 86
 scix_url: OCSN%20246
@@ -72,9 +72,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2907](/_clusters/hsc2907/)| 69.8 | 244.86 | -24.99 | 6.37 | -10.63 | -21.5 | -5.44 |0.35 |
+    |[HSC 2907](/_clusters/hsc2907/)| 69.8 | 244.86 | -24.99 | 6.37 | -10.63 | -21.5 | -5.44 |0.47 |
     |[CWWDL 14698](/_clusters/cwwdl14698/)| 23.3 | 244.65 | -25.04 | 6.28 | -10.79 | -21.61 | -4.49 |0.38 |
-    |[OCSN 96](/_clusters/ocsn96/)| 15.1 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.56 |
+    |[OCSN 96](/_clusters/ocsn96/)| 15.1 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.67 |
     |[OCSN 245](/_clusters/ocsn245/)| 1.2 | 246.4 | -24.04 | 7.2 | -7.05 | -25.65 | -7.74 |0.53 |
 N_rows_shared: "4"
 ---

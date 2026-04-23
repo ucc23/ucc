@@ -16,12 +16,12 @@ plx: 0.1258
 UTI: "0.12"
 UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e0a7b3"
+UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.01
+UTI_C_dens: 0.0
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 4.2
-dens_val: 0.06
+rc_val: 10
+dens_val: 0.02
 N_membs_val: 15
 scix_url: CKCWDM%2060979
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 4199](/_clusters/cwnu4199/)| 4.0 | 174.3 | -58.89 | 0.12 | -5.42 | 1.35 | 41.5 |0.11 |
-    |[VVVX-Obasi 24](/_clusters/vvvxobasi24/)| 4.0 | 174.3 | -58.89 | 0.13 | -5.43 | 1.34 | 41.5 |0.03 |
+    |[CWNU 4199](/_clusters/cwnu4199/)| 4.0 | 174.3 | -58.89 | 0.12 | -5.42 | 1.35 | 41.5 |0.1 |
+    |[VVVX-Obasi 24](/_clusters/vvvxobasi24/)| 4.0 | 174.3 | -58.89 | 0.13 | -5.43 | 1.34 | 41.5 |0.02 |
 N_rows_shared: "2"
 ---

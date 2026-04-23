@@ -13,17 +13,17 @@ glon: 206.99288
 glat: -1.7831
 r50: 5.8
 plx: 0.6823
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 1.1
-dens_val: 9.4
+rc_val: 0.7
+dens_val: 12
 N_membs_val: 161
 scix_url: RMC-4b
 posit_table: |
@@ -84,6 +84,6 @@ shared_table: |
     |[RMC-5](/_clusters/rmc5/)| 52.8 | 98.58 | 4.43 | 0.69 | -1.58 | 0.14 | 7.99 |0.5 |
     |[LP 39](/_clusters/lp39/)| 34.2 | 98.6 | 4.43 | 0.68 | -1.57 | 0.12 | 25.77 |0.0 |
     |[RMC-2](/_clusters/rmc2/)| 19.3 | 98.37 | 4.56 | 0.68 | -1.68 | 0.2 | 31.26 |0.37 |
-    |[AFGL961](/_clusters/afgl961/)| 11.8 | 98.64 | 4.33 | 0.71 | -1.5 | 0.0 | -- |0.35 |
+    |[AFGL961](/_clusters/afgl961/)| 11.8 | 98.64 | 4.33 | 0.71 | -1.5 | 0.0 | -- |0.26 |
 N_rows_shared: "5"
 ---

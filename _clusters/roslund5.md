@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 2.2
-dens_val: 6.2
+rc_val: 1.2
+dens_val: 7.6
 N_membs_val: 303
 scix_url: Roslund%205
 posit_table: |

@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 2.3
+rc_val: 2.2
 dens_val: 1.7
 N_membs_val: 65
 scix_url: UBC%2098
@@ -73,6 +73,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 12](/_clusters/upk12/)| 100.0 | 288.87 | -22.14 | 1.51 | 0.61 | -6.69 | 4.33 |0.56 |
+    |[UPK 12](/_clusters/upk12/)| 100.0 | 288.87 | -22.14 | 1.51 | 0.61 | -6.69 | 4.33 |0.66 |
 N_rows_shared: "1"
 ---

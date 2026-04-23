@@ -13,17 +13,17 @@ glon: 341.14936
 glat: 0.27803
 r50: 2.7
 plx: 0.4148
-UTI: "0.88"
-UTI_COLOR: "#b4ddc3"
+UTI: "0.90"
+UTI_COLOR: "#afdbc1"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.81
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -58,7 +58,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
 rc_val: 1.0
-dens_val: 13
+dens_val: 12
 N_membs_val: 162
 scix_url: VDBH%20200
 posit_table: |

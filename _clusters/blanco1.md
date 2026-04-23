@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 2.5
-dens_val: 14
+rc_val: 2.3
+dens_val: 11
 N_membs_val: 739
 scix_url: Blanco%201
 posit_table: |

@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
-rc_val: 2.9
-dens_val: 7.4
+rc_val: 1.2
+dens_val: 13
 N_membs_val: 484
 scix_url: Haffner%2013
 posit_table: |

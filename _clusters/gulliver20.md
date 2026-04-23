@@ -13,17 +13,17 @@ glon: 38.72074
 glat: 13.10876
 r50: 37.8
 plx: 2.3592
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.66"
+UTI_COLOR: "#e7f4cf"
 UTI_C_N_COL: "#e3f3cd"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0f8d5"
+UTI_C_lit_COL: "#d9eeca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
-UTI_C_dens: 0.1
+UTI_C_dens: 0.13
 UTI_C_C3: 1.0
-UTI_C_lit: 0.61
+UTI_C_lit: 0.73
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 0.8
-dens_val: 0.5
+rc_val: 4.6
+dens_val: 0.7
 N_membs_val: 86
 scix_url: Gulliver%2020
 posit_table: |

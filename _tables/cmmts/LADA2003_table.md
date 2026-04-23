@@ -17,7 +17,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/afgl490/" target="_blank" style="color: red;">AFGL490</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/afgl5142/" target="_blank" style="color: red;">AFGL5142</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/afgl5180/" target="_blank" style="color: red;">AFGL5180</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/afgl6366s/" target="_blank" style="color: $blue;">AFGL6366-S</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/afgl6366s/" target="_blank" style="color: red;">AFGL6366-S</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/bsf56/" target="_blank" style="color: $blue;">BSF 56</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/cepa/" target="_blank" style="color: $blue;">Cep A</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/cepc/" target="_blank" style="color: red;">Cep C</a> | Embedded cluster within ∼2 Kpc of the Sun. |

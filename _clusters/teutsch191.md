@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 0.6
-dens_val: 17
+rc_val: 0.9
+dens_val: 11
 N_membs_val: 60
 scix_url: Teutsch%20191
 posit_table: |
@@ -71,6 +71,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDSB 53](/_clusters/bdsb53/)| 86.7 | 37.03 | 72.64 | 1.06 | -1.3 | -1.49 | -25.77 |0.45 |
-    |[FSR 0569](/_clusters/fsr0569/)| 20.0 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.61 |
+    |[FSR 0569](/_clusters/fsr0569/)| 20.0 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.7 |
 N_rows_shared: "2"
 ---

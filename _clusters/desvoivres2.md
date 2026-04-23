@@ -13,17 +13,17 @@ glon: 206.23612
 glat: 0.19902
 r50: 4.1
 plx: 0.6507
-UTI: "0.19"
-UTI_COLOR: "#f9c9bc"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fef7db"
+UTI_C_dens_COL: "#fdd9c3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.43
+UTI_C_dens: 0.26
 UTI_C_C3: 0.38
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 0.9
-dens_val: 2.1
+rc_val: 1.6
+dens_val: 1.3
 N_membs_val: 24
 scix_url: Desvoivres%202
 posit_table: |

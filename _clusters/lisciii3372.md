@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 7.9
+rc_val: 7.3
 dens_val: 0.2
 N_membs_val: 65
 scix_url: LISC-III%203372

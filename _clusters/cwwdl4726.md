@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 4.7
-dens_val: 0.06
+rc_val: 8.3
+dens_val: 0.07
 N_membs_val: 20
 scix_url: CWWDL%204726
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 224](/_clusters/ubc224/)| 12.0 | 111.38 | -20.96 | 0.33 | -2.3 | 3.12 | 26.35 |0.11 |
+    |[UBC 224](/_clusters/ubc224/)| 12.0 | 111.38 | -20.96 | 0.33 | -2.3 | 3.12 | 26.35 |0.12 |
     |[CWWDL 635](/_clusters/cwwdl635/)| 4.0 | 111.42 | -20.74 | 0.32 | -2.17 | 3.09 | 154.81 |0.06 |
 N_rows_shared: "2"
 ---

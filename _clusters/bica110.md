@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 13
+rc_val: 10
 dens_val: 0.01
 N_membs_val: 12
 scix_url: Bica%20110

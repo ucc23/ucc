@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.9
+rc_val: 1.8
 dens_val: 1.8
 N_membs_val: 51
 scix_url: CWNU%20140
@@ -73,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 8784](/_clusters/cwwdl8784/)| 88.2 | 117.21 | -23.58 | 0.4 | -3.12 | 3.07 | -- |0.06 |
-    |[UBC 1388](/_clusters/ubc1388/)| 84.3 | 117.21 | -23.57 | 0.4 | -3.12 | 3.09 | -- |0.33 |
+    |[UBC 1388](/_clusters/ubc1388/)| 84.3 | 117.21 | -23.57 | 0.4 | -3.12 | 3.09 | -- |0.29 |
 N_rows_shared: "2"
 ---

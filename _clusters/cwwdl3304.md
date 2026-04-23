@@ -16,12 +16,12 @@ plx: 0.6982
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#c2e4c6"
-UTI_C_dens_COL: "#abd4be"
+UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.83
-UTI_C_dens: 0.94
+UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.6
-dens_val: 4.7
+rc_val: 1.6
+dens_val: 6.1
 N_membs_val: 313
 scix_url: CWWDL%203304
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 182](/_clusters/teutsch182/)| 99.7 | 344.03 | 51.18 | 0.7 | -4.62 | -4.95 | -33.09 |0.67 |
+    |[Teutsch 182](/_clusters/teutsch182/)| 99.7 | 344.03 | 51.18 | 0.7 | -4.62 | -4.95 | -33.09 |0.75 |
 N_rows_shared: "1"
 ---

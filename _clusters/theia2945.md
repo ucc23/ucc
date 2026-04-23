@@ -16,14 +16,14 @@ plx: 0.6932
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fbcbbd"
 UTI_C_N: 0.3
-UTI_C_dens: 0.07
+UTI_C_dens: 0.06
 UTI_C_C3: 0.25
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.2
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 3.9
+rc_val: 4.2
 dens_val: 0.3
 N_membs_val: 30
 scix_url: Theia%202945
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HXHWL 44](/_clusters/hxhwl44/)| 80.0 | 39.52 | 62.02 | 0.68 | -0.98 | -0.49 | -- |0.07 |
+    |[HXHWL 44](/_clusters/hxhwl44/)| 80.0 | 39.52 | 62.02 | 0.68 | -0.98 | -0.49 | -- |0.06 |
 N_rows_shared: "1"
 ---

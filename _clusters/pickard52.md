@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.0
-dens_val: 0.07
+rc_val: 3.4
+dens_val: 0.06
 N_membs_val: 14
 scix_url: Pickard%2052
 posit_table: |

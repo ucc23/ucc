@@ -16,12 +16,12 @@ plx: 0.3246
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fef6d9"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#f5c1b8"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.42
-UTI_C_dens: 0.17
+UTI_C_dens: 0.15
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.0
-dens_val: 0.8
+rc_val: 2.7
+dens_val: 0.7
 N_membs_val: 42
 scix_url: CWWDL%20630
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 733](/_clusters/fof733/)| 100.0 | 111.07 | -20.23 | 0.32 | -2.64 | 3.09 | 66.24 |0.17 |
-    |[PHOC 16](/_clusters/phoc16/)| 50.0 | 111.05 | -20.21 | 0.33 | -2.73 | 3.12 | 66.24 |0.52 |
+    |[FoF 733](/_clusters/fof733/)| 100.0 | 111.07 | -20.23 | 0.32 | -2.64 | 3.09 | 66.24 |0.16 |
+    |[PHOC 16](/_clusters/phoc16/)| 50.0 | 111.05 | -20.21 | 0.33 | -2.73 | 3.12 | 66.24 |0.54 |
 N_rows_shared: "2"
 ---

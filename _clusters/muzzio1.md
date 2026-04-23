@@ -13,17 +13,17 @@ glon: 267.97965
 glat: -1.32758
 r50: 4.2
 plx: 0.5377
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#f5fbdc"
 UTI_C_dens_COL: "#e0f1cb"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f0f8d5"
+UTI_C_lit_COL: "#d9eeca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.7
 UTI_C_C3: 0.75
-UTI_C_lit: 0.61
+UTI_C_lit: 0.73
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -55,7 +55,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 1.4
+rc_val: 1.2
 dens_val: 3.5
 N_membs_val: 65
 scix_url: Muzzio%20%201
@@ -111,8 +111,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0498](/_clusters/oc0498/)| 26.2 | 134.45 | -47.81 | 0.54 | -5.24 | 4.27 | 72.01 |0.04 |
-    |[OC 0500](/_clusters/oc0500/)| 20.0 | 134.59 | -47.87 | 0.53 | -5.07 | 4.33 | 20.95 |0.1 |
-    |[RCW38](/_clusters/rcw38/)| 20.0 | 134.59 | -47.63 | 0.55 | -5.2 | 4.41 | -42.7 |0.13 |
+    |[OC 0498](/_clusters/oc0498/)| 26.2 | 134.45 | -47.81 | 0.54 | -5.24 | 4.27 | 72.01 |0.03 |
+    |[OC 0500](/_clusters/oc0500/)| 20.0 | 134.59 | -47.87 | 0.53 | -5.07 | 4.33 | 20.95 |0.09 |
+    |[RCW38](/_clusters/rcw38/)| 20.0 | 134.59 | -47.63 | 0.55 | -5.2 | 4.41 | -42.7 |0.11 |
 N_rows_shared: "3"
 ---

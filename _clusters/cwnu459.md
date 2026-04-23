@@ -13,17 +13,17 @@ glon: 111.11082
 glat: 0.40018
 r50: 7.6
 plx: 0.3342
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#fef9de"
-UTI_C_dens_COL: "#e9afb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.45
-UTI_C_dens: 0.06
+UTI_C_dens: 0.03
 UTI_C_C3: 0.75
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.96
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 1.1
-dens_val: 0.3
+rc_val: 7.3
+dens_val: 0.2
 N_membs_val: 45
 scix_url: CWNU%20459
 posit_table: |
@@ -84,7 +84,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.18 |
+    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.25 |
     |[CWWDL 2573](/_clusters/cwwdl2573/)| 2.2 | 347.57 | 60.95 | 0.32 | -4.13 | -1.97 | -- |0.02 |
 N_rows_shared: "2"
 ---

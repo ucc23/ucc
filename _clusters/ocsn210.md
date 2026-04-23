@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.8
-dens_val: 10
+rc_val: 0.7
+dens_val: 12
 N_membs_val: 225
 scix_url: OCSN%20210
 posit_table: |
@@ -72,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 36](/_clusters/alessi36/)| 98.7 | 106.61 | -37.64 | 3.61 | -9.66 | 7.08 | 15.36 |0.28 |
-    |[UBC 7](/_clusters/ubc7/)| 54.7 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.63 |
+    |[Alessi 36](/_clusters/alessi36/)| 98.7 | 106.61 | -37.64 | 3.61 | -9.66 | 7.08 | 15.36 |0.31 |
+    |[UBC 7](/_clusters/ubc7/)| 54.7 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.71 |
     |[Collinder 135](/_clusters/collinder135/)| 4.4 | 109.36 | -36.95 | 3.34 | -10.04 | 6.22 | 15.1 |0.97 |
 N_rows_shared: "3"
 ---

@@ -13,17 +13,17 @@ glon: 355.12976
 glat: 0.87818
 r50: 6.7
 plx: 0.8748
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#fef0d2"
+UTI_C_dens_COL: "#fef6d9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#f0f8d5"
+UTI_C_lit_COL: "#d9eeca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.55
-UTI_C_dens: 0.38
+UTI_C_dens: 0.42
 UTI_C_C3: 0.5
-UTI_C_lit: 0.61
+UTI_C_lit: 0.73
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "8"
-rc_val: 2.3
-dens_val: 1.9
+rc_val: 2.0
+dens_val: 2.1
 N_membs_val: 60
 scix_url: Antalova%202
 posit_table: |

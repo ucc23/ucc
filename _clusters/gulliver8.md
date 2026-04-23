@@ -13,25 +13,25 @@ glon: 173.22995
 glat: -1.55569
 r50: 11.2
 plx: 0.9026
-UTI: "0.16"
-UTI_COLOR: "#f6c2b8"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#f3fad8"
-UTI_C_dens_COL: "#d7eec9"
+UTI_C_dens_COL: "#f8fcdf"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fddfc6"
+UTI_C_lit_COL: "#fcfee5"
 UTI_C_dup_COL: "#fee4c9"
 UTI_C_N: 0.59
-UTI_C_dens: 0.74
+UTI_C_dens: 0.55
 UTI_C_C3: 0.75
-UTI_C_lit: 0.29
+UTI_C_lit: 0.52
 UTI_C_dup: 0.31
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>Gulliver 8</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Gulliver 8</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-rc_val: 1.2
-dens_val: 3.7
+rc_val: 1.5
+dens_val: 2.7
 N_membs_val: 68
 scix_url: Gulliver%208
 posit_table: |
@@ -93,7 +93,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 89](/_clusters/teutsch89/)| 69.1 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.4 |
+    |[Teutsch 89](/_clusters/teutsch89/)| 69.1 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.36 |
     |[HXWHB 8](/_clusters/hxwhb8/)| 47.1 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
     |[HXWHB 5](/_clusters/hxwhb5/)| 25.0 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.04 |
 N_rows_shared: "3"

@@ -16,12 +16,12 @@ plx: 5.0425
 UTI: "0.01"
 UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#f4fada"
-UTI_C_dens_COL: "#fee7cc"
+UTI_C_dens_COL: "#fdddc5"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.58
-UTI_C_dens: 0.33
+UTI_C_dens: 0.28
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.03
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.8
-dens_val: 1.7
+rc_val: 2.0
+dens_val: 1.4
 N_membs_val: 67
 scix_url: OCSN%20304
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG2](/_clusters/rsg2/)| 97.0 | 110.72 | 55.28 | 5.04 | -2.84 | -31.21 | 10.89 |0.43 |
+    |[RSG2](/_clusters/rsg2/)| 97.0 | 110.72 | 55.28 | 5.04 | -2.84 | -31.21 | 10.89 |0.47 |
     |[CWNU 1128](/_clusters/cwnu1128/)| 67.2 | 110.61 | 55.28 | 5.04 | -2.74 | -31.14 | 11.02 |0.0 |
 N_rows_shared: "2"
 ---

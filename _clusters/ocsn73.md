@@ -16,12 +16,12 @@ plx: 2.1404
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fef5d7"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e2a9b3"
 UTI_C_N: 0.41
-UTI_C_dens: 0.14
+UTI_C_dens: 0.08
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.02
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.2
-dens_val: 0.7
+rc_val: 3.5
+dens_val: 0.4
 N_membs_val: 41
 scix_url: OCSN%2073
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 383](/_clusters/theia383/)| 97.6 | 113.24 | 0.01 | 2.14 | -1.76 | -0.22 | 1.54 |0.31 |
+    |[Theia 383](/_clusters/theia383/)| 97.6 | 113.24 | 0.01 | 2.14 | -1.76 | -0.22 | 1.54 |0.35 |
 N_rows_shared: "1"
 ---

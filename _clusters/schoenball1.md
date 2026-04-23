@@ -13,25 +13,25 @@ glon: 128.07136
 glat: -1.7015
 r50: 3.1
 plx: 0.2278
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.13"
+UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#feeed1"
+UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#fcd6c2"
 UTI_C_N: 0.76
-UTI_C_dens: 0.37
+UTI_C_dens: 0.67
 UTI_C_C3: 0.75
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.25
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>Schoenball 1</b> is a rich, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Schoenball 1</b> is a rich, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-rc_val: 2.6
-dens_val: 1.9
+rc_val: 1.5
+dens_val: 3.4
 N_membs_val: 129
 scix_url: Schoenball%201
 posit_table: |
@@ -83,10 +83,10 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 16](/_clusters/gulliver16/)| 75.2 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.33 |
+    |[Gulliver 16](/_clusters/gulliver16/)| 75.2 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.38 |
     |[NGC 581](/_clusters/ngc581/)| 26.4 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 4.7 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
-    |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.1 |
+    |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.11 |
     |[Teutsch J0135.2+6041](/_clusters/teutschj01352p6041/)| 0.8 | 23.44 | 60.67 | 0.36 | -1.44 | -0.61 | -38.14 |0.05 |
 N_rows_shared: "5"
 ---

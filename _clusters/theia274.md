@@ -13,17 +13,17 @@ glon: 258.88775
 glat: 0.35923
 r50: 22.0
 plx: 1.3168
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#ecf7d3"
-UTI_C_dens_COL: "#f3bcb6"
+UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#f6c2b8"
 UTI_C_N: 0.63
-UTI_C_dens: 0.13
+UTI_C_dens: 0.17
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.16
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 3.2
-dens_val: 0.6
+rc_val: 2.2
+dens_val: 0.8
 N_membs_val: 76
 scix_url: Theia%20274
 posit_table: |
@@ -85,6 +85,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi Teutsch 7](/_clusters/alessiteutsch7/)| 84.2 | 128.23 | -39.41 | 1.33 | -8.11 | 5.64 | 28.72 |0.53 |
+    |[Alessi Teutsch 7](/_clusters/alessiteutsch7/)| 84.2 | 128.23 | -39.41 | 1.33 | -8.11 | 5.64 | 28.72 |0.6 |
 N_rows_shared: "1"
 ---

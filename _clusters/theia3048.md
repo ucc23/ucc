@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-rc_val: 6.2
-dens_val: 0.07
+rc_val: 8.5
+dens_val: 0.06
 N_membs_val: 29
 scix_url: Theia%203048
 posit_table: |

@@ -48,7 +48,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/alessi16/" target="_blank" style="color: red;">Alessi 16</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi161/" target="_blank" style="color: $blue;">Alessi 161</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi162/" target="_blank" style="color: red;">Alessi 162</a> | List of clusters and alike reported by B. Alessi. |
-| <a href="{{ site.baseurl }}/_clusters/alessi165/" target="_blank" style="color: $blue;">Alessi 165</a> | List of clusters and alike reported by B. Alessi. |
+| <a href="{{ site.baseurl }}/_clusters/alessi165/" target="_blank" style="color: red;">Alessi 165</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi167/" target="_blank" style="color: red;">Alessi 167</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/alessi168/" target="_blank" style="color: red;">Alessi 168</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/alessi169/" target="_blank" style="color: red;">Alessi 169</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
@@ -247,7 +247,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/fsr0326/" target="_blank" style="color: red;">FSR 0326</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/fsr0358/" target="_blank" style="color: $blue;">FSR 0358</a> | 2MASS website. |
 | <a href="{{ site.baseurl }}/_clusters/fsr0436/" target="_blank" style="color: $blue;">FSR 0436</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
-| <a href="{{ site.baseurl }}/_clusters/fsr0579/" target="_blank" style="color: $blue;">FSR 0579</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
+| <a href="{{ site.baseurl }}/_clusters/fsr0579/" target="_blank" style="color: red;">FSR 0579</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/fsr0647/" target="_blank" style="color: $blue;">FSR 0647</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/fsr0667/" target="_blank" style="color: $blue;">FSR 0667</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
 | <a href="{{ site.baseurl }}/_clusters/fsr0977/" target="_blank" style="color: $blue;">FSR 0977</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. Asterisms and cluster alikes by B. Alessi reported in DAML02. |
@@ -636,7 +636,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/teutsch145/" target="_blank" style="color: $blue;">Teutsch 145</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch146/" target="_blank" style="color: $blue;">Teutsch 146</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch147/" target="_blank" style="color: red;">Teutsch 147</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/teutsch148/" target="_blank" style="color: $blue;">Teutsch 148</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
+| <a href="{{ site.baseurl }}/_clusters/teutsch148/" target="_blank" style="color: red;">Teutsch 148</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch149/" target="_blank" style="color: red;">Teutsch 149</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch14a/" target="_blank" style="color: $blue;">Teutsch 14a</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch14b/" target="_blank" style="color: $blue;">Teutsch 14b</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |

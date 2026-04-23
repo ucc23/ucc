@@ -13,17 +13,17 @@ glon: 36.36964
 glat: 29.16546
 r50: 7.3
 plx: 0.2607
-UTI: "0.01"
-UTI_COLOR: "#e0a7b3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#dfa5b3"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.0
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-rc_val: 2.5
-dens_val: 0.05
+rc_val: 8.8
+dens_val: 0.06
 N_membs_val: 24
 scix_url: Dol%20Dzim%207
 posit_table: |

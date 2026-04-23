@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.6
-dens_val: 8.7
+rc_val: 0.9
+dens_val: 5.0
 N_membs_val: 21
 scix_url: BDSB%2071
 posit_table: |
@@ -70,10 +70,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[S235B](/_clusters/s235b/)| 64.0 | 85.24 | 35.71 | 0.6 | 0.25 | -2.87 | -55.96 |0.09 |
-    |[BDSB 72](/_clusters/bdsb72/)| 60.0 | 85.24 | 35.69 | 0.6 | 0.19 | -2.9 | -20.92 |0.04 |
-    |[Sh2-235B](/_clusters/sh2235b/)| 48.0 | 85.28 | 35.72 | 0.65 | 0.25 | -2.87 | -76.72 |0.11 |
+    |[S235B](/_clusters/s235b/)| 64.0 | 85.24 | 35.71 | 0.6 | 0.25 | -2.87 | -55.96 |0.1 |
+    |[BDSB 72](/_clusters/bdsb72/)| 60.0 | 85.24 | 35.69 | 0.6 | 0.19 | -2.9 | -20.92 |0.02 |
+    |[Sh2-235B](/_clusters/sh2235b/)| 48.0 | 85.28 | 35.72 | 0.65 | 0.25 | -2.87 | -76.72 |0.1 |
     |[FSR 0784](/_clusters/fsr0784/)| 8.0 | 85.2 | 35.89 | 0.6 | 0.35 | -2.97 | -4.38 |0.04 |
-    |[Sh2-235](/_clusters/sh2235/)| 8.0 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.18 |
+    |[Sh2-235](/_clusters/sh2235/)| 8.0 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.22 |
 N_rows_shared: "5"
 ---

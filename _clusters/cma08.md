@@ -13,25 +13,25 @@ glon: 225.92142
 glat: -1.54453
 r50: 14.3
 plx: 0.8557
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.38"
+UTI_COLOR: "#fef0d2"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#e7adb3"
+UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.05
+UTI_C_dens: 0.39
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very loose
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>CMa08</b> is a rich, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with 5 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>CMa08</b> is a rich, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with 5 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.7
-dens_val: 0.2
+rc_val: 2.2
+dens_val: 1.9
 N_membs_val: 132
 scix_url: CMa08
 posit_table: |
@@ -76,6 +76,6 @@ shared_table: |
     |[CWWDL 14343](/_clusters/cwwdl14343/)| 22.0 | 107.36 | -12.04 | 0.85 | -3.28 | 0.96 | 21.1 |0.01 |
     |[OC 0379](/_clusters/oc0379/)| 22.0 | 107.56 | -12.45 | 0.84 | -3.05 | 0.84 | 25.92 |0.0 |
     |[OC 0377](/_clusters/oc0377/)| 21.2 | 107.42 | -12.04 | 0.85 | -3.26 | 0.94 | 20.73 |0.0 |
-    |[XDOCC 03](/_clusters/xdocc03/)| 0.8 | 106.91 | -13.03 | 0.86 | -3.38 | 0.6 | 29.19 |0.06 |
+    |[XDOCC 03](/_clusters/xdocc03/)| 0.8 | 106.91 | -13.03 | 0.86 | -3.38 | 0.6 | 29.19 |0.05 |
 N_rows_shared: "5"
 ---

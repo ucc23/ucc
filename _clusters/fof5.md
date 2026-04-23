@@ -13,25 +13,25 @@ glon: 292.32869
 glat: -12.74205
 r50: 10.0
 plx: 0.5183
-UTI: "0.49"
-UTI_COLOR: "#fefde6"
+UTI: "0.57"
+UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fdd9c3"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.17
+UTI_C_dens: 0.09
 UTI_C_C3: 1.0
-UTI_C_lit: 0.26
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>FoF 5</b> is a rich, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>FoF 5</b> is a rich, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 3.2
-dens_val: 0.8
+rc_val: 3.9
+dens_val: 0.4
 N_membs_val: 130
 scix_url: FoF%205
 posit_table: |
@@ -94,7 +94,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 274](/_clusters/ubc274/)| 100.0 | 156.26 | -72.56 | 0.52 | -6.88 | 1.46 | -23.51 |0.21 |
-    |[OC 0560](/_clusters/oc0560/)| 1.5 | 154.51 | -72.17 | 0.52 | -6.87 | 1.69 | -22.78 |0.05 |
+    |[UBC 274](/_clusters/ubc274/)| 100.0 | 156.26 | -72.56 | 0.52 | -6.88 | 1.46 | -23.51 |0.2 |
+    |[OC 0560](/_clusters/oc0560/)| 1.5 | 154.51 | -72.17 | 0.52 | -6.87 | 1.69 | -22.78 |0.04 |
 N_rows_shared: "2"
 ---

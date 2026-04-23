@@ -13,25 +13,25 @@ glon: 81.80074
 glat: 6.04657
 r50: 46.6
 plx: 2.9582
-UTI: "0.72"
-UTI_COLOR: "#dbefca"
+UTI: "0.74"
+UTI_COLOR: "#d7eec9"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#f8fcdf"
+UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0f8d5"
+UTI_C_lit_COL: "#d9eeca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 0.55
+UTI_C_dens: 0.39
 UTI_C_C3: 1.0
-UTI_C_lit: 0.61
+UTI_C_lit: 0.73
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>RSG5</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>RSG5</b> is a rich, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 2.7
-dens_val: 2.8
+rc_val: 2.8
+dens_val: 2.0
 N_membs_val: 272
 scix_url: RSG5
 posit_table: |
@@ -121,7 +121,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 256](/_clusters/ocsn256/)| 89.7 | 303.59 | 45.59 | 2.96 | 3.63 | 1.56 | -7.39 |0.01 |
-    |[LISC-III 3723](/_clusters/lisciii3723/)| 75.0 | 304.16 | 46.65 | 2.92 | 3.51 | 1.72 | -7.45 |0.2 |
+    |[LISC-III 3723](/_clusters/lisciii3723/)| 75.0 | 304.16 | 46.65 | 2.92 | 3.51 | 1.72 | -7.45 |0.21 |
     |[OCSN 23](/_clusters/ocsn23/)| 11.8 | 305.13 | 48.62 | 2.86 | 3.16 | 1.97 | -7.7 |0.29 |
 N_rows_shared: "3"
 ---

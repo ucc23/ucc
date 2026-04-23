@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 3.6
+rc_val: 3.7
 dens_val: 0.2
 N_membs_val: 21
 scix_url: Cmg%2078

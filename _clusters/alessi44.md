@@ -13,17 +13,17 @@ glon: 39.93485
 glat: -9.75184
 r50: 27.3
 plx: 1.5237
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.46"
+UTI_COLOR: "#fefae1"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e7adb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.05
+UTI_C_dens: 0.03
 UTI_C_C3: 0.5
-UTI_C_lit: 0.84
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 3.7
-dens_val: 0.2
+rc_val: 5.5
+dens_val: 0.1
 N_membs_val: 18
 scix_url: Alessi%2044
 posit_table: |
@@ -125,6 +125,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0069](/_clusters/oc0069/)| 44.0 | 294.77 | 2.28 | 1.5 | 0.26 | -2.23 | -9.39 |0.11 |
+    |[OC 0069](/_clusters/oc0069/)| 44.0 | 294.77 | 2.28 | 1.5 | 0.26 | -2.23 | -9.39 |0.09 |
 N_rows_shared: "1"
 ---

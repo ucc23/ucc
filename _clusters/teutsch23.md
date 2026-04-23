@@ -13,17 +13,17 @@ glon: 115.79616
 glat: 1.05848
 r50: 5.7
 plx: 0.3099
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#d0eac9"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
-UTI_C_dens: 0.14
+UTI_C_dens: 0.16
 UTI_C_C3: 0.75
-UTI_C_lit: 0.77
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very loose
@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 4.5
-dens_val: 0.7
+rc_val: 3.3
+dens_val: 0.8
 N_membs_val: 101
 scix_url: Teutsch%2023
 posit_table: |
@@ -121,7 +121,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Negueruela 1](/_clusters/negueruela1/)| 46.5 | 356.86 | 63.21 | 0.31 | -2.97 | -1.38 | -- |0.6 |
+    |[Negueruela 1](/_clusters/negueruela1/)| 46.5 | 356.86 | 63.21 | 0.31 | -2.97 | -1.38 | -- |0.61 |
     |[CWWDL 10426](/_clusters/cwwdl10426/)| 9.9 | 357.55 | 62.97 | 0.32 | -3.04 | -1.36 | -89.18 |0.11 |
 N_rows_shared: "2"
 ---

@@ -58,7 +58,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
 rc_val: 1.1
-dens_val: 6.9
+dens_val: 6.6
 N_membs_val: 105
 scix_url: Bochum%2013
 posit_table: |
@@ -138,6 +138,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 99](/_clusters/bdsb99/)| 3.8 | 259.78 | -35.72 | 0.55 | -0.05 | -1.56 | -26.71 |0.31 |
+    |[BDSB 99](/_clusters/bdsb99/)| 3.8 | 259.78 | -35.72 | 0.55 | -0.05 | -1.56 | -26.71 |0.29 |
 N_rows_shared: "1"
 ---

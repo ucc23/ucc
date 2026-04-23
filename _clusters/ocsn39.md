@@ -16,12 +16,12 @@ plx: 2.9046
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f7fbde"
-UTI_C_dens_COL: "#f1f9d6"
+UTI_C_dens_COL: "#d7eec9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.56
-UTI_C_dens: 0.6
+UTI_C_dens: 0.74
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.5
-dens_val: 3.0
+rc_val: 1.6
+dens_val: 3.7
 N_membs_val: 63
 scix_url: OCSN%2039
 posit_table: |
@@ -73,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LDN 1251](/_clusters/ldn1251/)| 100.0 | 340.96 | 75.2 | 2.9 | 7.34 | 0.48 | -34.04 |0.43 |
-    |[Theia 11](/_clusters/theia11/)| 41.3 | 341.52 | 75.13 | 2.91 | 7.39 | 0.29 | -16.69 |0.48 |
+    |[Theia 11](/_clusters/theia11/)| 41.3 | 341.52 | 75.13 | 2.91 | 7.39 | 0.29 | -16.69 |0.49 |
     |[OC 0209](/_clusters/oc0209/)| 39.7 | 341.35 | 75.11 | 2.91 | 7.34 | 0.29 | -16.69 |0.03 |
 N_rows_shared: "3"
 ---

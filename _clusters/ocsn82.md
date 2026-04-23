@@ -13,17 +13,17 @@ glon: 245.63242
 glat: -10.99046
 r50: 63.7
 plx: 2.4201
-UTI: "0.44"
-UTI_COLOR: "#fef8dd"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 0.18
+UTI_C_dens: 0.21
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 5.1
-dens_val: 0.9
+rc_val: 5.0
+dens_val: 1.0
 N_membs_val: 250
 scix_url: OCSN%2082
 posit_table: |

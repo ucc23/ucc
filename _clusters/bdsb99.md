@@ -13,15 +13,15 @@ glon: 351.27065
 glat: 0.97307
 r50: 8.6
 plx: 0.5518
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#fef6d9"
+UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.55
-UTI_C_dens: 0.42
+UTI_C_dens: 0.31
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.92
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 1.2
-dens_val: 2.1
+rc_val: 1.6
+dens_val: 1.6
 N_membs_val: 59
 scix_url: BDSB%2099
 posit_table: |
@@ -76,11 +76,11 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6334 V](/_clusters/ngc6334v/)| 8.5 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.22 |
+    |[NGC 6334 V](/_clusters/ngc6334v/)| 8.5 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.23 |
     |[Bochum 13](/_clusters/bochum13/)| 6.8 | 259.34 | -35.53 | 0.57 | -0.28 | -1.26 | -62.15 |0.9 |
-    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 6.8 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.23 |
+    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 6.8 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.28 |
     |[BDSB 98](/_clusters/bdsb98/)| 5.1 | 260.0 | -35.93 | 0.56 | -0.19 | -1.82 | -14.06 |0.04 |
-    |[NGC 6334](/_clusters/ngc6334/)| 3.4 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.43 |
+    |[NGC 6334](/_clusters/ngc6334/)| 3.4 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.5 |
     |[NGC 6334 III](/_clusters/ngc6334iii/)| 1.7 | 260.09 | -35.9 | 0.58 | -0.24 | -1.71 | -- |0.05 |
 N_rows_shared: "6"
 ---

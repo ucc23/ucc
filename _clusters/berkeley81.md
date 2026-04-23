@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
-rc_val: 1.7
-dens_val: 8.2
+rc_val: 1.4
+dens_val: 7.0
 N_membs_val: 230
 scix_url: Berkeley%2081
 posit_table: |

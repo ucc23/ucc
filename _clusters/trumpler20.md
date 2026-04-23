@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-rc_val: 3.6
-dens_val: 10
+rc_val: 4.5
+dens_val: 8.7
 N_membs_val: 1541
 scix_url: Trumpler%2020
 posit_table: |

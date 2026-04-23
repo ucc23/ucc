@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 1.3
-dens_val: 12
+rc_val: 0.8
+dens_val: 9.3
 N_membs_val: 340
 scix_url: VDBH%20221
 posit_table: |

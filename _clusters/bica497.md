@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.1
+rc_val: 3.7
 dens_val: 0.2
 N_membs_val: 17
 scix_url: Bica%20497

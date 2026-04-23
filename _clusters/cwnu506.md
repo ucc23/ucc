@@ -16,12 +16,12 @@ plx: 0.4805
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f5fbdc"
-UTI_C_dens_COL: "#f8fcdf"
+UTI_C_dens_COL: "#f0f8d5"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.57
-UTI_C_dens: 0.55
+UTI_C_dens: 0.61
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.8
-dens_val: 2.8
+rc_val: 1.0
+dens_val: 3.0
 N_membs_val: 65
 scix_url: CWNU%20506
 posit_table: |
@@ -75,6 +75,6 @@ shared_table: |
     |[UBC 1020](/_clusters/ubc1020/)| 100.0 | 277.26 | -12.72 | 0.46 | 0.62 | -1.65 | 10.83 |0.59 |
     |[CWNU 44](/_clusters/cwnu44/)| 60.0 | 277.26 | -12.72 | 0.47 | 0.61 | -1.66 | 18.06 |0.0 |
     |[OC 0032](/_clusters/oc0032/)| 50.8 | 277.26 | -12.73 | 0.48 | 0.62 | -1.66 | 88.27 |0.0 |
-    |[HSC 210](/_clusters/hsc210/)| 10.8 | 277.31 | -12.7 | 0.57 | 0.55 | -1.62 | -- |0.02 |
+    |[HSC 210](/_clusters/hsc210/)| 10.8 | 277.31 | -12.7 | 0.57 | 0.55 | -1.62 | -- |0.03 |
 N_rows_shared: "4"
 ---

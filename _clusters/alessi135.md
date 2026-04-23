@@ -16,12 +16,12 @@ plx: 1.0476
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#e7f4cf"
+UTI_C_dens_COL: "#f1f9d6"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.26
-UTI_C_dens: 0.66
+UTI_C_dens: 0.6
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -52,7 +52,7 @@ class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
 rc_val: 1.1
-dens_val: 3.3
+dens_val: 3.0
 N_membs_val: 26
 scix_url: Alessi%20135
 posit_table: |
@@ -70,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.45 | 27.03 | 1.05 | -0.33 | -1.01 | -0.01 |0.1 |
-    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.51 |
+    |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.45 | 27.03 | 1.05 | -0.33 | -1.01 | -0.01 |0.11 |
+    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.59 |
     |[CWWDL 14154](/_clusters/cwwdl14154/)| 96.2 | 87.46 | 27.02 | 1.06 | -0.33 | -1.0 | -3.59 |0.01 |
 N_rows_shared: "3"
 ---

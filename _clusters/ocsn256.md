@@ -16,12 +16,12 @@ plx: 2.9646
 UTI: "0.01"
 UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#f8fcdf"
+UTI_C_dens_COL: "#fbfde3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e0a7b3"
 UTI_C_N: 0.81
-UTI_C_dens: 0.55
+UTI_C_dens: 0.53
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.01
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.7
+rc_val: 3.0
 dens_val: 2.7
 N_membs_val: 247
 scix_url: OCSN%20256
@@ -72,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG5](/_clusters/rsg5/)| 98.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.72 |
-    |[LISC-III 3723](/_clusters/lisciii3723/)| 77.3 | 304.16 | 46.65 | 2.92 | 3.51 | 1.72 | -7.45 |0.2 |
+    |[RSG5](/_clusters/rsg5/)| 98.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.74 |
+    |[LISC-III 3723](/_clusters/lisciii3723/)| 77.3 | 304.16 | 46.65 | 2.92 | 3.51 | 1.72 | -7.45 |0.21 |
     |[OCSN 23](/_clusters/ocsn23/)| 10.9 | 305.13 | 48.62 | 2.86 | 3.16 | 1.97 | -7.7 |0.29 |
 N_rows_shared: "3"
 ---

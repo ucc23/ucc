@@ -13,17 +13,17 @@ glon: 6.40093
 glat: -0.20869
 r50: 5.5
 plx: 0.3176
-UTI: "0.62"
-UTI_COLOR: "#eef7d4"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#fef5d7"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 0.41
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Loose
@@ -108,7 +108,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bochum 14](/_clusters/bochum14/)| 1.5 | 270.5 | -23.7 | 0.31 | 0.25 | -1.12 | 110.24 |0.75 |
+    |[Bochum 14](/_clusters/bochum14/)| 1.5 | 270.5 | -23.7 | 0.31 | 0.25 | -1.12 | 110.24 |0.82 |
     |[CWNU 1465](/_clusters/cwnu1465/)| 0.5 | 270.37 | -23.54 | 0.34 | -0.44 | -1.64 | 22.07 |0.42 |
 N_rows_shared: "2"
 ---

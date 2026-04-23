@@ -16,12 +16,12 @@ plx: 2.9088
 UTI: "0.14"
 UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#edb2b3"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.08
+UTI_C_dens: 0.07
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.6
-dens_val: 0.4
+rc_val: 3.2
+dens_val: 0.3
 N_membs_val: 24
 scix_url: Theia%201362
 posit_table: |
@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1314](/_clusters/hsc1314/)| 68.0 | 72.76 | 36.67 | 2.89 | 3.29 | -10.77 | 4.92 |0.03 |
+    |[HSC 1314](/_clusters/hsc1314/)| 68.0 | 72.76 | 36.67 | 2.89 | 3.29 | -10.77 | 4.92 |0.04 |
 N_rows_shared: "1"
 ---

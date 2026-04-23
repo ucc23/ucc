@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 1.1
-dens_val: 7.5
+rc_val: 1.2
+dens_val: 6.5
 N_membs_val: 85
 scix_url: MCM%2027
 posit_table: |

@@ -16,12 +16,12 @@ plx: 0.3719
 UTI: "0.17"
 UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.12
+UTI_C_dens: 0.11
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 3.0
+rc_val: 2.9
 dens_val: 0.6
 N_membs_val: 23
 scix_url: Collinder%20467
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 72](/_clusters/melotte72/)| 100.0 | 114.62 | -10.7 | 0.38 | -4.15 | 3.68 | 70.74 |0.89 |
+    |[Melotte 72](/_clusters/melotte72/)| 100.0 | 114.62 | -10.7 | 0.38 | -4.15 | 3.68 | 70.74 |0.9 |
 N_rows_shared: "1"
 ---

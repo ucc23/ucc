@@ -13,25 +13,25 @@ glon: 243.0754
 glat: 0.52012
 r50: 2.6
 plx: 0.1965
-UTI: "0.81"
-UTI_COLOR: "#c7e6c7"
+UTI: "0.84"
+UTI_COLOR: "#bfe2c5"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#b2dcc2"
+UTI_C_dens_COL: "#bce1c5"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#ddf0ca"
+UTI_C_lit_COL: "#c9e7c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.89
+UTI_C_dens: 0.85
 UTI_C_C3: 1.0
-UTI_C_lit: 0.71
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Haffner 19</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Haffner 19</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-rc_val: 1.6
-dens_val: 4.4
+rc_val: 1.8
+dens_val: 4.3
 N_membs_val: 135
 scix_url: Haffner%2019
 posit_table: |
@@ -118,7 +118,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 18](/_clusters/haffner18/)| 51.1 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.74 |
-    |[NGC 2467-East](/_clusters/ngc2467east/)| 29.6 | 118.18 | -26.38 | 0.2 | -2.53 | 2.69 | -- |0.02 |
+    |[Haffner 18](/_clusters/haffner18/)| 51.1 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.73 |
+    |[NGC 2467-East](/_clusters/ngc2467east/)| 29.6 | 118.18 | -26.38 | 0.2 | -2.53 | 2.69 | -- |0.01 |
 N_rows_shared: "2"
 ---

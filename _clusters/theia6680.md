@@ -18,12 +18,12 @@ UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#fefae1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#f7c5ba"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.17
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -55,7 +55,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
 rc_val: 0.9
-dens_val: 7.5
+dens_val: 7.8
 N_membs_val: 46
 scix_url: Theia%206680
 posit_table: |

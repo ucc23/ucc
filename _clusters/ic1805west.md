@@ -13,15 +13,15 @@ glon: 134.27864
 glat: 0.85824
 r50: 4.8
 plx: 0.4073
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.09"
+UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fcd4c1"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.24
+UTI_C_dens: 0.11
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 0.9
-dens_val: 1.2
+rc_val: 1.7
+dens_val: 0.6
 N_membs_val: 20
 scix_url: IC1805-West
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0584](/_clusters/fsr0584/)| 4.0 | 36.77 | 61.64 | 0.45 | -0.72 | -0.42 | 0.96 |0.3 |
+    |[FSR 0584](/_clusters/fsr0584/)| 4.0 | 36.77 | 61.64 | 0.45 | -0.72 | -0.42 | 0.96 |0.36 |
     |[IRAS 02245+6115](/_clusters/iras02245p6115/)| 4.0 | 37.26 | 61.5 | 0.44 | -1.2 | -0.19 | -29.81 |0.01 |
 N_rows_shared: "2"
 ---

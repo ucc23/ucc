@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 222
+rc_val: 10
 dens_val: 0.00
 N_membs_val: 6
 scix_url: VVVX-Obasi%2038

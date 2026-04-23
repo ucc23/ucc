@@ -16,14 +16,14 @@ plx: 0.2109
 UTI: "0.74"
 UTI_COLOR: "#d7eec9"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#fef4d6"
+UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#afdbc1"
+UTI_C_lit_COL: "#acd6bf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.72
-UTI_C_dens: 0.4
+UTI_C_dens: 0.39
 UTI_C_C3: 0.75
-UTI_C_lit: 0.9
+UTI_C_lit: 0.93
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -56,7 +56,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-rc_val: 1.9
+rc_val: 2.1
 dens_val: 2.0
 N_membs_val: 94
 scix_url: Berkeley%20104

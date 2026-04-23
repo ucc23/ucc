@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 9.2
+rc_val: 10
 dens_val: 0.08
 N_membs_val: 59
 scix_url: Alessi%2090

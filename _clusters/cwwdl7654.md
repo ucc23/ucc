@@ -16,12 +16,12 @@ plx: 0.5651
 UTI: "0.04"
 UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#feecd0"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#edb2b3"
 UTI_C_N: 0.36
-UTI_C_dens: 1.0
+UTI_C_dens: 0.94
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.08
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.7
-dens_val: 7.9
+rc_val: 1.0
+dens_val: 4.7
 N_membs_val: 36
 scix_url: CWWDL%207654
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Casado 7](/_clusters/casado7/)| 91.7 | 267.03 | -29.02 | 0.58 | 0.57 | -1.42 | -- |0.53 |
+    |[Casado 7](/_clusters/casado7/)| 91.7 | 267.03 | -29.02 | 0.58 | 0.57 | -1.42 | -- |0.55 |
     |[UBC 1593](/_clusters/ubc1593/)| 88.9 | 267.03 | -29.02 | 0.57 | 0.59 | -1.41 | -- |0.04 |
 N_rows_shared: "2"
 ---

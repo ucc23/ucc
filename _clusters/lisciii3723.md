@@ -13,15 +13,15 @@ glon: 82.77147
 glat: 6.39595
 r50: 79.1
 plx: 2.9211
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.21"
+UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#b9e0c4"
-UTI_C_dens_COL: "#fcd6c2"
+UTI_C_dens_COL: "#fef6d9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fefae1"
 UTI_C_N: 0.86
-UTI_C_dens: 0.25
+UTI_C_dens: 0.42
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.46
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 3.4
-dens_val: 1.2
+rc_val: 3.9
+dens_val: 2.1
 N_membs_val: 381
 scix_url: LISC-III%203723
 posit_table: |
@@ -72,9 +72,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.72 |
+    |[RSG5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.74 |
     |[OCSN 23](/_clusters/ocsn23/)| 50.1 | 305.13 | 48.62 | 2.86 | 3.16 | 1.97 | -7.7 |0.29 |
     |[OCSN 256](/_clusters/ocsn256/)| 50.1 | 303.59 | 45.59 | 2.96 | 3.63 | 1.56 | -7.39 |0.01 |
-    |[Theia 96](/_clusters/theia96/)| 23.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.51 |
+    |[Theia 96](/_clusters/theia96/)| 23.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.57 |
 N_rows_shared: "4"
 ---

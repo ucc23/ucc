@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 3.8
-dens_val: 8.0
+rc_val: 4.2
+dens_val: 7.0
 N_membs_val: 1800
 scix_url: Melotte%2066
 posit_table: |

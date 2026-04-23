@@ -13,17 +13,17 @@ glon: 344.36193
 glat: 1.75973
 r50: 3.7
 plx: 0.6043
-UTI: "0.56"
-UTI_COLOR: "#f7fbde"
+UTI: "0.60"
+UTI_COLOR: "#f1f9d6"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.6
-dens_val: 10
+rc_val: 0.7
+dens_val: 9.8
 N_membs_val: 73
 scix_url: Collinder%20316
 posit_table: |
@@ -76,8 +76,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 323](/_clusters/ubc323/)| 78.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.37 |
-    |[ESO 332 08](/_clusters/eso33208/)| 46.6 | 253.7 | -40.76 | 0.58 | -0.27 | -1.34 | -18.45 |0.14 |
+    |[UBC 323](/_clusters/ubc323/)| 78.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.4 |
+    |[ESO 332 08](/_clusters/eso33208/)| 46.6 | 253.7 | -40.76 | 0.58 | -0.27 | -1.34 | -18.45 |0.13 |
     |[OC 0674](/_clusters/oc0674/)| 34.2 | 253.7 | -40.77 | 0.6 | -0.28 | -1.29 | -22.14 |0.0 |
 N_rows_shared: "3"
 ---

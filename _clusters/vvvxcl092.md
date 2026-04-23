@@ -16,12 +16,12 @@ plx: 0.5638
 UTI: "0.04"
 UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.08
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.5
-dens_val: 0.5
+rc_val: 2.8
+dens_val: 0.4
 N_membs_val: 18
 scix_url: VVVX%20CL092
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VVVX CL093](/_clusters/vvvxcl093/)| 52.0 | 274.38 | -16.97 | 0.61 | -1.54 | -3.1 | 4.2 |0.29 |
+    |[VVVX CL093](/_clusters/vvvxcl093/)| 52.0 | 274.38 | -16.97 | 0.61 | -1.54 | -3.1 | 4.2 |0.28 |
     |[Ryu 210](/_clusters/ryu210/)| 12.0 | 274.31 | -16.91 | 0.56 | -0.78 | -2.23 | 13.88 |0.12 |
 N_rows_shared: "2"
 ---

@@ -13,15 +13,15 @@ glon: 329.70261
 glat: 0.5854
 r50: 5.9
 plx: 0.3099
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#f7fbde"
-UTI_C_dens_COL: "#fcd2c0"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.56
-UTI_C_dens: 0.23
+UTI_C_dens: 0.14
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 1.5
-dens_val: 1.1
+rc_val: 2.1
+dens_val: 0.7
 N_membs_val: 62
 scix_url: MCM%2070
 posit_table: |

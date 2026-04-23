@@ -13,15 +13,15 @@ glon: 75.14018
 glat: 2.81816
 r50: 2.0
 plx: 0.2772
-UTI: "0.43"
-UTI_COLOR: "#fef7db"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#eaf6d1"
-UTI_C_dens_COL: "#fbfde3"
+UTI_C_dens_COL: "#fafce1"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.64
-UTI_C_dens: 0.53
+UTI_C_dens: 0.54
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.2
+rc_val: 2.1
 dens_val: 2.7
 N_membs_val: 78
 scix_url: HXWHB%2014
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 372](/_clusters/ubc372/)| 93.6 | 302.38 | 38.29 | 0.27 | -2.58 | -4.87 | -- |0.07 |
+    |[UBC 372](/_clusters/ubc372/)| 93.6 | 302.38 | 38.29 | 0.27 | -2.58 | -4.87 | -- |0.08 |
 N_rows_shared: "1"
 ---

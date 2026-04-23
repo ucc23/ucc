@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.9
-dens_val: 0.9
+rc_val: 2.6
+dens_val: 1.0
 N_membs_val: 54
 scix_url: CWNU%2059
 posit_table: |

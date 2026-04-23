@@ -13,15 +13,15 @@ glon: 113.255
 glat: -3.72732
 r50: 7.7
 plx: 0.7138
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#fddfc6"
+UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f8fcdf"
 UTI_C_N: 0.55
-UTI_C_dens: 0.29
+UTI_C_dens: 0.31
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.55
@@ -51,7 +51,7 @@ class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
 rc_val: 2.4
-dens_val: 1.4
+dens_val: 1.6
 N_membs_val: 60
 scix_url: CWNU%20108
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0207](/_clusters/oc0207/)| 45.0 | 354.47 | 57.78 | 0.72 | -4.6 | -1.8 | -13.03 |0.26 |
+    |[OC 0207](/_clusters/oc0207/)| 45.0 | 354.47 | 57.78 | 0.72 | -4.6 | -1.8 | -13.03 |0.29 |
 N_rows_shared: "1"
 ---

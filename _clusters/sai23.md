@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 0.7
-dens_val: 15
+rc_val: 0.9
+dens_val: 12
 N_membs_val: 104
 scix_url: SAI%2023
 posit_table: |
@@ -71,7 +71,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LP 10](/_clusters/lp10/)| 84.6 | 43.53 | 60.65 | 0.44 | -0.08 | -0.25 | -43.05 |0.1 |
     |[OC 0255](/_clusters/oc0255/)| 23.1 | 43.54 | 60.66 | 0.47 | -0.08 | -0.23 | -- |0.0 |
-    |[IRAS 02484+6022](/_clusters/iras02484p6022/)| 21.2 | 43.04 | 60.56 | 0.43 | -0.21 | -0.33 | -42.03 |0.22 |
-    |[BRC12 IR](/_clusters/brc12ir/)| 13.5 | 43.56 | 60.61 | 0.43 | -0.31 | -0.33 | -27.51 |0.09 |
+    |[IRAS 02484+6022](/_clusters/iras02484p6022/)| 21.2 | 43.04 | 60.56 | 0.43 | -0.21 | -0.33 | -42.03 |0.24 |
+    |[BRC12 IR](/_clusters/brc12ir/)| 13.5 | 43.56 | 60.61 | 0.43 | -0.31 | -0.33 | -27.51 |0.07 |
 N_rows_shared: "4"
 ---

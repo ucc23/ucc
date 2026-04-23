@@ -16,12 +16,12 @@ plx: 2.781
 UTI: "0.30"
 UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#f1f9d6"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#b2dcc2"
 UTI_C_N: 0.6
-UTI_C_dens: 0.1
+UTI_C_dens: 0.11
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.89
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 5.5
-dens_val: 0.5
+rc_val: 4.3
+dens_val: 0.6
 N_membs_val: 71
 scix_url: CWNU%20442
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 31](/_clusters/ubc31/)| 11.3 | 60.98 | 32.35 | 2.74 | 3.75 | -5.38 | 18.67 |0.48 |
+    |[UBC 31](/_clusters/ubc31/)| 11.3 | 60.98 | 32.35 | 2.74 | 3.75 | -5.38 | 18.67 |0.59 |
     |[OCSN 285](/_clusters/ocsn285/)| 7.0 | 60.52 | 32.25 | 2.69 | 3.6 | -5.24 | 20.31 |0.31 |
 N_rows_shared: "2"
 ---

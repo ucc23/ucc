@@ -13,17 +13,17 @@ glon: 238.74708
 glat: -15.05317
 r50: 7.5
 plx: 0.1239
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.15"
+UTI_COLOR: "#f5c1b8"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -79,6 +79,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ruprecht 3](/_clusters/ruprecht3/)| 4.0 | 100.48 | -29.47 | 0.15 | -0.87 | 1.54 | -- |0.09 |
+    |[Ruprecht 3](/_clusters/ruprecht3/)| 4.0 | 100.48 | -29.47 | 0.15 | -0.87 | 1.54 | -- |0.13 |
 N_rows_shared: "1"
 ---

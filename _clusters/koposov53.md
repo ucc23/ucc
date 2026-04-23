@@ -13,17 +13,17 @@ glon: 184.89986
 glat: 3.13008
 r50: 1.7
 plx: 0.1886
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.71"
+UTI_COLOR: "#ddf0ca"
 UTI_C_N_COL: "#eaf6d1"
-UTI_C_dens_COL: "#fefde6"
+UTI_C_dens_COL: "#fefbe2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#d0eac9"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.64
-UTI_C_dens: 0.49
+UTI_C_dens: 0.47
 UTI_C_C3: 0.75
-UTI_C_lit: 0.77
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-rc_val: 2.0
-dens_val: 2.5
+rc_val: 1.9
+dens_val: 2.4
 N_membs_val: 78
 scix_url: Koposov%2053
 posit_table: |

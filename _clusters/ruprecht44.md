@@ -13,15 +13,15 @@ glon: 245.72477
 glat: 0.48771
 r50: 2.7
 plx: 0.1762
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.83"
+UTI_COLOR: "#c2e4c6"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#fee7cc"
+UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 0.33
+UTI_C_dens: 0.39
 UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
-rc_val: 3.6
-dens_val: 1.6
+rc_val: 2.5
+dens_val: 2.0
 N_membs_val: 166
 scix_url: Ruprecht%2044
 posit_table: |
@@ -137,6 +137,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 1429](/_clusters/fof1429/)| 9.6 | 119.42 | -28.54 | 0.21 | -2.31 | 2.89 | 76.8 |0.32 |
+    |[FoF 1429](/_clusters/fof1429/)| 9.6 | 119.42 | -28.54 | 0.21 | -2.31 | 2.89 | 76.8 |0.34 |
 N_rows_shared: "1"
 ---

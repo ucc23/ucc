@@ -13,17 +13,17 @@ glon: 114.60834
 glat: 0.22494
 r50: 1.5
 plx: 0.4897
-UTI: "0.34"
-UTI_COLOR: "#fee9cd"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a9d1bc"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a8cfbb"
 UTI_C_N: 0.32
-UTI_C_dens: 1.0
+UTI_C_dens: 0.96
 UTI_C_C3: 0.25
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.97
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 0.7
-dens_val: 7.7
+rc_val: 1.1
+dens_val: 4.8
 N_membs_val: 32
 scix_url: BDSB%2046
 posit_table: |
@@ -80,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.32 |
+    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.41 |
 N_rows_shared: "1"
 ---

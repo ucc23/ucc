@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 11
+rc_val: 10
 dens_val: 0.01
 N_membs_val: 16
 scix_url: BDSB%20153
@@ -75,6 +75,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 146](/_clusters/bdsb146/)| 4.0 | 290.92 | 14.54 | 0.29 | -2.65 | -5.37 | 131.09 |0.06 |
+    |[BDSB 146](/_clusters/bdsb146/)| 4.0 | 290.92 | 14.54 | 0.29 | -2.65 | -5.37 | 131.09 |0.05 |
 N_rows_shared: "1"
 ---

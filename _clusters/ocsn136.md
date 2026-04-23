@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.1
-dens_val: 5.6
+rc_val: 0.9
+dens_val: 8.8
 N_membs_val: 114
 scix_url: OCSN%20136
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0279](/_clusters/oc0279/)| 22.8 | 58.53 | 31.92 | 3.5 | 6.2 | -9.61 | 11.89 |0.48 |
+    |[OC 0279](/_clusters/oc0279/)| 22.8 | 58.53 | 31.92 | 3.5 | 6.2 | -9.61 | 11.89 |0.55 |
 N_rows_shared: "1"
 ---

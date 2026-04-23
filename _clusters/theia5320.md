@@ -13,17 +13,17 @@ glon: 253.28244
 glat: 2.6203
 r50: 7.3
 plx: 0.7415
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#fcd6c2"
 UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fef4d6"
 UTI_C_N: 0.25
 UTI_C_dens: 0.1
 UTI_C_C3: 0.38
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.4
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-rc_val: 3.1
+rc_val: 3.3
 dens_val: 0.5
 N_membs_val: 25
 scix_url: Theia%205320

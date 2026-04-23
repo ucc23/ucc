@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.9
-dens_val: 8.2
+rc_val: 1.3
+dens_val: 5.5
 N_membs_val: 43
 scix_url: Cru%20II%20Group
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 257](/_clusters/alessi257/)| 51.2 | 192.35 | -61.53 | 0.29 | -7.26 | -0.58 | -27.49 |0.05 |
+    |[Alessi 257](/_clusters/alessi257/)| 51.2 | 192.35 | -61.53 | 0.29 | -7.26 | -0.58 | -27.49 |0.04 |
 N_rows_shared: "1"
 ---

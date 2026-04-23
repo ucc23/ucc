@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 5.1
+rc_val: 5.4
 dens_val: 0.2
 N_membs_val: 27
 scix_url: CWNU%20479
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1197](/_clusters/ubc1197/)| 59.3 | 5.36 | 52.69 | 0.55 | -2.02 | -1.35 | -37.29 |0.11 |
-    |[Theia 2936](/_clusters/theia2936/)| 7.4 | 6.1 | 52.74 | 0.57 | -1.99 | -1.32 | -37.72 |0.0 |
+    |[UBC 1197](/_clusters/ubc1197/)| 59.3 | 5.36 | 52.69 | 0.55 | -2.02 | -1.35 | -37.29 |0.1 |
+    |[Theia 2936](/_clusters/theia2936/)| 7.4 | 6.1 | 52.74 | 0.57 | -1.99 | -1.32 | -37.72 |0.01 |
 N_rows_shared: "2"
 ---

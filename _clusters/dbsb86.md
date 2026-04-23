@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 2.7
+rc_val: 3.6
 dens_val: 0.3
 N_membs_val: 18
 scix_url: DBSB%2086

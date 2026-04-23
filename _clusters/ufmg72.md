@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.5
+rc_val: 2.7
 dens_val: 0.9
 N_membs_val: 45
 scix_url: UFMG%2072
@@ -73,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 1761](/_clusters/theia1761/)| 91.1 | 268.6 | -23.09 | 0.71 | 0.08 | -2.61 | -5.4 |0.05 |
-    |[CWWDL 14199](/_clusters/cwwdl14199/)| 86.7 | 268.6 | -23.09 | 0.71 | 0.08 | -2.61 | 0.14 |0.11 |
+    |[CWWDL 14199](/_clusters/cwwdl14199/)| 86.7 | 268.6 | -23.09 | 0.71 | 0.08 | -2.61 | 0.14 |0.1 |
 N_rows_shared: "2"
 ---

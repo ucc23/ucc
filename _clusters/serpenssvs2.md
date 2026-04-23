@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 3.9
-dens_val: 0.04
+rc_val: 10
+dens_val: 0.03
 N_membs_val: 16
 scix_url: Serpens%20SVS2
 posit_table: |

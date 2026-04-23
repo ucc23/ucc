@@ -16,12 +16,12 @@ plx: 0.3287
 UTI: "0.21"
 UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e7adb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.05
+UTI_C_dens: 0.03
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 3.6
-dens_val: 0.3
+rc_val: 6.0
+dens_val: 0.1
 N_membs_val: 23
 scix_url: BDSB%2045
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 400](/_clusters/ubc400/)| 64.0 | 353.09 | 61.05 | 0.32 | -3.66 | -2.06 | -- |0.32 |
+    |[UBC 400](/_clusters/ubc400/)| 64.0 | 353.09 | 61.05 | 0.32 | -3.66 | -2.06 | -- |0.37 |
 N_rows_shared: "1"
 ---

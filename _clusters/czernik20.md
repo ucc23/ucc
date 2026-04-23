@@ -13,15 +13,15 @@ glon: 168.28883
 glat: 1.43146
 r50: 3.2
 plx: 0.2748
-UTI: "0.72"
-UTI_COLOR: "#dbefca"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#f0f8d5"
+UTI_C_dens_COL: "#fefee8"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#acd6bf"
 UTI_C_N: 0.75
-UTI_C_dens: 0.61
+UTI_C_dens: 0.5
 UTI_C_C3: 0.5
 UTI_C_lit: 1.0
 UTI_C_dup: 0.93
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-rc_val: 1.8
-dens_val: 3.0
+rc_val: 2.0
+dens_val: 2.5
 N_membs_val: 102
 scix_url: Czernik%2020
 posit_table: |

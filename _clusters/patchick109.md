@@ -13,15 +13,15 @@ glon: 172.13336
 glat: -8.60852
 r50: 7.4
 plx: 0.3166
-UTI: "0.18"
-UTI_COLOR: "#f8c6ba"
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#f7fbde"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.56
-UTI_C_dens: 0.07
+UTI_C_dens: 0.05
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.0
-dens_val: 0.3
+rc_val: 6.1
+dens_val: 0.2
 N_membs_val: 62
 scix_url: Patchick%20109
 posit_table: |

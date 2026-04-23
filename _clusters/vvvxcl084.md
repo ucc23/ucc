@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 4.9
-dens_val: 0.07
+rc_val: 7.1
+dens_val: 0.06
 N_membs_val: 9
 scix_url: VVVX%20CL084
 posit_table: |

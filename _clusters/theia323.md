@@ -13,17 +13,17 @@ glon: 303.67822
 glat: 7.1603
 r50: 29.9
 plx: 2.0492
-UTI: "0.18"
-UTI_COLOR: "#f8c6ba"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 0.09
+UTI_C_dens: 0.05
 UTI_C_C3: 0.5
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.3
-dens_val: 0.5
+rc_val: 3.9
+dens_val: 0.2
 N_membs_val: 25
 scix_url: Theia%20323
 posit_table: |
@@ -79,6 +79,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 450](/_clusters/cwnu450/)| 48.0 | 194.43 | -55.77 | 2.06 | -13.54 | -3.65 | 0.01 |0.15 |
+    |[CWNU 450](/_clusters/cwnu450/)| 48.0 | 194.43 | -55.77 | 2.06 | -13.54 | -3.65 | 0.01 |0.14 |
 N_rows_shared: "1"
 ---

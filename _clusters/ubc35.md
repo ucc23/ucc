@@ -16,12 +16,12 @@ plx: 0.7714
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#cce9c8"
-UTI_C_dens_COL: "#c7e6c7"
+UTI_C_dens_COL: "#b2dcc2"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e0a7b3"
 UTI_C_N: 0.79
-UTI_C_dens: 0.81
+UTI_C_dens: 0.89
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.01
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.1
-dens_val: 4.1
+rc_val: 2.0
+dens_val: 4.4
 N_membs_val: 210
 scix_url: UBC%2035
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AT 21](/_clusters/at21/)| 99.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.52 |
+    |[AT 21](/_clusters/at21/)| 99.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.58 |
     |[COIN-Gaia 2](/_clusters/coingaia2/)| 88.1 | 15.05 | 55.41 | 0.77 | -4.44 | -2.06 | -32.25 |0.0 |
     |[CWWDL 3306](/_clusters/cwwdl3306/)| 31.9 | 15.08 | 55.39 | 0.78 | -4.44 | -2.08 | -32.19 |0.0 |
 N_rows_shared: "3"

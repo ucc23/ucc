@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 6.4
+rc_val: 6.1
 dens_val: 0.09
 N_membs_val: 34
 scix_url: CKCWDM%2029591

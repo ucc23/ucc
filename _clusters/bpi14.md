@@ -16,12 +16,12 @@ plx: 0.4551
 UTI: "0.14"
 UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#e3f3cd"
-UTI_C_dens_COL: "#fddfc6"
+UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fef6d9"
 UTI_C_N: 0.68
-UTI_C_dens: 0.29
+UTI_C_dens: 0.3
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.42
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.0
+rc_val: 3.1
 dens_val: 1.5
 N_membs_val: 86
 scix_url: BPI%2014
@@ -72,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Stock 8](/_clusters/stock8/)| 58.1 | 81.96 | 34.43 | 0.46 | 0.08 | -2.34 | -59.37 |0.83 |
-    |[CBB 5](/_clusters/cbb5/)| 36.0 | 82.05 | 34.45 | 0.46 | 0.14 | -2.09 | 11.91 |0.12 |
-    |[HSC 1356](/_clusters/hsc1356/)| 1.2 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.05 |
+    |[Stock 8](/_clusters/stock8/)| 58.1 | 81.96 | 34.43 | 0.46 | 0.08 | -2.34 | -59.37 |0.91 |
+    |[CBB 5](/_clusters/cbb5/)| 36.0 | 82.05 | 34.45 | 0.46 | 0.14 | -2.09 | 11.91 |0.13 |
+    |[HSC 1356](/_clusters/hsc1356/)| 1.2 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.06 |
 N_rows_shared: "3"
 ---

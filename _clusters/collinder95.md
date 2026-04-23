@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 0.8
-dens_val: 20
+rc_val: 0.9
+dens_val: 19
 N_membs_val: 317
 scix_url: Collinder%2095
 posit_table: |

@@ -13,15 +13,15 @@ glon: 299.82223
 glat: 0.73991
 r50: 1.4
 plx: 0.2132
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.50"
+UTI_COLOR: "#fefee8"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#add9c0"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#acd6bf"
 UTI_C_N: 0.76
-UTI_C_dens: 1.0
+UTI_C_dens: 0.91
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.93
@@ -53,7 +53,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
 rc_val: 1.8
-dens_val: 5.9
+dens_val: 4.6
 N_membs_val: 129
 scix_url: Teutsch%20108
 posit_table: |
@@ -75,7 +75,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.11 |
-    |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.29 |
+    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.12 |
+    |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.35 |
 N_rows_shared: "2"
 ---

@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-rc_val: 6.5
+rc_val: 7.2
 dens_val: 0.04
 N_membs_val: 18
 scix_url: Ruprecht%20159

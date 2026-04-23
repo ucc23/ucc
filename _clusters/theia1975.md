@@ -13,17 +13,17 @@ glon: 75.44919
 glat: 0.06672
 r50: 8.5
 plx: 0.4951
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#fcfee5"
 UTI_C_N: 0.0
 UTI_C_dens: 0.05
 UTI_C_C3: 0.38
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 0.52
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 2.7
-dens_val: 0.3
+rc_val: 3.0
+dens_val: 0.2
 N_membs_val: 22
 scix_url: Theia%201975
 posit_table: |
@@ -86,6 +86,6 @@ shared_table: |
     |[CWWDL 1872](/_clusters/cwwdl1872/)| 48.0 | 305.53 | 37.13 | 0.5 | -2.43 | -5.33 | 53.95 |0.05 |
     |[UBC 1101](/_clusters/ubc1101/)| 44.0 | 305.72 | 37.19 | 0.49 | -2.38 | -5.32 | 46.61 |0.31 |
     |[XDOCC 10](/_clusters/xdocc10/)| 20.0 | 305.52 | 37.24 | 0.5 | -2.4 | -5.26 | 53.95 |0.21 |
-    |[UBC 1098](/_clusters/ubc1098/)| 16.0 | 305.39 | 36.93 | 0.49 | -2.63 | -5.41 | -134.78 |0.27 |
+    |[UBC 1098](/_clusters/ubc1098/)| 16.0 | 305.39 | 36.93 | 0.49 | -2.63 | -5.41 | -134.78 |0.25 |
 N_rows_shared: "4"
 ---

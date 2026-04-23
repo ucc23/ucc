@@ -16,12 +16,12 @@ plx: 0.3461
 UTI: "0.11"
 UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fafce1"
-UTI_C_dens_COL: "#fef2d4"
+UTI_C_dens_COL: "#feebce"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee2c7"
 UTI_C_N: 0.54
-UTI_C_dens: 0.39
+UTI_C_dens: 0.35
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.3
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.9
-dens_val: 2.0
+rc_val: 2.0
+dens_val: 1.8
 N_membs_val: 57
 scix_url: CWWDL%201583
 posit_table: |
@@ -73,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 540](/_clusters/ubc540/)| 70.2 | 243.76 | -51.69 | 0.33 | -3.58 | -4.02 | -34.76 |0.29 |
-    |[Ryu 288](/_clusters/ryu288/)| 35.1 | 243.74 | -51.65 | 0.37 | -3.61 | -3.99 | -34.76 |0.17 |
+    |[Ryu 288](/_clusters/ryu288/)| 35.1 | 243.74 | -51.65 | 0.37 | -3.61 | -3.99 | -34.76 |0.14 |
 N_rows_shared: "2"
 ---

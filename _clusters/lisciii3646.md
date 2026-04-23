@@ -16,12 +16,12 @@ plx: 2.4307
 UTI: "0.23"
 UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#d9eeca"
-UTI_C_dens_COL: "#f0f8d5"
+UTI_C_dens_COL: "#f3fad8"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fefde6"
 UTI_C_N: 0.73
-UTI_C_dens: 0.61
+UTI_C_dens: 0.59
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.49
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.3
+rc_val: 2.4
 dens_val: 3.0
 N_membs_val: 96
 scix_url: LISC-III%203646
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 402](/_clusters/upk402/)| 51.0 | 87.52 | 2.82 | 2.47 | -1.11 | -1.82 | 23.07 |0.61 |
+    |[UPK 402](/_clusters/upk402/)| 51.0 | 87.52 | 2.82 | 2.47 | -1.11 | -1.82 | 23.07 |0.71 |
 N_rows_shared: "1"
 ---

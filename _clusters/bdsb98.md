@@ -16,12 +16,12 @@ plx: 0.5587
 UTI: "0.04"
 UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#fefee8"
-UTI_C_dens_COL: "#fee2c7"
+UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.5
-UTI_C_dens: 0.3
+UTI_C_dens: 0.39
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.12
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-rc_val: 1.7
-dens_val: 1.5
+rc_val: 1.4
+dens_val: 1.9
 N_membs_val: 50
 scix_url: BDSB%2098
 posit_table: |
@@ -75,13 +75,13 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6334 V](/_clusters/ngc6334v/)| 88.0 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.22 |
-    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 86.0 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.23 |
+    |[NGC 6334 V](/_clusters/ngc6334v/)| 88.0 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.23 |
+    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 86.0 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.28 |
     |[NGC 6334 III](/_clusters/ngc6334iii/)| 32.0 | 260.09 | -35.9 | 0.58 | -0.24 | -1.71 | -- |0.05 |
-    |[NGC 6334](/_clusters/ngc6334/)| 26.0 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.43 |
-    |[BDSB 97](/_clusters/bdsb97/)| 22.0 | 260.0 | -35.96 | 0.59 | -0.29 | -2.24 | 71.96 |0.18 |
-    |[OC 0685](/_clusters/oc0685/)| 20.0 | 259.95 | -36.08 | 0.54 | -0.0 | -1.6 | -35.4 |0.09 |
-    |[OC 0686](/_clusters/oc0686/)| 8.0 | 260.15 | -35.91 | 0.58 | 0.17 | -1.62 | 234.35 |0.15 |
-    |[BDSB 99](/_clusters/bdsb99/)| 6.0 | 259.78 | -35.72 | 0.55 | -0.05 | -1.56 | -26.71 |0.31 |
+    |[NGC 6334](/_clusters/ngc6334/)| 26.0 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.5 |
+    |[BDSB 97](/_clusters/bdsb97/)| 22.0 | 260.0 | -35.96 | 0.59 | -0.29 | -2.24 | 71.96 |0.11 |
+    |[OC 0685](/_clusters/oc0685/)| 20.0 | 259.95 | -36.08 | 0.54 | -0.0 | -1.6 | -35.4 |0.07 |
+    |[OC 0686](/_clusters/oc0686/)| 8.0 | 260.15 | -35.91 | 0.58 | 0.17 | -1.62 | 234.35 |0.12 |
+    |[BDSB 99](/_clusters/bdsb99/)| 6.0 | 259.78 | -35.72 | 0.55 | -0.05 | -1.56 | -26.71 |0.29 |
 N_rows_shared: "8"
 ---

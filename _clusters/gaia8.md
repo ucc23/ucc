@@ -13,25 +13,25 @@ glon: 63.21222
 glat: 14.73322
 r50: 30.5
 plx: 3.4472
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.62"
+UTI_COLOR: "#eef7d4"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#b4ddc3"
+UTI_C_dens_COL: "#c7e6c7"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f3bcb6"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.88
+UTI_C_dens: 0.81
 UTI_C_C3: 1.0
-UTI_C_lit: 0.13
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Gaia 8</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Gaia 8</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-rc_val: 1.9
-dens_val: 4.4
+rc_val: 1.4
+dens_val: 4.1
 N_membs_val: 133
 scix_url: Gaia%208
 posit_table: |
@@ -87,6 +87,6 @@ shared_table: |
     |[PHOC 41](/_clusters/phoc41/)| 91.0 | 282.54 | 33.38 | 3.45 | 1.8 | -3.86 | -18.69 |0.0 |
     |[OCSN 249](/_clusters/ocsn249/)| 77.4 | 282.52 | 33.39 | 3.46 | 1.82 | -3.87 | -18.83 |0.0 |
     |[CWWL 3595](/_clusters/cwwl3595/)| 60.9 | 282.53 | 33.37 | 3.47 | 1.82 | -3.87 | -18.54 |0.0 |
-    |[OCSN 16](/_clusters/ocsn16/)| 3.0 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.33 |
+    |[OCSN 16](/_clusters/ocsn16/)| 3.0 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.36 |
 N_rows_shared: "4"
 ---

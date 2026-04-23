@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.8
+rc_val: 1.9
 dens_val: 1.1
 N_membs_val: 19
 scix_url: GGD27

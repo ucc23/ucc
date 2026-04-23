@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.8
-dens_val: 12
+rc_val: 1.0
+dens_val: 9.7
 N_membs_val: 95
 scix_url: BDSB%20158
 posit_table: |
@@ -71,6 +71,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[S87E](/_clusters/s87e/)| 88.4 | 296.59 | 24.6 | 0.48 | -1.51 | -4.63 | 78.35 |0.49 |
-    |[Dolidze 53](/_clusters/dolidze53/)| 81.1 | 296.59 | 24.61 | 0.48 | -1.5 | -4.62 | 51.23 |0.04 |
+    |[Dolidze 53](/_clusters/dolidze53/)| 81.1 | 296.59 | 24.61 | 0.48 | -1.5 | -4.62 | 51.23 |0.05 |
 N_rows_shared: "2"
 ---

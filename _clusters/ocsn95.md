@@ -16,12 +16,12 @@ plx: 2.5284
 UTI: "0.27"
 UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#abd4be"
 UTI_C_N: 0.72
-UTI_C_dens: 0.09
+UTI_C_dens: 0.08
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.94
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 3.2
+rc_val: 3.6
 dens_val: 0.4
 N_membs_val: 93
 scix_url: OCSN%2095
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.26 |
+    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.33 |
 N_rows_shared: "1"
 ---

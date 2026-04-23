@@ -56,7 +56,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
 rc_val: 1.7
-dens_val: 6.3
+dens_val: 5.6
 N_membs_val: 169
 scix_url: Berkeley%2071
 posit_table: |

@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.0
-dens_val: 19
+rc_val: 0.5
+dens_val: 37
 N_membs_val: 493
 scix_url: OCSN%20245
 posit_table: |
@@ -74,8 +74,8 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2919](/_clusters/hsc2919/)| 36.1 | 246.54 | -24.02 | 7.21 | -6.81 | -25.98 | -8.44 |0.0 |
     |[OC 0690](/_clusters/oc0690/)| 8.5 | 246.39 | -23.48 | 7.18 | -6.96 | -25.51 | -7.74 |0.48 |
-    |[Grasdalen 1](/_clusters/grasdalen1/)| 5.1 | 246.77 | -24.65 | 7.26 | -6.47 | -26.02 | -8.15 |0.41 |
-    |[HSC 2931](/_clusters/hsc2931/)| 2.2 | 245.13 | -21.68 | 7.41 | -11.33 | -25.07 | -5.21 |0.25 |
-    |[OCSN 246](/_clusters/ocsn246/)| 0.2 | 245.41 | -24.73 | 6.71 | -10.64 | -22.4 | -3.67 |0.38 |
+    |[Grasdalen 1](/_clusters/grasdalen1/)| 5.1 | 246.77 | -24.65 | 7.26 | -6.47 | -26.02 | -8.15 |0.45 |
+    |[HSC 2931](/_clusters/hsc2931/)| 2.2 | 245.13 | -21.68 | 7.41 | -11.33 | -25.07 | -5.21 |0.24 |
+    |[OCSN 246](/_clusters/ocsn246/)| 0.2 | 245.41 | -24.73 | 6.71 | -10.64 | -22.4 | -3.67 |0.37 |
 N_rows_shared: "5"
 ---

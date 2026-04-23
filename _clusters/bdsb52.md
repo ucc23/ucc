@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.0
-dens_val: 12
+rc_val: 0.9
+dens_val: 13
 N_membs_val: 66
 scix_url: BDSB%2052
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1229](/_clusters/cwnu1229/)| 62.1 | 20.88 | 61.81 | 1.08 | -1.45 | -1.54 | -6.04 |0.19 |
+    |[CWNU 1229](/_clusters/cwnu1229/)| 62.1 | 20.88 | 61.81 | 1.08 | -1.45 | -1.54 | -6.04 |0.18 |
 N_rows_shared: "1"
 ---

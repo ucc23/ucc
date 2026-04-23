@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 9.3
-dens_val: 0.05
+rc_val: 10
+dens_val: 0.04
 N_membs_val: 10
 scix_url: CKCWDM%2053907
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 626](/_clusters/ubc626/)| 12.0 | 106.45 | -2.3 | 0.2 | -1.13 | 0.88 | 60.05 |0.45 |
+    |[UBC 626](/_clusters/ubc626/)| 12.0 | 106.45 | -2.3 | 0.2 | -1.13 | 0.88 | 60.05 |0.55 |
 N_rows_shared: "1"
 ---

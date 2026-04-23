@@ -51,7 +51,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
 rc_val: 2.1
-dens_val: 1.9
+dens_val: 1.8
 N_membs_val: 39
 scix_url: CWNU%20487
 posit_table: |

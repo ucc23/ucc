@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 6.4
+rc_val: 6.6
 dens_val: 0.05
 N_membs_val: 16
 scix_url: DBSB%20131
@@ -75,6 +75,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 133](/_clusters/dbsb133/)| 16.0 | 198.43 | -62.36 | 0.25 | -8.46 | -0.95 | -2.62 |0.07 |
+    |[DBSB 133](/_clusters/dbsb133/)| 16.0 | 198.43 | -62.36 | 0.25 | -8.46 | -0.95 | -2.62 |0.1 |
 N_rows_shared: "1"
 ---

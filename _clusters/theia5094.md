@@ -13,17 +13,17 @@ glon: 279.32667
 glat: -2.48636
 r50: 5.9
 plx: 0.6107
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.0
 UTI_C_dens: 0.1
 UTI_C_C3: 0.75
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.24
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.7
+rc_val: 3.0
 dens_val: 0.5
 N_membs_val: 24
 scix_url: Theia%205094
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2757](/_clusters/cwnu2757/)| 76.0 | 146.26 | -56.5 | 0.62 | -5.57 | 3.36 | -- |0.23 |
+    |[CWNU 2757](/_clusters/cwnu2757/)| 76.0 | 146.26 | -56.5 | 0.62 | -5.57 | 3.36 | -- |0.22 |
 N_rows_shared: "1"
 ---

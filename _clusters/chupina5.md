@@ -16,14 +16,14 @@ plx: 1.1484
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e7f4cf"
+UTI_C_dens_COL: "#eaf6d1"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.0
-UTI_C_dens: 0.66
+UTI_C_dens: 0.64
 UTI_C_C3: 0.62
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Moderately dense
@@ -52,7 +52,7 @@ class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
 rc_val: 0.3
-dens_val: 3.3
+dens_val: 3.2
 N_membs_val: 19
 scix_url: Chupina%205
 posit_table: |

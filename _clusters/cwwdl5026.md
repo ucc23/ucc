@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.4
-dens_val: 0.06
+rc_val: 10
+dens_val: 0.05
 N_membs_val: 15
 scix_url: CWWDL%205026
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 4766](/_clusters/cwnu4766/)| 8.0 | 145.79 | -54.3 | 0.24 | -4.6 | 3.01 | -- |0.05 |
-    |[Theia 2145](/_clusters/theia2145/)| 4.0 | 145.79 | -54.3 | 0.24 | -4.6 | 3.01 | -- |0.08 |
+    |[CWNU 4766](/_clusters/cwnu4766/)| 8.0 | 145.79 | -54.3 | 0.24 | -4.6 | 3.01 | -- |0.04 |
+    |[Theia 2145](/_clusters/theia2145/)| 4.0 | 145.79 | -54.3 | 0.24 | -4.6 | 3.01 | -- |0.09 |
 N_rows_shared: "2"
 ---

@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 2.7
+rc_val: 3.7
 dens_val: 0.2
 N_membs_val: 17
 scix_url: BDSB%2043
@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0417](/_clusters/fsr0417/)| 32.0 | 348.56 | 59.85 | 0.28 | -3.02 | -1.66 | -66.38 |0.31 |
+    |[FSR 0417](/_clusters/fsr0417/)| 32.0 | 348.56 | 59.85 | 0.28 | -3.02 | -1.66 | -66.38 |0.4 |
 N_rows_shared: "1"
 ---

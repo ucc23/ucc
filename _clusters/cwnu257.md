@@ -16,12 +16,12 @@ plx: 0.7259
 UTI: "0.13"
 UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#f1f9d6"
-UTI_C_dens_COL: "#fee2c7"
+UTI_C_dens_COL: "#fddfc6"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fefce4"
 UTI_C_N: 0.6
-UTI_C_dens: 0.3
+UTI_C_dens: 0.29
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.48

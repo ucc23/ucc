@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.2
+rc_val: 5.4
 dens_val: 0.2
 N_membs_val: 15
 scix_url: VVVX%20CL095
@@ -71,8 +71,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 210](/_clusters/ryu210/)| 16.0 | 274.31 | -16.91 | 0.56 | -0.78 | -2.23 | 13.88 |0.12 |
-    |[G3CC 55](/_clusters/g3cc55/)| 12.0 | 274.56 | -16.96 | 0.69 | -0.35 | -1.65 | -20.32 |0.04 |
-    |[MCM 3](/_clusters/mcm3/)| 12.0 | 274.71 | -17.05 | 0.61 | -0.61 | -2.17 | 15.3 |0.09 |
-    |[VVVX CL097](/_clusters/vvvxcl097/)| 4.0 | 274.52 | -16.84 | 0.62 | 0.14 | -1.82 | 0.43 |0.17 |
+    |[G3CC 55](/_clusters/g3cc55/)| 12.0 | 274.56 | -16.96 | 0.69 | -0.35 | -1.65 | -20.32 |0.03 |
+    |[MCM 3](/_clusters/mcm3/)| 12.0 | 274.71 | -17.05 | 0.61 | -0.61 | -2.17 | 15.3 |0.08 |
+    |[VVVX CL097](/_clusters/vvvxcl097/)| 4.0 | 274.52 | -16.84 | 0.62 | 0.14 | -1.82 | 0.43 |0.18 |
 N_rows_shared: "4"
 ---

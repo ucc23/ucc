@@ -56,7 +56,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
 rc_val: 0.9
-dens_val: 21
+dens_val: 19
 N_membs_val: 164
 scix_url: Haffner%2016
 posit_table: |

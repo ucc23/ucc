@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "8"
-rc_val: 1.5
-dens_val: 8.7
+rc_val: 1.9
+dens_val: 6.2
 N_membs_val: 197
 scix_url: Trumpler%2028
 posit_table: |
@@ -146,8 +146,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 569](/_clusters/ubc569/)| 71.1 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.05 |
-    |[Ryu 144](/_clusters/ryu144/)| 0.5 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.12 |
+    |[UBC 569](/_clusters/ubc569/)| 71.1 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.04 |
+    |[Ryu 144](/_clusters/ryu144/)| 0.5 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.11 |
     |[Trumpler 28b](/_clusters/trumpler28b/)| 0.5 | 264.25 | -32.47 | 0.26 | -0.93 | -2.52 | -12.36 |0.25 |
 N_rows_shared: "3"
 ---

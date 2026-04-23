@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 2.2
+rc_val: 2.7
 dens_val: 0.2
 N_membs_val: 12
 scix_url: MCM%202

@@ -13,15 +13,15 @@ glon: 234.61664
 glat: 0.81343
 r50: 2.9
 plx: 0.2565
-UTI: "0.18"
-UTI_COLOR: "#f8c6ba"
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#fefee8"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#f2bab5"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
-UTI_C_dens: 0.14
+UTI_C_dens: 0.12
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 3.5
-dens_val: 0.7
+rc_val: 3.9
+dens_val: 0.6
 N_membs_val: 50
 scix_url: DBSB%208
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 7](/_clusters/dbsb7/)| 20.0 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.42 |
+    |[DBSB 7](/_clusters/dbsb7/)| 20.0 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.5 |
     |[Theia 2110](/_clusters/theia2110/)| 10.0 | 113.86 | -18.63 | 0.4 | -1.75 | 2.41 | 122.74 |0.1 |
 N_rows_shared: "2"
 ---

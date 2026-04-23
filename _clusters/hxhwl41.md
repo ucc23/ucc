@@ -13,15 +13,15 @@ glon: 92.2961
 glat: -6.31777
 r50: 22.7
 plx: 0.7747
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.13"
+UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e9afb3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.06
+UTI_C_dens: 0.02
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.3
-dens_val: 0.3
+rc_val: 3.6
+dens_val: 0.1
 N_membs_val: 20
 scix_url: HXHWL%2041
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 734](/_clusters/hsc734/)| 48.0 | 327.66 | 45.5 | 0.79 | 2.27 | -0.05 | -13.66 |0.3 |
+    |[HSC 734](/_clusters/hsc734/)| 48.0 | 327.66 | 45.5 | 0.79 | 2.27 | -0.05 | -13.66 |0.32 |
 N_rows_shared: "1"
 ---

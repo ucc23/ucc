@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 3.1
-dens_val: 0.03
+rc_val: 8.4
+dens_val: 0.04
 N_membs_val: 12
 scix_url: CKCWDM%2020620
 posit_table: |

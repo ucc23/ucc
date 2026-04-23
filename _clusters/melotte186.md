@@ -13,15 +13,15 @@ glon: 30.06139
 glat: 12.49896
 r50: 21.5
 plx: 1.7939
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#eef7d4"
-UTI_C_dens_COL: "#feebce"
+UTI_C_dens_COL: "#fdd9c3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
-UTI_C_dens: 0.35
+UTI_C_dens: 0.26
 UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 1.4
-dens_val: 1.7
+rc_val: 2.0
+dens_val: 1.3
 N_membs_val: 75
 scix_url: Melotte%20186
 posit_table: |
@@ -145,6 +145,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14664](/_clusters/cwwdl14664/)| 72.0 | 270.36 | 3.03 | 1.79 | 0.64 | -8.88 | -7.34 |0.13 |
-    |[HSC 297](/_clusters/hsc297/)| 5.3 | 270.7 | 2.76 | 1.94 | 0.42 | -8.66 | -4.84 |0.11 |
+    |[HSC 297](/_clusters/hsc297/)| 5.3 | 270.7 | 2.76 | 1.94 | 0.42 | -8.66 | -4.84 |0.09 |
 N_rows_shared: "2"
 ---

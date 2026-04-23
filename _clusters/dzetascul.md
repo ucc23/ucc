@@ -51,7 +51,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
 rc_val: 0.3
-dens_val: 51
+dens_val: 41
 N_membs_val: 24
 scix_url: Dzeta%20Scul
 posit_table: |

@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 5.9
-dens_val: 0.06
+rc_val: 7.7
+dens_val: 0.05
 N_membs_val: 16
 scix_url: MCM%2011
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 125](/_clusters/bdsb125/)| 24.0 | 281.46 | -2.73 | 0.24 | -1.17 | -3.72 | 28.11 |0.22 |
+    |[BDSB 125](/_clusters/bdsb125/)| 24.0 | 281.46 | -2.73 | 0.24 | -1.17 | -3.72 | 28.11 |0.26 |
 N_rows_shared: "1"
 ---

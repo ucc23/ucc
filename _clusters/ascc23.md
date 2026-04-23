@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
-rc_val: 1.5
-dens_val: 5.6
+rc_val: 1.7
+dens_val: 5.2
 N_membs_val: 167
 scix_url: ASCC%2023
 posit_table: |

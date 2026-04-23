@@ -13,15 +13,15 @@ glon: 32.67676
 glat: -0.42709
 r50: 2.3
 plx: 0.2157
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.13"
+UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#f3bcb6"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dbefca"
 UTI_C_N: 0.32
-UTI_C_dens: 0.13
+UTI_C_dens: 0.11
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.72
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.9
-dens_val: 0.7
+rc_val: 3.1
+dens_val: 0.6
 N_membs_val: 32
 scix_url: Dias%2034
 posit_table: |

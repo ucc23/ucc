@@ -16,14 +16,14 @@ plx: 0.3347
 UTI: "0.81"
 UTI_COLOR: "#c7e6c7"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#bce1c5"
+UTI_C_dens_COL: "#d4ecc9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 0.85
+UTI_C_dens: 0.75
 UTI_C_C3: 0.75
-UTI_C_lit: 0.84
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-rc_val: 1.7
-dens_val: 4.2
+rc_val: 1.6
+dens_val: 3.8
 N_membs_val: 145
 scix_url: Alessi%2060
 posit_table: |

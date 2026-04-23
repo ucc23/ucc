@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 1.1
-dens_val: 6.8
+rc_val: 1.2
+dens_val: 6.4
 N_membs_val: 96
 scix_url: RMC-5
 posit_table: |
@@ -70,10 +70,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RMC-4b](/_clusters/rmc4b/)| 88.5 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.54 |
+    |[RMC-4b](/_clusters/rmc4b/)| 88.5 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.58 |
     |[RMC-4a](/_clusters/rmc4a/)| 70.8 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.55 |
     |[LP 39](/_clusters/lp39/)| 58.3 | 98.6 | 4.43 | 0.68 | -1.57 | 0.12 | 25.77 |0.0 |
-    |[AFGL961](/_clusters/afgl961/)| 25.0 | 98.64 | 4.33 | 0.71 | -1.5 | 0.0 | -- |0.35 |
+    |[AFGL961](/_clusters/afgl961/)| 25.0 | 98.64 | 4.33 | 0.71 | -1.5 | 0.0 | -- |0.26 |
     |[RMC-2](/_clusters/rmc2/)| 6.2 | 98.37 | 4.56 | 0.68 | -1.68 | 0.2 | 31.26 |0.37 |
 N_rows_shared: "5"
 ---

@@ -13,25 +13,25 @@ glon: 216.85205
 glat: 0.79456
 r50: 5.1
 plx: 0.4342
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.54"
+UTI_COLOR: "#fafce1"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#fbfde3"
+UTI_C_dens_COL: "#fefbe2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f9c9bc"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.72
-UTI_C_dens: 0.53
+UTI_C_dens: 0.47
 UTI_C_C3: 0.75
-UTI_C_lit: 0.19
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Wit 2</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-poor, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Wit 2</b> is a moderately populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-poor, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-rc_val: 1.6
-dens_val: 2.6
+rc_val: 1.7
+dens_val: 2.3
 N_membs_val: 93
 scix_url: Wit%202
 posit_table: |
@@ -90,6 +90,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2501](/_clusters/cwnu2501/)| 61.3 | 105.36 | -3.14 | 0.45 | -1.22 | 0.6 | 56.53 |0.02 |
-    |[Ferrero 10](/_clusters/ferrero10/)| 21.5 | 105.19 | -3.05 | 0.44 | -1.29 | 0.64 | 83.93 |0.22 |
+    |[Ferrero 10](/_clusters/ferrero10/)| 21.5 | 105.19 | -3.05 | 0.44 | -1.29 | 0.64 | 83.93 |0.26 |
 N_rows_shared: "2"
 ---

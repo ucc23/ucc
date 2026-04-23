@@ -16,12 +16,12 @@ plx: 0.8157
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.0
-UTI_C_dens: 0.11
+UTI_C_dens: 0.05
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.12
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-rc_val: 1.3
-dens_val: 0.5
+rc_val: 4.4
+dens_val: 0.3
 N_membs_val: 22
 scix_url: Theia%203768
 posit_table: |

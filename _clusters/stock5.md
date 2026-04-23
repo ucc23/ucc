@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "8"
-rc_val: 1.8
-dens_val: 7.3
+rc_val: 1.7
+dens_val: 6.0
 N_membs_val: 178
 scix_url: Stock%205
 posit_table: |
@@ -138,6 +138,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1071](/_clusters/hsc1071/)| 4.5 | 33.25 | 64.33 | 1.02 | -0.72 | -2.18 | -32.1 |0.09 |
+    |[HSC 1071](/_clusters/hsc1071/)| 4.5 | 33.25 | 64.33 | 1.02 | -0.72 | -2.18 | -32.1 |0.11 |
 N_rows_shared: "1"
 ---

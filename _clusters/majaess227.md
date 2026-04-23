@@ -13,25 +13,25 @@ glon: 115.13023
 glat: -1.40933
 r50: 4.3
 plx: 0.4672
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fcd2c0"
+UTI_C_lit_COL: "#fef8dd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 0.18
+UTI_C_dens: 0.16
 UTI_C_C3: 0.5
-UTI_C_lit: 0.23
+UTI_C_lit: 0.44
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Majaess 227</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Majaess 227</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-rc_val: 2.0
-dens_val: 0.9
+rc_val: 2.1
+dens_val: 0.8
 N_membs_val: 25
 scix_url: Majaess%20227
 posit_table: |
@@ -88,6 +88,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 13504](/_clusters/cwwdl13504/)| 84.0 | 356.85 | 60.5 | 0.47 | -2.66 | -2.02 | -27.35 |0.02 |
-    |[UBC 1188](/_clusters/ubc1188/)| 84.0 | 356.86 | 60.5 | 0.47 | -2.66 | -2.02 | -27.35 |0.04 |
+    |[UBC 1188](/_clusters/ubc1188/)| 84.0 | 356.86 | 60.5 | 0.47 | -2.66 | -2.02 | -27.35 |0.03 |
 N_rows_shared: "2"
 ---

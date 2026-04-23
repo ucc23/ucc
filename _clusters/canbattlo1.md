@@ -13,17 +13,17 @@ glon: 158.36014
 glat: -1.5433
 r50: 3.7
 plx: 0.3158
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#fefee8"
-UTI_C_dens_COL: "#fef2d4"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.5
-UTI_C_dens: 0.39
+UTI_C_dens: 0.25
 UTI_C_C3: 0.62
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.24
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-rc_val: 1.4
-dens_val: 2.0
+rc_val: 1.9
+dens_val: 1.2
 N_membs_val: 50
 scix_url: Can-Battlo%201
 posit_table: |
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1607](/_clusters/cwnu1607/)| 76.0 | 68.56 | 45.45 | 0.32 | -0.28 | -1.07 | -2.12 |0.18 |
+    |[CWNU 1607](/_clusters/cwnu1607/)| 76.0 | 68.56 | 45.45 | 0.32 | -0.28 | -1.07 | -2.12 |0.17 |
 N_rows_shared: "1"
 ---

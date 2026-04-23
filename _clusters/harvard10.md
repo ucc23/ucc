@@ -16,14 +16,14 @@ plx: 1.4479
 UTI: "0.89"
 UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#c4e5c7"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a8cfbb"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.82
-UTI_C_dens: 1.0
+UTI_C_dens: 0.97
 UTI_C_C3: 0.75
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 1.3
-dens_val: 6.7
+rc_val: 1.7
+dens_val: 4.9
 N_membs_val: 286
 scix_url: Harvard%2010
 posit_table: |

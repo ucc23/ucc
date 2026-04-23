@@ -13,15 +13,15 @@ glon: 269.74718
 glat: 0.96747
 r50: 4.7
 plx: 0.6007
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fef7db"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#feecd0"
 UTI_C_N: 0.0
-UTI_C_dens: 0.43
+UTI_C_dens: 0.25
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.36
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 1.1
-dens_val: 2.2
+rc_val: 1.8
+dens_val: 1.2
 N_membs_val: 20
 scix_url: Teutsch%20102
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 35](/_clusters/dbsb35/)| 64.0 | 138.79 | -47.47 | 0.59 | -5.32 | 4.23 | 63.62 |0.45 |
+    |[DBSB 35](/_clusters/dbsb35/)| 64.0 | 138.79 | -47.47 | 0.59 | -5.32 | 4.23 | 63.62 |0.49 |
 N_rows_shared: "1"
 ---

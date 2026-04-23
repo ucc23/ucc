@@ -18,12 +18,12 @@ UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#dbefca"
 UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fddbc4"
 UTI_C_N: 0.72
 UTI_C_dens: 0.16
 UTI_C_C3: 0.75
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.27
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 3.5
+rc_val: 3.3
 dens_val: 0.8
 N_membs_val: 93
 scix_url: Theia%202289
@@ -79,7 +79,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CMa23](/_clusters/cma23/)| 73.1 | 106.71 | -12.31 | 0.61 | -1.03 | -0.27 | 18.26 |0.31 |
+    |[CMa23](/_clusters/cma23/)| 73.1 | 106.71 | -12.31 | 0.61 | -1.03 | -0.27 | 18.26 |0.3 |
     |[UBC 1363](/_clusters/ubc1363/)| 49.5 | 106.7 | -12.3 | 0.61 | -1.04 | -0.28 | 18.26 |0.0 |
 N_rows_shared: "2"
 ---

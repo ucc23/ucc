@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 0.8
-dens_val: 8.7
+rc_val: 0.9
+dens_val: 8.0
 N_membs_val: 81
 scix_url: BDSB%2070
 posit_table: |
@@ -72,6 +72,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 1893](/_clusters/ngc1893/)| 100.0 | 80.73 | 33.45 | 0.3 | -0.28 | -1.41 | 20.89 |0.92 |
     |[OC 0293](/_clusters/oc0293/)| 72.8 | 80.71 | 33.43 | 0.32 | -0.32 | -1.43 | 38.23 |0.0 |
-    |[SAI 48](/_clusters/sai48/)| 1.2 | 80.86 | 33.49 | 0.3 | -0.15 | -1.26 | 40.83 |0.07 |
+    |[SAI 48](/_clusters/sai48/)| 1.2 | 80.86 | 33.49 | 0.3 | -0.15 | -1.26 | 40.83 |0.1 |
 N_rows_shared: "3"
 ---

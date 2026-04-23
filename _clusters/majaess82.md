@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-rc_val: 0.6
-dens_val: 7.5
+rc_val: 0.7
+dens_val: 6.2
 N_membs_val: 16
 scix_url: Majaess%2082
 posit_table: |

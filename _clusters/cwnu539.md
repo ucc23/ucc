@@ -13,15 +13,15 @@ glon: 247.63066
 glat: -15.47405
 r50: 31.5
 plx: 2.2273
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fbcbbd"
 UTI_C_N: 0.3
-UTI_C_dens: 0.22
+UTI_C_dens: 0.1
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.2
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 1.1
+rc_val: 3.0
+dens_val: 0.5
 N_membs_val: 30
 scix_url: CWNU%20539
 posit_table: |
@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 249](/_clusters/theia249/)| 80.0 | 103.76 | -37.56 | 2.23 | -8.87 | 10.52 | 28.76 |0.21 |
+    |[Theia 249](/_clusters/theia249/)| 80.0 | 103.76 | -37.56 | 2.23 | -8.87 | 10.52 | 28.76 |0.2 |
 N_rows_shared: "1"
 ---

@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-rc_val: 2.0
-dens_val: 6.4
+rc_val: 1.2
+dens_val: 8.3
 N_membs_val: 293
 scix_url: Alessi%20Teutsch%2011
 posit_table: |

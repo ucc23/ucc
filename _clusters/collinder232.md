@@ -13,25 +13,25 @@ glon: 287.44978
 glat: -0.56137
 r50: 2.4
 plx: 0.3846
-UTI: "0.05"
-UTI_COLOR: "#e7adb3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#e3f3cd"
-UTI_C_dens_COL: "#ceeac8"
+UTI_C_dens_COL: "#c2e4c6"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f9c9bc"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#eeb4b3"
 UTI_C_N: 0.68
-UTI_C_dens: 0.78
+UTI_C_dens: 0.83
 UTI_C_C3: 0.75
-UTI_C_lit: 0.19
+UTI_C_lit: 0.38
 UTI_C_dup: 0.09
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>Collinder 232</b> is a moderately populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 8 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Collinder 232</b> is a moderately populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature, with no articles listed in the last 8 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.2
-dens_val: 3.9
+rc_val: 2.1
+dens_val: 4.2
 N_membs_val: 86
 scix_url: Collinder%20232
 posit_table: |
@@ -83,6 +83,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Trumpler 14](/_clusters/trumpler14/)| 90.7 | 160.99 | -59.55 | 0.39 | -6.51 | 2.08 | -17.89 |0.95 |
     |[DBSB 54](/_clusters/dbsb54/)| 26.7 | 160.99 | -59.55 | 0.39 | -6.5 | 1.99 | -4.01 |0.0 |
-    |[Trumpler 15](/_clusters/trumpler15/)| 8.1 | 161.18 | -59.37 | 0.39 | -6.21 | 2.09 | 9.88 |0.92 |
+    |[Trumpler 15](/_clusters/trumpler15/)| 8.1 | 161.18 | -59.37 | 0.39 | -6.21 | 2.09 | 9.88 |0.93 |
 N_rows_shared: "3"
 ---

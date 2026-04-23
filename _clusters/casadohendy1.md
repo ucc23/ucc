@@ -16,12 +16,12 @@ plx: 0.4858
 UTI: "0.10"
 UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fefae1"
-UTI_C_dens_COL: "#f3fad8"
+UTI_C_dens_COL: "#ecf7d3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fdddc5"
 UTI_C_N: 0.46
-UTI_C_dens: 0.59
+UTI_C_dens: 0.63
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.28
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.5
-dens_val: 2.9
+rc_val: 1.4
+dens_val: 3.2
 N_membs_val: 46
 scix_url: Casado-Hendy%201
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6883](/_clusters/ngc6883/)| 71.7 | 302.85 | 35.86 | 0.49 | -3.14 | -6.25 | -24.13 |0.55 |
+    |[NGC 6883](/_clusters/ngc6883/)| 71.7 | 302.85 | 35.86 | 0.49 | -3.14 | -6.25 | -24.13 |0.6 |
 N_rows_shared: "1"
 ---

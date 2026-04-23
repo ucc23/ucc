@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.8
+rc_val: 2.3
 dens_val: 1.0
 N_membs_val: 33
 scix_url: DBSB%2018
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Majaess 99](/_clusters/majaess99/)| 100.0 | 125.54 | -42.1 | 0.66 | -4.34 | 5.25 | 0.76 |0.43 |
+    |[Majaess 99](/_clusters/majaess99/)| 100.0 | 125.54 | -42.1 | 0.66 | -4.34 | 5.25 | 0.76 |0.58 |
     |[OC 0466](/_clusters/oc0466/)| 81.8 | 125.65 | -42.12 | 0.66 | -4.31 | 5.31 | 0.76 |0.0 |
     |[CWWDL 13331](/_clusters/cwwdl13331/)| 75.8 | 125.54 | -42.12 | 0.66 | -4.31 | 5.28 | -7.14 |0.0 |
     |[OC 0463](/_clusters/oc0463/)| 51.5 | 125.49 | -42.1 | 0.66 | -4.32 | 5.2 | 0.76 |0.0 |

@@ -13,17 +13,17 @@ glon: 110.43465
 glat: 2.92814
 r50: 12.2
 plx: 1.1626
-UTI: "0.39"
-UTI_COLOR: "#fef2d4"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#feebce"
+UTI_C_dens_COL: "#fefae1"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#abd4be"
 UTI_C_N: 0.75
-UTI_C_dens: 0.35
+UTI_C_dens: 0.46
 UTI_C_C3: 0.75
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.94
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 3.2
-dens_val: 1.7
+rc_val: 2.1
+dens_val: 2.3
 N_membs_val: 107
 scix_url: Theia%204
 posit_table: |
@@ -85,6 +85,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0413](/_clusters/fsr0413/)| 5.6 | 345.14 | 62.89 | 1.05 | -2.24 | -2.56 | 2.42 |0.18 |
+    |[FSR 0413](/_clusters/fsr0413/)| 5.6 | 345.14 | 62.89 | 1.05 | -2.24 | -2.56 | 2.42 |0.2 |
 N_rows_shared: "1"
 ---

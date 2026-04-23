@@ -18,12 +18,12 @@ UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#fbd0bf"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.22
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -54,7 +54,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 1.1
+rc_val: 1.0
 dens_val: 9.9
 N_membs_val: 107
 scix_url: Teutsch%2078

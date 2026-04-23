@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 1.3
-dens_val: 7.3
+rc_val: 1.4
+dens_val: 5.5
 N_membs_val: 189
 scix_url: Herschel%201
 posit_table: |

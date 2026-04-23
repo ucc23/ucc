@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.5
-dens_val: 15
+rc_val: 0.6
+dens_val: 14
 N_membs_val: 67
 scix_url: CWWDL%20969
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2719](/_clusters/cwnu2719/)| 100.0 | 274.6 | -19.36 | 0.49 | -0.69 | -0.05 | -22.42 |0.56 |
+    |[CWNU 2719](/_clusters/cwnu2719/)| 100.0 | 274.6 | -19.36 | 0.49 | -0.69 | -0.05 | -22.42 |0.58 |
 N_rows_shared: "1"
 ---

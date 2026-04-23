@@ -13,17 +13,17 @@ glon: 351.67865
 glat: -1.24885
 r50: 7.3
 plx: 0.49
-UTI: "0.22"
-UTI_COLOR: "#fbd0bf"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#fcfee5"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
-UTI_C_dens: 0.11
+UTI_C_dens: 0.16
 UTI_C_C3: 0.25
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 2.6
-dens_val: 0.6
+rc_val: 2.0
+dens_val: 0.8
 N_membs_val: 55
 scix_url: BDSB%20165
 posit_table: |
@@ -81,6 +81,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 166](/_clusters/bdsb166/)| 18.2 | 262.21 | -36.57 | 0.62 | -1.68 | -2.81 | -10.35 |0.08 |
+    |[BDSB 166](/_clusters/bdsb166/)| 18.2 | 262.21 | -36.57 | 0.62 | -1.68 | -2.81 | -10.35 |0.12 |
 N_rows_shared: "1"
 ---

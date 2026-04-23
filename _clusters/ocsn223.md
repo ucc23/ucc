@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.6
-dens_val: 23
+rc_val: 0.7
+dens_val: 21
 N_membs_val: 97
 scix_url: OCSN%20223
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 1333](/_clusters/ngc1333/)| 100.0 | 52.28 | 31.27 | 3.38 | 7.39 | -9.29 | 10.82 |0.48 |
+    |[NGC 1333](/_clusters/ngc1333/)| 100.0 | 52.28 | 31.27 | 3.38 | 7.39 | -9.29 | 10.82 |0.54 |
     |[NGC 1333NE](/_clusters/ngc1333ne/)| 46.4 | 52.29 | 31.34 | 3.36 | 6.82 | -9.82 | 30.81 |0.5 |
     |[NGC 1333SW](/_clusters/ngc1333sw/)| 44.3 | 52.28 | 31.32 | 3.36 | 6.82 | -9.77 | 16.54 |0.49 |
     |[HSC 1250](/_clusters/hsc1250/)| 14.4 | 52.44 | 31.08 | 3.39 | 7.54 | -8.24 | 9.46 |0.0 |

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.8
-dens_val: 0.1
+rc_val: 5.9
+dens_val: 0.09
 N_membs_val: 24
 scix_url: Latysev%201
 posit_table: |

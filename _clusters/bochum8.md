@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.0
-dens_val: 25
+rc_val: 1.2
+dens_val: 19
 N_membs_val: 371
 scix_url: Bochum%208
 posit_table: |
@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDBH 90](/_clusters/vdbh90/)| 59.3 | 153.06 | -58.07 | 0.38 | -5.4 | 2.33 | 25.53 |0.87 |
+    |[VDBH 90](/_clusters/vdbh90/)| 59.3 | 153.06 | -58.07 | 0.38 | -5.4 | 2.33 | 25.53 |0.9 |
 N_rows_shared: "1"
 ---

@@ -16,12 +16,12 @@ plx: 2.739
 UTI: "0.09"
 UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#c4e5c7"
-UTI_C_dens_COL: "#e5f4ce"
+UTI_C_dens_COL: "#e7f4cf"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f8c6ba"
 UTI_C_N: 0.82
-UTI_C_dens: 0.67
+UTI_C_dens: 0.66
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.18
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.2
+rc_val: 1.4
 dens_val: 3.3
 N_membs_val: 290
 scix_url: OCSN%2057
@@ -72,10 +72,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 20](/_clusters/ascc20/)| 81.7 | 82.08 | 1.66 | 2.75 | -0.56 | 0.78 | 29.19 |0.71 |
+    |[ASCC 20](/_clusters/ascc20/)| 81.7 | 82.08 | 1.66 | 2.75 | -0.56 | 0.78 | 29.19 |0.82 |
     |[FoF 2371](/_clusters/fof2371/)| 37.9 | 82.39 | 2.02 | 2.69 | -0.68 | 0.69 | 29.78 |0.1 |
-    |[OCSN 56](/_clusters/ocsn56/)| 18.3 | 82.64 | 2.37 | 2.53 | -0.82 | 0.53 | 31.28 |0.13 |
-    |[ASCC 18](/_clusters/ascc18/)| 1.4 | 81.53 | 0.32 | 2.4 | 0.15 | 1.39 | 25.21 |0.63 |
+    |[OCSN 56](/_clusters/ocsn56/)| 18.3 | 82.64 | 2.37 | 2.53 | -0.82 | 0.53 | 31.28 |0.14 |
+    |[ASCC 18](/_clusters/ascc18/)| 1.4 | 81.53 | 0.32 | 2.4 | 0.15 | 1.39 | 25.21 |0.67 |
     |[OCSN 58](/_clusters/ocsn58/)| 0.3 | 81.25 | 0.32 | 2.4 | 0.15 | 1.36 | 26.71 |0.01 |
 N_rows_shared: "5"
 ---

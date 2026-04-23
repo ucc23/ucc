@@ -16,12 +16,12 @@ plx: 0.3205
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#a8cfbb"
+UTI_C_dens_COL: "#add7c0"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.55
-UTI_C_dens: 0.97
+UTI_C_dens: 0.92
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.2
-dens_val: 4.8
+rc_val: 1.3
+dens_val: 4.6
 N_membs_val: 59
 scix_url: CWWDL%20952
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 91](/_clusters/ufmg91/)| 100.0 | 264.87 | -35.08 | 0.3 | 0.26 | -3.69 | -46.46 |0.51 |
+    |[UFMG 91](/_clusters/ufmg91/)| 100.0 | 264.87 | -35.08 | 0.3 | 0.26 | -3.69 | -46.46 |0.56 |
     |[OC 0693](/_clusters/oc0693/)| 50.8 | 264.86 | -35.09 | 0.32 | 0.26 | -3.65 | -40.51 |0.0 |
 N_rows_shared: "2"
 ---

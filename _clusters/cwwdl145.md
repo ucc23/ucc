@@ -16,12 +16,12 @@ plx: 0.4023
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#feebce"
-UTI_C_dens_COL: "#f6c2b8"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.35
-UTI_C_dens: 0.16
+UTI_C_dens: 0.08
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.7
-dens_val: 0.8
+rc_val: 3.3
+dens_val: 0.4
 N_membs_val: 35
 scix_url: CWWDL%20145
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 233](/_clusters/ubc233/)| 100.0 | 112.78 | -28.38 | 0.4 | -0.79 | 0.75 | 21.07 |0.45 |
+    |[UBC 233](/_clusters/ubc233/)| 100.0 | 112.78 | -28.38 | 0.4 | -0.79 | 0.75 | 21.07 |0.53 |
 N_rows_shared: "1"
 ---

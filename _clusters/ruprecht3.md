@@ -13,17 +13,17 @@ glon: 238.75816
 glat: -14.82973
 r50: 6.5
 plx: 0.1508
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.13"
+UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.25
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 7.4
+rc_val: 10
 dens_val: 0.03
 N_membs_val: 19
 scix_url: Ruprecht%203
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ruprecht 2](/_clusters/ruprecht2/)| 4.0 | 100.3 | -29.51 | 0.12 | -0.47 | 1.79 | 69.32 |0.11 |
+    |[Ruprecht 2](/_clusters/ruprecht2/)| 4.0 | 100.3 | -29.51 | 0.12 | -0.47 | 1.79 | 69.32 |0.15 |
 N_rows_shared: "1"
 ---

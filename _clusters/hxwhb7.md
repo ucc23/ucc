@@ -16,12 +16,12 @@ plx: 0.5505
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e7adb3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#eaf6d1"
 UTI_C_N: 0.0
-UTI_C_dens: 0.05
+UTI_C_dens: 0.04
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.64
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.9
-dens_val: 0.3
+rc_val: 3.6
+dens_val: 0.2
 N_membs_val: 14
 scix_url: HXWHB%207
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 26](/_clusters/gulliver26/)| 36.0 | 80.68 | 35.27 | 0.38 | 1.85 | -2.86 | 14.27 |0.48 |
+    |[Gulliver 26](/_clusters/gulliver26/)| 36.0 | 80.68 | 35.27 | 0.38 | 1.85 | -2.86 | 14.27 |0.52 |
 N_rows_shared: "1"
 ---

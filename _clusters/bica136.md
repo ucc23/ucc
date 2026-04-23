@@ -52,7 +52,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
 rc_val: 1.1
-dens_val: 6.6
+dens_val: 6.7
 N_membs_val: 81
 scix_url: Bica%20136
 posit_table: |
@@ -70,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.26 |
-    |[IRAS 20264+4042](/_clusters/iras20264p4042/)| 12.3 | 307.06 | 40.82 | 0.51 | -2.02 | -4.36 | -- |0.09 |
+    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.34 |
+    |[IRAS 20264+4042](/_clusters/iras20264p4042/)| 12.3 | 307.06 | 40.82 | 0.51 | -2.02 | -4.36 | -- |0.1 |
     |[DB2001 11](/_clusters/db200111/)| 7.4 | 307.06 | 40.87 | 0.51 | -2.03 | -4.28 | -- |0.08 |
 N_rows_shared: "3"
 ---

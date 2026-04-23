@@ -16,12 +16,12 @@ plx: 0.3296
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fef5d7"
-UTI_C_dens_COL: "#fee7cc"
+UTI_C_dens_COL: "#feeed1"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.41
-UTI_C_dens: 0.33
+UTI_C_dens: 0.37
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.4
-dens_val: 1.7
+rc_val: 2.2
+dens_val: 1.8
 N_membs_val: 41
 scix_url: CWWDL%20214
 posit_table: |

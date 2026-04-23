@@ -13,8 +13,8 @@ glon: 306.85023
 glat: 2.51546
 r50: 8.7
 plx: 0.3053
-UTI: "0.02"
-UTI_COLOR: "#e2a9b3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#f2bab5"
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.9
-dens_val: 0.04
+rc_val: 9.9
+dens_val: 0.06
 N_membs_val: 13
 scix_url: Dias%20121
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Loden 821](/_clusters/loden821/)| 8.0 | 201.07 | -59.8 | 0.19 | -5.91 | -1.15 | -- |0.18 |
+    |[Loden 821](/_clusters/loden821/)| 8.0 | 201.07 | -59.8 | 0.19 | -5.91 | -1.15 | -- |0.28 |
 N_rows_shared: "1"
 ---

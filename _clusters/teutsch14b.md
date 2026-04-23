@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-rc_val: 0.9
-dens_val: 16
+rc_val: 1.0
+dens_val: 13
 N_membs_val: 162
 scix_url: Teutsch%2014b
 posit_table: |
@@ -75,6 +75,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 14a](/_clusters/teutsch14a/)| 81.5 | 270.87 | -22.13 | 0.32 | -0.35 | -1.65 | 22.06 |0.75 |
+    |[Teutsch 14a](/_clusters/teutsch14a/)| 81.5 | 270.87 | -22.13 | 0.32 | -0.35 | -1.65 | 22.06 |0.82 |
 N_rows_shared: "1"
 ---

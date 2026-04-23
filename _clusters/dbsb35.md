@@ -13,17 +13,17 @@ glon: 269.73027
 glat: 0.97504
 r50: 2.4
 plx: 0.5933
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.49"
+UTI_COLOR: "#fefde6"
 UTI_C_N_COL: "#f5fbdc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -80,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 102](/_clusters/teutsch102/)| 25.0 | 138.8 | -47.49 | 0.6 | -5.26 | 4.28 | 63.62 |0.07 |
+    |[Teutsch 102](/_clusters/teutsch102/)| 25.0 | 138.8 | -47.49 | 0.6 | -5.26 | 4.28 | 63.62 |0.05 |
 N_rows_shared: "1"
 ---

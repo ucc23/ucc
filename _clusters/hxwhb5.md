@@ -16,12 +16,12 @@ plx: 0.8602
 UTI: "0.04"
 UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e9afb3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee5ca"
 UTI_C_N: 0.0
-UTI_C_dens: 0.06
+UTI_C_dens: 0.04
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.32
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 1.8
-dens_val: 0.3
+rc_val: 5.6
+dens_val: 0.2
 N_membs_val: 16
 scix_url: HXWHB%205
 posit_table: |
@@ -72,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 8](/_clusters/gulliver8/)| 68.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.16 |
-    |[Teutsch 89](/_clusters/teutsch89/)| 60.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.4 |
+    |[Gulliver 8](/_clusters/gulliver8/)| 68.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.18 |
+    |[Teutsch 89](/_clusters/teutsch89/)| 60.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.36 |
     |[HXWHB 8](/_clusters/hxwhb8/)| 40.0 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
 N_rows_shared: "3"
 ---

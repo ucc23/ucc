@@ -13,17 +13,17 @@ glon: 57.9066
 glat: 10.25088
 r50: 39.6
 plx: 2.2462
-UTI: "0.40"
-UTI_COLOR: "#fef4d6"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#dbefca"
 UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 0.11
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -54,7 +54,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 4.3
+rc_val: 4.4
 dens_val: 0.6
 N_membs_val: 94
 scix_url: UPK%2072

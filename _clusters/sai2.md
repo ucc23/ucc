@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-rc_val: 6.3
-dens_val: 0.07
+rc_val: 7.2
+dens_val: 0.06
 N_membs_val: 22
 scix_url: SAI%202
 posit_table: |

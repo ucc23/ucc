@@ -13,17 +13,17 @@ glon: 5.69636
 glat: -0.62526
 r50: 4.4
 plx: 0.3509
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#bfe2c5"
 UTI_C_N: 0.0
-UTI_C_dens: 0.09
+UTI_C_dens: 0.07
 UTI_C_C3: 0.5
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.84
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.2
-dens_val: 0.5
+rc_val: 2.7
+dens_val: 0.3
 N_membs_val: 20
 scix_url: HSC%2080
 posit_table: |
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ryu 596](/_clusters/ryu596/)| 16.0 | 270.22 | -24.23 | 0.39 | 0.06 | -1.42 | 25.14 |0.15 |
+    |[Ryu 596](/_clusters/ryu596/)| 16.0 | 270.22 | -24.23 | 0.39 | 0.06 | -1.42 | 25.14 |0.11 |
 N_rows_shared: "1"
 ---

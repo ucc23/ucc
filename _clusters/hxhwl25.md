@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 0.4
-dens_val: 14
+rc_val: 0.6
+dens_val: 7.9
 N_membs_val: 52
 scix_url: HXHWL%2025
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 339](/_clusters/theia339/)| 98.1 | 213.88 | -63.74 | 0.52 | -4.69 | -3.12 | -- |0.51 |
+    |[Theia 339](/_clusters/theia339/)| 98.1 | 213.88 | -63.74 | 0.52 | -4.69 | -3.12 | -- |0.55 |
 N_rows_shared: "1"
 ---

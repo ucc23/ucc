@@ -16,12 +16,12 @@ plx: 0.3657
 UTI: "0.10"
 UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fef5d7"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fdfee6"
 UTI_C_N: 0.41
-UTI_C_dens: 0.09
+UTI_C_dens: 0.08
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.51
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 4.3
+rc_val: 4.2
 dens_val: 0.4
 N_membs_val: 41
 scix_url: Teutsch%20227
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.85 |
-    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.29 |
+    |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.89 |
+    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.3 |
 N_rows_shared: "2"
 ---

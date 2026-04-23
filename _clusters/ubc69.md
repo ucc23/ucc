@@ -16,12 +16,12 @@ plx: 0.7004
 UTI: "0.05"
 UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#f1f9d6"
-UTI_C_dens_COL: "#e0f1cb"
+UTI_C_dens_COL: "#e9f5d0"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f3bcb6"
 UTI_C_N: 0.6
-UTI_C_dens: 0.7
+UTI_C_dens: 0.65
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.13
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.5
-dens_val: 3.5
+rc_val: 1.7
+dens_val: 3.2
 N_membs_val: 71
 scix_url: UBC%2069
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 21](/_clusters/coingaia21/)| 87.3 | 84.75 | 28.42 | 0.7 | -0.17 | -3.82 | 1.68 |0.58 |
+    |[COIN-Gaia 21](/_clusters/coingaia21/)| 87.3 | 84.75 | 28.42 | 0.7 | -0.17 | -3.82 | 1.68 |0.65 |
 N_rows_shared: "1"
 ---

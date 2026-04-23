@@ -13,15 +13,15 @@ glon: 296.29197
 glat: 0.49665
 r50: 7.4
 plx: 0.319
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#d3ecc9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.03
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.76
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.3
-dens_val: 0.5
+rc_val: 4.7
+dens_val: 0.1
 N_membs_val: 18
 scix_url: CWWDL%209421
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1510](/_clusters/ubc1510/)| 24.0 | 178.78 | -61.65 | 0.31 | -6.19 | 0.73 | -- |0.32 |
+    |[UBC 1510](/_clusters/ubc1510/)| 24.0 | 178.78 | -61.65 | 0.31 | -6.19 | 0.73 | -- |0.34 |
     |[CWNU 1658](/_clusters/cwnu1658/)| 20.0 | 178.25 | -61.48 | 0.29 | -6.24 | 0.78 | -19.98 |0.09 |
 N_rows_shared: "2"
 ---

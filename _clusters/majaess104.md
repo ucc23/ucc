@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-rc_val: 6.3
+rc_val: 8.6
 dens_val: 0.09
 N_membs_val: 21
 scix_url: Majaess%20104

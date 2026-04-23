@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 3.0
-dens_val: 0.5
+rc_val: 3.1
+dens_val: 0.4
 N_membs_val: 18
 scix_url: MKN%201
 posit_table: |

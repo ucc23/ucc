@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 4.8
-dens_val: 0.1
+rc_val: 6.5
+dens_val: 0.09
 N_membs_val: 19
 scix_url: CKCWDM%2046470
 posit_table: |
@@ -73,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CKCWDM 46404](/_clusters/ckcwdm46404/)| 72.0 | 122.47 | -32.2 | 0.17 | -2.27 | 2.99 | 98.94 |0.02 |
-    |[CWNU 2588](/_clusters/cwnu2588/)| 24.0 | 122.27 | -32.19 | 0.24 | -2.3 | 3.04 | 88.75 |0.15 |
+    |[CWNU 2588](/_clusters/cwnu2588/)| 24.0 | 122.27 | -32.19 | 0.24 | -2.3 | 3.04 | 88.75 |0.14 |
 N_rows_shared: "2"
 ---

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 0.4
-dens_val: 10
+rc_val: 0.8
+dens_val: 7.6
 N_membs_val: 26
 scix_url: Serpens%20SVS4
 posit_table: |
@@ -71,6 +71,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14652](/_clusters/cwwdl14652/)| 92.3 | 277.5 | 1.02 | 2.29 | 3.03 | -8.83 | -11.21 |0.0 |
-    |[UPK 39](/_clusters/upk39/)| 92.3 | 277.48 | 0.93 | 2.29 | 3.26 | -8.73 | -11.21 |0.51 |
+    |[UPK 39](/_clusters/upk39/)| 92.3 | 277.48 | 0.93 | 2.29 | 3.26 | -8.73 | -11.21 |0.58 |
 N_rows_shared: "2"
 ---

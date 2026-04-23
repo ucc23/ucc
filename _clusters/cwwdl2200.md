@@ -16,12 +16,12 @@ plx: 0.3874
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#e7f4cf"
-UTI_C_dens_COL: "#ecf7d3"
+UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e7adb3"
 UTI_C_N: 0.66
-UTI_C_dens: 0.63
+UTI_C_dens: 0.69
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.05
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.1
-dens_val: 3.1
+rc_val: 1.2
+dens_val: 3.5
 N_membs_val: 83
 scix_url: CWWDL%202200
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 266](/_clusters/ubc266/)| 95.2 | 166.35 | -59.75 | 0.38 | -6.69 | 1.75 | -16.86 |0.24 |
-    |[Feinstein 1](/_clusters/feinstein1/)| 73.5 | 166.33 | -59.74 | 0.39 | -6.69 | 1.75 | -19.39 |0.67 |
+    |[UBC 266](/_clusters/ubc266/)| 95.2 | 166.35 | -59.75 | 0.38 | -6.69 | 1.75 | -16.86 |0.27 |
+    |[Feinstein 1](/_clusters/feinstein1/)| 73.5 | 166.33 | -59.74 | 0.39 | -6.69 | 1.75 | -19.39 |0.71 |
 N_rows_shared: "2"
 ---

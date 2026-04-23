@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.0
-dens_val: 14
+rc_val: 0.9
+dens_val: 15
 N_membs_val: 111
 scix_url: SAI%2019
 posit_table: |
@@ -69,12 +69,12 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 81.1 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.55 |
+    |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 81.1 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.61 |
     |[CWNU 3691](/_clusters/cwnu3691/)| 47.7 | 36.65 | 62.0 | 0.47 | -0.69 | -0.06 | -21.84 |0.02 |
     |[BDSB 56](/_clusters/bdsb56/)| 12.6 | 36.53 | 62.02 | 0.48 | -0.98 | -0.11 | -21.84 |0.09 |
-    |[BDSB 54](/_clusters/bdsb54/)| 9.9 | 36.39 | 62.04 | 0.47 | -0.78 | -0.55 | -- |0.08 |
-    |[IC1795 2](/_clusters/ic17952/)| 7.2 | 36.87 | 61.94 | 0.48 | -0.71 | -0.57 | -58.52 |0.1 |
-    |[W3-IRS5](/_clusters/w3irs5/)| 5.4 | 36.41 | 62.09 | 0.46 | -1.0 | -0.53 | 30.96 |0.16 |
+    |[BDSB 54](/_clusters/bdsb54/)| 9.9 | 36.39 | 62.04 | 0.47 | -0.78 | -0.55 | -- |0.07 |
+    |[IC1795 2](/_clusters/ic17952/)| 7.2 | 36.87 | 61.94 | 0.48 | -0.71 | -0.57 | -58.52 |0.08 |
+    |[W3-IRS5](/_clusters/w3irs5/)| 5.4 | 36.41 | 62.09 | 0.46 | -1.0 | -0.53 | 30.96 |0.14 |
     |[BDSB 55](/_clusters/bdsb55/)| 2.7 | 36.47 | 62.1 | 0.37 | -1.2 | -0.3 | -31.43 |0.06 |
     |[IC1795 1](/_clusters/ic17951/)| 2.7 | 37.05 | 61.88 | 0.34 | -1.23 | 0.25 | -22.0 |0.08 |
 N_rows_shared: "8"

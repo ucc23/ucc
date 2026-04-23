@@ -16,12 +16,12 @@ plx: 0.1936
 UTI: "0.06"
 UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#fddfc6"
-UTI_C_dens_COL: "#dfa5b3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#dfa5b3"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.29
-UTI_C_dens: 0.0
+UTI_C_dens: 0.01
 UTI_C_C3: 0.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: "1"
-rc_val: 4.5
-dens_val: 0.02
+rc_val: 8.8
+dens_val: 0.04
 N_membs_val: 29
 scix_url: Mamajek%201625
 posit_table: |

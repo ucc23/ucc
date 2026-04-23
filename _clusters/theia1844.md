@@ -16,14 +16,14 @@ plx: 0.3684
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#fef5d7"
+UTI_C_dens_COL: "#fdddc5"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#eeb4b3"
 UTI_C_N: 0.32
-UTI_C_dens: 0.41
+UTI_C_dens: 0.28
 UTI_C_C3: 0.5
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.09
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 0.9
-dens_val: 2.0
+rc_val: 1.9
+dens_val: 1.4
 N_membs_val: 32
 scix_url: Theia%201844
 posit_table: |
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1489](/_clusters/ubc1489/)| 90.6 | 163.66 | -60.54 | 0.37 | -7.37 | 2.32 | -5.26 |0.35 |
+    |[UBC 1489](/_clusters/ubc1489/)| 90.6 | 163.66 | -60.54 | 0.37 | -7.37 | 2.32 | -5.26 |0.32 |
 N_rows_shared: "1"
 ---

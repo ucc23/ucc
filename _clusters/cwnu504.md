@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 3.8
+rc_val: 5.6
 dens_val: 0.1
 N_membs_val: 15
 scix_url: CWNU%20504

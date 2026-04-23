@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.8
+rc_val: 1.6
 dens_val: 3.6
 N_membs_val: 82
 scix_url: CWWDL%203104
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC 0901](/_clusters/lisc0901/)| 100.0 | 133.92 | -38.57 | 0.24 | -4.98 | 3.86 | 53.53 |0.51 |
+    |[LISC 0901](/_clusters/lisc0901/)| 100.0 | 133.92 | -38.57 | 0.24 | -4.98 | 3.86 | 53.53 |0.47 |
     |[Theia 6978](/_clusters/theia6978/)| 100.0 | 133.92 | -38.57 | 0.24 | -5.01 | 3.85 | 51.67 |0.0 |
     |[UBC 1438](/_clusters/ubc1438/)| 100.0 | 133.92 | -38.57 | 0.23 | -5.01 | 3.84 | 51.67 |0.0 |
 N_rows_shared: "3"

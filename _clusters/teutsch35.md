@@ -60,7 +60,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
 rc_val: 2.1
-dens_val: 5.1
+dens_val: 5.3
 N_membs_val: 317
 scix_url: Teutsch%2035
 posit_table: |

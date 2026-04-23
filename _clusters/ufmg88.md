@@ -13,17 +13,17 @@ glon: 0.3423
 glat: -1.63868
 r50: 4.5
 plx: 0.6413
-UTI: "0.32"
-UTI_COLOR: "#fee5ca"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fee4c9"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#fbd0bf"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
-UTI_C_dens: 0.18
+UTI_C_dens: 0.22
 UTI_C_C3: 1.0
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 1.5
-dens_val: 0.9
+rc_val: 2.1
+dens_val: 1.1
 N_membs_val: 31
 scix_url: UFMG%2088
 posit_table: |

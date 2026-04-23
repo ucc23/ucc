@@ -13,15 +13,15 @@ glon: 72.13421
 glat: 15.66716
 r50: 31.1
 plx: 2.9585
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.21"
+UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#fddbc4"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#acd6bf"
 UTI_C_N: 0.27
-UTI_C_dens: 0.04
+UTI_C_dens: 0.09
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.93
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.2
-dens_val: 0.2
+rc_val: 3.6
+dens_val: 0.5
 N_membs_val: 27
 scix_url: CWNU%20375
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 101](/_clusters/upk101/)| 7.4 | 284.76 | 39.8 | 2.84 | 1.39 | -1.74 | -19.17 |0.39 |
+    |[UPK 101](/_clusters/upk101/)| 7.4 | 284.76 | 39.8 | 2.84 | 1.39 | -1.74 | -19.17 |0.38 |
 N_rows_shared: "1"
 ---

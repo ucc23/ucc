@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.5
-dens_val: 0.08
+rc_val: 5.0
+dens_val: 0.09
 N_membs_val: 19
 scix_url: Alessi%20179
 posit_table: |

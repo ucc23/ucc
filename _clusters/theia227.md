@@ -13,17 +13,17 @@ glon: 13.23676
 glat: 1.73869
 r50: 24.9
 plx: 2.0805
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.11
+UTI_C_dens: 0.08
 UTI_C_C3: 0.75
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.5
-dens_val: 0.6
+rc_val: 3.1
+dens_val: 0.4
 N_membs_val: 22
 scix_url: Theia%20227
 posit_table: |
@@ -81,6 +81,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 4](/_clusters/ocsn4/)| 96.0 | 272.02 | -16.6 | 2.06 | -0.0 | -3.87 | -12.3 |0.03 |
+    |[OCSN 4](/_clusters/ocsn4/)| 96.0 | 272.02 | -16.6 | 2.06 | -0.0 | -3.87 | -12.3 |0.02 |
 N_rows_shared: "1"
 ---

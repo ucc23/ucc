@@ -13,17 +13,17 @@ glon: 260.34905
 glat: -3.80828
 r50: 9.8
 plx: 0.8215
-UTI: "0.19"
-UTI_COLOR: "#f9c9bc"
+UTI: "0.20"
+UTI_COLOR: "#fbcbbd"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.3
-UTI_C_dens: 0.18
+UTI_C_dens: 0.08
 UTI_C_C3: 0.25
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-rc_val: 1.7
-dens_val: 0.9
+rc_val: 3.4
+dens_val: 0.4
 N_membs_val: 30
 scix_url: CWNU%20399
 posit_table: |

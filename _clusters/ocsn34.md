@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.4
-dens_val: 48
+rc_val: 0.6
+dens_val: 29
 N_membs_val: 58
 scix_url: OCSN%2034
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 7023](/_clusters/ngc7023/)| 77.6 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.38 |
+    |[NGC 7023](/_clusters/ngc7023/)| 77.6 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.41 |
     |[Theia 5](/_clusters/theia5/)| 62.1 | 315.43 | 68.15 | 2.92 | 7.49 | -1.4 | -21.36 |0.03 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 5.21494
 glat: -0.21502
 r50: 0.6
 plx: 0.306
-UTI: "0.47"
-UTI_COLOR: "#fefbe2"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#fddbc4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -54,7 +54,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
 rc_val: 0.4
-dens_val: 24
+dens_val: 20
 N_membs_val: 27
 scix_url: HSC%2072
 posit_table: |

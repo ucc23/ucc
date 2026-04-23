@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-rc_val: 1.4
-dens_val: 36
+rc_val: 1.6
+dens_val: 27
 N_membs_val: 1192
 scix_url: King%2011
 posit_table: |

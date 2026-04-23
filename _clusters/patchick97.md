@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.3
-dens_val: 0.07
+rc_val: 10
+dens_val: 0.03
 N_membs_val: 13
 scix_url: Patchick%2097
 posit_table: |

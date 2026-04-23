@@ -13,22 +13,22 @@ glon: 95.10424
 glat: -1.28424
 r50: 61.3
 plx: 2.2802
-UTI: "0.46"
-UTI_COLOR: "#fefae1"
+UTI: "0.49"
+UTI_COLOR: "#fefde6"
 UTI_C_N_COL: "#c9e7c8"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f3bcb6"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
-UTI_C_dens: 0.22
+UTI_C_dens: 0.17
 UTI_C_C3: 1.0
-UTI_C_lit: 0.13
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>OCSN 28</b> is a rich, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 3.7
-dens_val: 1.1
+rc_val: 5.1
+dens_val: 0.8
 N_membs_val: 238
 scix_url: OCSN%2028
 posit_table: |

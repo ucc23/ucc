@@ -18,12 +18,12 @@ UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.26
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.04
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.4
-dens_val: 17
+rc_val: 0.8
+dens_val: 6.8
 N_membs_val: 26
 scix_url: CWNU%20216
 posit_table: |
@@ -76,6 +76,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0322](/_clusters/oc0322/)| 96.2 | 79.44 | 7.18 | 2.54 | 2.23 | -3.7 | 11.82 |0.52 |
+    |[OC 0322](/_clusters/oc0322/)| 96.2 | 79.44 | 7.18 | 2.54 | 2.23 | -3.7 | 11.82 |0.56 |
 N_rows_shared: "1"
 ---

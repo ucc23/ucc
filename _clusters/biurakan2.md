@@ -57,7 +57,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 2.4
+rc_val: 2.5
 dens_val: 1.6
 N_membs_val: 123
 scix_url: Biurakan%202

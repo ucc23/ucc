@@ -16,12 +16,12 @@ plx: 0.4374
 UTI: "0.89"
 UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#fefce4"
-UTI_C_dens_COL: "#a9d1bc"
+UTI_C_dens_COL: "#a8cfbb"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.48
-UTI_C_dens: 0.96
+UTI_C_dens: 0.97
 UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
-rc_val: 1.1
-dens_val: 4.8
+rc_val: 1.2
+dens_val: 4.9
 N_membs_val: 48
 scix_url: Lynga%201
 posit_table: |

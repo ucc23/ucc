@@ -16,14 +16,14 @@ plx: 0.2929
 UTI: "0.85"
 UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#a5cab9"
-UTI_C_dens_COL: "#ecf7d3"
+UTI_C_dens_COL: "#f3fad8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
-UTI_C_dens: 0.63
+UTI_C_dens: 0.59
 UTI_C_C3: 0.75
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Moderately dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 3.9
-dens_val: 3.1
+rc_val: 4.0
+dens_val: 2.9
 N_membs_val: 515
 scix_url: Berkeley%2068
 posit_table: |

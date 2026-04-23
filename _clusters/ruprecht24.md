@@ -13,17 +13,17 @@ glon: 228.91174
 glat: 2.9674
 r50: 4.0
 plx: 0.4902
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#fdddc5"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.28
-UTI_C_dens: 0.21
+UTI_C_dens: 0.16
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 1.4
-dens_val: 1.0
+rc_val: 1.7
+dens_val: 0.8
 N_membs_val: 28
 scix_url: Ruprecht%2024
 posit_table: |

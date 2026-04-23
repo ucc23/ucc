@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 6.0
+rc_val: 1.4
+dens_val: 6.3
 N_membs_val: 145
 scix_url: UBC%2037
 posit_table: |

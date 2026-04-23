@@ -16,12 +16,12 @@ plx: 0.1661
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e9afb3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f6c2b8"
 UTI_C_N: 0.0
-UTI_C_dens: 0.06
+UTI_C_dens: 0.04
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.16
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.0
-dens_val: 0.3
+rc_val: 4.8
+dens_val: 0.2
 N_membs_val: 22
 scix_url: Dias%2024
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3656](/_clusters/cwnu3656/)| 84.0 | 122.87 | -34.07 | 0.18 | -2.49 | 3.01 | 45.64 |0.12 |
+    |[CWNU 3656](/_clusters/cwnu3656/)| 84.0 | 122.87 | -34.07 | 0.18 | -2.49 | 3.01 | 45.64 |0.11 |
 N_rows_shared: "1"
 ---

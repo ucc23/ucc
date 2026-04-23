@@ -51,7 +51,7 @@ class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
 rc_val: 10
-dens_val: 0.06
+dens_val: 0.07
 N_membs_val: 48
 scix_url: CKCWDM%2062222
 posit_table: |

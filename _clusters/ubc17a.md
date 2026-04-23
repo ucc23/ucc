@@ -13,17 +13,17 @@ glon: 205.35156
 glat: -17.77692
 r50: 55.2
 plx: 2.763
-UTI: "0.41"
-UTI_COLOR: "#fef5d7"
+UTI: "0.45"
+UTI_COLOR: "#fef9de"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#dbefca"
 UTI_C_N: 0.72
-UTI_C_dens: 0.07
+UTI_C_dens: 0.06
 UTI_C_C3: 1.0
-UTI_C_lit: 0.55
+UTI_C_lit: 0.69
 UTI_C_dup: 0.72
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -58,7 +58,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 0.9
+rc_val: 1.0
 dens_val: 0.3
 N_membs_val: 95
 scix_url: UBC%2017%20a

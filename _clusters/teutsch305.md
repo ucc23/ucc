@@ -13,15 +13,15 @@ glon: 77.09572
 glat: 2.28273
 r50: 8.7
 plx: 0.3582
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fdddc5"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.28
-UTI_C_dens: 0.07
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.1
-dens_val: 0.4
+rc_val: 3.3
+dens_val: 0.2
 N_membs_val: 28
 scix_url: Teutsch%20305
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 130](/_clusters/vdb130/)| 3.6 | 304.51 | 39.36 | 0.57 | -3.59 | -5.15 | -23.66 |0.69 |
+    |[VDB 130](/_clusters/vdb130/)| 3.6 | 304.51 | 39.36 | 0.57 | -3.59 | -5.15 | -23.66 |0.8 |
 N_rows_shared: "1"
 ---

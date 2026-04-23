@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 6.5
+rc_val: 7.7
 dens_val: 0.02
 N_membs_val: 15
 scix_url: SAI%2031

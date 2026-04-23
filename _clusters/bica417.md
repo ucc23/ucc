@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 1.0
-dens_val: 24
+rc_val: 0.8
+dens_val: 28
 N_membs_val: 180
 scix_url: Bica%20417
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Westerlund 2](/_clusters/westerlund2/)| 95.0 | 156.01 | -57.76 | 0.2 | -5.32 | 2.87 | 68.86 |0.72 |
+    |[Westerlund 2](/_clusters/westerlund2/)| 95.0 | 156.01 | -57.76 | 0.2 | -5.32 | 2.87 | 68.86 |0.78 |
 N_rows_shared: "1"
 ---

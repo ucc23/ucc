@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 7.1
-dens_val: 0.04
+rc_val: 8.8
+dens_val: 0.03
 N_membs_val: 11
 scix_url: Dias%2070
 posit_table: |

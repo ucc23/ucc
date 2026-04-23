@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 1.3
-dens_val: 6.8
+rc_val: 1.8
+dens_val: 5.4
 N_membs_val: 155
 scix_url: Ruprecht%2082
 posit_table: |

@@ -16,12 +16,12 @@ plx: 0.3024
 UTI: "0.10"
 UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#e9f5d0"
-UTI_C_dens_COL: "#fef6d9"
+UTI_C_dens_COL: "#fef4d6"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fcd6c2"
 UTI_C_N: 0.65
-UTI_C_dens: 0.42
+UTI_C_dens: 0.4
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.25
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.0
-dens_val: 2.1
+rc_val: 2.2
+dens_val: 2.0
 N_membs_val: 80
 scix_url: CWWDL%201671
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 83](/_clusters/ufmg83/)| 75.0 | 268.11 | -28.19 | 0.3 | -0.02 | -1.98 | -15.57 |0.45 |
+    |[UFMG 83](/_clusters/ufmg83/)| 75.0 | 268.11 | -28.19 | 0.3 | -0.02 | -1.98 | -15.57 |0.48 |
     |[UBC 1002](/_clusters/ubc1002/)| 68.8 | 268.11 | -28.19 | 0.28 | 0.0 | -1.96 | -12.71 |0.11 |
 N_rows_shared: "2"
 ---

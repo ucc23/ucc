@@ -53,7 +53,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
 rc_val: 1.4
-dens_val: 6.3
+dens_val: 5.9
 N_membs_val: 92
 scix_url: NGC%20281-west
 posit_table: |
@@ -75,7 +75,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 281](/_clusters/ngc281/)| 98.9 | 13.22 | 56.63 | 0.33 | -2.36 | -1.5 | -67.2 |0.53 |
+    |[NGC 281](/_clusters/ngc281/)| 98.9 | 13.22 | 56.63 | 0.33 | -2.36 | -1.5 | -67.2 |0.54 |
     |[IC 1590](/_clusters/ic1590/)| 97.8 | 13.22 | 56.63 | 0.34 | -2.36 | -1.49 | -73.17 |0.05 |
 N_rows_shared: "2"
 ---

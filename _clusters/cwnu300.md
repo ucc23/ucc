@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.9
+rc_val: 3.0
 dens_val: 1.1
 N_membs_val: 70
 scix_url: CWNU%20300
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1297](/_clusters/ubc1297/)| 98.6 | 85.66 | 25.74 | 0.77 | -0.01 | -4.41 | 1.82 |0.36 |
+    |[UBC 1297](/_clusters/ubc1297/)| 98.6 | 85.66 | 25.74 | 0.77 | -0.01 | -4.41 | 1.82 |0.4 |
 N_rows_shared: "1"
 ---

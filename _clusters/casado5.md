@@ -16,12 +16,12 @@ plx: 0.7956
 UTI: "0.26"
 UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#f1f9d6"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.6
-UTI_C_dens: 0.09
+UTI_C_dens: 0.08
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 5.2
-dens_val: 0.5
+rc_val: 5.6
+dens_val: 0.4
 N_membs_val: 69
 scix_url: Casado%205
 posit_table: |

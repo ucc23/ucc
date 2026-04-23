@@ -13,17 +13,17 @@ glon: 169.65631
 glat: -0.08443
 r50: 4.5
 plx: 0.2535
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#fddbc4"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#ecf7d3"
 UTI_C_N: 0.27
-UTI_C_dens: 0.04
+UTI_C_dens: 0.03
 UTI_C_C3: 0.25
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.63
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.7
-dens_val: 0.2
+rc_val: 6.3
+dens_val: 0.1
 N_membs_val: 27
 scix_url: BDSB%2068
 posit_table: |
@@ -81,6 +81,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 4000](/_clusters/cwnu4000/)| 66.7 | 79.53 | 37.49 | 0.2 | 0.2 | -0.37 | -9.66 |0.03 |
-    |[Kronberger 18](/_clusters/kronberger18/)| 37.0 | 79.6 | 37.61 | 0.3 | 0.07 | -0.24 | 11.4 |0.26 |
+    |[Kronberger 18](/_clusters/kronberger18/)| 37.0 | 79.6 | 37.61 | 0.3 | 0.07 | -0.24 | 11.4 |0.33 |
 N_rows_shared: "2"
 ---

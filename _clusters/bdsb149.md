@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 6.7
-dens_val: 0.04
+rc_val: 10
+dens_val: 0.03
 N_membs_val: 16
 scix_url: BDSB%20149
 posit_table: |
@@ -77,6 +77,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDSB 150](/_clusters/bdsb150/)| 88.0 | 290.93 | 14.54 | 0.2 | -2.59 | -5.31 | 38.19 |0.14 |
     |[BDSB 152](/_clusters/bdsb152/)| 68.0 | 290.92 | 14.53 | 0.2 | -2.61 | -5.25 | 94.92 |0.08 |
-    |[BDSB 146](/_clusters/bdsb146/)| 48.0 | 290.92 | 14.54 | 0.29 | -2.65 | -5.37 | 131.09 |0.06 |
+    |[BDSB 146](/_clusters/bdsb146/)| 48.0 | 290.92 | 14.54 | 0.29 | -2.65 | -5.37 | 131.09 |0.05 |
 N_rows_shared: "3"
 ---

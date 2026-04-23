@@ -13,15 +13,15 @@ glon: 222.66932
 glat: 0.55254
 r50: 5.4
 plx: 0.3396
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbcbbd"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.2
+UTI_C_dens: 0.06
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 1.6
-dens_val: 1.0
+rc_val: 3.1
+dens_val: 0.3
 N_membs_val: 18
 scix_url: Teutsch%20171
 posit_table: |
@@ -76,6 +76,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1752](/_clusters/hsc1752/)| 60.0 | 107.82 | -8.39 | 0.37 | -1.21 | 1.0 | 97.51 |0.03 |
-    |[NGC 2349](/_clusters/ngc2349/)| 4.0 | 107.7 | -8.58 | 0.23 | -1.19 | 0.69 | 81.94 |0.12 |
+    |[NGC 2349](/_clusters/ngc2349/)| 4.0 | 107.7 | -8.58 | 0.23 | -1.19 | 0.69 | 81.94 |0.21 |
 N_rows_shared: "2"
 ---

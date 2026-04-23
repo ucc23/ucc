@@ -52,7 +52,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
 rc_val: 0.3
-dens_val: 74
+dens_val: 82
 N_membs_val: 47
 scix_url: LDN1641%20South
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[L1641S](/_clusters/l1641s/)| 100.0 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.65 |
+    |[L1641S](/_clusters/l1641s/)| 100.0 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.71 |
 N_rows_shared: "1"
 ---

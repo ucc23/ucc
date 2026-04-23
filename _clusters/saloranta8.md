@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 5.1
-dens_val: 0.02
+rc_val: 9.9
+dens_val: 0.01
 N_membs_val: 23
 scix_url: Saloranta%208
 posit_table: |

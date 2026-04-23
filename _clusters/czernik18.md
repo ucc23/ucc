@@ -55,7 +55,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
 rc_val: 1.1
-dens_val: 7.4
+dens_val: 7.6
 N_membs_val: 81
 scix_url: Czernik%2018
 posit_table: |

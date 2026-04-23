@@ -23,7 +23,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/afgl5180/" target="_blank" style="color: red;">AFGL5180</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/afgl5182/" target="_blank" style="color: red;">AFGL5182</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/afgl6366n/" target="_blank" style="color: red;">AFGL6366-N</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/afgl6366s/" target="_blank" style="color: $blue;">AFGL6366-S</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/afgl6366s/" target="_blank" style="color: red;">AFGL6366-S</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/afgl961/" target="_blank" style="color: $blue;">AFGL961</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/arches/" target="_blank" style="color: red;">Arches</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/bdp40d4124/" target="_blank" style="color: red;">BD+40d4124</a> | Classified as infrared cluster (IRC). |
@@ -147,7 +147,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ngc6618/" target="_blank" style="color: $blue;">NGC 6618</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ngc6857/" target="_blank" style="color: red;">NGC 6857</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ngc7129/" target="_blank" style="color: $blue;">NGC 7129</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/ngc7538/" target="_blank" style="color: $blue;">NGC 7538</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/ngc7538/" target="_blank" style="color: red;">NGC 7538</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ngc3576/" target="_blank" style="color: red;">NGC3576</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ns14/" target="_blank" style="color: red;">NS14</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/nuclearyoung/" target="_blank" style="color: red;">Nuclear Young</a> | Classified as infrared cluster (IRC). |

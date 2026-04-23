@@ -16,12 +16,12 @@ plx: 0.2606
 UTI: "0.25"
 UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#f0f8d5"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#b9e0c4"
 UTI_C_N: 0.61
-UTI_C_dens: 0.11
+UTI_C_dens: 0.09
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.86
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.6
-dens_val: 0.6
+rc_val: 3.1
+dens_val: 0.5
 N_membs_val: 72
 scix_url: Trumpler%2028b
 posit_table: |
@@ -72,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.27 | -32.49 | 0.29 | -0.51 | -2.19 | -19.96 |0.36 |
+    |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.27 | -32.49 | 0.29 | -0.51 | -2.19 | -19.96 |0.37 |
     |[Trumpler 28](/_clusters/trumpler28/)| 1.4 | 264.22 | -32.46 | 0.65 | -0.84 | -2.83 | -48.36 |0.91 |
-    |[UBC 569](/_clusters/ubc569/)| 1.4 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.05 |
+    |[UBC 569](/_clusters/ubc569/)| 1.4 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.04 |
 N_rows_shared: "3"
 ---

@@ -16,12 +16,12 @@ plx: 0.3585
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f7fbde"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.56
-UTI_C_dens: 1.0
+UTI_C_dens: 0.94
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.8
-dens_val: 5.9
+rc_val: 1.1
+dens_val: 4.7
 N_membs_val: 63
 scix_url: CWWDL%202197
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 39](/_clusters/gulliver39/)| 100.0 | 163.71 | -58.05 | 0.36 | -4.46 | 1.25 | -13.22 |0.73 |
+    |[Gulliver 39](/_clusters/gulliver39/)| 100.0 | 163.71 | -58.05 | 0.36 | -4.46 | 1.25 | -13.22 |0.72 |
 N_rows_shared: "1"
 ---

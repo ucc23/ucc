@@ -13,15 +13,15 @@ glon: 157.50135
 glat: 1.65624
 r50: 3.2
 plx: 0.3593
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f6c2b8"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.16
+UTI_C_dens: 0.09
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.1
-dens_val: 0.8
+rc_val: 3.4
+dens_val: 0.5
 N_membs_val: 22
 scix_url: UFMG%20105
 posit_table: |

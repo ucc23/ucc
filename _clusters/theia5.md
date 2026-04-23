@@ -18,12 +18,12 @@ UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#feecd0"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#e9afb3"
 UTI_C_N: 0.36
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 0.06
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-rc_val: 0.2
-dens_val: 111
+rc_val: 0.3
+dens_val: 54
 N_membs_val: 36
 scix_url: Theia%205
 posit_table: |
@@ -82,6 +82,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 34](/_clusters/ocsn34/)| 100.0 | 315.44 | 68.16 | 2.91 | 7.44 | -1.39 | -21.36 |0.11 |
-    |[NGC 7023](/_clusters/ngc7023/)| 94.4 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.38 |
+    |[NGC 7023](/_clusters/ngc7023/)| 94.4 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.41 |
 N_rows_shared: "2"
 ---

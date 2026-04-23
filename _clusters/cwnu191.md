@@ -13,15 +13,15 @@ glon: 11.06458
 glat: -1.72107
 r50: 9.7
 plx: 0.513
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.32"
+UTI_COLOR: "#fee5ca"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#fee5ca"
+UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#bce1c5"
 UTI_C_N: 0.77
-UTI_C_dens: 0.32
+UTI_C_dens: 0.36
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.85
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.9
-dens_val: 1.6
+rc_val: 2.5
+dens_val: 1.8
 N_membs_val: 162
 scix_url: CWNU%20191
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0019](/_clusters/oc0019/)| 15.4 | 274.1 | -20.15 | 0.52 | 1.15 | -0.37 | -- |0.31 |
+    |[OC 0019](/_clusters/oc0019/)| 15.4 | 274.1 | -20.15 | 0.52 | 1.15 | -0.37 | -- |0.26 |
     |[VVVX CL088](/_clusters/vvvxcl088/)| 3.1 | 274.14 | -19.91 | 0.49 | 0.63 | -1.05 | -19.84 |0.48 |
 N_rows_shared: "2"
 ---

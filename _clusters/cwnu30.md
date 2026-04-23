@@ -16,22 +16,22 @@ plx: 0.5504
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fdfee6"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#fddbc4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f0b6b3"
 UTI_C_N: 0.51
-UTI_C_dens: 0.22
+UTI_C_dens: 0.27
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.1
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very loose
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely duplicate
 summary: |
-    <b>CWNU 30</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>CWNU 30</b> is a moderately populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.8
-dens_val: 1.1
+rc_val: 2.5
+dens_val: 1.3
 N_membs_val: 52
 scix_url: CWNU%2030
 posit_table: |
@@ -73,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 4509](/_clusters/theia4509/)| 98.1 | 305.9 | 31.06 | 0.55 | -2.14 | -5.15 | 4.01 |0.01 |
-    |[UBC 1088](/_clusters/ubc1088/)| 90.4 | 305.9 | 31.06 | 0.55 | -2.13 | -5.15 | 4.01 |0.31 |
-    |[CWNU 64](/_clusters/cwnu64/)| 44.2 | 305.9 | 31.08 | 0.54 | -2.11 | -5.15 | 26.57 |0.02 |
+    |[UBC 1088](/_clusters/ubc1088/)| 90.4 | 305.9 | 31.06 | 0.55 | -2.13 | -5.15 | 4.01 |0.28 |
+    |[CWNU 64](/_clusters/cwnu64/)| 44.2 | 305.9 | 31.08 | 0.54 | -2.11 | -5.15 | 26.57 |0.01 |
 N_rows_shared: "3"
 ---

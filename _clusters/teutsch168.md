@@ -13,15 +13,15 @@ glon: 119.63684
 glat: 3.17414
 r50: 5.7
 plx: 0.3672
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.09"
+UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.18
+UTI_C_dens: 0.07
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.3
-dens_val: 0.9
+rc_val: 2.5
+dens_val: 0.3
 N_membs_val: 21
 scix_url: Teutsch%20168
 posit_table: |
@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 951](/_clusters/hsc951/)| 4.0 | 4.55 | 65.83 | 0.48 | -2.85 | -0.11 | 8.8 |0.21 |
+    |[HSC 951](/_clusters/hsc951/)| 4.0 | 4.55 | 65.83 | 0.48 | -2.85 | -0.11 | 8.8 |0.18 |
 N_rows_shared: "1"
 ---

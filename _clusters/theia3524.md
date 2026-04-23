@@ -18,12 +18,12 @@ UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#fddfc6"
 UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fbcdbe"
 UTI_C_N: 0.29
 UTI_C_dens: 0.05
 UTI_C_C3: 0.5
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.21
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 4.9
+rc_val: 5.3
 dens_val: 0.2
 N_membs_val: 29
 scix_url: Theia%203524

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 0.4
-dens_val: 12
+rc_val: 0.8
+dens_val: 9.9
 N_membs_val: 52
 scix_url: GGD17
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2183](/_clusters/ngc2183/)| 23.1 | 92.69 | -6.24 | 1.19 | -3.63 | 0.4 | 25.06 |0.75 |
-    |[OC 0358](/_clusters/oc0358/)| 11.5 | 93.11 | -6.38 | 1.17 | -3.88 | 0.35 | 27.82 |0.16 |
+    |[NGC 2183](/_clusters/ngc2183/)| 23.1 | 92.69 | -6.24 | 1.19 | -3.63 | 0.4 | 25.06 |0.79 |
+    |[OC 0358](/_clusters/oc0358/)| 11.5 | 93.11 | -6.38 | 1.17 | -3.88 | 0.35 | 27.82 |0.15 |
 N_rows_shared: "2"
 ---

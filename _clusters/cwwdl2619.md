@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.4
+rc_val: 5.6
 dens_val: 0.2
 N_membs_val: 70
 scix_url: CWWDL%202619
@@ -74,7 +74,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 2617](/_clusters/cwwdl2617/)| 37.1 | 27.99 | 62.7 | 0.33 | -1.09 | -0.23 | -- |0.28 |
     |[CWWDL 10632](/_clusters/cwwdl10632/)| 28.6 | 28.5 | 62.85 | 0.32 | -1.0 | -0.23 | -- |0.15 |
-    |[Berkeley 7](/_clusters/berkeley7/)| 1.4 | 28.55 | 62.37 | 0.34 | -0.98 | -0.21 | -67.13 |0.86 |
+    |[Berkeley 7](/_clusters/berkeley7/)| 1.4 | 28.55 | 62.37 | 0.34 | -0.98 | -0.21 | -67.13 |0.87 |
     |[CWWDL 10622](/_clusters/cwwdl10622/)| 1.4 | 27.98 | 63.19 | 0.33 | -1.2 | -0.19 | -- |0.08 |
 N_rows_shared: "4"
 ---

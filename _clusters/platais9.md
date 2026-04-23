@@ -13,17 +13,17 @@ glon: 267.32036
 glat: 3.4232
 r50: 90.5
 plx: 5.3907
-UTI: "0.78"
-UTI_COLOR: "#ceeac8"
+UTI: "0.79"
+UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#ceeac8"
-UTI_C_dens_COL: "#fee4c9"
+UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#afdbc1"
+UTI_C_lit_COL: "#acd6bf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
-UTI_C_dens: 0.31
+UTI_C_dens: 0.3
 UTI_C_C3: 1.0
-UTI_C_lit: 0.9
+UTI_C_lit: 0.93
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Loose
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
-rc_val: 3.6
-dens_val: 1.6
+rc_val: 1.7
+dens_val: 1.5
 N_membs_val: 172
 scix_url: Platais%209
 posit_table: |

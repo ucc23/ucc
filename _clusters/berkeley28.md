@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 1.1
-dens_val: 9.2
+rc_val: 1.6
+dens_val: 5.5
 N_membs_val: 140
 scix_url: Berkeley%2028
 posit_table: |

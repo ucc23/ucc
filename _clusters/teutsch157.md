@@ -13,17 +13,17 @@ glon: 88.67994
 glat: -0.85677
 r50: 3.4
 plx: 0.1617
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#f5c1b8"
+UTI_C_dens_COL: "#fcd4c1"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 0.15
+UTI_C_dens: 0.24
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 5.1
-dens_val: 0.7
+rc_val: 2.7
+dens_val: 1.2
 N_membs_val: 143
 scix_url: Teutsch%20157
 posit_table: |
@@ -82,6 +82,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HXWHB 15](/_clusters/hxwhb15/)| 95.8 | 317.62 | 46.81 | 0.16 | -3.3 | -3.64 | -66.14 |0.12 |
+    |[HXWHB 15](/_clusters/hxwhb15/)| 95.8 | 317.62 | 46.81 | 0.16 | -3.3 | -3.64 | -66.14 |0.13 |
 N_rows_shared: "1"
 ---

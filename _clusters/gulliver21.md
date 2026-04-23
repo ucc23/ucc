@@ -13,17 +13,17 @@ glon: 237.50504
 glat: -7.99809
 r50: 23.1
 plx: 1.5342
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#a9d1bc"
+UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 0.96
+UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 1.9
-dens_val: 4.8
+rc_val: 1.7
+dens_val: 5.1
 N_membs_val: 260
 scix_url: Gulliver%2021
 posit_table: |

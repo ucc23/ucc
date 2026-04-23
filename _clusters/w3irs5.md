@@ -13,15 +13,15 @@ glon: 133.71049
 glat: 1.1865
 r50: 5.3
 plx: 0.4594
-UTI: "0.16"
-UTI_COLOR: "#f6c2b8"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f6c2b8"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.16
+UTI_C_dens: 0.07
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 1.4
-dens_val: 0.8
+rc_val: 3.2
+dens_val: 0.3
 N_membs_val: 17
 scix_url: W3-IRS5
 posit_table: |
@@ -75,10 +75,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 54](/_clusters/bdsb54/)| 36.0 | 36.39 | 62.04 | 0.47 | -0.78 | -0.55 | -- |0.08 |
+    |[BDSB 54](/_clusters/bdsb54/)| 36.0 | 36.39 | 62.04 | 0.47 | -0.78 | -0.55 | -- |0.07 |
     |[BDSB 55](/_clusters/bdsb55/)| 32.0 | 36.47 | 62.1 | 0.37 | -1.2 | -0.3 | -31.43 |0.06 |
     |[SAI 19](/_clusters/sai19/)| 24.0 | 36.65 | 62.0 | 0.48 | -0.7 | -0.12 | -27.12 |0.1 |
     |[BDSB 56](/_clusters/bdsb56/)| 16.0 | 36.53 | 62.02 | 0.48 | -0.98 | -0.11 | -21.84 |0.09 |
-    |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 16.0 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.55 |
+    |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 16.0 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.61 |
 N_rows_shared: "5"
 ---

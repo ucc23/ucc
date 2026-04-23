@@ -13,17 +13,17 @@ glon: 353.16338
 glat: 23.74163
 r50: 50.5
 plx: 6.5612
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -56,7 +56,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
 rc_val: 0.7
-dens_val: 18
+dens_val: 19
 N_membs_val: 115
 scix_url: OCSN%2098
 posit_table: |
@@ -85,6 +85,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 96](/_clusters/ocsn96/)| 1.7 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.56 |
+    |[OCSN 96](/_clusters/ocsn96/)| 1.7 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.67 |
 N_rows_shared: "1"
 ---

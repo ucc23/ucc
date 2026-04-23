@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 8.0
-dens_val: 0.01
+rc_val: 10
+dens_val: 0.02
 N_membs_val: 13
 scix_url: BRC2
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[IRAS 00013+6817](/_clusters/iras00013p6817/)| 4.0 | 0.76 | 68.55 | 0.17 | -1.65 | -0.5 | -97.8 |0.06 |
+    |[IRAS 00013+6817](/_clusters/iras00013p6817/)| 4.0 | 0.76 | 68.55 | 0.17 | -1.65 | -0.5 | -97.8 |0.1 |
 N_rows_shared: "1"
 ---

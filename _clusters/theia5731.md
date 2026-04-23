@@ -16,12 +16,12 @@ plx: 1.7578
 UTI: "0.07"
 UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dbefca"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.08
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.72
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.0
-dens_val: 0.5
+rc_val: 2.5
+dens_val: 0.4
 N_membs_val: 23
 scix_url: Theia%205731
 posit_table: |
@@ -77,6 +77,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC-III 3629](/_clusters/lisciii3629/)| 28.0 | 272.27 | -60.52 | 1.77 | -0.31 | -8.79 | 2.64 |0.04 |
+    |[LISC-III 3629](/_clusters/lisciii3629/)| 28.0 | 272.27 | -60.52 | 1.77 | -0.31 | -8.79 | 2.64 |0.03 |
 N_rows_shared: "1"
 ---

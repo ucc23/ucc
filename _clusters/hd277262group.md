@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.0
-dens_val: 0.2
+rc_val: 3.6
+dens_val: 0.1
 N_membs_val: 15
 scix_url: HD%20277262%20Group
 posit_table: |

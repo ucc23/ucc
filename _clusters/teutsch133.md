@@ -16,12 +16,12 @@ plx: 0.3104
 UTI: "0.11"
 UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fef2d4"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a8cfbb"
 UTI_C_N: 0.39
-UTI_C_dens: 0.04
+UTI_C_dens: 0.03
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.97
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.7
+rc_val: 4.3
 dens_val: 0.2
 N_membs_val: 39
 scix_url: Teutsch%20133
@@ -72,6 +72,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[AFGL5142](/_clusters/afgl5142/)| 2.6 | 82.68 | 33.85 | 0.3 | 0.04 | -1.71 | 34.5 |0.03 |
     |[CWNU 4116](/_clusters/cwnu4116/)| 2.6 | 82.5 | 33.44 | 0.45 | 0.21 | -1.93 | 9.73 |0.03 |
-    |[SAI 51](/_clusters/sai51/)| 2.6 | 82.51 | 33.43 | 0.45 | 0.3 | -1.95 | 9.56 |0.36 |
+    |[SAI 51](/_clusters/sai51/)| 2.6 | 82.51 | 33.43 | 0.45 | 0.3 | -1.95 | 9.56 |0.35 |
 N_rows_shared: "3"
 ---

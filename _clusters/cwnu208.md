@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.4
-dens_val: 17
+rc_val: 0.7
+dens_val: 8.3
 N_membs_val: 22
 scix_url: CWNU%20208
 posit_table: |
@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0497](/_clusters/oc0497/)| 96.0 | 137.85 | -45.58 | 1.32 | -8.43 | 3.92 | -1.19 |0.48 |
+    |[OC 0497](/_clusters/oc0497/)| 96.0 | 137.85 | -45.58 | 1.32 | -8.43 | 3.92 | -1.19 |0.5 |
 N_rows_shared: "1"
 ---

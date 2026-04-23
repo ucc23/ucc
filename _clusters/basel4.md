@@ -13,17 +13,17 @@ glon: 179.29811
 glat: 1.27567
 r50: 2.9
 plx: 0.2932
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.83"
+UTI_COLOR: "#c2e4c6"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#e2f2cc"
+UTI_C_dens_COL: "#eaf6d1"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.69
+UTI_C_dens: 0.64
 UTI_C_C3: 1.0
-UTI_C_lit: 0.84
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -56,7 +56,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
 rc_val: 2.1
-dens_val: 3.4
+dens_val: 3.2
 N_membs_val: 123
 scix_url: Basel%204
 posit_table: |

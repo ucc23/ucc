@@ -52,7 +52,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
 rc_val: 0.8
-dens_val: 30
+dens_val: 28
 N_membs_val: 210
 scix_url: DBSB%2061
 posit_table: |

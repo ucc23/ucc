@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.7
-dens_val: 0.09
+rc_val: 8.8
+dens_val: 0.08
 N_membs_val: 21
 scix_url: Cmg%2067
 posit_table: |

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.7
-dens_val: 0.1
+rc_val: 4.6
+dens_val: 0.09
 N_membs_val: 5
 scix_url: Mamajek%201652
 posit_table: |

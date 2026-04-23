@@ -13,15 +13,15 @@ glon: 8.1897
 glat: -2.15459
 r50: 4.5
 plx: 0.8091
-UTI: "0.19"
-UTI_COLOR: "#f9c9bc"
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fef5d7"
+UTI_C_dens_COL: "#fddfc6"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#bfe2c5"
 UTI_C_N: 0.0
-UTI_C_dens: 0.41
+UTI_C_dens: 0.29
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.84
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 1.1
-dens_val: 2.0
+rc_val: 1.7
+dens_val: 1.4
 N_membs_val: 17
 scix_url: Theia%201927
 posit_table: |
@@ -77,6 +77,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0011](/_clusters/oc0011/)| 16.0 | 272.99 | -22.96 | 0.61 | 0.46 | 0.81 | 12.11 |0.6 |
+    |[OC 0011](/_clusters/oc0011/)| 16.0 | 272.99 | -22.96 | 0.61 | 0.46 | 0.81 | 12.11 |0.63 |
 N_rows_shared: "1"
 ---

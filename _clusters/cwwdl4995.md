@@ -16,12 +16,12 @@ plx: 0.4066
 UTI: "0.01"
 UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#fef5d7"
-UTI_C_dens_COL: "#fef6d9"
+UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e2a9b3"
 UTI_C_N: 0.41
-UTI_C_dens: 0.42
+UTI_C_dens: 0.36
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.02
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 2.1
+rc_val: 1.8
+dens_val: 1.8
 N_membs_val: 41
 scix_url: CWWDL%204995
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1394](/_clusters/cwnu1394/)| 97.6 | 141.3 | -52.34 | 0.39 | -5.73 | 5.41 | 34.08 |0.28 |
+    |[CWNU 1394](/_clusters/cwnu1394/)| 97.6 | 141.3 | -52.34 | 0.39 | -5.73 | 5.41 | 34.08 |0.29 |
 N_rows_shared: "1"
 ---

@@ -52,7 +52,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
 rc_val: 0.3
-dens_val: 131
+dens_val: 128
 N_membs_val: 146
 scix_url: LKHalpha%20101
 posit_table: |
@@ -73,6 +73,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 1579](/_clusters/ngc1579/)| 98.6 | 67.53 | 35.3 | 1.82 | 2.5 | -5.02 | 6.34 |0.69 |
+    |[NGC 1579](/_clusters/ngc1579/)| 98.6 | 67.53 | 35.3 | 1.82 | 2.5 | -5.02 | 6.34 |0.77 |
 N_rows_shared: "1"
 ---

@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 1.4
-dens_val: 12
+rc_val: 1.6
+dens_val: 9.1
 N_membs_val: 242
 scix_url: Trumpler%209
 posit_table: |

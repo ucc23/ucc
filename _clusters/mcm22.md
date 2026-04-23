@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 18
+rc_val: 10
 dens_val: 0.00
 N_membs_val: 5
 scix_url: MCM%2022

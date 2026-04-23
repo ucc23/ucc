@@ -52,7 +52,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
 rc_val: 0.6
-dens_val: 32
+dens_val: 27
 N_membs_val: 104
 scix_url: DBSB%2011
 posit_table: |
@@ -70,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ivanov 6](/_clusters/ivanov6/)| 67.3 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.58 |
+    |[Ivanov 6](/_clusters/ivanov6/)| 67.3 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.67 |
     |[CWNU 1337](/_clusters/cwnu1337/)| 6.7 | 111.03 | -24.4 | 0.72 | -2.14 | 2.23 | 31.62 |0.13 |
-    |[Majaess 90](/_clusters/majaess90/)| 6.7 | 111.19 | -24.48 | 0.74 | -2.16 | 2.27 | 31.62 |0.44 |
+    |[Majaess 90](/_clusters/majaess90/)| 6.7 | 111.19 | -24.48 | 0.74 | -2.16 | 2.27 | 31.62 |0.39 |
 N_rows_shared: "3"
 ---

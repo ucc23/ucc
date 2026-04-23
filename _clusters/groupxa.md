@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 4.8
+rc_val: 3.3
 dens_val: 0.4
 N_membs_val: 52
 scix_url: GroupX%20a
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 759](/_clusters/hsc759/)| 100.0 | 217.14 | 56.05 | 10.09 | -16.24 | -3.03 | -6.11 |0.27 |
+    |[HSC 759](/_clusters/hsc759/)| 100.0 | 217.14 | 56.05 | 10.09 | -16.24 | -3.03 | -6.11 |0.3 |
 N_rows_shared: "1"
 ---

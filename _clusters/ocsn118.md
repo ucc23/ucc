@@ -16,12 +16,12 @@ plx: 8.2412
 UTI: "0.23"
 UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#e7f4cf"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e5f4ce"
 UTI_C_N: 0.66
-UTI_C_dens: 0.11
+UTI_C_dens: 0.1
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.67
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 3.8
+rc_val: 4.3
 dens_val: 0.5
 N_membs_val: 81
 scix_url: OCSN%20118
@@ -72,9 +72,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1340](/_clusters/hsc1340/)| 93.8 | 68.02 | 19.84 | 8.24 | 0.7 | -14.59 | 15.03 |0.25 |
-    |[CWNU 1094](/_clusters/cwnu1094/)| 33.3 | 61.66 | 21.29 | 8.31 | 4.19 | -14.51 | 15.0 |0.28 |
+    |[HSC 1340](/_clusters/hsc1340/)| 93.8 | 68.02 | 19.84 | 8.24 | 0.7 | -14.59 | 15.03 |0.28 |
+    |[CWNU 1094](/_clusters/cwnu1094/)| 33.3 | 61.66 | 21.29 | 8.31 | 4.19 | -14.51 | 15.0 |0.29 |
     |[CWNU 1108](/_clusters/cwnu1108/)| 30.9 | 63.21 | 20.39 | 8.14 | 3.48 | -13.84 | 15.04 |0.22 |
-    |[OCSN 271](/_clusters/ocsn271/)| 1.2 | 70.35 | 21.84 | 8.01 | -0.6 | -15.05 | 15.87 |0.14 |
+    |[OCSN 271](/_clusters/ocsn271/)| 1.2 | 70.35 | 21.84 | 8.01 | -0.6 | -15.05 | 15.87 |0.13 |
 N_rows_shared: "4"
 ---

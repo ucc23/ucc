@@ -411,7 +411,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1331/" target="_blank" style="color: $blue;">CWNU 1331</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1333/" target="_blank" style="color: $blue;">CWNU 1333</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1334/" target="_blank" style="color: red;">CWNU 1334</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1336/" target="_blank" style="color: $blue;">CWNU 1336</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1336/" target="_blank" style="color: red;">CWNU 1336</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu134/" target="_blank" style="color: red;">CWNU 134</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1340/" target="_blank" style="color: red;">CWNU 1340</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1342/" target="_blank" style="color: $blue;">CWNU 1342</a> | Gold sample. |
@@ -430,7 +430,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1375/" target="_blank" style="color: $blue;">CWNU 1375</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1376/" target="_blank" style="color: $blue;">CWNU 1376</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1378/" target="_blank" style="color: $blue;">CWNU 1378</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1379/" target="_blank" style="color: $blue;">CWNU 1379</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1379/" target="_blank" style="color: red;">CWNU 1379</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1382/" target="_blank" style="color: red;">CWNU 1382</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1383/" target="_blank" style="color: $blue;">CWNU 1383</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1384/" target="_blank" style="color: red;">CWNU 1384</a> | Gold sample. |
@@ -502,7 +502,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1495/" target="_blank" style="color: $blue;">CWNU 1495</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1497/" target="_blank" style="color: red;">CWNU 1497</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu15/" target="_blank" style="color: red;">CWNU 15</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1500/" target="_blank" style="color: $blue;">CWNU 1500</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1500/" target="_blank" style="color: red;">CWNU 1500</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1502/" target="_blank" style="color: red;">CWNU 1502</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1503/" target="_blank" style="color: red;">CWNU 1503</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1504/" target="_blank" style="color: red;">CWNU 1504</a> | Gold sample. |
@@ -629,7 +629,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1773/" target="_blank" style="color: red;">CWNU 1773</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1774/" target="_blank" style="color: red;">CWNU 1774</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1777/" target="_blank" style="color: red;">CWNU 1777</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1780/" target="_blank" style="color: $blue;">CWNU 1780</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1780/" target="_blank" style="color: red;">CWNU 1780</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1785/" target="_blank" style="color: $blue;">CWNU 1785</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1787/" target="_blank" style="color: red;">CWNU 1787</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1789/" target="_blank" style="color: red;">CWNU 1789</a> | Gold sample. |
@@ -682,7 +682,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu19/" target="_blank" style="color: $blue;">CWNU 19</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1900/" target="_blank" style="color: red;">CWNU 1900</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1909/" target="_blank" style="color: red;">CWNU 1909</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1910/" target="_blank" style="color: $blue;">CWNU 1910</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1910/" target="_blank" style="color: red;">CWNU 1910</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1914/" target="_blank" style="color: red;">CWNU 1914</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1917/" target="_blank" style="color: $blue;">CWNU 1917</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1918/" target="_blank" style="color: $blue;">CWNU 1918</a> | Wood sample. |
@@ -748,7 +748,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2106/" target="_blank" style="color: $blue;">CWNU 2106</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2110/" target="_blank" style="color: red;">CWNU 2110</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2112/" target="_blank" style="color: red;">CWNU 2112</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2115/" target="_blank" style="color: $blue;">CWNU 2115</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2115/" target="_blank" style="color: red;">CWNU 2115</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2116/" target="_blank" style="color: red;">CWNU 2116</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu212/" target="_blank" style="color: red;">CWNU 212</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2122/" target="_blank" style="color: red;">CWNU 2122</a> | Gold sample. |
@@ -805,7 +805,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu229/" target="_blank" style="color: $blue;">CWNU 229</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2292/" target="_blank" style="color: $blue;">CWNU 2292</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2293/" target="_blank" style="color: red;">CWNU 2293</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2298/" target="_blank" style="color: $blue;">CWNU 2298</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2298/" target="_blank" style="color: red;">CWNU 2298</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2299/" target="_blank" style="color: $blue;">CWNU 2299</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu23/" target="_blank" style="color: red;">CWNU 23</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu230/" target="_blank" style="color: $blue;">CWNU 230</a> | Gold sample. |
@@ -984,7 +984,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2675/" target="_blank" style="color: $blue;">CWNU 2675</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2676/" target="_blank" style="color: red;">CWNU 2676</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2677/" target="_blank" style="color: red;">CWNU 2677</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2678/" target="_blank" style="color: $blue;">CWNU 2678</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2678/" target="_blank" style="color: red;">CWNU 2678</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu268/" target="_blank" style="color: $blue;">CWNU 268</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2682/" target="_blank" style="color: $blue;">CWNU 2682</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2683/" target="_blank" style="color: red;">CWNU 2683</a> | Gold sample. |
@@ -1005,7 +1005,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2717/" target="_blank" style="color: red;">CWNU 2717</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2718/" target="_blank" style="color: $blue;">CWNU 2718</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2719/" target="_blank" style="color: $blue;">CWNU 2719</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2723/" target="_blank" style="color: $blue;">CWNU 2723</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2723/" target="_blank" style="color: red;">CWNU 2723</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2724/" target="_blank" style="color: red;">CWNU 2724</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2728/" target="_blank" style="color: red;">CWNU 2728</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2729/" target="_blank" style="color: red;">CWNU 2729</a> | Gold sample. |
@@ -1045,7 +1045,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu284/" target="_blank" style="color: $blue;">CWNU 284</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2842/" target="_blank" style="color: red;">CWNU 2842</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2847/" target="_blank" style="color: $blue;">CWNU 2847</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2848/" target="_blank" style="color: $blue;">CWNU 2848</a> | Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2848/" target="_blank" style="color: red;">CWNU 2848</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu286/" target="_blank" style="color: red;">CWNU 286</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2867/" target="_blank" style="color: red;">CWNU 2867</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu287/" target="_blank" style="color: $blue;">CWNU 287</a> | Gold sample. |
@@ -1068,7 +1068,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2926/" target="_blank" style="color: red;">CWNU 2926</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu296/" target="_blank" style="color: $blue;">CWNU 296</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu299/" target="_blank" style="color: red;">CWNU 299</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu3/" target="_blank" style="color: $blue;">CWNU 3</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3/" target="_blank" style="color: red;">CWNU 3</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu301/" target="_blank" style="color: $blue;">CWNU 301</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu302/" target="_blank" style="color: $blue;">CWNU 302</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu304/" target="_blank" style="color: $blue;">CWNU 304</a> | Gold sample. |
@@ -1086,7 +1086,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu331/" target="_blank" style="color: red;">CWNU 331</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu334/" target="_blank" style="color: red;">CWNU 334</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu336/" target="_blank" style="color: red;">CWNU 336</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu337/" target="_blank" style="color: $blue;">CWNU 337</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu337/" target="_blank" style="color: red;">CWNU 337</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu338/" target="_blank" style="color: $blue;">CWNU 338</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu339/" target="_blank" style="color: red;">CWNU 339</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu340/" target="_blank" style="color: $blue;">CWNU 340</a> | Gold sample. |
@@ -1200,7 +1200,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu92/" target="_blank" style="color: red;">CWNU 92</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu95/" target="_blank" style="color: $blue;">CWNU 95</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu96/" target="_blank" style="color: $blue;">CWNU 96</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu98/" target="_blank" style="color: $blue;">CWNU 98</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu98/" target="_blank" style="color: red;">CWNU 98</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwwl1746/" target="_blank" style="color: $blue;">CWWL 1746</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwwl2073/" target="_blank" style="color: red;">CWWL 2073</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/cwwl2084/" target="_blank" style="color: $blue;">CWWL 2084</a> | Gold sample. |
@@ -1956,10 +1956,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1437/" target="_blank" style="color: red;">HSC 1437</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1438/" target="_blank" style="color: $blue;">HSC 1438</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1439/" target="_blank" style="color: red;">HSC 1439</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1440/" target="_blank" style="color: $blue;">HSC 1440</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1440/" target="_blank" style="color: red;">HSC 1440</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1441/" target="_blank" style="color: red;">HSC 1441</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1442/" target="_blank" style="color: red;">HSC 1442</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1443/" target="_blank" style="color: $blue;">HSC 1443</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1443/" target="_blank" style="color: red;">HSC 1443</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1445/" target="_blank" style="color: $blue;">HSC 1445</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1446/" target="_blank" style="color: red;">HSC 1446</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1449/" target="_blank" style="color: red;">HSC 1449</a> | Gold sample. |
@@ -2001,7 +2001,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1504/" target="_blank" style="color: $blue;">HSC 1504</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1507/" target="_blank" style="color: red;">HSC 1507</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc151/" target="_blank" style="color: red;">HSC 151</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1511/" target="_blank" style="color: $blue;">HSC 1511</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1511/" target="_blank" style="color: red;">HSC 1511</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1512/" target="_blank" style="color: red;">HSC 1512</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1513/" target="_blank" style="color: red;">HSC 1513</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1516/" target="_blank" style="color: red;">HSC 1516</a> | Gold sample. |
@@ -2036,7 +2036,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc156/" target="_blank" style="color: $blue;">HSC 156</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1560/" target="_blank" style="color: red;">HSC 1560</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1561/" target="_blank" style="color: red;">HSC 1561</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1564/" target="_blank" style="color: $blue;">HSC 1564</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1564/" target="_blank" style="color: red;">HSC 1564</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1565/" target="_blank" style="color: red;">HSC 1565</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1566/" target="_blank" style="color: red;">HSC 1566</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc157/" target="_blank" style="color: red;">HSC 157</a> | Gold sample. |
@@ -2100,7 +2100,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1664/" target="_blank" style="color: red;">HSC 1664</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1665/" target="_blank" style="color: red;">HSC 1665</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1666/" target="_blank" style="color: red;">HSC 1666</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1667/" target="_blank" style="color: $blue;">HSC 1667</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1667/" target="_blank" style="color: red;">HSC 1667</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1668/" target="_blank" style="color: red;">HSC 1668</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1671/" target="_blank" style="color: red;">HSC 1671</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1672/" target="_blank" style="color: red;">HSC 1672</a> | Gold sample. |
@@ -2173,7 +2173,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1767/" target="_blank" style="color: $blue;">HSC 1767</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1769/" target="_blank" style="color: red;">HSC 1769</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1770/" target="_blank" style="color: $blue;">HSC 1770</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1771/" target="_blank" style="color: $blue;">HSC 1771</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1771/" target="_blank" style="color: red;">HSC 1771</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1772/" target="_blank" style="color: red;">HSC 1772</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1773/" target="_blank" style="color: red;">HSC 1773</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1774/" target="_blank" style="color: red;">HSC 1774</a> | Silver sample. |
@@ -2310,7 +2310,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1971/" target="_blank" style="color: red;">HSC 1971</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1974/" target="_blank" style="color: red;">HSC 1974</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1976/" target="_blank" style="color: red;">HSC 1976</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1977/" target="_blank" style="color: $blue;">HSC 1977</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1977/" target="_blank" style="color: red;">HSC 1977</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1979/" target="_blank" style="color: red;">HSC 1979</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc198/" target="_blank" style="color: $blue;">HSC 198</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1980/" target="_blank" style="color: red;">HSC 1980</a> | Gold sample. |
@@ -2337,7 +2337,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2006/" target="_blank" style="color: $blue;">HSC 2006</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2009/" target="_blank" style="color: red;">HSC 2009</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2010/" target="_blank" style="color: red;">HSC 2010</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2012/" target="_blank" style="color: $blue;">HSC 2012</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2012/" target="_blank" style="color: red;">HSC 2012</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2013/" target="_blank" style="color: red;">HSC 2013</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2015/" target="_blank" style="color: red;">HSC 2015</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2017/" target="_blank" style="color: red;">HSC 2017</a> | Silver sample. |
@@ -2357,7 +2357,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2041/" target="_blank" style="color: red;">HSC 2041</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2042/" target="_blank" style="color: red;">HSC 2042</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2043/" target="_blank" style="color: $blue;">HSC 2043</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2046/" target="_blank" style="color: $blue;">HSC 2046</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2046/" target="_blank" style="color: red;">HSC 2046</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2047/" target="_blank" style="color: $blue;">HSC 2047</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2050/" target="_blank" style="color: red;">HSC 2050</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2053/" target="_blank" style="color: red;">HSC 2053</a> | Gold sample. |
@@ -2379,7 +2379,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2082/" target="_blank" style="color: $blue;">HSC 2082</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2083/" target="_blank" style="color: $blue;">HSC 2083</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2084/" target="_blank" style="color: $blue;">HSC 2084</a> | Bronze sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2085/" target="_blank" style="color: $blue;">HSC 2085</a> | Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2085/" target="_blank" style="color: red;">HSC 2085</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2086/" target="_blank" style="color: red;">HSC 2086</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2088/" target="_blank" style="color: $blue;">HSC 2088</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2089/" target="_blank" style="color: red;">HSC 2089</a> | Gold sample. |
@@ -2422,7 +2422,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2147/" target="_blank" style="color: red;">HSC 2147</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2148/" target="_blank" style="color: red;">HSC 2148</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2149/" target="_blank" style="color: red;">HSC 2149</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc215/" target="_blank" style="color: $blue;">HSC 215</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc215/" target="_blank" style="color: red;">HSC 215</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2151/" target="_blank" style="color: red;">HSC 2151</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2153/" target="_blank" style="color: red;">HSC 2153</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2155/" target="_blank" style="color: red;">HSC 2155</a> | Gold sample. |
@@ -2557,7 +2557,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2363/" target="_blank" style="color: $blue;">HSC 2363</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2364/" target="_blank" style="color: red;">HSC 2364</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2368/" target="_blank" style="color: red;">HSC 2368</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2370/" target="_blank" style="color: $blue;">HSC 2370</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2370/" target="_blank" style="color: red;">HSC 2370</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2374/" target="_blank" style="color: red;">HSC 2374</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2375/" target="_blank" style="color: red;">HSC 2375</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2376/" target="_blank" style="color: red;">HSC 2376</a> | Gold sample. |
@@ -2600,14 +2600,14 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2431/" target="_blank" style="color: $blue;">HSC 2431</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2433/" target="_blank" style="color: $blue;">HSC 2433</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2435/" target="_blank" style="color: red;">HSC 2435</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2438/" target="_blank" style="color: $blue;">HSC 2438</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2438/" target="_blank" style="color: red;">HSC 2438</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2442/" target="_blank" style="color: $blue;">HSC 2442</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2447/" target="_blank" style="color: red;">HSC 2447</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2449/" target="_blank" style="color: red;">HSC 2449</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2452/" target="_blank" style="color: red;">HSC 2452</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2458/" target="_blank" style="color: red;">HSC 2458</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2460/" target="_blank" style="color: red;">HSC 2460</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2461/" target="_blank" style="color: $blue;">HSC 2461</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2461/" target="_blank" style="color: red;">HSC 2461</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2462/" target="_blank" style="color: red;">HSC 2462</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2464/" target="_blank" style="color: red;">HSC 2464</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2468/" target="_blank" style="color: $blue;">HSC 2468</a> | Gold sample. |
@@ -2628,7 +2628,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc251/" target="_blank" style="color: $blue;">HSC 251</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2511/" target="_blank" style="color: red;">HSC 2511</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2512/" target="_blank" style="color: $blue;">HSC 2512</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2514/" target="_blank" style="color: $blue;">HSC 2514</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2514/" target="_blank" style="color: red;">HSC 2514</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2515/" target="_blank" style="color: $blue;">HSC 2515</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2518/" target="_blank" style="color: red;">HSC 2518</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc252/" target="_blank" style="color: red;">HSC 252</a> | Gold sample. |
@@ -2677,7 +2677,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2594/" target="_blank" style="color: red;">HSC 2594</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2595/" target="_blank" style="color: $blue;">HSC 2595</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2598/" target="_blank" style="color: $blue;">HSC 2598</a> | Bronze sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2599/" target="_blank" style="color: $blue;">HSC 2599</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2599/" target="_blank" style="color: red;">HSC 2599</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc26/" target="_blank" style="color: red;">HSC 26</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2600/" target="_blank" style="color: red;">HSC 2600</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2602/" target="_blank" style="color: red;">HSC 2602</a> | Gold sample. |
@@ -2736,12 +2736,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2684/" target="_blank" style="color: red;">HSC 2684</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2686/" target="_blank" style="color: red;">HSC 2686</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2687/" target="_blank" style="color: red;">HSC 2687</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2690/" target="_blank" style="color: $blue;">HSC 2690</a> | Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2690/" target="_blank" style="color: red;">HSC 2690</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2691/" target="_blank" style="color: red;">HSC 2691</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2693/" target="_blank" style="color: red;">HSC 2693</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2695/" target="_blank" style="color: red;">HSC 2695</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2698/" target="_blank" style="color: $blue;">HSC 2698</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2701/" target="_blank" style="color: $blue;">HSC 2701</a> | Wood sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2701/" target="_blank" style="color: red;">HSC 2701</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2703/" target="_blank" style="color: $blue;">HSC 2703</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2705/" target="_blank" style="color: red;">HSC 2705</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2706/" target="_blank" style="color: red;">HSC 2706</a> | Gold sample. |
@@ -2761,7 +2761,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2720/" target="_blank" style="color: red;">HSC 2720</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2721/" target="_blank" style="color: red;">HSC 2721</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2722/" target="_blank" style="color: red;">HSC 2722</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2724/" target="_blank" style="color: $blue;">HSC 2724</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2724/" target="_blank" style="color: red;">HSC 2724</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2728/" target="_blank" style="color: $blue;">HSC 2728</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2729/" target="_blank" style="color: red;">HSC 2729</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc273/" target="_blank" style="color: red;">HSC 273</a> | Bronze sample. |
@@ -2821,7 +2821,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2832/" target="_blank" style="color: red;">HSC 2832</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2833/" target="_blank" style="color: $blue;">HSC 2833</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2836/" target="_blank" style="color: red;">HSC 2836</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc284/" target="_blank" style="color: $blue;">HSC 284</a> | Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc284/" target="_blank" style="color: red;">HSC 284</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2842/" target="_blank" style="color: red;">HSC 2842</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2847/" target="_blank" style="color: red;">HSC 2847</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2849/" target="_blank" style="color: $blue;">HSC 2849</a> | Gold sample. |
@@ -2858,7 +2858,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2900/" target="_blank" style="color: red;">HSC 2900</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2901/" target="_blank" style="color: red;">HSC 2901</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2902/" target="_blank" style="color: red;">HSC 2902</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2904/" target="_blank" style="color: $blue;">HSC 2904</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2904/" target="_blank" style="color: red;">HSC 2904</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2905/" target="_blank" style="color: red;">HSC 2905</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2906/" target="_blank" style="color: red;">HSC 2906</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2907/" target="_blank" style="color: $blue;">HSC 2907</a> | Gold sample. |
@@ -2868,7 +2868,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2912/" target="_blank" style="color: red;">HSC 2912</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2913/" target="_blank" style="color: $blue;">HSC 2913</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2914/" target="_blank" style="color: red;">HSC 2914</a> | Wood sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2916/" target="_blank" style="color: $blue;">HSC 2916</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2916/" target="_blank" style="color: red;">HSC 2916</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2919/" target="_blank" style="color: $blue;">HSC 2919</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2921/" target="_blank" style="color: red;">HSC 2921</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2928/" target="_blank" style="color: red;">HSC 2928</a> | Gold sample. |
@@ -2976,7 +2976,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc434/" target="_blank" style="color: red;">HSC 434</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc436/" target="_blank" style="color: $blue;">HSC 436</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc437/" target="_blank" style="color: red;">HSC 437</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc438/" target="_blank" style="color: $blue;">HSC 438</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc438/" target="_blank" style="color: red;">HSC 438</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc440/" target="_blank" style="color: red;">HSC 440</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc441/" target="_blank" style="color: $blue;">HSC 441</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc443/" target="_blank" style="color: red;">HSC 443</a> | Gold sample. |
@@ -2994,7 +2994,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc467/" target="_blank" style="color: red;">HSC 467</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc471/" target="_blank" style="color: red;">HSC 471</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc474/" target="_blank" style="color: $blue;">HSC 474</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc475/" target="_blank" style="color: $blue;">HSC 475</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc475/" target="_blank" style="color: red;">HSC 475</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc477/" target="_blank" style="color: red;">HSC 477</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc478/" target="_blank" style="color: red;">HSC 478</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc480/" target="_blank" style="color: red;">HSC 480</a> | Gold sample. |
@@ -3059,7 +3059,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc573/" target="_blank" style="color: $blue;">HSC 573</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc575/" target="_blank" style="color: red;">HSC 575</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc579/" target="_blank" style="color: red;">HSC 579</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc580/" target="_blank" style="color: $blue;">HSC 580</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc580/" target="_blank" style="color: red;">HSC 580</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc582/" target="_blank" style="color: red;">HSC 582</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc584/" target="_blank" style="color: red;">HSC 584</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc585/" target="_blank" style="color: red;">HSC 585</a> | Gold sample. |
@@ -3091,12 +3091,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc620/" target="_blank" style="color: red;">HSC 620</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc622/" target="_blank" style="color: red;">HSC 622</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc624/" target="_blank" style="color: $blue;">HSC 624</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc625/" target="_blank" style="color: $blue;">HSC 625</a> | Wood sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc625/" target="_blank" style="color: red;">HSC 625</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc626/" target="_blank" style="color: $blue;">HSC 626</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc627/" target="_blank" style="color: $blue;">HSC 627</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc628/" target="_blank" style="color: $blue;">HSC 628</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc629/" target="_blank" style="color: red;">HSC 629</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc63/" target="_blank" style="color: $blue;">HSC 63</a> | Bronze sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc63/" target="_blank" style="color: red;">HSC 63</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc630/" target="_blank" style="color: $blue;">HSC 630</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc632/" target="_blank" style="color: red;">HSC 632</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc635/" target="_blank" style="color: red;">HSC 635</a> | Gold sample. |
@@ -3117,9 +3117,9 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc656/" target="_blank" style="color: red;">HSC 656</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc657/" target="_blank" style="color: red;">HSC 657</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc658/" target="_blank" style="color: red;">HSC 658</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc660/" target="_blank" style="color: $blue;">HSC 660</a> | Wood sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc660/" target="_blank" style="color: red;">HSC 660</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc661/" target="_blank" style="color: red;">HSC 661</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/hsc662/" target="_blank" style="color: $blue;">HSC 662</a> | Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/hsc662/" target="_blank" style="color: red;">HSC 662</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc663/" target="_blank" style="color: red;">HSC 663</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc665/" target="_blank" style="color: $blue;">HSC 665</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/hsc667/" target="_blank" style="color: red;">HSC 667</a> | Gold sample. |
@@ -3918,7 +3918,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0018/" target="_blank" style="color: $blue;">OC 0018</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0019/" target="_blank" style="color: $blue;">OC 0019</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0023/" target="_blank" style="color: $blue;">OC 0023</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/oc0024/" target="_blank" style="color: $blue;">OC 0024</a> | Wood sample. |
+| <a href="{{ site.baseurl }}/_clusters/oc0024/" target="_blank" style="color: red;">OC 0024</a> | Wood sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0025/" target="_blank" style="color: red;">OC 0025</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0026/" target="_blank" style="color: $blue;">OC 0026</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0027/" target="_blank" style="color: $blue;">OC 0027</a> | Gold sample. |
@@ -3968,7 +3968,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0148/" target="_blank" style="color: $blue;">OC 0148</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0149/" target="_blank" style="color: $blue;">OC 0149</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0150/" target="_blank" style="color: $blue;">OC 0150</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/oc0153/" target="_blank" style="color: $blue;">OC 0153</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/oc0153/" target="_blank" style="color: red;">OC 0153</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0160/" target="_blank" style="color: red;">OC 0160</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0165/" target="_blank" style="color: red;">OC 0165</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0168/" target="_blank" style="color: red;">OC 0168</a> | Gold sample. |
@@ -3979,8 +3979,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0185/" target="_blank" style="color: red;">OC 0185</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0186/" target="_blank" style="color: $blue;">OC 0186</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0189/" target="_blank" style="color: red;">OC 0189</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/oc0190/" target="_blank" style="color: $blue;">OC 0190</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/oc0192/" target="_blank" style="color: $blue;">OC 0192</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/oc0190/" target="_blank" style="color: red;">OC 0190</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/oc0192/" target="_blank" style="color: red;">OC 0192</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0193/" target="_blank" style="color: red;">OC 0193</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0196/" target="_blank" style="color: $blue;">OC 0196</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/oc0203/" target="_blank" style="color: $blue;">OC 0203</a> | Gold sample. |
@@ -4164,7 +4164,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/phoc26/" target="_blank" style="color: $blue;">PHOC 26</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/phoc27/" target="_blank" style="color: $blue;">PHOC 27</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/phoc29/" target="_blank" style="color: $blue;">PHOC 29</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/phoc3/" target="_blank" style="color: $blue;">PHOC 3</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/phoc3/" target="_blank" style="color: red;">PHOC 3</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/phoc30/" target="_blank" style="color: $blue;">PHOC 30</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/phoc31/" target="_blank" style="color: $blue;">PHOC 31</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/phoc32/" target="_blank" style="color: red;">PHOC 32</a> | Gold sample. |
@@ -4503,7 +4503,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia1224/" target="_blank" style="color: red;">Theia 1224</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia123/" target="_blank" style="color: $blue;">Theia 123</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia1256/" target="_blank" style="color: red;">Theia 1256</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/theia128/" target="_blank" style="color: $blue;">Theia 128</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/theia128/" target="_blank" style="color: red;">Theia 128</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia1297/" target="_blank" style="color: red;">Theia 1297</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia13/" target="_blank" style="color: $blue;">Theia 13</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia1306/" target="_blank" style="color: red;">Theia 1306</a> | Gold sample. |
@@ -4740,7 +4740,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia3327/" target="_blank" style="color: $blue;">Theia 3327</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3329/" target="_blank" style="color: $blue;">Theia 3329</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia333/" target="_blank" style="color: red;">Theia 333</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/theia3333/" target="_blank" style="color: $blue;">Theia 3333</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/theia3333/" target="_blank" style="color: red;">Theia 3333</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3337/" target="_blank" style="color: $blue;">Theia 3337</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3339/" target="_blank" style="color: $blue;">Theia 3339</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3381/" target="_blank" style="color: $blue;">Theia 3381</a> | Gold sample. |
@@ -4756,7 +4756,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia35/" target="_blank" style="color: red;">Theia 35</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3502/" target="_blank" style="color: $blue;">Theia 3502</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3524/" target="_blank" style="color: $blue;">Theia 3524</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/theia354/" target="_blank" style="color: $blue;">Theia 354</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/theia354/" target="_blank" style="color: red;">Theia 354</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia358/" target="_blank" style="color: red;">Theia 358</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3581/" target="_blank" style="color: $blue;">Theia 3581</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/theia3582/" target="_blank" style="color: red;">Theia 3582</a> | Gold sample. |
@@ -5160,7 +5160,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1168/" target="_blank" style="color: red;">UBC 1168</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1169/" target="_blank" style="color: $blue;">UBC 1169</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1170/" target="_blank" style="color: red;">UBC 1170</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1171/" target="_blank" style="color: $blue;">UBC 1171</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1171/" target="_blank" style="color: red;">UBC 1171</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1173/" target="_blank" style="color: $blue;">UBC 1173</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1174/" target="_blank" style="color: red;">UBC 1174</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1176/" target="_blank" style="color: $blue;">UBC 1176</a> | Gold sample. |
@@ -5364,7 +5364,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1440/" target="_blank" style="color: $blue;">UBC 1440</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1443/" target="_blank" style="color: $blue;">UBC 1443</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1446/" target="_blank" style="color: $blue;">UBC 1446</a> | Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1447/" target="_blank" style="color: $blue;">UBC 1447</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1447/" target="_blank" style="color: red;">UBC 1447</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1448/" target="_blank" style="color: $blue;">UBC 1448</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1449/" target="_blank" style="color: $blue;">UBC 1449</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1450/" target="_blank" style="color: $blue;">UBC 1450</a> | Gold sample. |
@@ -5388,7 +5388,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1473/" target="_blank" style="color: $blue;">UBC 1473</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1474/" target="_blank" style="color: $blue;">UBC 1474</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1475/" target="_blank" style="color: $blue;">UBC 1475</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1476/" target="_blank" style="color: $blue;">UBC 1476</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1476/" target="_blank" style="color: red;">UBC 1476</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1477/" target="_blank" style="color: red;">UBC 1477</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc148/" target="_blank" style="color: $blue;">UBC 148</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1480/" target="_blank" style="color: $blue;">UBC 1480</a> | Gold sample. |
@@ -5411,7 +5411,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1504/" target="_blank" style="color: $blue;">UBC 1504</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1505/" target="_blank" style="color: $blue;">UBC 1505</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1506/" target="_blank" style="color: $blue;">UBC 1506</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1507/" target="_blank" style="color: $blue;">UBC 1507</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1507/" target="_blank" style="color: red;">UBC 1507</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1509/" target="_blank" style="color: $blue;">UBC 1509</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1510/" target="_blank" style="color: $blue;">UBC 1510</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1511/" target="_blank" style="color: $blue;">UBC 1511</a> | Gold sample. |

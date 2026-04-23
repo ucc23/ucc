@@ -13,17 +13,17 @@ glon: 17.61616
 glat: -1.09303
 r50: 3.5
 plx: 0.3005
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 1.6
-dens_val: 13
+rc_val: 1.5
+dens_val: 12
 N_membs_val: 512
 scix_url: Teutsch%20268
 posit_table: |
@@ -82,6 +82,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1015](/_clusters/ubc1015/)| 87.9 | 276.74 | -14.11 | 0.3 | -0.77 | -2.12 | -2.98 |0.01 |
-    |[Teutsch 267](/_clusters/teutsch267/)| 3.7 | 276.51 | -13.95 | 0.29 | -0.61 | -1.98 | 28.51 |0.25 |
+    |[Teutsch 267](/_clusters/teutsch267/)| 3.7 | 276.51 | -13.95 | 0.29 | -0.61 | -1.98 | 28.51 |0.26 |
 N_rows_shared: "2"
 ---

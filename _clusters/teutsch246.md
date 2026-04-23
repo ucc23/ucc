@@ -13,17 +13,17 @@ glon: 327.62936
 glat: -0.5496
 r50: 3.1
 plx: 0.4145
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.56"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 0.92
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 1.7
-dens_val: 11
+rc_val: 1.9
+dens_val: 9.1
 N_membs_val: 258
 scix_url: Teutsch%20246
 posit_table: |
@@ -83,6 +83,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1538](/_clusters/ubc1538/)| 89.9 | 238.7 | -54.39 | 0.41 | -3.28 | -3.53 | -18.95 |0.01 |
-    |[MCM 64](/_clusters/mcm64/)| 7.8 | 238.75 | -54.46 | 0.41 | -3.27 | -3.53 | -34.71 |0.13 |
+    |[MCM 64](/_clusters/mcm64/)| 7.8 | 238.75 | -54.46 | 0.41 | -3.27 | -3.53 | -34.71 |0.12 |
 N_rows_shared: "2"
 ---

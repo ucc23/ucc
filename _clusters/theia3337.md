@@ -16,14 +16,14 @@ plx: 0.5554
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fee4c9"
-UTI_C_dens_COL: "#fef0d2"
+UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#e9afb3"
 UTI_C_N: 0.31
-UTI_C_dens: 0.38
+UTI_C_dens: 0.34
 UTI_C_C3: 0.75
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.06
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 1.5
-dens_val: 1.9
+rc_val: 1.6
+dens_val: 1.7
 N_membs_val: 31
 scix_url: Theia%203337
 posit_table: |
@@ -81,6 +81,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 535](/_clusters/cwnu535/)| 93.5 | 138.99 | -44.86 | 0.56 | -5.2 | 5.15 | 20.18 |0.0 |
     |[CWWDL 13965](/_clusters/cwwdl13965/)| 93.5 | 138.98 | -44.85 | 0.55 | -5.19 | 5.14 | 20.18 |0.09 |
-    |[UBC 1586](/_clusters/ubc1586/)| 93.5 | 138.99 | -44.86 | 0.56 | -5.2 | 5.15 | 20.18 |0.23 |
+    |[UBC 1586](/_clusters/ubc1586/)| 93.5 | 138.99 | -44.86 | 0.56 | -5.2 | 5.15 | 20.18 |0.22 |
 N_rows_shared: "3"
 ---

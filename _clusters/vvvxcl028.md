@@ -13,8 +13,8 @@ glon: 329.06925
 glat: 2.39054
 r50: 6.1
 plx: 0.4386
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fef0d2"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#f2bab5"
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.3
-dens_val: 0.4
+rc_val: 4.7
+dens_val: 0.3
 N_membs_val: 38
 scix_url: VVVX%20CL028
 posit_table: |

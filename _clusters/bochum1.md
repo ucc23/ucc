@@ -13,17 +13,17 @@ glon: 192.3282
 glat: 3.36364
 r50: 3.4
 plx: 0.2077
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.56"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#f5fbdc"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#f2bab5"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
-UTI_C_dens: 0.17
+UTI_C_dens: 0.12
 UTI_C_C3: 0.75
-UTI_C_lit: 0.55
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-rc_val: 2.2
-dens_val: 0.8
+rc_val: 2.9
+dens_val: 0.6
 N_membs_val: 64
 scix_url: Bochum%201
 posit_table: |

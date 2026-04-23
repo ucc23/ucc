@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.5
+rc_val: 7.8
 dens_val: 0.08
 N_membs_val: 16
 scix_url: Alessi%20147

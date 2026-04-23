@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-rc_val: 1.8
-dens_val: 11
+rc_val: 0.6
+dens_val: 17
 N_membs_val: 189
 scix_url: BDSB%201
 posit_table: |
@@ -75,7 +75,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6530](/_clusters/ngc6530/)| 67.2 | 271.1 | -24.37 | 0.76 | 1.29 | -2.05 | 0.14 |0.91 |
+    |[NGC 6530](/_clusters/ngc6530/)| 67.2 | 271.1 | -24.37 | 0.76 | 1.29 | -2.05 | 0.14 |0.92 |
     |[OC 0006](/_clusters/oc0006/)| 49.2 | 271.1 | -24.37 | 0.76 | 1.28 | -2.07 | 4.25 |0.0 |
 N_rows_shared: "2"
 ---

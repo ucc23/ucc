@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 1.2
-dens_val: 7.8
+rc_val: 1.4
+dens_val: 6.8
 N_membs_val: 184
 scix_url: Roslund%203
 posit_table: |

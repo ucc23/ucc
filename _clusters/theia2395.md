@@ -13,17 +13,17 @@ glon: 59.91234
 glat: 0.85589
 r50: 2.0
 plx: 0.2369
-UTI: "0.24"
-UTI_COLOR: "#fcd4c1"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.14
+UTI_C_dens: 0.11
 UTI_C_C3: 1.0
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 2.1
-dens_val: 0.7
+rc_val: 2.9
+dens_val: 0.6
 N_membs_val: 21
 scix_url: Theia%202395
 posit_table: |
@@ -80,6 +80,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 486](/_clusters/hsc486/)| 76.0 | 295.1 | 24.24 | 0.24 | -2.32 | -5.6 | 36.37 |0.24 |
+    |[HSC 486](/_clusters/hsc486/)| 76.0 | 295.1 | 24.24 | 0.24 | -2.32 | -5.6 | 36.37 |0.25 |
 N_rows_shared: "1"
 ---

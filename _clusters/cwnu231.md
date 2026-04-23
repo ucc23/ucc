@@ -51,7 +51,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
 rc_val: 1.4
-dens_val: 6.5
+dens_val: 6.4
 N_membs_val: 99
 scix_url: CWNU%20231
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1517](/_clusters/ubc1517/)| 99.0 | 193.77 | -61.05 | 0.31 | -5.23 | -0.35 | -5.8 |0.22 |
-    |[ASCC 72](/_clusters/ascc72/)| 64.6 | 193.77 | -61.04 | 0.32 | -5.23 | -0.34 | -4.35 |0.64 |
+    |[UBC 1517](/_clusters/ubc1517/)| 99.0 | 193.77 | -61.05 | 0.31 | -5.23 | -0.35 | -5.8 |0.19 |
+    |[ASCC 72](/_clusters/ascc72/)| 64.6 | 193.77 | -61.04 | 0.32 | -5.23 | -0.34 | -4.35 |0.71 |
 N_rows_shared: "2"
 ---

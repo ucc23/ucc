@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 11
-dens_val: 0.01
+rc_val: 10
+dens_val: 0.02
 N_membs_val: 11
 scix_url: Kronberger%2095
 posit_table: |

@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.0
+rc_val: 2.2
 dens_val: 0.4
 N_membs_val: 20
 scix_url: BSF%2056
@@ -73,6 +73,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ivanov 9](/_clusters/ivanov9/)| 28.0 | 104.94 | -4.06 | 0.31 | -1.77 | 0.8 | -- |0.09 |
+    |[Ivanov 9](/_clusters/ivanov9/)| 28.0 | 104.94 | -4.06 | 0.31 | -1.77 | 0.8 | -- |0.13 |
 N_rows_shared: "1"
 ---

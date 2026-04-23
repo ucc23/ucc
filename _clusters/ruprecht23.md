@@ -13,17 +13,17 @@ glon: 238.06134
 glat: -2.39933
 r50: 4.5
 plx: 0.3418
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#d0eac9"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.77
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 1.5
-dens_val: 6.6
+rc_val: 1.6
+dens_val: 6.1
 N_membs_val: 240
 scix_url: Ruprecht%2023
 posit_table: |
@@ -119,6 +119,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1592](/_clusters/cwnu1592/)| 1.2 | 112.67 | -23.15 | 0.32 | -1.76 | 1.72 | -- |0.17 |
+    |[CWNU 1592](/_clusters/cwnu1592/)| 1.2 | 112.67 | -23.15 | 0.32 | -1.76 | 1.72 | -- |0.18 |
 N_rows_shared: "1"
 ---

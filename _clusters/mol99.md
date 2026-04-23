@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 8.5
+rc_val: 9.6
 dens_val: 0.06
 N_membs_val: 37
 scix_url: Mol%2099
@@ -73,7 +73,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[MCM 20](/_clusters/mcm20/)| 18.9 | 288.09 | 9.95 | 0.2 | -2.98 | -5.61 | 142.99 |0.25 |
+    |[MCM 20](/_clusters/mcm20/)| 18.9 | 288.09 | 9.95 | 0.2 | -2.98 | -5.61 | 142.99 |0.2 |
     |[GLIMPSE 20](/_clusters/glimpse20/)| 10.8 | 288.1 | 9.95 | 0.18 | -3.02 | -5.62 | 142.99 |0.03 |
 N_rows_shared: "2"
 ---

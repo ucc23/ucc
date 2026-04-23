@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.8
+rc_val: 2.2
 dens_val: 0.4
 N_membs_val: 20
 scix_url: CWWDL%201872
@@ -73,8 +73,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1101](/_clusters/ubc1101/)| 64.0 | 305.72 | 37.19 | 0.49 | -2.38 | -5.32 | 46.61 |0.31 |
-    |[Theia 1975](/_clusters/theia1975/)| 48.0 | 305.52 | 37.04 | 0.5 | -2.4 | -5.36 | 53.95 |0.06 |
+    |[Theia 1975](/_clusters/theia1975/)| 48.0 | 305.52 | 37.04 | 0.5 | -2.4 | -5.36 | 53.95 |0.07 |
     |[XDOCC 10](/_clusters/xdocc10/)| 24.0 | 305.52 | 37.24 | 0.5 | -2.4 | -5.26 | 53.95 |0.21 |
-    |[UBC 1098](/_clusters/ubc1098/)| 20.0 | 305.39 | 36.93 | 0.49 | -2.63 | -5.41 | -134.78 |0.27 |
+    |[UBC 1098](/_clusters/ubc1098/)| 20.0 | 305.39 | 36.93 | 0.49 | -2.63 | -5.41 | -134.78 |0.25 |
 N_rows_shared: "4"
 ---

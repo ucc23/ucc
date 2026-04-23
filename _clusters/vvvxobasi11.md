@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 5.9
+rc_val: 10
 dens_val: 0.04
 N_membs_val: 22
 scix_url: VVVX-Obasi%2011
@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VVVX-Obasi 10](/_clusters/vvvxobasi10/)| 8.0 | 112.09 | -22.68 | 0.32 | -1.55 | 2.56 | 48.91 |0.11 |
-    |[CWNU 2781](/_clusters/cwnu2781/)| 4.0 | 112.1 | -22.68 | 0.32 | -1.55 | 2.56 | 48.91 |0.27 |
+    |[VVVX-Obasi 10](/_clusters/vvvxobasi10/)| 8.0 | 112.09 | -22.68 | 0.32 | -1.55 | 2.56 | 48.91 |0.08 |
+    |[CWNU 2781](/_clusters/cwnu2781/)| 4.0 | 112.1 | -22.68 | 0.32 | -1.55 | 2.56 | 48.91 |0.17 |
 N_rows_shared: "2"
 ---

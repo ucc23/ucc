@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.7
-dens_val: 18
+rc_val: 0.8
+dens_val: 17
 N_membs_val: 73
 scix_url: BDSB%20101
 posit_table: |
@@ -70,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 100.0 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.39 |
-    |[Pismis 24](/_clusters/pismis24/)| 52.1 | 261.4 | -34.36 | 0.56 | -0.95 | -2.53 | 9.47 |0.59 |
+    |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 100.0 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.44 |
+    |[Pismis 24](/_clusters/pismis24/)| 52.1 | 261.4 | -34.36 | 0.56 | -0.95 | -2.53 | 9.47 |0.67 |
     |[OC 0688](/_clusters/oc0688/)| 31.5 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.04 |
 N_rows_shared: "3"
 ---

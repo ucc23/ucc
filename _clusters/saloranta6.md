@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 5.0
+rc_val: 5.2
 dens_val: 0.2
 N_membs_val: 21
 scix_url: Saloranta%206

@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-rc_val: 2.5
+rc_val: 6.2
 dens_val: 0.1
 N_membs_val: 17
 scix_url: MCM%2062
@@ -76,6 +76,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 95](/_clusters/dbsb95/)| 84.0 | 236.09 | -54.22 | 0.42 | -3.73 | -3.19 | -25.17 |0.24 |
-    |[HSC 2728](/_clusters/hsc2728/)| 32.0 | 235.97 | -54.31 | 0.43 | -3.7 | -3.19 | -33.99 |0.12 |
+    |[HSC 2728](/_clusters/hsc2728/)| 32.0 | 235.97 | -54.31 | 0.43 | -3.7 | -3.19 | -33.99 |0.11 |
 N_rows_shared: "2"
 ---

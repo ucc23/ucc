@@ -13,17 +13,17 @@ glon: 293.70195
 glat: -1.6503
 r50: 4.1
 plx: 0.3972
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.08
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 3.4
+rc_val: 3.5
 dens_val: 0.4
 N_membs_val: 22
 scix_url: DBSB%2068
@@ -80,7 +80,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 453](/_clusters/cwnu453/)| 72.0 | 172.09 | -62.99 | 0.41 | -6.36 | 1.27 | -13.4 |0.11 |
-    |[OC 0566](/_clusters/oc0566/)| 48.0 | 172.08 | -62.99 | 0.41 | -6.38 | 1.3 | -13.4 |0.18 |
+    |[CWNU 453](/_clusters/cwnu453/)| 72.0 | 172.09 | -62.99 | 0.41 | -6.36 | 1.27 | -13.4 |0.1 |
+    |[OC 0566](/_clusters/oc0566/)| 48.0 | 172.08 | -62.99 | 0.41 | -6.38 | 1.3 | -13.4 |0.17 |
 N_rows_shared: "2"
 ---

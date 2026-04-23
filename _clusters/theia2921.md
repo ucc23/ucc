@@ -13,17 +13,17 @@ glon: 59.32446
 glat: 0.79509
 r50: 9.4
 plx: 0.7564
-UTI: "0.02"
-UTI_COLOR: "#e2a9b3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fcd6c2"
 UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.25
 UTI_C_dens: 0.06
 UTI_C_C3: 0.62
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.12
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 373](/_clusters/cwnu373/)| 88.0 | 294.91 | 23.66 | 0.76 | -0.58 | -3.63 | -20.23 |0.2 |
+    |[CWNU 373](/_clusters/cwnu373/)| 88.0 | 294.91 | 23.66 | 0.76 | -0.58 | -3.63 | -20.23 |0.19 |
 N_rows_shared: "1"
 ---

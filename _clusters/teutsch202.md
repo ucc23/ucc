@@ -16,12 +16,12 @@ plx: 0.1654
 UTI: "0.05"
 UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#dfa5b3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.0
+UTI_C_dens: 0.01
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.6
-dens_val: 0.01
+rc_val: 10
+dens_val: 0.03
 N_membs_val: 24
 scix_url: Teutsch%20202
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1973](/_clusters/cwnu1973/)| 24.0 | 103.53 | -7.75 | 0.21 | -0.76 | 1.36 | -- |0.18 |
+    |[CWNU 1973](/_clusters/cwnu1973/)| 24.0 | 103.53 | -7.75 | 0.21 | -0.76 | 1.36 | -- |0.2 |
 N_rows_shared: "1"
 ---

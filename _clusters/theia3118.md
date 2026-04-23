@@ -13,17 +13,17 @@ glon: 327.15512
 glat: -2.0322
 r50: 5.4
 plx: 0.3265
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.10"
+UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fdddc5"
 UTI_C_N: 0.52
 UTI_C_dens: 0.07
 UTI_C_C3: 1.0
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.28
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -54,7 +54,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
 rc_val: 5.3
-dens_val: 0.4
+dens_val: 0.3
 N_membs_val: 53
 scix_url: Theia%203118
 posit_table: |
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 45](/_clusters/ufmg45/)| 71.7 | 239.71 | -55.81 | 0.33 | -2.58 | -2.9 | -24.95 |0.36 |
+    |[UFMG 45](/_clusters/ufmg45/)| 71.7 | 239.71 | -55.81 | 0.33 | -2.58 | -2.9 | -24.95 |0.38 |
 N_rows_shared: "1"
 ---

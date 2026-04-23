@@ -16,12 +16,12 @@ plx: 3.8408
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#f5c1b8"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.25
-UTI_C_dens: 0.15
+UTI_C_dens: 0.08
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.12
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.3
-dens_val: 0.8
+rc_val: 3.1
+dens_val: 0.4
 N_membs_val: 25
 scix_url: LISC-III%203783
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 86](/_clusters/ocsn86/)| 88.0 | 138.34 | -29.91 | 3.84 | -20.49 | 16.17 | 25.19 |0.21 |
+    |[OCSN 86](/_clusters/ocsn86/)| 88.0 | 138.34 | -29.91 | 3.84 | -20.49 | 16.17 | 25.19 |0.2 |
 N_rows_shared: "1"
 ---

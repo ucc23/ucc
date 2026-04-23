@@ -13,17 +13,17 @@ glon: 264.25114
 glat: 11.19628
 r50: 38.7
 plx: 2.3692
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#f5c1b8"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.3
-UTI_C_dens: 0.15
+UTI_C_dens: 0.09
 UTI_C_C3: 0.5
-UTI_C_lit: 0.81
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-rc_val: 1.4
-dens_val: 0.8
+rc_val: 2.3
+dens_val: 0.5
 N_membs_val: 30
 scix_url: Turner%205
 posit_table: |

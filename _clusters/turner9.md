@@ -13,17 +13,17 @@ glon: 64.94756
 glat: 2.64858
 r50: 6.9
 plx: 0.5645
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.72"
+UTI_COLOR: "#dbefca"
 UTI_C_N_COL: "#d7eec9"
-UTI_C_dens_COL: "#fef7db"
+UTI_C_dens_COL: "#fef0d2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.74
-UTI_C_dens: 0.43
+UTI_C_dens: 0.38
 UTI_C_C3: 0.75
-UTI_C_lit: 0.81
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 2.0
-dens_val: 2.1
+rc_val: 2.4
+dens_val: 1.9
 N_membs_val: 99
 scix_url: Turner%209
 posit_table: |
@@ -123,6 +123,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 14017](/_clusters/cwwdl14017/)| 72.7 | 296.18 | 29.5 | 0.57 | 0.3 | -2.45 | -0.88 |0.01 |
+    |[CWWDL 14017](/_clusters/cwwdl14017/)| 72.7 | 296.18 | 29.5 | 0.57 | 0.3 | -2.45 | -0.88 |0.0 |
 N_rows_shared: "1"
 ---

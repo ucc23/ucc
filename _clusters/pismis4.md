@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 3.0
-dens_val: 2.5
+rc_val: 2.7
+dens_val: 2.6
 N_membs_val: 200
 scix_url: Pismis%204
 posit_table: |

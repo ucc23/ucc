@@ -16,12 +16,12 @@ plx: 0.4638
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fee4c9"
-UTI_C_dens_COL: "#fef4d6"
+UTI_C_dens_COL: "#fef5d7"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.31
-UTI_C_dens: 0.4
+UTI_C_dens: 0.41
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1030](/_clusters/ubc1030/)| 100.0 | 280.75 | -10.02 | 0.46 | 0.49 | -0.86 | 4.79 |0.43 |
+    |[UBC 1030](/_clusters/ubc1030/)| 100.0 | 280.75 | -10.02 | 0.46 | 0.49 | -0.86 | 4.79 |0.42 |
     |[CWWDL 13353](/_clusters/cwwdl13353/)| 96.8 | 280.75 | -10.01 | 0.46 | 0.49 | -0.85 | 4.79 |0.0 |
 N_rows_shared: "2"
 ---

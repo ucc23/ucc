@@ -16,14 +16,14 @@ plx: 0.3451
 UTI: "0.17"
 UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#e2f2cc"
 UTI_C_N: 0.32
-UTI_C_dens: 0.09
+UTI_C_dens: 0.05
 UTI_C_C3: 0.75
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.69
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.4
-dens_val: 0.4
+rc_val: 4.3
+dens_val: 0.2
 N_membs_val: 32
 scix_url: Theia%203716
 posit_table: |

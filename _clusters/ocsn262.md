@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.3
-dens_val: 42
+rc_val: 0.4
+dens_val: 37
 N_membs_val: 52
 scix_url: OCSN%20262
 posit_table: |
@@ -73,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 205](/_clusters/ubc205/)| 98.1 | 84.71 | -2.6 | 2.5 | 1.54 | -0.57 | 29.45 |0.16 |
-    |[Sigma Orionis](/_clusters/sigmaorionis/)| 90.4 | 84.7 | -2.59 | 2.5 | 1.49 | -0.58 | 28.99 |0.82 |
+    |[Sigma Orionis](/_clusters/sigmaorionis/)| 90.4 | 84.7 | -2.59 | 2.5 | 1.49 | -0.58 | 28.99 |0.84 |
 N_rows_shared: "2"
 ---

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.3
-dens_val: 0.02
+rc_val: 5.2
+dens_val: 0.01
 N_membs_val: 12
 scix_url: Bica%20369
 posit_table: |

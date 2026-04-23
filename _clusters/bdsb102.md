@@ -13,17 +13,17 @@ glon: 355.45628
 glat: 0.40616
 r50: 4.8
 plx: 0.2861
-UTI: "0.22"
-UTI_COLOR: "#fbd0bf"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#f1f9d6"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#bfe2c5"
 UTI_C_N: 0.6
-UTI_C_dens: 0.14
+UTI_C_dens: 0.13
 UTI_C_C3: 0.38
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.84
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 2.4
+rc_val: 2.5
 dens_val: 0.7
 N_membs_val: 69
 scix_url: BDSB%20102
@@ -80,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6374](/_clusters/ngc6374/)| 15.9 | 263.09 | -32.6 | 0.34 | -1.53 | -3.07 | -6.56 |0.07 |
+    |[NGC 6374](/_clusters/ngc6374/)| 15.9 | 263.09 | -32.6 | 0.34 | -1.53 | -3.07 | -6.56 |0.09 |
 N_rows_shared: "1"
 ---

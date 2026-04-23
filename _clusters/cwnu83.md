@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 4.4
+rc_val: 4.3
 dens_val: 0.1
 N_membs_val: 19
 scix_url: CWNU%2083
@@ -74,7 +74,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 415](/_clusters/cwnu415/)| 44.0 | 347.86 | 57.41 | 0.91 | 0.24 | -1.38 | -23.5 |0.02 |
     |[CWWDL 14366](/_clusters/cwwdl14366/)| 40.0 | 348.22 | 57.48 | 0.92 | 0.24 | -1.34 | -29.86 |0.13 |
-    |[LISC 3420](/_clusters/lisc3420/)| 20.0 | 348.1 | 57.47 | 0.91 | 0.26 | -1.37 | -31.89 |0.23 |
+    |[LISC 3420](/_clusters/lisc3420/)| 20.0 | 348.1 | 57.47 | 0.91 | 0.26 | -1.37 | -31.89 |0.22 |
     |[Theia 2526](/_clusters/theia2526/)| 16.0 | 348.12 | 57.48 | 0.91 | 0.27 | -1.37 | -31.89 |0.0 |
 N_rows_shared: "4"
 ---

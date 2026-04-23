@@ -13,17 +13,17 @@ glon: 289.55482
 glat: 0.09704
 r50: 3.1
 plx: 0.3687
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.56"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#f7fbde"
 UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.33
 UTI_C_C3: 0.5
-UTI_C_lit: 0.58
+UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.1
+rc_val: 2.5
 dens_val: 1.7
 N_membs_val: 62
 scix_url: Pismis%2017

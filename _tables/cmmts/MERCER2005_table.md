@@ -20,7 +20,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/mcm11/" target="_blank" style="color: red;">MCM 11</a> | Association of stars. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm12/" target="_blank" style="color: red;">MCM 12</a> | Association of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm13/" target="_blank" style="color: red;">MCM 13</a> | Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
-| <a href="{{ site.baseurl }}/_clusters/mcm14/" target="_blank" style="color: $blue;">MCM 14</a> | Associated with mid-IR extended emission. Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. Detected using 'bright' 3.6m magnitude cut. |
+| <a href="{{ site.baseurl }}/_clusters/mcm14/" target="_blank" style="color: red;">MCM 14</a> | Associated with mid-IR extended emission. Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. Detected using 'bright' 3.6m magnitude cut. |
 | <a href="{{ site.baseurl }}/_clusters/mcm15/" target="_blank" style="color: red;">MCM 15</a> | Associated with mid-IR extended emission. Cluster of stars. |
 | <a href="{{ site.baseurl }}/_clusters/mcm16/" target="_blank" style="color: red;">MCM 16</a> | Association of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm17/" target="_blank" style="color: red;">MCM 17</a> | Association of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
@@ -30,7 +30,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/mcm21/" target="_blank" style="color: red;">MCM 21</a> | Associated with mid-IR extended emission. Cluster of stars. |
 | <a href="{{ site.baseurl }}/_clusters/mcm22/" target="_blank" style="color: red;">MCM 22</a> | Associated with mid-IR extended emission. Cluster of stars. |
 | <a href="{{ site.baseurl }}/_clusters/mcm24/" target="_blank" style="color: red;">MCM 24</a> | Associated with mid-IR extended emission. Cluster of stars. |
-| <a href="{{ site.baseurl }}/_clusters/mcm25/" target="_blank" style="color: $blue;">MCM 25</a> | Associated with mid-IR extended emission. Cluster of stars. Appears in 2MASS images. |
+| <a href="{{ site.baseurl }}/_clusters/mcm25/" target="_blank" style="color: red;">MCM 25</a> | Associated with mid-IR extended emission. Cluster of stars. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm26/" target="_blank" style="color: red;">MCM 26</a> | Cluster of stars. Detected using no magnitude cut. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm27/" target="_blank" style="color: $blue;">MCM 27</a> | Association of stars. Detected using no magnitude cut. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm28/" target="_blank" style="color: red;">MCM 28</a> | Associated with mid-IR extended emission. Cluster of stars. |
@@ -86,7 +86,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/mcm76/" target="_blank" style="color: red;">MCM 76</a> | Cluster of stars. Associated with mid-IR extended emission. |
 | <a href="{{ site.baseurl }}/_clusters/mcm77/" target="_blank" style="color: red;">MCM 77</a> | Association of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm78/" target="_blank" style="color: red;">MCM 78</a> | Cluster of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |
-| <a href="{{ site.baseurl }}/_clusters/mcm79/" target="_blank" style="color: $blue;">MCM 79</a> | Cluster of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |
+| <a href="{{ site.baseurl }}/_clusters/mcm79/" target="_blank" style="color: red;">MCM 79</a> | Cluster of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm8/" target="_blank" style="color: red;">MCM 8</a> | Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm80/" target="_blank" style="color: red;">MCM 80</a> | Association of stars. Associated with mid-IR extended emission. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm81/" target="_blank" style="color: red;">MCM 81</a> | Association of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |

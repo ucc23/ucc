@@ -16,12 +16,12 @@ plx: 0.3268
 UTI: "0.10"
 UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fef5d7"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#ecf7d3"
 UTI_C_N: 0.41
-UTI_C_dens: 0.03
+UTI_C_dens: 0.02
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.63
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.3
-dens_val: 0.2
+rc_val: 5.5
+dens_val: 0.1
 N_membs_val: 41
 scix_url: CWWDL%202581
 posit_table: |
@@ -73,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1180](/_clusters/ubc1180/)| 36.6 | 350.34 | 60.96 | 0.34 | -4.0 | -2.19 | -47.6 |0.14 |
-    |[UBC 399](/_clusters/ubc399/)| 12.2 | 351.34 | 61.33 | 0.37 | -4.01 | -2.15 | -57.18 |0.15 |
-    |[Czernik 43](/_clusters/czernik43/)| 9.8 | 351.4 | 61.35 | 0.37 | -3.99 | -2.15 | -55.26 |0.66 |
+    |[UBC 399](/_clusters/ubc399/)| 12.2 | 351.34 | 61.33 | 0.37 | -4.01 | -2.15 | -57.18 |0.16 |
+    |[Czernik 43](/_clusters/czernik43/)| 9.8 | 351.4 | 61.35 | 0.37 | -3.99 | -2.15 | -55.26 |0.7 |
 N_rows_shared: "3"
 ---

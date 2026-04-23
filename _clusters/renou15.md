@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.2
-dens_val: 0.07
+rc_val: 9.7
+dens_val: 0.06
 N_membs_val: 28
 scix_url: Renou%2015
 posit_table: |

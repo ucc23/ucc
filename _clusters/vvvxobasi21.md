@@ -16,12 +16,12 @@ plx: 0.2842
 UTI: "0.10"
 UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#eef7d4"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a6ccba"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fdd9c3"
 UTI_C_N: 0.62
-UTI_C_dens: 1.0
+UTI_C_dens: 0.99
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.26
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.2
-dens_val: 5.2
+rc_val: 1.3
+dens_val: 5.0
 N_membs_val: 74
 scix_url: VVVX-Obasi%2021
 posit_table: |
@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch J0718.0-1642](/_clusters/teutschj071801642/)| 74.3 | 109.52 | -16.71 | 0.27 | -1.59 | 2.3 | -- |0.37 |
+    |[Teutsch J0718.0-1642](/_clusters/teutschj071801642/)| 74.3 | 109.52 | -16.71 | 0.27 | -1.59 | 2.3 | -- |0.35 |
     |[CWNU 2027](/_clusters/cwnu2027/)| 33.8 | 109.51 | -16.71 | 0.27 | -1.6 | 2.3 | -- |0.0 |
 N_rows_shared: "2"
 ---

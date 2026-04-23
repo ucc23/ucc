@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 8.0
+rc_val: 8.2
 dens_val: 0.08
 N_membs_val: 26
 scix_url: VVVX-Obasi%205
@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 106](/_clusters/sai106/)| 61.5 | 139.48 | -51.02 | 0.16 | -3.54 | 3.7 | 33.9 |0.37 |
+    |[SAI 106](/_clusters/sai106/)| 61.5 | 139.48 | -51.02 | 0.16 | -3.54 | 3.7 | 33.9 |0.42 |
     |[VVVX-Obasi 9](/_clusters/vvvxobasi9/)| 57.7 | 139.49 | -51.01 | 0.16 | -3.54 | 3.67 | 33.9 |0.13 |
     |[OC 0509](/_clusters/oc0509/)| 34.6 | 139.48 | -51.02 | 0.14 | -3.54 | 3.73 | 33.9 |0.0 |
 N_rows_shared: "3"

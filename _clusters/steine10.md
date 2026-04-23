@@ -16,12 +16,12 @@ plx: 0.2678
 UTI: "0.08"
 UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fef4d6"
 UTI_C_N: 0.0
-UTI_C_dens: 0.04
+UTI_C_dens: 0.02
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.4
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 1.2
-dens_val: 0.2
+rc_val: 6.5
+dens_val: 0.09
 N_membs_val: 18
 scix_url: Steine%2010
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 164](/_clusters/ubc164/)| 76.0 | 333.99 | 54.0 | 0.27 | -3.33 | -3.33 | -68.79 |0.16 |
+    |[UBC 164](/_clusters/ubc164/)| 76.0 | 333.99 | 54.0 | 0.27 | -3.33 | -3.33 | -68.79 |0.18 |
     |[IC 1442](/_clusters/ic1442/)| 60.0 | 333.98 | 53.99 | 0.26 | -3.33 | -3.32 | -- |0.67 |
 N_rows_shared: "2"
 ---

@@ -13,15 +13,15 @@ glon: 248.7435
 glat: -5.98935
 r50: 45.9
 plx: 2.2999
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#f5c1b8"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f3fad8"
 UTI_C_N: 0.55
-UTI_C_dens: 0.15
+UTI_C_dens: 0.07
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.59
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.4
-dens_val: 0.7
+rc_val: 3.6
+dens_val: 0.4
 N_membs_val: 59
 scix_url: OCSN%2084
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ruprecht 31](/_clusters/ruprecht31/)| 40.7 | 115.71 | -35.3 | 2.3 | -8.25 | 4.27 | 17.4 |0.37 |
+    |[Ruprecht 31](/_clusters/ruprecht31/)| 40.7 | 115.71 | -35.3 | 2.3 | -8.25 | 4.27 | 17.4 |0.45 |
 N_rows_shared: "1"
 ---

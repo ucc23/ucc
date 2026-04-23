@@ -13,17 +13,17 @@ glon: 355.98684
 glat: -0.16965
 r50: 5.7
 plx: 0.231
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.13"
+UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e7adb3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.05
+UTI_C_dens: 0.02
 UTI_C_C3: 0.25
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.3
-dens_val: 0.2
+rc_val: 8.1
+dens_val: 0.08
 N_membs_val: 14
 scix_url: Dutra%20Bica%2050
 posit_table: |
@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ryu 144](/_clusters/ryu144/)| 4.0 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.12 |
+    |[Ryu 144](/_clusters/ryu144/)| 4.0 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.11 |
 N_rows_shared: "1"
 ---

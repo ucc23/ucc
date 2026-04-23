@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.6
+rc_val: 1.3
 dens_val: 1.5
 N_membs_val: 96
 scix_url: Mol%2045

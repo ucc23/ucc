@@ -16,12 +16,12 @@ plx: 0.3812
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#f5fbdc"
+UTI_C_dens_COL: "#fbfde3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.72
-UTI_C_dens: 0.57
+UTI_C_dens: 0.53
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.7
-dens_val: 2.9
+rc_val: 1.9
+dens_val: 2.6
 N_membs_val: 94
 scix_url: CWWDL%205648
 posit_table: |
@@ -74,7 +74,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 1180](/_clusters/fof1180/)| 100.0 | 236.58 | -56.8 | 0.38 | -1.68 | -3.22 | -45.53 |0.0 |
     |[UBC 306](/_clusters/ubc306/)| 100.0 | 236.57 | -56.8 | 0.37 | -1.69 | -3.22 | -43.62 |0.12 |
-    |[UFMG 1](/_clusters/ufmg1/)| 100.0 | 236.58 | -56.8 | 0.37 | -1.67 | -3.23 | -43.98 |0.57 |
+    |[UFMG 1](/_clusters/ufmg1/)| 100.0 | 236.58 | -56.8 | 0.37 | -1.67 | -3.23 | -43.98 |0.64 |
     |[OC 0633](/_clusters/oc0633/)| 38.3 | 236.59 | -56.8 | 0.38 | -1.67 | -3.2 | 99.63 |0.0 |
 N_rows_shared: "4"
 ---

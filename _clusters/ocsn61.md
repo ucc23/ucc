@@ -13,25 +13,25 @@ glon: 204.65478
 glat: -16.90828
 r50: 37.5
 plx: 2.5578
-UTI: "0.44"
-UTI_COLOR: "#fef8dd"
+UTI: "0.53"
+UTI_COLOR: "#fbfde3"
 UTI_C_N_COL: "#bfe2c5"
-UTI_C_dens_COL: "#ceeac8"
+UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f9c9bc"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#d7eec9"
 UTI_C_N: 0.84
-UTI_C_dens: 0.78
+UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.19
+UTI_C_lit: 0.38
 UTI_C_dup: 0.74
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>OCSN 61</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 61</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 3.0
-dens_val: 3.9
+rc_val: 1.0
+dens_val: 6.6
 N_membs_val: 340
 scix_url: OCSN%2061
 posit_table: |
@@ -92,9 +92,9 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 194](/_clusters/ocsn194/)| 27.1 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[Gulliver 6](/_clusters/gulliver6/)| 26.2 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.6 |
-    |[OC 0340](/_clusters/oc0340/)| 5.0 | 84.54 | -0.18 | 2.44 | -0.07 | -0.62 | 24.57 |0.45 |
-    |[OCSN 65](/_clusters/ocsn65/)| 0.3 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.45 |
-    |[OCSN 66](/_clusters/ocsn66/)| 0.3 | 85.38 | -1.87 | 2.5 | 0.07 | -0.89 | 24.93 |0.37 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 26.2 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.65 |
+    |[OC 0340](/_clusters/oc0340/)| 5.0 | 84.54 | -0.18 | 2.44 | -0.07 | -0.62 | 24.57 |0.33 |
+    |[OCSN 65](/_clusters/ocsn65/)| 0.3 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.57 |
+    |[OCSN 66](/_clusters/ocsn66/)| 0.3 | 85.38 | -1.87 | 2.5 | 0.07 | -0.89 | 24.93 |0.35 |
 N_rows_shared: "5"
 ---

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.8
-dens_val: 26
+rc_val: 0.6
+dens_val: 24
 N_membs_val: 130
 scix_url: Trifid
 posit_table: |

@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 2.9
+rc_val: 4.8
 dens_val: 0.1
 N_membs_val: 19
 scix_url: MCM%2084

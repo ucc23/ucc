@@ -16,12 +16,12 @@ plx: 0.8655
 UTI: "0.13"
 UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#fefee8"
-UTI_C_dens_COL: "#f9c9bc"
+UTI_C_dens_COL: "#fbd0bf"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#feeed1"
 UTI_C_N: 0.5
-UTI_C_dens: 0.19
+UTI_C_dens: 0.22
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.37
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.6
-dens_val: 1.0
+rc_val: 2.4
+dens_val: 1.1
 N_membs_val: 51
 scix_url: HXHWL%2057
 posit_table: |
@@ -74,6 +74,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 2510](/_clusters/theia2510/)| 88.2 | 277.01 | -15.36 | 0.87 | -2.66 | -3.57 | 12.94 |0.0 |
     |[CWWDL 14359](/_clusters/cwwdl14359/)| 78.4 | 277.01 | -15.36 | 0.87 | -2.67 | -3.59 | 16.41 |0.02 |
-    |[PHOC 20](/_clusters/phoc20/)| 62.7 | 277.0 | -15.39 | 0.87 | -2.67 | -3.59 | 16.41 |0.3 |
+    |[PHOC 20](/_clusters/phoc20/)| 62.7 | 277.0 | -15.39 | 0.87 | -2.67 | -3.59 | 16.41 |0.29 |
 N_rows_shared: "3"
 ---

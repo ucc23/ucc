@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 70
+rc_val: 10
 dens_val: 0.00
 N_membs_val: 16
 scix_url: BDSB%20105

@@ -13,15 +13,15 @@ glon: 9.38171
 glat: -0.58654
 r50: 5.9
 plx: 0.2817
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#edb2b3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.08
+UTI_C_dens: 0.02
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.7
-dens_val: 0.4
+rc_val: 5.1
+dens_val: 0.1
 N_membs_val: 16
 scix_url: Dias%2087
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ryu 638](/_clusters/ryu638/)| 4.0 | 272.33 | -21.28 | 0.32 | -0.36 | -1.7 | -5.56 |0.12 |
+    |[Ryu 638](/_clusters/ryu638/)| 4.0 | 272.33 | -21.28 | 0.32 | -0.36 | -1.7 | -5.56 |0.08 |
 N_rows_shared: "1"
 ---

@@ -13,25 +13,25 @@ glon: 212.85628
 glat: -2.08722
 r50: 2.6
 plx: 0.342
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.47"
+UTI_COLOR: "#fefbe2"
 UTI_C_N_COL: "#e0f1cb"
-UTI_C_dens_COL: "#add9c0"
+UTI_C_dens_COL: "#ceeac8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
-UTI_C_dens: 0.91
+UTI_C_dens: 0.78
 UTI_C_C3: 0.75
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 59b</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Teutsch 59b</b> is a moderately populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 1.6
-dens_val: 4.5
+rc_val: 1.7
+dens_val: 3.9
 N_membs_val: 89
 scix_url: Teutsch%2059b
 posit_table: |
@@ -75,8 +75,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 59a](/_clusters/teutsch59a/)| 100.0 | 100.97 | -0.89 | 0.34 | -0.65 | 0.67 | 60.94 |0.51 |
-    |[CWWDL 611](/_clusters/cwwdl611/)| 96.6 | 100.96 | -0.88 | 0.33 | -0.64 | 0.66 | 60.94 |0.08 |
+    |[Teutsch 59a](/_clusters/teutsch59a/)| 100.0 | 100.97 | -0.89 | 0.34 | -0.65 | 0.67 | 60.94 |0.52 |
+    |[CWWDL 611](/_clusters/cwwdl611/)| 96.6 | 100.96 | -0.88 | 0.33 | -0.64 | 0.66 | 60.94 |0.07 |
     |[UBC 212](/_clusters/ubc212/)| 91.0 | 100.97 | -0.89 | 0.34 | -0.65 | 0.67 | 64.63 |0.01 |
 N_rows_shared: "3"
 ---

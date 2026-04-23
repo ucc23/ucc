@@ -16,12 +16,12 @@ plx: 0.3362
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fef2d4"
-UTI_C_dens_COL: "#fee9cd"
+UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.39
-UTI_C_dens: 0.34
+UTI_C_dens: 0.33
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -51,7 +51,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
 rc_val: 1.9
-dens_val: 1.7
+dens_val: 1.6
 N_membs_val: 39
 scix_url: CWWDL%203307
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 188](/_clusters/ubc188/)| 100.0 | 27.49 | 53.9 | 0.33 | -0.83 | -1.59 | -70.26 |0.19 |
-    |[SAI 15](/_clusters/sai15/)| 97.4 | 27.49 | 53.9 | 0.34 | -0.82 | -1.62 | -97.29 |0.38 |
+    |[UBC 188](/_clusters/ubc188/)| 100.0 | 27.49 | 53.9 | 0.33 | -0.83 | -1.59 | -70.26 |0.22 |
+    |[SAI 15](/_clusters/sai15/)| 97.4 | 27.49 | 53.9 | 0.34 | -0.82 | -1.62 | -97.29 |0.34 |
 N_rows_shared: "2"
 ---

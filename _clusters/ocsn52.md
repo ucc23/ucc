@@ -16,12 +16,12 @@ plx: 7.7442
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fefbe2"
-UTI_C_dens_COL: "#fdfee6"
+UTI_C_dens_COL: "#fafce1"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.47
-UTI_C_dens: 0.51
+UTI_C_dens: 0.54
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.3
-dens_val: 2.6
+rc_val: 1.2
+dens_val: 2.7
 N_membs_val: 47
 scix_url: OCSN%2052
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 7](/_clusters/theia7/)| 100.0 | 68.63 | 24.72 | 7.68 | 6.71 | -21.2 | 13.0 |0.42 |
+    |[Theia 7](/_clusters/theia7/)| 100.0 | 68.63 | 24.72 | 7.68 | 6.71 | -21.2 | 13.0 |0.45 |
     |[Taurus](/_clusters/taurus/)| 2.1 | 65.78 | 27.29 | 7.72 | 8.8 | -25.91 | 14.81 |0.2 |
 N_rows_shared: "2"
 ---

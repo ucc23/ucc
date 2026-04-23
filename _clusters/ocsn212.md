@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.1
-dens_val: 12
+rc_val: 0.7
+dens_val: 21
 N_membs_val: 573
 scix_url: OCSN%20212
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 640](/_clusters/upk640/)| 100.0 | 250.2 | -39.53 | 5.68 | -11.94 | -21.35 | 0.54 |0.78 |
+    |[UPK 640](/_clusters/upk640/)| 100.0 | 250.2 | -39.53 | 5.68 | -11.94 | -21.35 | 0.54 |0.85 |
     |[FoF 2442](/_clusters/fof2442/)| 98.1 | 250.22 | -39.53 | 5.67 | -11.92 | -21.3 | 0.21 |0.0 |
     |[CWNU 1146](/_clusters/cwnu1146/)| 0.9 | 252.86 | -38.13 | 6.03 | -11.84 | -22.52 | -4.5 |0.0 |
 N_rows_shared: "3"

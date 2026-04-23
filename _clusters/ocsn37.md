@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.7
-dens_val: 8.4
+rc_val: 1.0
+dens_val: 5.6
 N_membs_val: 41
 scix_url: OCSN%2037
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 152](/_clusters/vdb152/)| 100.0 | 333.42 | 70.14 | 2.67 | 5.18 | 0.9 | -32.92 |0.64 |
-    |[CWNU 1241](/_clusters/cwnu1241/)| 12.2 | 336.85 | 70.1 | 2.63 | 5.9 | 0.32 | -16.13 |0.12 |
+    |[VDB 152](/_clusters/vdb152/)| 100.0 | 333.42 | 70.14 | 2.67 | 5.18 | 0.9 | -32.92 |0.73 |
+    |[CWNU 1241](/_clusters/cwnu1241/)| 12.2 | 336.85 | 70.1 | 2.63 | 5.9 | 0.32 | -16.13 |0.13 |
 N_rows_shared: "2"
 ---

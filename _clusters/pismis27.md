@@ -13,25 +13,25 @@ glon: 190.06739
 glat: 0.7981
 r50: 6.4
 plx: 0.5084
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#abd4be"
+UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#ddf0ca"
+UTI_C_lit_COL: "#c9e7c8"
 UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.75
-UTI_C_dens: 0.94
+UTI_C_dens: 0.67
 UTI_C_C3: 0.75
-UTI_C_lit: 0.71
+UTI_C_lit: 0.8
 UTI_C_dup: 0.92
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>Pismis 27</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Pismis 27</b> is a rich, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-rc_val: 1.5
-dens_val: 4.7
+rc_val: 1.7
+dens_val: 3.3
 N_membs_val: 112
 scix_url: Pismis%2027
 posit_table: |
@@ -121,8 +121,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2175](/_clusters/ngc2175/)| 8.0 | 92.4 | 20.6 | 0.5 | 0.29 | -2.26 | 23.04 |0.58 |
+    |[NGC 2175](/_clusters/ngc2175/)| 8.0 | 92.4 | 20.6 | 0.5 | 0.29 | -2.26 | 23.04 |0.7 |
     |[IRAS 06068+2030](/_clusters/iras06068p2030/)| 3.6 | 92.45 | 20.51 | 0.52 | 0.17 | -2.35 | -- |0.02 |
-    |[NGC 2174](/_clusters/ngc2174/)| 1.8 | 92.44 | 20.52 | 0.54 | 0.14 | -2.37 | -- |0.04 |
+    |[NGC 2174](/_clusters/ngc2174/)| 1.8 | 92.44 | 20.52 | 0.54 | 0.14 | -2.37 | -- |0.03 |
 N_rows_shared: "3"
 ---

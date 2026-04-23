@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.2
-dens_val: 14
+rc_val: 1.7
+dens_val: 10
 N_membs_val: 688
 scix_url: OCSN%20194
 posit_table: |
@@ -72,10 +72,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 96.2 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.6 |
-    |[UBC 17 b](/_clusters/ubc17b/)| 26.0 | 83.17 | -1.71 | 2.4 | 0.07 | -0.22 | 25.62 |0.63 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 96.2 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.65 |
+    |[UBC 17 b](/_clusters/ubc17b/)| 26.0 | 83.17 | -1.71 | 2.4 | 0.07 | -0.22 | 25.62 |0.71 |
     |[Theia 13](/_clusters/theia13/)| 14.2 | 83.14 | -1.76 | 2.4 | 0.08 | -0.22 | 25.77 |0.0 |
-    |[OCSN 61](/_clusters/ocsn61/)| 13.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.44 |
-    |[OCSN 65](/_clusters/ocsn65/)| 5.4 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.45 |
+    |[OCSN 61](/_clusters/ocsn61/)| 13.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.53 |
+    |[OCSN 65](/_clusters/ocsn65/)| 5.4 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.57 |
 N_rows_shared: "5"
 ---

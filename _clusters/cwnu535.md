@@ -16,12 +16,12 @@ plx: 0.5558
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#feecd0"
+UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.3
-UTI_C_dens: 0.36
+UTI_C_dens: 0.31
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.5
-dens_val: 1.8
+rc_val: 1.6
+dens_val: 1.5
 N_membs_val: 30
 scix_url: CWNU%20535
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1586](/_clusters/ubc1586/)| 100.0 | 138.99 | -44.86 | 0.56 | -5.2 | 5.15 | 20.18 |0.23 |
+    |[UBC 1586](/_clusters/ubc1586/)| 100.0 | 138.99 | -44.86 | 0.56 | -5.2 | 5.15 | 20.18 |0.22 |
     |[CWWDL 13965](/_clusters/cwwdl13965/)| 96.7 | 138.98 | -44.85 | 0.55 | -5.19 | 5.14 | 20.18 |0.09 |
     |[Theia 3337](/_clusters/theia3337/)| 96.7 | 138.99 | -44.87 | 0.56 | -5.2 | 5.15 | 20.18 |0.02 |
 N_rows_shared: "3"

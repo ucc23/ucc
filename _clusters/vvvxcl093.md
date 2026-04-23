@@ -13,15 +13,15 @@ glon: 14.02943
 glat: -0.42262
 r50: 8.2
 plx: 0.6058
-UTI: "0.29"
-UTI_COLOR: "#fddfc6"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#fee4c9"
+UTI_C_dens_COL: "#fdddc5"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a7cebb"
 UTI_C_N: 0.77
-UTI_C_dens: 0.31
+UTI_C_dens: 0.28
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.98
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.6
-dens_val: 1.6
+rc_val: 1.6
+dens_val: 1.4
 N_membs_val: 165
 scix_url: VVVX%20CL093
 posit_table: |
@@ -72,7 +72,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[VVVX CL092](/_clusters/vvvxcl092/)| 7.9 | 274.26 | -17.08 | 0.56 | -1.18 | -2.63 | -- |0.04 |
     |[Ryu 210](/_clusters/ryu210/)| 4.8 | 274.31 | -16.91 | 0.56 | -0.78 | -2.23 | 13.88 |0.12 |
-    |[MCM 3](/_clusters/mcm3/)| 1.8 | 274.71 | -17.05 | 0.61 | -0.61 | -2.17 | 15.3 |0.09 |
-    |[VVVX CL087](/_clusters/vvvxcl087/)| 0.6 | 274.07 | -16.87 | 0.44 | -1.13 | -2.19 | -- |0.06 |
+    |[MCM 3](/_clusters/mcm3/)| 1.8 | 274.71 | -17.05 | 0.61 | -0.61 | -2.17 | 15.3 |0.08 |
+    |[VVVX CL087](/_clusters/vvvxcl087/)| 0.6 | 274.07 | -16.87 | 0.44 | -1.13 | -2.19 | -- |0.05 |
 N_rows_shared: "4"
 ---

@@ -51,7 +51,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
 rc_val: 1.1
-dens_val: 10
+dens_val: 9.4
 N_membs_val: 104
 scix_url: CWWDL%202845
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kronberger 36](/_clusters/kronberger36/)| 97.1 | 301.14 | 35.24 | 0.38 | -2.42 | -4.0 | 7.25 |0.55 |
+    |[Kronberger 36](/_clusters/kronberger36/)| 97.1 | 301.14 | 35.24 | 0.38 | -2.42 | -4.0 | 7.25 |0.6 |
     |[UBC 137](/_clusters/ubc137/)| 55.8 | 301.14 | 35.24 | 0.39 | -2.42 | -4.0 | -- |0.0 |
 N_rows_shared: "2"
 ---

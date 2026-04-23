@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.0
-dens_val: 0.2
+rc_val: 6.7
+dens_val: 0.1
 N_membs_val: 17
 scix_url: Mol%2075
 posit_table: |

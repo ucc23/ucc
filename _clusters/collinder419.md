@@ -13,17 +13,17 @@ glon: 78.19225
 glat: 2.7765
 r50: 8.9
 plx: 0.9735
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.89"
+UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#c9e7c8"
-UTI_C_dens_COL: "#add9c0"
+UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
-UTI_C_dens: 0.91
+UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 3.0
-dens_val: 4.6
+rc_val: 0.7
+dens_val: 20
 N_membs_val: 223
 scix_url: Collinder%20419
 posit_table: |
@@ -131,6 +131,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0223](/_clusters/fsr0223/)| 7.6 | 304.9 | 40.92 | 0.97 | -2.46 | -6.3 | -15.71 |0.09 |
+    |[FSR 0223](/_clusters/fsr0223/)| 7.6 | 304.9 | 40.92 | 0.97 | -2.46 | -6.3 | -15.71 |0.06 |
 N_rows_shared: "1"
 ---

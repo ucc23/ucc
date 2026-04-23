@@ -60,8 +60,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "10"
-rc_val: 1.5
-dens_val: 23
+rc_val: 1.3
+dens_val: 24
 N_membs_val: 861
 scix_url: VDBH%2099
 posit_table: |

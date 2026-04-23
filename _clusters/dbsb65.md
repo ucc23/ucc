@@ -16,12 +16,12 @@ plx: 0.3171
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.02
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 4.8
+rc_val: 5.7
 dens_val: 0.1
 N_membs_val: 14
 scix_url: DBSB%2065
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 65](/_clusters/ascc65/)| 4.0 | 167.82 | -61.12 | 0.38 | -6.29 | 1.14 | 3.01 |0.57 |
+    |[ASCC 65](/_clusters/ascc65/)| 4.0 | 167.82 | -61.12 | 0.38 | -6.29 | 1.14 | 3.01 |0.73 |
 N_rows_shared: "1"
 ---

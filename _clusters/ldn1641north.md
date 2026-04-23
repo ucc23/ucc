@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 0.3
-dens_val: 15
+rc_val: 0.4
+dens_val: 12
 N_membs_val: 25
 scix_url: LDN1641%20North
 posit_table: |
@@ -71,7 +71,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0347](/_clusters/oc0347/)| 88.0 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
-    |[Morgan 8](/_clusters/morgan8/)| 72.0 | 84.13 | -6.42 | 2.55 | 0.85 | 0.3 | 16.82 |0.37 |
+    |[Morgan 8](/_clusters/morgan8/)| 72.0 | 84.13 | -6.42 | 2.55 | 0.85 | 0.3 | 16.82 |0.41 |
     |[UBC 208](/_clusters/ubc208/)| 20.0 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
     |[NGC 1980](/_clusters/ngc1980/)| 16.0 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.88 |
     |[OCSN 226](/_clusters/ocsn226/)| 12.0 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |

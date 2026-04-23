@@ -13,15 +13,15 @@ glon: 17.18624
 glat: 12.52411
 r50: 55.3
 plx: 5.0477
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#f0f8d5"
+UTI_C_dens_COL: "#fefee8"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#edb2b3"
 UTI_C_N: 0.76
-UTI_C_dens: 0.61
+UTI_C_dens: 0.5
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.08
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 3.0
+rc_val: 2.0
+dens_val: 2.5
 N_membs_val: 119
 scix_url: OCSN%20216
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Mamajek 2](/_clusters/mamajek2/)| 92.4 | 264.46 | -7.93 | 5.05 | -10.85 | -20.72 | -17.9 |0.6 |
+    |[Mamajek 2](/_clusters/mamajek2/)| 92.4 | 264.46 | -7.93 | 5.05 | -10.85 | -20.72 | -17.9 |0.69 |
     |[CWWDL 14696](/_clusters/cwwdl14696/)| 28.6 | 264.35 | -7.95 | 5.11 | -11.13 | -20.88 | -17.8 |0.0 |
 N_rows_shared: "2"
 ---

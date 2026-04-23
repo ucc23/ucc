@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 4.6
+rc_val: 5.2
 dens_val: 0.2
 N_membs_val: 23
 scix_url: XDOCC%2010
@@ -75,6 +75,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1101](/_clusters/ubc1101/)| 72.0 | 305.72 | 37.19 | 0.49 | -2.38 | -5.32 | 46.61 |0.31 |
     |[CWWDL 1872](/_clusters/cwwdl1872/)| 24.0 | 305.53 | 37.13 | 0.5 | -2.43 | -5.33 | 53.95 |0.05 |
-    |[Theia 1975](/_clusters/theia1975/)| 20.0 | 305.52 | 37.04 | 0.5 | -2.4 | -5.36 | 53.95 |0.06 |
+    |[Theia 1975](/_clusters/theia1975/)| 20.0 | 305.52 | 37.04 | 0.5 | -2.4 | -5.36 | 53.95 |0.07 |
 N_rows_shared: "3"
 ---

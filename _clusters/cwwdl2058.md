@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 9.0
-dens_val: 0.06
+rc_val: 10
+dens_val: 0.04
 N_membs_val: 18
 scix_url: CWWDL%202058
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1685](/_clusters/hsc1685/)| 4.0 | 103.31 | -0.64 | 0.18 | -0.2 | 0.6 | 59.72 |0.06 |
+    |[HSC 1685](/_clusters/hsc1685/)| 4.0 | 103.31 | -0.64 | 0.18 | -0.2 | 0.6 | 59.72 |0.07 |
 N_rows_shared: "1"
 ---

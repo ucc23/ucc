@@ -53,7 +53,7 @@ class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
 rc_val: 0.4
-dens_val: 21
+dens_val: 22
 N_membs_val: 23
 scix_url: OMC-2
 posit_table: |
@@ -76,11 +76,11 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 225](/_clusters/ocsn225/)| 96.0 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
-    |[NGC 1976](/_clusters/ngc1976/)| 32.0 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.75 |
-    |[NGC 1977](/_clusters/ngc1977/)| 20.0 | 83.84 | -4.86 | 2.53 | 1.26 | -0.71 | 23.87 |0.79 |
+    |[NGC 1976](/_clusters/ngc1976/)| 32.0 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.78 |
+    |[NGC 1977](/_clusters/ngc1977/)| 20.0 | 83.84 | -4.86 | 2.53 | 1.26 | -0.71 | 23.87 |0.82 |
     |[Orion Nebula](/_clusters/orionnebula/)| 20.0 | 83.82 | -5.36 | 2.51 | 1.23 | 0.18 | 25.16 |0.34 |
     |[UBC 621](/_clusters/ubc621/)| 20.0 | 83.83 | -4.86 | 2.53 | 1.25 | -0.72 | 22.95 |0.05 |
-    |[OC 0345](/_clusters/oc0345/)| 12.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.02 |
+    |[OC 0345](/_clusters/oc0345/)| 12.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.01 |
     |[OCSN 244](/_clusters/ocsn244/)| 8.0 | 83.82 | -5.43 | 2.52 | 1.39 | 0.33 | 25.62 |0.25 |
     |[OMC-1](/_clusters/omc1/)| 8.0 | 83.82 | -5.37 | 2.5 | 0.95 | -0.07 | -7.13 |0.39 |
 N_rows_shared: "8"

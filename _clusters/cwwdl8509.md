@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 9.9
+rc_val: 10
 dens_val: 0.05
 N_membs_val: 18
 scix_url: CWWDL%208509
@@ -73,8 +73,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 2007](/_clusters/cwwdl2007/)| 20.0 | 37.43 | 59.78 | 0.35 | -0.06 | -0.49 | -- |0.05 |
-    |[Ferrero 38](/_clusters/ferrero38/)| 16.0 | 37.57 | 59.79 | 0.34 | -0.09 | -0.49 | -51.17 |0.33 |
-    |[UBC 190](/_clusters/ubc190/)| 12.0 | 37.43 | 59.79 | 0.34 | -0.07 | -0.49 | -- |0.08 |
-    |[OC 0249](/_clusters/oc0249/)| 4.0 | 37.37 | 59.83 | 0.35 | -0.07 | -0.46 | -- |0.03 |
+    |[Ferrero 38](/_clusters/ferrero38/)| 16.0 | 37.57 | 59.79 | 0.34 | -0.09 | -0.49 | -51.17 |0.32 |
+    |[UBC 190](/_clusters/ubc190/)| 12.0 | 37.43 | 59.79 | 0.34 | -0.07 | -0.49 | -- |0.1 |
+    |[OC 0249](/_clusters/oc0249/)| 4.0 | 37.37 | 59.83 | 0.35 | -0.07 | -0.46 | -- |0.02 |
 N_rows_shared: "4"
 ---

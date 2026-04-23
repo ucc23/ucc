@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3673](/_clusters/cwnu3673/)| 12.0 | 127.96 | -35.83 | 0.17 | -2.34 | 2.74 | 60.7 |0.15 |
+    |[CWNU 3673](/_clusters/cwnu3673/)| 12.0 | 127.96 | -35.83 | 0.17 | -2.34 | 2.74 | 60.7 |0.13 |
 N_rows_shared: "1"
 ---

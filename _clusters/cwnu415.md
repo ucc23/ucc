@@ -16,12 +16,12 @@ plx: 0.9101
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#edb2b3"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee5ca"
 UTI_C_N: 0.0
-UTI_C_dens: 0.08
+UTI_C_dens: 0.07
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.32
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.4
-dens_val: 0.4
+rc_val: 3.6
+dens_val: 0.3
 N_membs_val: 23
 scix_url: CWNU%20415
 posit_table: |
@@ -73,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14366](/_clusters/cwwdl14366/)| 92.0 | 348.22 | 57.48 | 0.92 | 0.24 | -1.34 | -29.86 |0.13 |
-    |[LISC 3420](/_clusters/lisc3420/)| 68.0 | 348.1 | 57.47 | 0.91 | 0.26 | -1.37 | -31.89 |0.23 |
+    |[LISC 3420](/_clusters/lisc3420/)| 68.0 | 348.1 | 57.47 | 0.91 | 0.26 | -1.37 | -31.89 |0.22 |
     |[Theia 2526](/_clusters/theia2526/)| 64.0 | 348.12 | 57.48 | 0.91 | 0.27 | -1.37 | -31.89 |0.0 |
     |[CWNU 83](/_clusters/cwnu83/)| 44.0 | 347.51 | 57.0 | 0.91 | 0.19 | -1.4 | -19.28 |0.04 |
 N_rows_shared: "4"

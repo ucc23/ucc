@@ -13,25 +13,25 @@ glon: 95.54841
 glat: -17.81228
 r50: 28.6
 plx: 2.04
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.76"
+UTI_COLOR: "#d3ecc9"
 UTI_C_N_COL: "#ceeac8"
-UTI_C_dens_COL: "#fafce1"
+UTI_C_dens_COL: "#cce9c8"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#ecf7d3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
-UTI_C_dens: 0.54
+UTI_C_dens: 0.79
 UTI_C_C3: 1.0
-UTI_C_lit: 0.45
+UTI_C_lit: 0.63
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 39</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Teutsch 39</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-rc_val: 2.0
-dens_val: 2.7
+rc_val: 1.4
+dens_val: 3.9
 N_membs_val: 175
 scix_url: Teutsch%2039
 posit_table: |
@@ -105,7 +105,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 29](/_clusters/ocsn29/)| 50.9 | 339.15 | 37.72 | 2.03 | -1.72 | -6.19 | -13.08 |0.02 |
-    |[CWWDL 14543](/_clusters/cwwdl14543/)| 25.1 | 339.72 | 37.29 | 2.01 | -1.55 | -6.12 | -13.97 |0.08 |
+    |[CWWDL 14543](/_clusters/cwwdl14543/)| 25.1 | 339.72 | 37.29 | 2.01 | -1.55 | -6.12 | -13.97 |0.09 |
     |[FoF 2379](/_clusters/fof2379/)| 10.3 | 339.63 | 38.15 | 1.98 | -1.56 | -5.8 | -21.27 |0.14 |
     |[CWWDL 14563](/_clusters/cwwdl14563/)| 1.1 | 339.57 | 38.97 | 2.0 | -1.59 | -5.35 | -22.61 |0.24 |
 N_rows_shared: "4"

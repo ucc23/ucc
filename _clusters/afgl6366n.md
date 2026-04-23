@@ -16,12 +16,12 @@ plx: 0.4898
 UTI: "0.09"
 UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#f9c9bc"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.21
+UTI_C_dens: 0.19
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.1
+rc_val: 2.1
 dens_val: 1.0
 N_membs_val: 23
 scix_url: AFGL6366-N
@@ -70,9 +70,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gem4](/_clusters/gem4/)| 88.0 | 92.13 | 21.53 | 0.47 | 0.38 | -1.91 | -- |0.26 |
-    |[AFGL6366-S](/_clusters/afgl6366s/)| 60.0 | 92.13 | 21.52 | 0.48 | 0.4 | -1.91 | -- |0.27 |
-    |[DB2001-27](/_clusters/db200127/)| 36.0 | 92.38 | 21.4 | 0.52 | 0.19 | -2.35 | 44.54 |0.3 |
+    |[Gem4](/_clusters/gem4/)| 88.0 | 92.13 | 21.53 | 0.47 | 0.38 | -1.91 | -- |0.25 |
+    |[AFGL6366-S](/_clusters/afgl6366s/)| 60.0 | 92.13 | 21.52 | 0.48 | 0.4 | -1.91 | -- |0.21 |
+    |[DB2001-27](/_clusters/db200127/)| 36.0 | 92.38 | 21.4 | 0.52 | 0.19 | -2.35 | 44.54 |0.28 |
     |[AFGL5180](/_clusters/afgl5180/)| 4.0 | 92.18 | 21.68 | 0.36 | -0.07 | -1.48 | 30.87 |0.06 |
 N_rows_shared: "4"
 ---

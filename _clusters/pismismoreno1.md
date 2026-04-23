@@ -58,7 +58,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "7"
 rc_val: 0.6
-dens_val: 25
+dens_val: 24
 N_membs_val: 133
 scix_url: Pismis%20Moreno%201
 posit_table: |

@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.1
-dens_val: 7.8
+rc_val: 1.2
+dens_val: 6.7
 N_membs_val: 150
 scix_url: LISC-III%203263
 posit_table: |
@@ -73,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 115](/_clusters/ubc115/)| 95.3 | 293.93 | -3.65 | 1.68 | -0.46 | -5.03 | 3.58 |0.12 |
-    |[UPK 42](/_clusters/upk42/)| 89.3 | 293.93 | -3.65 | 1.69 | -0.45 | -5.02 | 3.98 |0.71 |
+    |[UPK 42](/_clusters/upk42/)| 89.3 | 293.93 | -3.65 | 1.69 | -0.45 | -5.02 | 3.98 |0.79 |
 N_rows_shared: "2"
 ---

@@ -52,7 +52,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
 rc_val: 0.8
-dens_val: 6.8
+dens_val: 6.6
 N_membs_val: 213
 scix_url: VVVX%20CL088
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 191](/_clusters/cwnu191/)| 2.3 | 274.1 | -20.18 | 0.51 | 1.13 | -0.38 | -15.74 |0.31 |
-    |[Dias 5](/_clusters/dias5/)| 0.5 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.78 |
+    |[CWNU 191](/_clusters/cwnu191/)| 2.3 | 274.1 | -20.18 | 0.51 | 1.13 | -0.38 | -15.74 |0.32 |
+    |[Dias 5](/_clusters/dias5/)| 0.5 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.82 |
 N_rows_shared: "2"
 ---

@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.3
+rc_val: 0.5
 dens_val: 20
 N_membs_val: 34
 scix_url: Ryu%2050
@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2785](/_clusters/cwnu2785/)| 47.1 | 244.87 | -46.59 | 0.54 | -1.37 | -1.55 | -61.38 |0.09 |
+    |[CWNU 2785](/_clusters/cwnu2785/)| 47.1 | 244.87 | -46.59 | 0.54 | -1.37 | -1.55 | -61.38 |0.06 |
 N_rows_shared: "1"
 ---

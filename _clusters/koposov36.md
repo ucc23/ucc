@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 1.5
-dens_val: 6.5
+rc_val: 1.4
+dens_val: 6.6
 N_membs_val: 134
 scix_url: Koposov%2036
 posit_table: |

@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.6
-dens_val: 15
+rc_val: 0.8
+dens_val: 9.7
 N_membs_val: 63
 scix_url: UPK%2071
 posit_table: |

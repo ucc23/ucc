@@ -13,15 +13,15 @@ glon: 123.24945
 glat: -13.31786
 r50: 14.6
 plx: 1.4108
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.84"
+UTI_COLOR: "#bfe2c5"
 UTI_C_N_COL: "#d7eec9"
-UTI_C_dens_COL: "#fefde6"
+UTI_C_dens_COL: "#fefae1"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.74
-UTI_C_dens: 0.49
+UTI_C_dens: 0.46
 UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-rc_val: 2.0
-dens_val: 2.4
+rc_val: 2.2
+dens_val: 2.3
 N_membs_val: 99
 scix_url: Alessi%201
 posit_table: |

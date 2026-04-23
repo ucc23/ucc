@@ -16,12 +16,12 @@ plx: 7.7184
 UTI: "0.20"
 UTI_COLOR: "#fbcbbd"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#f6c2b8"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#b4ddc3"
 UTI_C_N: 0.25
-UTI_C_dens: 0.16
+UTI_C_dens: 0.14
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.88
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.6
-dens_val: 0.8
+rc_val: 3.0
+dens_val: 0.7
 N_membs_val: 25
 scix_url: Taurus
 posit_table: |
@@ -74,7 +74,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 268](/_clusters/ocsn268/)| 80.0 | 64.65 | 28.2 | 7.66 | 8.79 | -25.31 | 14.92 |0.39 |
     |[HSC 1318](/_clusters/hsc1318/)| 40.0 | 64.5 | 28.21 | 7.66 | 8.72 | -25.42 | 15.41 |0.0 |
-    |[Theia 7](/_clusters/theia7/)| 12.0 | 68.63 | 24.72 | 7.68 | 6.71 | -21.2 | 13.0 |0.42 |
+    |[Theia 7](/_clusters/theia7/)| 12.0 | 68.63 | 24.72 | 7.68 | 6.71 | -21.2 | 13.0 |0.45 |
     |[OCSN 52](/_clusters/ocsn52/)| 4.0 | 68.73 | 24.35 | 7.74 | 7.0 | -21.17 | 14.64 |0.0 |
 N_rows_shared: "4"
 ---

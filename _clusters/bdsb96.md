@@ -13,17 +13,17 @@ glon: 225.48973
 glat: -2.55716
 r50: 15.7
 plx: 0.8551
-UTI: "0.76"
-UTI_COLOR: "#d3ecc9"
+UTI: "0.80"
+UTI_COLOR: "#c9e7c8"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f0f8d5"
+UTI_C_lit_COL: "#d9eeca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.61
+UTI_C_lit: 0.73
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "8"
-rc_val: 1.1
-dens_val: 13
+rc_val: 1.2
+dens_val: 11
 N_membs_val: 241
 scix_url: BDSB96
 posit_table: |
@@ -115,7 +115,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FOF 2216](/_clusters/fof2216/)| 31.5 | 106.58 | -12.81 | 0.87 | -3.41 | 0.78 | 29.19 |0.2 |
-    |[XDOCC 03](/_clusters/xdocc03/)| 0.4 | 106.91 | -13.03 | 0.86 | -3.38 | 0.6 | 29.19 |0.06 |
+    |[FOF 2216](/_clusters/fof2216/)| 31.5 | 106.58 | -12.81 | 0.87 | -3.41 | 0.78 | 29.19 |0.23 |
+    |[XDOCC 03](/_clusters/xdocc03/)| 0.4 | 106.91 | -13.03 | 0.86 | -3.38 | 0.6 | 29.19 |0.05 |
 N_rows_shared: "2"
 ---

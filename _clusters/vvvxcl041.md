@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 12
-dens_val: 0.01
+rc_val: 10
+dens_val: 0.02
 N_membs_val: 39
 scix_url: VVVX%20CL041
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ryu 336](/_clusters/ryu336/)| 2.6 | 247.87 | -44.17 | 0.18 | -5.17 | -6.35 | -50.0 |0.08 |
+    |[Ryu 336](/_clusters/ryu336/)| 2.6 | 247.87 | -44.17 | 0.18 | -5.17 | -6.35 | -50.0 |0.06 |
 N_rows_shared: "1"
 ---

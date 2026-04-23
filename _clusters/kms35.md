@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 0.3
-dens_val: 31
+rc_val: 0.4
+dens_val: 18
 N_membs_val: 25
 scix_url: KMS35
 posit_table: |

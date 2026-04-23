@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#ceeac8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.77
 UTI_C_dens: 0.78
 UTI_C_C3: 0.75
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 0.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
@@ -81,7 +81,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC 0901](/_clusters/lisc0901/)| 100.0 | 133.92 | -38.57 | 0.24 | -4.98 | 3.86 | 53.53 |0.51 |
+    |[LISC 0901](/_clusters/lisc0901/)| 100.0 | 133.92 | -38.57 | 0.24 | -4.98 | 3.86 | 53.53 |0.47 |
     |[UBC 1438](/_clusters/ubc1438/)| 87.7 | 133.92 | -38.57 | 0.23 | -5.01 | 3.84 | 51.67 |0.0 |
     |[CWWDL 3104](/_clusters/cwwdl3104/)| 50.6 | 133.93 | -38.57 | 0.23 | -5.01 | 3.84 | 49.16 |0.0 |
 N_rows_shared: "3"

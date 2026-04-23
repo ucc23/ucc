@@ -13,8 +13,8 @@ glon: 287.81182
 glat: -4.29784
 r50: 9.9
 plx: 0.156
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.02"
+UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#f2bab5"
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 13
-dens_val: 0.01
+rc_val: 2.3
+dens_val: 0.00
 N_membs_val: 8
 scix_url: CKCWDM%2025324
 posit_table: |

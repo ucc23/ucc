@@ -54,7 +54,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "4"
-rc_val: 2.9
+rc_val: 2.6
 dens_val: 0.3
 N_membs_val: 22
 scix_url: Theia%203067

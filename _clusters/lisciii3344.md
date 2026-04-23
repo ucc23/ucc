@@ -16,12 +16,12 @@ plx: 0.8556
 UTI: "0.11"
 UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#feecd0"
+UTI_C_dens_COL: "#fef4d6"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fddfc6"
 UTI_C_N: 0.76
-UTI_C_dens: 0.36
+UTI_C_dens: 0.4
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.29
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.3
-dens_val: 1.8
+rc_val: 3.0
+dens_val: 2.0
 N_membs_val: 122
 scix_url: LISC-III%203344
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 177](/_clusters/teutsch177/)| 71.3 | 100.4 | -5.79 | 0.85 | -0.08 | -0.87 | 10.74 |0.46 |
+    |[Teutsch 177](/_clusters/teutsch177/)| 71.3 | 100.4 | -5.79 | 0.85 | -0.08 | -0.87 | 10.74 |0.5 |
     |[UBC 216](/_clusters/ubc216/)| 49.2 | 100.42 | -5.78 | 0.84 | -0.08 | -0.88 | 13.61 |0.0 |
 N_rows_shared: "2"
 ---

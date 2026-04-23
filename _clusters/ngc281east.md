@@ -13,15 +13,15 @@ glon: 123.30444
 glat: -6.28972
 r50: 10.3
 plx: 0.3543
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fefae1"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#add9c0"
 UTI_C_N: 0.46
-UTI_C_dens: 0.12
+UTI_C_dens: 0.04
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.91
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 1.5
-dens_val: 0.6
+rc_val: 2.4
+dens_val: 0.2
 N_membs_val: 46
 scix_url: NGC%20281-east
 posit_table: |
@@ -76,6 +76,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[IC 1590](/_clusters/ic1590/)| 8.7 | 13.22 | 56.63 | 0.34 | -2.36 | -1.49 | -73.17 |0.05 |
-    |[NGC 281](/_clusters/ngc281/)| 8.7 | 13.22 | 56.63 | 0.33 | -2.36 | -1.5 | -67.2 |0.53 |
+    |[NGC 281](/_clusters/ngc281/)| 8.7 | 13.22 | 56.63 | 0.33 | -2.36 | -1.5 | -67.2 |0.54 |
 N_rows_shared: "2"
 ---

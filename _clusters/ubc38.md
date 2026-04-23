@@ -51,7 +51,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
 rc_val: 1.0
-dens_val: 8.7
+dens_val: 8.3
 N_membs_val: 113
 scix_url: UBC%2038
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 3](/_clusters/coingaia3/)| 99.1 | 18.73 | 60.5 | 0.8 | -2.46 | -1.89 | -34.42 |0.63 |
+    |[COIN-Gaia 3](/_clusters/coingaia3/)| 99.1 | 18.73 | 60.5 | 0.8 | -2.46 | -1.89 | -34.42 |0.72 |
 N_rows_shared: "1"
 ---

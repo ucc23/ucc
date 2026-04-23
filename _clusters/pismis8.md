@@ -13,17 +13,17 @@ glon: 265.08416
 glat: -2.58535
 r50: 5.6
 plx: 0.5372
-UTI: "0.92"
-UTI_COLOR: "#add7c0"
+UTI: "0.93"
+UTI_COLOR: "#acd6bf"
 UTI_C_N_COL: "#d7eec9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "7"
-rc_val: 1.1
-dens_val: 6.9
+rc_val: 1.3
+dens_val: 6.2
 N_membs_val: 98
 scix_url: Pismis%208
 posit_table: |
@@ -135,6 +135,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 58](/_clusters/fof58/)| 9.2 | 129.9 | -46.29 | 0.54 | -5.83 | 5.09 | -1.51 |0.13 |
     |[OC 0484](/_clusters/oc0484/)| 8.2 | 130.25 | -46.52 | 0.54 | -5.74 | 5.05 | 41.74 |0.08 |
-    |[OC 0482](/_clusters/oc0482/)| 7.1 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.12 |
+    |[OC 0482](/_clusters/oc0482/)| 7.1 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.11 |
 N_rows_shared: "3"
 ---

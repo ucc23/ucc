@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 0.7
-dens_val: 19
+rc_val: 0.8
+dens_val: 17
 N_membs_val: 87
 scix_url: Cep%20OB4
 posit_table: |
@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Berkeley 59](/_clusters/berkeley59/)| 100.0 | 0.57 | 67.45 | 0.95 | -1.63 | -1.84 | -14.09 |0.89 |
+    |[Berkeley 59](/_clusters/berkeley59/)| 100.0 | 0.57 | 67.45 | 0.95 | -1.63 | -1.84 | -14.09 |0.9 |
 N_rows_shared: "1"
 ---

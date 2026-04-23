@@ -16,14 +16,14 @@ plx: 0.1058
 UTI: "0.34"
 UTI_COLOR: "#fee9cd"
 UTI_C_N_COL: "#cce9c8"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
-UTI_C_dens: 0.21
+UTI_C_dens: 0.14
 UTI_C_C3: 0.62
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very loose
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 3.1
-dens_val: 1.0
+rc_val: 4.1
+dens_val: 0.7
 N_membs_val: 200
 scix_url: Teutsch%2062
 posit_table: |

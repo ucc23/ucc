@@ -13,25 +13,25 @@ glon: 138.02126
 glat: 1.4998
 r50: 4.0
 plx: 0.4366
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.66"
+UTI_COLOR: "#e7f4cf"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f9c9bc"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.19
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 34</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.29 kpc) differs significantly from the median photometric distance (~1.08 kpc).</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Collinder 34</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.29 kpc) differs significantly from the median photometric distance (~1.08 kpc).</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.1
+rc_val: 1.3
 dens_val: 7.2
 N_membs_val: 188
 scix_url: Collinder%2034
@@ -81,9 +81,9 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.37 |
+    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.38 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 13.8 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.02 |
-    |[AFGL4029](/_clusters/afgl4029/)| 2.1 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.08 |
+    |[AFGL4029](/_clusters/afgl4029/)| 2.1 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.06 |
     |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 0.5 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.2 |
 N_rows_shared: "4"
 ---

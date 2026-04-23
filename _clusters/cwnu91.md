@@ -13,15 +13,15 @@ glon: 232.71549
 glat: -8.32082
 r50: 21.9
 plx: 1.216
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#cce9c8"
-UTI_C_dens_COL: "#fef7db"
+UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f8c6ba"
 UTI_C_N: 0.79
-UTI_C_dens: 0.43
+UTI_C_dens: 0.3
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.18
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.6
-dens_val: 2.1
+rc_val: 1.8
+dens_val: 1.5
 N_membs_val: 210
 scix_url: CWNU%2091
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC 3392](/_clusters/lisc3392/)| 82.4 | 104.35 | -21.34 | 1.22 | -3.46 | 3.25 | 36.61 |0.43 |
+    |[LISC 3392](/_clusters/lisc3392/)| 82.4 | 104.35 | -21.34 | 1.22 | -3.46 | 3.25 | 36.61 |0.42 |
     |[OC 0395](/_clusters/oc0395/)| 49.5 | 104.35 | -21.28 | 1.21 | -3.49 | 3.26 | 36.28 |0.0 |
     |[CWWDL 14305](/_clusters/cwwdl14305/)| 21.4 | 104.37 | -21.34 | 1.22 | -3.51 | 3.28 | 34.91 |0.0 |
 N_rows_shared: "3"

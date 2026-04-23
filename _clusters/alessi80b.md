@@ -13,17 +13,17 @@ glon: 352.33585
 glat: -6.2307
 r50: 10.0
 plx: 0.8102
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.15"
+UTI_COLOR: "#f5c1b8"
 UTI_C_N_COL: "#eef7d4"
-UTI_C_dens_COL: "#fef6d9"
+UTI_C_dens_COL: "#fee5ca"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#fee7cc"
 UTI_C_N: 0.62
-UTI_C_dens: 0.42
+UTI_C_dens: 0.32
 UTI_C_C3: 1.0
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 0.33
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 1.5
-dens_val: 2.1
+rc_val: 1.9
+dens_val: 1.6
 N_membs_val: 75
 scix_url: Alessi%2080B
 posit_table: |
@@ -81,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.37 |
+    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.35 |
 N_rows_shared: "1"
 ---

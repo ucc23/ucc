@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 4.3
-dens_val: 0.09
+rc_val: 6.0
+dens_val: 0.08
 N_membs_val: 15
 scix_url: LISC-III%20932
 posit_table: |

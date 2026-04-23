@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 3.3
-dens_val: 0.06
+rc_val: 10
+dens_val: 0.04
 N_membs_val: 17
 scix_url: Cmg%2038
 posit_table: |
@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0851](/_clusters/fsr0851/)| 16.0 | 78.65 | 19.82 | 0.16 | 0.29 | -0.7 | -8.5 |0.13 |
+    |[FSR 0851](/_clusters/fsr0851/)| 16.0 | 78.65 | 19.82 | 0.16 | 0.29 | -0.7 | -8.5 |0.18 |
 N_rows_shared: "1"
 ---

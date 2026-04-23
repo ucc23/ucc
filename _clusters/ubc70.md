@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.5
+rc_val: 1.4
 dens_val: 5.7
 N_membs_val: 121
 scix_url: UBC%2070
@@ -72,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 22](/_clusters/coingaia22/)| 100.0 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.04 |
-    |[Kronberger 6](/_clusters/kronberger6/)| 95.9 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.63 |
+    |[COIN-Gaia 22](/_clusters/coingaia22/)| 100.0 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.05 |
+    |[Kronberger 6](/_clusters/kronberger6/)| 95.9 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.72 |
     |[CWWDL 12517](/_clusters/cwwdl12517/)| 81.0 | 91.07 | 31.6 | 0.51 | -0.77 | -3.29 | 12.07 |0.0 |
 N_rows_shared: "3"
 ---

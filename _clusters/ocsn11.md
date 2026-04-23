@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.4
+rc_val: 6.3
 dens_val: 0.2
 N_membs_val: 25
 scix_url: OCSN%2011
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC-III 3785](/_clusters/lisciii3785/)| 36.0 | 270.59 | 22.7 | 3.47 | -1.32 | -7.27 | -18.74 |0.14 |
-    |[HSC 381](/_clusters/hsc381/)| 4.0 | 270.96 | 19.47 | 3.23 | -1.16 | -8.03 | -16.73 |0.26 |
+    |[LISC-III 3785](/_clusters/lisciii3785/)| 36.0 | 270.59 | 22.7 | 3.47 | -1.32 | -7.27 | -18.74 |0.13 |
+    |[HSC 381](/_clusters/hsc381/)| 4.0 | 270.96 | 19.47 | 3.23 | -1.16 | -8.03 | -16.73 |0.31 |
 N_rows_shared: "2"
 ---

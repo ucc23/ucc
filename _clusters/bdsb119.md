@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 1.9
-dens_val: 0.2
+rc_val: 6.2
+dens_val: 0.1
 N_membs_val: 19
 scix_url: BDSB%20119
 posit_table: |
@@ -75,6 +75,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ryu 834](/_clusters/ryu834/)| 4.0 | 278.51 | -8.19 | 0.31 | -1.1 | -3.18 | 34.1 |0.09 |
+    |[Ryu 834](/_clusters/ryu834/)| 4.0 | 278.51 | -8.19 | 0.31 | -1.1 | -3.18 | 34.1 |0.08 |
 N_rows_shared: "1"
 ---

@@ -13,15 +13,15 @@ glon: 89.41856
 glat: -0.28394
 r50: 4.3
 plx: 0.4536
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#fcfee5"
-UTI_C_dens_COL: "#fee7cc"
+UTI_C_dens_COL: "#fdd9c3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fbcbbd"
 UTI_C_N: 0.52
-UTI_C_dens: 0.33
+UTI_C_dens: 0.26
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.2
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 2.1
-dens_val: 1.6
+rc_val: 2.6
+dens_val: 1.3
 N_membs_val: 54
 scix_url: XDOCC%2011
 posit_table: |
@@ -73,6 +73,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 380](/_clusters/ubc380/)| 79.6 | 317.73 | 47.7 | 0.45 | -0.99 | -1.77 | -29.9 |0.41 |
+    |[UBC 380](/_clusters/ubc380/)| 79.6 | 317.73 | 47.7 | 0.45 | -0.99 | -1.77 | -29.9 |0.47 |
 N_rows_shared: "1"
 ---

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.8
-dens_val: 19
+rc_val: 0.7
+dens_val: 21
 N_membs_val: 93
 scix_url: BRC27
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 92](/_clusters/vdb92/)| 100.0 | 106.05 | -11.48 | 0.86 | -4.41 | 1.56 | 24.52 |0.92 |
+    |[VDB 92](/_clusters/vdb92/)| 100.0 | 106.05 | -11.48 | 0.86 | -4.41 | 1.56 | 24.52 |0.93 |
     |[NGC 2327](/_clusters/ngc2327/)| 68.8 | 106.03 | -11.39 | 0.87 | -4.55 | 1.66 | 30.36 |0.0 |
 N_rows_shared: "2"
 ---

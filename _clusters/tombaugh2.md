@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 2.2
-dens_val: 13
+rc_val: 1.2
+dens_val: 15
 N_membs_val: 796
 scix_url: Tombaugh%202
 posit_table: |

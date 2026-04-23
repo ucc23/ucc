@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.6
+rc_val: 1.7
 dens_val: 3.4
 N_membs_val: 91
 scix_url: BDSB%2074
@@ -74,7 +74,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0817](/_clusters/fsr0817/)| 81.3 | 84.86 | 30.89 | 0.68 | -0.19 | -3.16 | 0.34 |0.65 |
+    |[FSR 0817](/_clusters/fsr0817/)| 81.3 | 84.86 | 30.89 | 0.68 | -0.19 | -3.16 | 0.34 |0.72 |
     |[CWNU 1571](/_clusters/cwnu1571/)| 36.3 | 84.86 | 30.89 | 0.71 | -0.2 | -3.17 | 0.34 |0.0 |
 N_rows_shared: "2"
 ---

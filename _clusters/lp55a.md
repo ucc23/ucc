@@ -16,12 +16,12 @@ plx: 0.2081
 UTI: "0.07"
 UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.02
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.92
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 2.1
-dens_val: 0.1
+rc_val: 4.7
+dens_val: 0.09
 N_membs_val: 16
 scix_url: LP%2055A
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 1790](/_clusters/ngc1790/)| 8.0 | 77.75 | 52.11 | 0.22 | -0.07 | 0.1 | -21.82 |0.08 |
+    |[NGC 1790](/_clusters/ngc1790/)| 8.0 | 77.75 | 52.11 | 0.22 | -0.07 | 0.1 | -21.82 |0.1 |
 N_rows_shared: "1"
 ---

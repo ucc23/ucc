@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 1.9
-dens_val: 0.2
+rc_val: 7.5
+dens_val: 0.1
 N_membs_val: 14
 scix_url: GLIMPSE%2083
 posit_table: |
@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VVV 089](/_clusters/vvv089/)| 16.0 | 253.48 | -43.21 | 0.44 | -2.82 | -3.91 | -40.06 |0.06 |
+    |[VVV 089](/_clusters/vvv089/)| 16.0 | 253.48 | -43.21 | 0.44 | -2.82 | -3.91 | -40.06 |0.07 |
 N_rows_shared: "1"
 ---

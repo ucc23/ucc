@@ -13,17 +13,17 @@ glon: 77.64044
 glat: 1.93188
 r50: 5.0
 plx: 0.775
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.09"
+UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#e2f2cc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#f5c1b8"
 UTI_C_N: 0.69
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 0.15
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -55,7 +55,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
 rc_val: 1.2
-dens_val: 7.1
+dens_val: 6.7
 N_membs_val: 88
 scix_url: QC%201
 posit_table: |

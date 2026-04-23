@@ -13,15 +13,15 @@ glon: 137.4342
 glat: 1.27015
 r50: 4.2
 plx: 0.4304
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.22
+UTI_C_dens: 0.1
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.8
-dens_val: 1.1
+rc_val: 2.9
+dens_val: 0.5
 N_membs_val: 23
 scix_url: BRC12%20IR
 posit_table: |
@@ -72,7 +72,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[SAI 23](/_clusters/sai23/)| 56.0 | 43.53 | 60.66 | 0.45 | -0.1 | -0.24 | -43.05 |0.37 |
     |[LP 10](/_clusters/lp10/)| 44.0 | 43.53 | 60.65 | 0.44 | -0.08 | -0.25 | -43.05 |0.1 |
-    |[IRAS 02484+6022](/_clusters/iras02484p6022/)| 12.0 | 43.04 | 60.56 | 0.43 | -0.21 | -0.33 | -42.03 |0.22 |
+    |[IRAS 02484+6022](/_clusters/iras02484p6022/)| 12.0 | 43.04 | 60.56 | 0.43 | -0.21 | -0.33 | -42.03 |0.24 |
     |[OC 0255](/_clusters/oc0255/)| 12.0 | 43.54 | 60.66 | 0.47 | -0.08 | -0.23 | -- |0.0 |
 N_rows_shared: "4"
 ---

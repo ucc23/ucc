@@ -16,14 +16,14 @@ plx: 3.6368
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#f3bcb6"
+UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.26
-UTI_C_dens: 0.13
+UTI_C_dens: 0.1
 UTI_C_C3: 0.62
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 1.9
-dens_val: 0.6
+rc_val: 2.7
+dens_val: 0.5
 N_membs_val: 26
 scix_url: OCSN%2031
 posit_table: |

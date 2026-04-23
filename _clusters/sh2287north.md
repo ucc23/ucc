@@ -16,12 +16,12 @@ plx: 0.2972
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.02
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 2.4
-dens_val: 0.2
+rc_val: 4.8
+dens_val: 0.08
 N_membs_val: 17
 scix_url: Sh2-287-North
 posit_table: |
@@ -70,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[S287 N](/_clusters/s287n/)| 60.0 | 101.96 | -2.19 | 0.3 | -1.03 | 0.07 | 71.55 |0.02 |
+    |[S287 N](/_clusters/s287n/)| 60.0 | 101.96 | -2.19 | 0.3 | -1.03 | 0.07 | 71.55 |0.01 |
 N_rows_shared: "1"
 ---

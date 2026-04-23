@@ -13,17 +13,17 @@ glon: 64.02746
 glat: -13.12233
 r50: 15.1
 plx: 1.0756
-UTI: "0.41"
-UTI_COLOR: "#fef5d7"
+UTI: "0.46"
+UTI_COLOR: "#fefae1"
 UTI_C_N_COL: "#e0f1cb"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
-UTI_C_dens: 0.18
+UTI_C_dens: 0.21
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 4.0
-dens_val: 0.9
+rc_val: 3.2
+dens_val: 1.1
 N_membs_val: 90
 scix_url: Alessi%20116
 posit_table: |
@@ -83,7 +83,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 84](/_clusters/upk84/)| 100.0 | 310.22 | 20.21 | 1.08 | -6.29 | -9.29 | 24.19 |0.22 |
+    |[UPK 84](/_clusters/upk84/)| 100.0 | 310.22 | 20.21 | 1.08 | -6.29 | -9.29 | 24.19 |0.25 |
     |[CWWDL 14281](/_clusters/cwwdl14281/)| 61.1 | 310.2 | 20.17 | 1.07 | -6.28 | -9.3 | 23.99 |0.0 |
 N_rows_shared: "2"
 ---

@@ -13,15 +13,15 @@ glon: 62.4458
 glat: 13.38975
 r50: 65.4
 plx: 2.6967
-UTI: "0.33"
-UTI_COLOR: "#fee7cc"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#c9e7c8"
-UTI_C_dens_COL: "#fdd9c3"
+UTI_C_dens_COL: "#fef8dd"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#c7e6c7"
 UTI_C_N: 0.8
-UTI_C_dens: 0.26
+UTI_C_dens: 0.44
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.81
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.4
-dens_val: 1.3
+rc_val: 1.7
+dens_val: 2.2
 N_membs_val: 242
 scix_url: OCSN%2016
 posit_table: |
@@ -72,12 +72,12 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 100](/_clusters/ascc100/)| 19.0 | 285.27 | 32.95 | 2.8 | 1.95 | -3.31 | -16.07 |0.6 |
+    |[ASCC 100](/_clusters/ascc100/)| 19.0 | 285.27 | 32.95 | 2.8 | 1.95 | -3.31 | -16.07 |0.71 |
     |[UPK 77](/_clusters/upk77/)| 10.7 | 282.92 | 31.36 | 2.74 | 1.1 | -4.02 | -15.76 |0.23 |
     |[OCSN 296](/_clusters/ocsn296/)| 5.0 | 285.4 | 33.47 | 2.82 | 2.08 | -3.24 | -16.23 |0.02 |
-    |[Gaia 8](/_clusters/gaia8/)| 1.7 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.58 |
-    |[UPK 78](/_clusters/upk78/)| 1.2 | 280.52 | 32.35 | 2.68 | 0.28 | -3.53 | -18.3 |0.29 |
+    |[Gaia 8](/_clusters/gaia8/)| 1.7 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.62 |
+    |[UPK 78](/_clusters/upk78/)| 1.2 | 280.52 | 32.35 | 2.68 | 0.28 | -3.53 | -18.3 |0.3 |
     |[PHOC 41](/_clusters/phoc41/)| 0.8 | 282.54 | 33.38 | 3.45 | 1.8 | -3.86 | -18.69 |0.0 |
-    |[OCSN 18](/_clusters/ocsn18/)| 0.4 | 282.14 | 34.37 | 2.69 | 0.73 | -3.15 | -17.53 |0.23 |
+    |[OCSN 18](/_clusters/ocsn18/)| 0.4 | 282.14 | 34.37 | 2.69 | 0.73 | -3.15 | -17.53 |0.22 |
 N_rows_shared: "7"
 ---

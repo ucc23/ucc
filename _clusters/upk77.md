@@ -16,12 +16,12 @@ plx: 2.7422
 UTI: "0.23"
 UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#f5c1b8"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
-UTI_C_dens: 0.15
+UTI_C_dens: 0.14
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 16](/_clusters/ocsn16/)| 100.0 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.33 |
+    |[OCSN 16](/_clusters/ocsn16/)| 100.0 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.36 |
 N_rows_shared: "1"
 ---

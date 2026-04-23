@@ -13,17 +13,17 @@ glon: 6.6294
 glat: -1.18578
 r50: 3.5
 plx: 0.3114
-UTI: "0.01"
-UTI_COLOR: "#e0a7b3"
+UTI: "0.02"
+UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fafce1"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#fbcbbd"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#e7adb3"
 UTI_C_N: 0.54
-UTI_C_dens: 0.21
+UTI_C_dens: 0.2
 UTI_C_C3: 0.62
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.05
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-rc_val: 2.9
+rc_val: 3.0
 dens_val: 1.0
 N_membs_val: 58
 scix_url: HSC%2097
@@ -79,7 +79,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 1209](/_clusters/fof1209/)| 94.8 | 271.28 | -23.8 | 0.31 | -0.04 | -1.48 | 55.79 |0.34 |
-    |[FoF 1211](/_clusters/fof1211/)| 87.9 | 271.27 | -23.77 | 0.34 | -0.03 | -1.48 | 25.97 |0.3 |
+    |[FoF 1209](/_clusters/fof1209/)| 94.8 | 271.28 | -23.8 | 0.31 | -0.04 | -1.48 | 55.79 |0.35 |
+    |[FoF 1211](/_clusters/fof1211/)| 87.9 | 271.27 | -23.77 | 0.34 | -0.03 | -1.48 | 25.97 |0.31 |
 N_rows_shared: "2"
 ---

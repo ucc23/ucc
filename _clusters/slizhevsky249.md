@@ -13,15 +13,15 @@ glon: 306.98925
 glat: -0.67358
 r50: 1.8
 plx: 0.2029
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.32"
+UTI_COLOR: "#fee5ca"
 UTI_C_N_COL: "#fee9cd"
-UTI_C_dens_COL: "#fef4d6"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.34
-UTI_C_dens: 0.4
+UTI_C_dens: 0.25
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.3
-dens_val: 2.0
+rc_val: 2.1
+dens_val: 1.2
 N_membs_val: 34
 scix_url: Slizhevsky%20249
 posit_table: |

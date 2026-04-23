@@ -13,17 +13,17 @@ glon: 12.28424
 glat: -1.35926
 r50: 7.2
 plx: 0.5657
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#eaf6d1"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#f9c9bc"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fcfee5"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.64
-UTI_C_dens: 0.22
+UTI_C_dens: 0.19
 UTI_C_C3: 1.0
-UTI_C_lit: 0.52
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 2.7
-dens_val: 1.1
+rc_val: 3.5
+dens_val: 0.9
 N_membs_val: 79
 scix_url: Turner%203
 posit_table: |
@@ -110,6 +110,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0021](/_clusters/oc0021/)| 24.1 | 274.35 | -19.09 | 0.55 | 0.68 | -2.41 | -- |0.33 |
+    |[OC 0021](/_clusters/oc0021/)| 24.1 | 274.35 | -19.09 | 0.55 | 0.68 | -2.41 | -- |0.31 |
 N_rows_shared: "1"
 ---

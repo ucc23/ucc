@@ -13,17 +13,17 @@ glon: 16.41472
 glat: 6.27605
 r50: 7.2
 plx: 0.8922
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.90"
+UTI_COLOR: "#afdbc1"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.81
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 1.2
-dens_val: 7.1
+rc_val: 1.4
+dens_val: 5.1
 N_membs_val: 118
 scix_url: Ruprecht%20135
 posit_table: |
@@ -123,6 +123,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 14497](/_clusters/cwwdl14497/)| 19.5 | 269.51 | -11.67 | 0.9 | 1.48 | -1.45 | -14.5 |0.03 |
+    |[CWWDL 14497](/_clusters/cwwdl14497/)| 19.5 | 269.51 | -11.67 | 0.9 | 1.48 | -1.45 | -14.5 |0.02 |
 N_rows_shared: "1"
 ---

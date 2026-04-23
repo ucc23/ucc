@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fdddc5"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.28
 UTI_C_dens: 0.07
 UTI_C_C3: 0.5
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 3.8
+rc_val: 3.7
 dens_val: 0.3
 N_membs_val: 28
 scix_url: Theia%204708
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 380](/_clusters/cwnu380/)| 100.0 | 316.37 | 57.23 | 0.83 | -1.99 | -5.66 | -22.93 |0.29 |
+    |[CWNU 380](/_clusters/cwnu380/)| 100.0 | 316.37 | 57.23 | 0.83 | -1.99 | -5.66 | -22.93 |0.28 |
 N_rows_shared: "1"
 ---

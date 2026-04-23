@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "8"
-rc_val: 1.6
-dens_val: 7.0
+rc_val: 1.2
+dens_val: 7.9
 N_membs_val: 314
 scix_url: VDBH%2056
 posit_table: |
@@ -149,6 +149,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[SAI 101](/_clusters/sai101/)| 8.0 | 134.45 | -43.17 | 1.1 | -5.45 | 5.32 | 16.54 |0.0 |
-    |[HSC 2131](/_clusters/hsc2131/)| 6.4 | 134.35 | -43.18 | 1.3 | -5.47 | 5.22 | -- |0.06 |
+    |[HSC 2131](/_clusters/hsc2131/)| 6.4 | 134.35 | -43.18 | 1.3 | -5.47 | 5.22 | -- |0.04 |
 N_rows_shared: "2"
 ---

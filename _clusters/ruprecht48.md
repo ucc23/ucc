@@ -13,17 +13,17 @@ glon: 249.12692
 glat: -0.63376
 r50: 2.5
 plx: 0.2546
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fcfee5"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.52
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 1.1
-dens_val: 11
+rc_val: 1.4
+dens_val: 8.4
 N_membs_val: 197
 scix_url: Ruprecht%2048
 posit_table: |
@@ -106,6 +106,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0438](/_clusters/oc0438/)| 19.8 | 120.69 | -32.05 | 0.26 | -2.48 | 2.88 | -- |0.0 |
-    |[OC 0439](/_clusters/oc0439/)| 7.1 | 120.79 | -32.09 | 0.29 | -2.52 | 2.9 | 127.13 |0.05 |
+    |[OC 0439](/_clusters/oc0439/)| 7.1 | 120.79 | -32.09 | 0.29 | -2.52 | 2.9 | 127.13 |0.04 |
 N_rows_shared: "2"
 ---

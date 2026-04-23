@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 7.5
+rc_val: 6.5
 dens_val: 0.06
 N_membs_val: 22
 scix_url: Patchick%2067

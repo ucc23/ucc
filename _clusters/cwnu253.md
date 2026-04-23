@@ -16,12 +16,12 @@ plx: 0.549
 UTI: "0.06"
 UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#fafce1"
-UTI_C_dens_COL: "#feebce"
+UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f9c9bc"
 UTI_C_N: 0.54
-UTI_C_dens: 0.35
+UTI_C_dens: 0.34
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.19
@@ -51,7 +51,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
 rc_val: 2.1
-dens_val: 1.8
+dens_val: 1.7
 N_membs_val: 57
 scix_url: CWNU%20253
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0149](/_clusters/oc0149/)| 80.7 | 316.71 | 53.01 | 0.56 | -2.3 | -2.24 | -13.62 |0.3 |
+    |[OC 0149](/_clusters/oc0149/)| 80.7 | 316.71 | 53.01 | 0.56 | -2.3 | -2.24 | -13.62 |0.33 |
 N_rows_shared: "1"
 ---

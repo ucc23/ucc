@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "5"
-rc_val: 2.8
-dens_val: 6.7
+rc_val: 3.0
+dens_val: 5.7
 N_membs_val: 571
 scix_url: Czernik%2021
 posit_table: |

@@ -13,17 +13,17 @@ glon: 28.11959
 glat: 0.45975
 r50: 5.9
 plx: 0.4682
-UTI: "0.72"
-UTI_COLOR: "#dbefca"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#c9e7c8"
-UTI_C_dens_COL: "#eef7d4"
+UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
-UTI_C_dens: 0.62
+UTI_C_dens: 0.69
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 2.2
-dens_val: 3.1
+rc_val: 2.0
+dens_val: 3.5
 N_membs_val: 221
 scix_url: Dolidze%2032
 posit_table: |

@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: "1"
-rc_val: 2.0
-dens_val: 0.8
+rc_val: 2.1
+dens_val: 0.7
 N_membs_val: 21
 scix_url: Mol%2082
 posit_table: |

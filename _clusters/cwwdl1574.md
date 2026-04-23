@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.4
-dens_val: 13
+rc_val: 0.9
+dens_val: 18
 N_membs_val: 280
 scix_url: CWWDL%201574
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 247](/_clusters/teutsch247/)| 94.6 | 239.63 | -53.66 | 0.37 | -3.87 | -4.33 | -27.64 |0.6 |
+    |[Teutsch 247](/_clusters/teutsch247/)| 94.6 | 239.63 | -53.66 | 0.37 | -3.87 | -4.33 | -27.64 |0.64 |
     |[UBC 1540](/_clusters/ubc1540/)| 78.2 | 239.63 | -53.66 | 0.37 | -3.87 | -4.34 | 23.17 |0.0 |
 N_rows_shared: "2"
 ---

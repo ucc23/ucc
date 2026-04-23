@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 7.3
-dens_val: 0.02
+rc_val: 10
+dens_val: 0.01
 N_membs_val: 14
 scix_url: VVVX-Obasi%2036
 posit_table: |

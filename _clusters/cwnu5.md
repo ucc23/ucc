@@ -16,14 +16,14 @@ plx: 2.0967
 UTI: "0.29"
 UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#f7fbde"
-UTI_C_dens_COL: "#e9afb3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.56
-UTI_C_dens: 0.06
+UTI_C_dens: 0.04
 UTI_C_C3: 0.75
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.2
-dens_val: 0.3
+rc_val: 6.6
+dens_val: 0.2
 N_membs_val: 61
 scix_url: CWNU%205
 posit_table: |
@@ -76,6 +76,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1403](/_clusters/hsc1403/)| 36.1 | 75.41 | 24.36 | 2.02 | 1.24 | -5.17 | 20.27 |0.08 |
+    |[HSC 1403](/_clusters/hsc1403/)| 36.1 | 75.41 | 24.36 | 2.02 | 1.24 | -5.17 | 20.27 |0.1 |
 N_rows_shared: "1"
 ---

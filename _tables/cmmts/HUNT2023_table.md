@@ -419,7 +419,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1331/" target="_blank" style="color: $blue;">CWNU 1331</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1333/" target="_blank" style="color: $blue;">CWNU 1333</a> | Classified as open cluster. CMD class: 0.78 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1334/" target="_blank" style="color: red;">CWNU 1334</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1336/" target="_blank" style="color: $blue;">CWNU 1336</a> | Classified as open cluster. CMD class: 0.54 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1336/" target="_blank" style="color: red;">CWNU 1336</a> | Classified as open cluster. CMD class: 0.54 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu134/" target="_blank" style="color: red;">CWNU 134</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1340/" target="_blank" style="color: red;">CWNU 1340</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1342/" target="_blank" style="color: $blue;">CWNU 1342</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -438,7 +438,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1375/" target="_blank" style="color: $blue;">CWNU 1375</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1376/" target="_blank" style="color: $blue;">CWNU 1376</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1378/" target="_blank" style="color: $blue;">CWNU 1378</a> | Classified as open cluster. CMD class: 0.65 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1379/" target="_blank" style="color: $blue;">CWNU 1379</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1379/" target="_blank" style="color: red;">CWNU 1379</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1382/" target="_blank" style="color: red;">CWNU 1382</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1383/" target="_blank" style="color: $blue;">CWNU 1383</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1384/" target="_blank" style="color: red;">CWNU 1384</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
@@ -513,7 +513,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1495/" target="_blank" style="color: $blue;">CWNU 1495</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1497/" target="_blank" style="color: red;">CWNU 1497</a> | Classified as open cluster. CMD class: 0.79 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu15/" target="_blank" style="color: red;">CWNU 15</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1500/" target="_blank" style="color: $blue;">CWNU 1500</a> | Classified as open cluster. CMD class: 0.56 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1500/" target="_blank" style="color: red;">CWNU 1500</a> | Classified as open cluster. CMD class: 0.56 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1502/" target="_blank" style="color: red;">CWNU 1502</a> | Classified as open cluster. CMD class: 0.20 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1503/" target="_blank" style="color: red;">CWNU 1503</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1504/" target="_blank" style="color: red;">CWNU 1504</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
@@ -647,7 +647,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1773/" target="_blank" style="color: red;">CWNU 1773</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1774/" target="_blank" style="color: red;">CWNU 1774</a> | Classified as open cluster. CMD class: 0.67 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1777/" target="_blank" style="color: red;">CWNU 1777</a> | Classified as open cluster. CMD class: 0.12 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1780/" target="_blank" style="color: $blue;">CWNU 1780</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1780/" target="_blank" style="color: red;">CWNU 1780</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1785/" target="_blank" style="color: $blue;">CWNU 1785</a> | Classified as open cluster. CMD class: 0.15 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1787/" target="_blank" style="color: red;">CWNU 1787</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1789/" target="_blank" style="color: red;">CWNU 1789</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
@@ -703,7 +703,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1900/" target="_blank" style="color: red;">CWNU 1900</a> | Classified as open cluster. CMD class: 0.70 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1907/" target="_blank" style="color: red;">CWNU 1907</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1909/" target="_blank" style="color: red;">CWNU 1909</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1910/" target="_blank" style="color: $blue;">CWNU 1910</a> | Classified as open cluster. CMD class: 0.69 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1910/" target="_blank" style="color: red;">CWNU 1910</a> | Classified as open cluster. CMD class: 0.69 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1914/" target="_blank" style="color: red;">CWNU 1914</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1917/" target="_blank" style="color: $blue;">CWNU 1917</a> | Classified as open cluster. CMD classes: 0.98 (50th percentile), false positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1918/" target="_blank" style="color: $blue;">CWNU 1918</a> | Classified as open cluster. CMD class: 0.04 (50th percentile). |
@@ -774,7 +774,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2106/" target="_blank" style="color: $blue;">CWNU 2106</a> | Classified as open cluster. CMD classes: 0.98 (50th percentile), false positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2110/" target="_blank" style="color: red;">CWNU 2110</a> | Classified as open cluster. CMD class: 0.40 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2112/" target="_blank" style="color: red;">CWNU 2112</a> | Classified as open cluster. CMD classes: 0.97 (50th percentile), true positive (human-assigned). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2115/" target="_blank" style="color: $blue;">CWNU 2115</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2115/" target="_blank" style="color: red;">CWNU 2115</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2116/" target="_blank" style="color: red;">CWNU 2116</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu212/" target="_blank" style="color: red;">CWNU 212</a> | Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2122/" target="_blank" style="color: red;">CWNU 2122</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
@@ -839,7 +839,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2290/" target="_blank" style="color: red;">CWNU 2290</a> | Classified as open cluster. CMD class: 0.72 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2292/" target="_blank" style="color: $blue;">CWNU 2292</a> | Classified as open cluster. CMD class: 0.10 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2293/" target="_blank" style="color: red;">CWNU 2293</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2298/" target="_blank" style="color: $blue;">CWNU 2298</a> | Classified as open cluster. CMD class: 0.69 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2298/" target="_blank" style="color: red;">CWNU 2298</a> | Classified as open cluster. CMD class: 0.69 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2299/" target="_blank" style="color: $blue;">CWNU 2299</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu23/" target="_blank" style="color: red;">CWNU 23</a> | Classified as open cluster. CMD class: 0.37 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu230/" target="_blank" style="color: $blue;">CWNU 230</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
@@ -879,7 +879,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2368/" target="_blank" style="color: $blue;">CWNU 2368</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2371/" target="_blank" style="color: $blue;">CWNU 2371</a> | Classified as open cluster. CMD class: 0.63 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2377/" target="_blank" style="color: $blue;">CWNU 2377</a> | Classified as open cluster. CMD class: 0.60 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2379/" target="_blank" style="color: $blue;">CWNU 2379</a> | Classified as open cluster. CMD class: 0.42 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2379/" target="_blank" style="color: red;">CWNU 2379</a> | Classified as open cluster. CMD class: 0.42 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2383/" target="_blank" style="color: red;">CWNU 2383</a> | Classified as open cluster. CMD class: 0.94 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2389/" target="_blank" style="color: $blue;">CWNU 2389</a> | Classified as open cluster. CMD class: 0.44 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu239/" target="_blank" style="color: $blue;">CWNU 239</a> | Classified as open cluster. CMD class: 0.62 (50th percentile). |
@@ -1029,7 +1029,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2675/" target="_blank" style="color: $blue;">CWNU 2675</a> | Classified as open cluster. CMD classes: 0.96 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2676/" target="_blank" style="color: red;">CWNU 2676</a> | Classified as open cluster. CMD class: 0.88 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2677/" target="_blank" style="color: red;">CWNU 2677</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2678/" target="_blank" style="color: $blue;">CWNU 2678</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2678/" target="_blank" style="color: red;">CWNU 2678</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu268/" target="_blank" style="color: $blue;">CWNU 268</a> | Classified as open cluster. CMD class: 0.37 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2682/" target="_blank" style="color: $blue;">CWNU 2682</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2683/" target="_blank" style="color: red;">CWNU 2683</a> | Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned). |
@@ -1050,7 +1050,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2717/" target="_blank" style="color: red;">CWNU 2717</a> | Classified as open cluster. CMD classes: 0.25 (50th percentile), true positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2718/" target="_blank" style="color: $blue;">CWNU 2718</a> | Classified as open cluster. CMD class: 0.41 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2719/" target="_blank" style="color: $blue;">CWNU 2719</a> | Classified as open cluster. CMD class: 0.16 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2723/" target="_blank" style="color: $blue;">CWNU 2723</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2723/" target="_blank" style="color: red;">CWNU 2723</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2724/" target="_blank" style="color: red;">CWNU 2724</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2728/" target="_blank" style="color: red;">CWNU 2728</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2729/" target="_blank" style="color: red;">CWNU 2729</a> | Classified as open cluster. CMD class: 0.55 (50th percentile). |
@@ -1091,7 +1091,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu284/" target="_blank" style="color: $blue;">CWNU 284</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2842/" target="_blank" style="color: red;">CWNU 2842</a> | Classified as open cluster. CMD class: 0.41 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2847/" target="_blank" style="color: $blue;">CWNU 2847</a> | Classified as open cluster. CMD class: 0.85 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2848/" target="_blank" style="color: $blue;">CWNU 2848</a> | Classified as open cluster. CMD class: 0.14 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2848/" target="_blank" style="color: red;">CWNU 2848</a> | Classified as open cluster. CMD class: 0.14 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu286/" target="_blank" style="color: red;">CWNU 286</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2867/" target="_blank" style="color: red;">CWNU 2867</a> | Classified as open cluster. CMD class: 0.28 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu287/" target="_blank" style="color: $blue;">CWNU 287</a> | Classified as open cluster. CMD class: 0.77 (50th percentile). |
@@ -1117,7 +1117,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2926/" target="_blank" style="color: red;">CWNU 2926</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu296/" target="_blank" style="color: $blue;">CWNU 296</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu299/" target="_blank" style="color: red;">CWNU 299</a> | Classified as open cluster. CMD classes: 0.98 (50th percentile), true positive (human-assigned). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu3/" target="_blank" style="color: $blue;">CWNU 3</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3/" target="_blank" style="color: red;">CWNU 3</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu301/" target="_blank" style="color: $blue;">CWNU 301</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu302/" target="_blank" style="color: $blue;">CWNU 302</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu304/" target="_blank" style="color: $blue;">CWNU 304</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -1135,7 +1135,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu331/" target="_blank" style="color: red;">CWNU 331</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu334/" target="_blank" style="color: red;">CWNU 334</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu336/" target="_blank" style="color: red;">CWNU 336</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu337/" target="_blank" style="color: $blue;">CWNU 337</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu337/" target="_blank" style="color: red;">CWNU 337</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu338/" target="_blank" style="color: $blue;">CWNU 338</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu339/" target="_blank" style="color: red;">CWNU 339</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu340/" target="_blank" style="color: $blue;">CWNU 340</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
@@ -1251,7 +1251,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu92/" target="_blank" style="color: red;">CWNU 92</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu95/" target="_blank" style="color: $blue;">CWNU 95</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwnu96/" target="_blank" style="color: $blue;">CWNU 96</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/cwnu98/" target="_blank" style="color: $blue;">CWNU 98</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/cwnu98/" target="_blank" style="color: red;">CWNU 98</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwwl1746/" target="_blank" style="color: $blue;">CWWL 1746</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwwl2073/" target="_blank" style="color: red;">CWWL 2073</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/cwwl2084/" target="_blank" style="color: $blue;">CWWL 2084</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -1294,7 +1294,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/collinder272/" target="_blank" style="color: $blue;">Collinder 272</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/collinder277/" target="_blank" style="color: $blue;">Collinder 277</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/collinder292/" target="_blank" style="color: $blue;">Collinder 292</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/collinder302/" target="_blank" style="color: $blue;">Collinder 302</a> | Classified as open cluster. CMD class: 0.17 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/collinder302/" target="_blank" style="color: red;">Collinder 302</a> | Classified as open cluster. CMD class: 0.17 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/collinder307/" target="_blank" style="color: $blue;">Collinder 307</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/collinder332/" target="_blank" style="color: $blue;">Collinder 332</a> | Classified as open cluster. CMD classes: 0.98 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/collinder333/" target="_blank" style="color: $blue;">Collinder 333</a> | Classified as open cluster. CMD class: 0.10 (50th percentile). |
@@ -2085,10 +2085,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1438/" target="_blank" style="color: $blue;">HSC 1438</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1439/" target="_blank" style="color: red;">HSC 1439</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc144/" target="_blank" style="color: red;">HSC 144</a> | Classified as open cluster. CMD class: 0.26 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc1440/" target="_blank" style="color: $blue;">HSC 1440</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc1440/" target="_blank" style="color: red;">HSC 1440</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1441/" target="_blank" style="color: red;">HSC 1441</a> | Classified as open cluster. CMD class: 0.67 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1442/" target="_blank" style="color: red;">HSC 1442</a> | Classified as open cluster. CMD class: 0.28 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc1443/" target="_blank" style="color: $blue;">HSC 1443</a> | Classified as open cluster. CMD class: 0.27 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc1443/" target="_blank" style="color: red;">HSC 1443</a> | Classified as open cluster. CMD class: 0.27 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1445/" target="_blank" style="color: $blue;">HSC 1445</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1446/" target="_blank" style="color: red;">HSC 1446</a> | Classified as open cluster. CMD class: 0.21 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1449/" target="_blank" style="color: red;">HSC 1449</a> | Classified as open cluster. CMD class: 0.90 (50th percentile). |
@@ -2140,7 +2140,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1509/" target="_blank" style="color: red;">HSC 1509</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc151/" target="_blank" style="color: red;">HSC 151</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1510/" target="_blank" style="color: $blue;">HSC 1510</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc1511/" target="_blank" style="color: $blue;">HSC 1511</a> | Classified as open cluster. CMD classes: 0.07 (50th percentile), true positive? (human-assigned). |
+| <a href="{{ site.baseurl }}/_clusters/hsc1511/" target="_blank" style="color: red;">HSC 1511</a> | Classified as open cluster. CMD classes: 0.07 (50th percentile), true positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1512/" target="_blank" style="color: red;">HSC 1512</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1513/" target="_blank" style="color: red;">HSC 1513</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1515/" target="_blank" style="color: red;">HSC 1515</a> | Classified as open cluster. CMD class: 0.01 (50th percentile). |
@@ -2185,7 +2185,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc156/" target="_blank" style="color: $blue;">HSC 156</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1560/" target="_blank" style="color: red;">HSC 1560</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1561/" target="_blank" style="color: red;">HSC 1561</a> | Classified as open cluster. CMD class: 0.83 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc1564/" target="_blank" style="color: $blue;">HSC 1564</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
+| <a href="{{ site.baseurl }}/_clusters/hsc1564/" target="_blank" style="color: red;">HSC 1564</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1565/" target="_blank" style="color: red;">HSC 1565</a> | Classified as open cluster. CMD class: 0.28 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1566/" target="_blank" style="color: red;">HSC 1566</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1567/" target="_blank" style="color: red;">HSC 1567</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -2270,7 +2270,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1664/" target="_blank" style="color: red;">HSC 1664</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1665/" target="_blank" style="color: red;">HSC 1665</a> | Classified as open cluster. CMD class: 0.10 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1666/" target="_blank" style="color: red;">HSC 1666</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc1667/" target="_blank" style="color: $blue;">HSC 1667</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc1667/" target="_blank" style="color: red;">HSC 1667</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1668/" target="_blank" style="color: red;">HSC 1668</a> | Classified as open cluster. CMD class: 0.61 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1670/" target="_blank" style="color: red;">HSC 1670</a> | Classified as open cluster. CMD class: 0.47 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1671/" target="_blank" style="color: red;">HSC 1671</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
@@ -2360,7 +2360,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1769/" target="_blank" style="color: red;">HSC 1769</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc177/" target="_blank" style="color: red;">HSC 177</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1770/" target="_blank" style="color: $blue;">HSC 1770</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc1771/" target="_blank" style="color: $blue;">HSC 1771</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc1771/" target="_blank" style="color: red;">HSC 1771</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1772/" target="_blank" style="color: red;">HSC 1772</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1773/" target="_blank" style="color: red;">HSC 1773</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1774/" target="_blank" style="color: red;">HSC 1774</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
@@ -2535,7 +2535,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1974/" target="_blank" style="color: red;">HSC 1974</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1975/" target="_blank" style="color: red;">HSC 1975</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1976/" target="_blank" style="color: red;">HSC 1976</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc1977/" target="_blank" style="color: $blue;">HSC 1977</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc1977/" target="_blank" style="color: red;">HSC 1977</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1979/" target="_blank" style="color: red;">HSC 1979</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc198/" target="_blank" style="color: $blue;">HSC 198</a> | Classified as open cluster. CMD classes: 0.07 (50th percentile), false positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc1980/" target="_blank" style="color: red;">HSC 1980</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -2569,7 +2569,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc201/" target="_blank" style="color: red;">HSC 201</a> | Classified as open cluster. CMD class: 0.85 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2010/" target="_blank" style="color: red;">HSC 2010</a> | Classified as open cluster. CMD class: 0.92 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2011/" target="_blank" style="color: red;">HSC 2011</a> | Classified as open cluster. CMD class: 0.36 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2012/" target="_blank" style="color: $blue;">HSC 2012</a> | Classified as open cluster. CMD class: 0.50 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2012/" target="_blank" style="color: red;">HSC 2012</a> | Classified as open cluster. CMD class: 0.50 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2013/" target="_blank" style="color: red;">HSC 2013</a> | Classified as open cluster. CMD class: 0.91 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2014/" target="_blank" style="color: red;">HSC 2014</a> | Classified as open cluster. CMD class: 0.02 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2015/" target="_blank" style="color: red;">HSC 2015</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
@@ -2593,7 +2593,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2034/" target="_blank" style="color: red;">HSC 2034</a> | Classified as open cluster. CMD class: 0.13 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2036/" target="_blank" style="color: $blue;">HSC 2036</a> | Classified as open cluster. CMD class: 0.85 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2037/" target="_blank" style="color: red;">HSC 2037</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2038/" target="_blank" style="color: $blue;">HSC 2038</a> | Classified as open cluster. CMD class: 0.62 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2038/" target="_blank" style="color: red;">HSC 2038</a> | Classified as open cluster. CMD class: 0.62 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2039/" target="_blank" style="color: red;">HSC 2039</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc204/" target="_blank" style="color: red;">HSC 204</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2040/" target="_blank" style="color: red;">HSC 2040</a> | Classified as open cluster. CMD class: 0.16 (50th percentile). |
@@ -2601,7 +2601,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2042/" target="_blank" style="color: red;">HSC 2042</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2043/" target="_blank" style="color: $blue;">HSC 2043</a> | Classified as open cluster. CMD class: 0.57 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2045/" target="_blank" style="color: red;">HSC 2045</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2046/" target="_blank" style="color: $blue;">HSC 2046</a> | Classified as open cluster. CMD class: 0.94 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2046/" target="_blank" style="color: red;">HSC 2046</a> | Classified as open cluster. CMD class: 0.94 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2047/" target="_blank" style="color: $blue;">HSC 2047</a> | Classified as open cluster. CMD class: 0.60 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2049/" target="_blank" style="color: $blue;">HSC 2049</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc205/" target="_blank" style="color: red;">HSC 205</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -2635,7 +2635,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2082/" target="_blank" style="color: $blue;">HSC 2082</a> | Classified as open cluster. CMD class: 0.88 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2083/" target="_blank" style="color: $blue;">HSC 2083</a> | Classified as open cluster. CMD class: 0.43 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2084/" target="_blank" style="color: $blue;">HSC 2084</a> | Classified as open cluster. CMD class: 0.14 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2085/" target="_blank" style="color: $blue;">HSC 2085</a> | Classified as open cluster. CMD class: 0.43 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2085/" target="_blank" style="color: red;">HSC 2085</a> | Classified as open cluster. CMD class: 0.43 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2086/" target="_blank" style="color: red;">HSC 2086</a> | Classified as open cluster. CMD class: 0.62 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2088/" target="_blank" style="color: $blue;">HSC 2088</a> | Classified as open cluster. CMD class: 0.09 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2089/" target="_blank" style="color: red;">HSC 2089</a> | Classified as open cluster. CMD class: 0.18 (50th percentile). |
@@ -2692,7 +2692,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2147/" target="_blank" style="color: red;">HSC 2147</a> | Classified as open cluster. CMD class: 0.80 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2148/" target="_blank" style="color: red;">HSC 2148</a> | Classified as open cluster. CMD class: 0.92 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2149/" target="_blank" style="color: red;">HSC 2149</a> | Classified as open cluster. CMD class: 0.91 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc215/" target="_blank" style="color: $blue;">HSC 215</a> | Classified as open cluster. CMD class: 0.80 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc215/" target="_blank" style="color: red;">HSC 215</a> | Classified as open cluster. CMD class: 0.80 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2150/" target="_blank" style="color: $blue;">HSC 2150</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2151/" target="_blank" style="color: red;">HSC 2151</a> | Classified as open cluster. CMD class: 0.95 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2153/" target="_blank" style="color: red;">HSC 2153</a> | Classified as open cluster. CMD class: 0.07 (50th percentile). |
@@ -2744,10 +2744,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2214/" target="_blank" style="color: red;">HSC 2214</a> | Classified as open cluster. CMD class: 0.66 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2215/" target="_blank" style="color: red;">HSC 2215</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2216/" target="_blank" style="color: red;">HSC 2216</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2217/" target="_blank" style="color: $blue;">HSC 2217</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2217/" target="_blank" style="color: red;">HSC 2217</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2218/" target="_blank" style="color: red;">HSC 2218</a> | Classified as open cluster. CMD class: 0.28 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc222/" target="_blank" style="color: $blue;">HSC 222</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2220/" target="_blank" style="color: $blue;">HSC 2220</a> | Classified as open cluster. CMD class: 0.84 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc222/" target="_blank" style="color: red;">HSC 222</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2220/" target="_blank" style="color: red;">HSC 2220</a> | Classified as open cluster. CMD class: 0.84 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2221/" target="_blank" style="color: red;">HSC 2221</a> | Classified as open cluster. CMD class: 0.64 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2223/" target="_blank" style="color: red;">HSC 2223</a> | Classified as open cluster. CMD class: 0.59 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2224/" target="_blank" style="color: red;">HSC 2224</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
@@ -2869,7 +2869,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2367/" target="_blank" style="color: red;">HSC 2367</a> | Classified as open cluster. CMD classes: 0.12 (50th percentile), true positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2368/" target="_blank" style="color: red;">HSC 2368</a> | Classified as open cluster. CMD classes: 0.82 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2369/" target="_blank" style="color: red;">HSC 2369</a> | Classified as open cluster. CMD class: 0.92 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2370/" target="_blank" style="color: $blue;">HSC 2370</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2370/" target="_blank" style="color: red;">HSC 2370</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2372/" target="_blank" style="color: red;">HSC 2372</a> | Classified as open cluster. CMD class: 0.02 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2374/" target="_blank" style="color: red;">HSC 2374</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2375/" target="_blank" style="color: red;">HSC 2375</a> | Classified as open cluster. CMD class: 0.86 (50th percentile). |
@@ -2923,7 +2923,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2434/" target="_blank" style="color: red;">HSC 2434</a> | Classified as open cluster. CMD class: 0.60 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2435/" target="_blank" style="color: red;">HSC 2435</a> | Classified as open cluster. CMD class: 0.13 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2437/" target="_blank" style="color: red;">HSC 2437</a> | Classified as open cluster. CMD class: 0.43 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2438/" target="_blank" style="color: $blue;">HSC 2438</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2438/" target="_blank" style="color: red;">HSC 2438</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2442/" target="_blank" style="color: $blue;">HSC 2442</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2443/" target="_blank" style="color: red;">HSC 2443</a> | Classified as open cluster. CMD class: 0.60 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2446/" target="_blank" style="color: red;">HSC 2446</a> | Classified as open cluster. CMD class: 0.30 (50th percentile). |
@@ -2936,7 +2936,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2458/" target="_blank" style="color: red;">HSC 2458</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2459/" target="_blank" style="color: red;">HSC 2459</a> | Classified as open cluster. CMD classes: 0.15 (50th percentile), true positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2460/" target="_blank" style="color: red;">HSC 2460</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2461/" target="_blank" style="color: $blue;">HSC 2461</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2461/" target="_blank" style="color: red;">HSC 2461</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2462/" target="_blank" style="color: red;">HSC 2462</a> | Classified as open cluster. CMD class: 0.95 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2464/" target="_blank" style="color: red;">HSC 2464</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2468/" target="_blank" style="color: $blue;">HSC 2468</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -2969,7 +2969,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc251/" target="_blank" style="color: $blue;">HSC 251</a> | Classified as open cluster. CMD class: 0.07 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2511/" target="_blank" style="color: red;">HSC 2511</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2512/" target="_blank" style="color: $blue;">HSC 2512</a> | Classified as open cluster. CMD class: 0.40 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2514/" target="_blank" style="color: $blue;">HSC 2514</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2514/" target="_blank" style="color: red;">HSC 2514</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2515/" target="_blank" style="color: $blue;">HSC 2515</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2518/" target="_blank" style="color: red;">HSC 2518</a> | Classified as open cluster. CMD class: 0.95 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2519/" target="_blank" style="color: red;">HSC 2519</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -3034,7 +3034,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2595/" target="_blank" style="color: $blue;">HSC 2595</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2596/" target="_blank" style="color: red;">HSC 2596</a> | Classified as open cluster. CMD class: 0.10 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2598/" target="_blank" style="color: $blue;">HSC 2598</a> | Classified as open cluster. CMD class: 0.08 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2599/" target="_blank" style="color: $blue;">HSC 2599</a> | Classified as open cluster. CMD class: 0.06 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2599/" target="_blank" style="color: red;">HSC 2599</a> | Classified as open cluster. CMD class: 0.06 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc26/" target="_blank" style="color: red;">HSC 26</a> | Classified as open cluster. CMD class: 0.08 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2600/" target="_blank" style="color: red;">HSC 2600</a> | Classified as open cluster. CMD class: 0.21 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2601/" target="_blank" style="color: red;">HSC 2601</a> | Classified as open cluster. CMD class: 0.04 (50th percentile). |
@@ -3056,8 +3056,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc262/" target="_blank" style="color: $blue;">HSC 262</a> | Classified as open cluster. CMD class: 0.07 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2620/" target="_blank" style="color: $blue;">HSC 2620</a> | Classified as open cluster. CMD class: 0.40 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2621/" target="_blank" style="color: red;">HSC 2621</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2622/" target="_blank" style="color: $blue;">HSC 2622</a> | Classified as open cluster. CMD class: 0.65 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2625/" target="_blank" style="color: $blue;">HSC 2625</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2622/" target="_blank" style="color: red;">HSC 2622</a> | Classified as open cluster. CMD class: 0.65 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2625/" target="_blank" style="color: red;">HSC 2625</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2626/" target="_blank" style="color: red;">HSC 2626</a> | Classified as open cluster. CMD class: 0.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2627/" target="_blank" style="color: $blue;">HSC 2627</a> | Classified as open cluster. CMD class: 0.45 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2629/" target="_blank" style="color: $blue;">HSC 2629</a> | Classified as open cluster. CMD classes: 0.89 (50th percentile), false positive (human-assigned). |
@@ -3071,7 +3071,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2637/" target="_blank" style="color: red;">HSC 2637</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2638/" target="_blank" style="color: red;">HSC 2638</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2639/" target="_blank" style="color: $blue;">HSC 2639</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc264/" target="_blank" style="color: $blue;">HSC 264</a> | Classified as open cluster. CMD classes: 0.98 (50th percentile), true positive? (human-assigned). |
+| <a href="{{ site.baseurl }}/_clusters/hsc264/" target="_blank" style="color: red;">HSC 264</a> | Classified as open cluster. CMD classes: 0.98 (50th percentile), true positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2640/" target="_blank" style="color: $blue;">HSC 2640</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2641/" target="_blank" style="color: red;">HSC 2641</a> | Classified as open cluster. CMD class: 0.04 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2642/" target="_blank" style="color: $blue;">HSC 2642</a> | Classified as open cluster. CMD class: 0.02 (50th percentile). |
@@ -3119,7 +3119,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2688/" target="_blank" style="color: red;">HSC 2688</a> | Classified as open cluster. CMD class: 0.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2689/" target="_blank" style="color: red;">HSC 2689</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc269/" target="_blank" style="color: red;">HSC 269</a> | Classified as open cluster. CMD class: 0.44 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2690/" target="_blank" style="color: $blue;">HSC 2690</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2690/" target="_blank" style="color: red;">HSC 2690</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2691/" target="_blank" style="color: red;">HSC 2691</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2692/" target="_blank" style="color: red;">HSC 2692</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2693/" target="_blank" style="color: red;">HSC 2693</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -3127,7 +3127,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2696/" target="_blank" style="color: red;">HSC 2696</a> | Classified as open cluster. CMD class: 0.10 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2698/" target="_blank" style="color: $blue;">HSC 2698</a> | Classified as open cluster. CMD classes: 0.81 (50th percentile), true positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc27/" target="_blank" style="color: red;">HSC 27</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2701/" target="_blank" style="color: $blue;">HSC 2701</a> | Classified as open cluster. CMD classes: 0.97 (50th percentile), true positive (human-assigned). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2701/" target="_blank" style="color: red;">HSC 2701</a> | Classified as open cluster. CMD classes: 0.97 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2702/" target="_blank" style="color: red;">HSC 2702</a> | Classified as open cluster. CMD class: 0.28 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2703/" target="_blank" style="color: $blue;">HSC 2703</a> | Classified as open cluster. CMD class: 0.07 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2704/" target="_blank" style="color: red;">HSC 2704</a> | Classified as open cluster. CMD class: 0.72 (50th percentile). |
@@ -3151,7 +3151,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2721/" target="_blank" style="color: red;">HSC 2721</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2722/" target="_blank" style="color: red;">HSC 2722</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2723/" target="_blank" style="color: red;">HSC 2723</a> | Classified as open cluster. CMD class: 0.19 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2724/" target="_blank" style="color: $blue;">HSC 2724</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2724/" target="_blank" style="color: red;">HSC 2724</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2725/" target="_blank" style="color: red;">HSC 2725</a> | Classified as open cluster. CMD class: 0.15 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2726/" target="_blank" style="color: red;">HSC 2726</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2727/" target="_blank" style="color: red;">HSC 2727</a> | Classified as open cluster. CMD class: 0.01 (50th percentile). |
@@ -3246,7 +3246,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2833/" target="_blank" style="color: $blue;">HSC 2833</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2836/" target="_blank" style="color: red;">HSC 2836</a> | Classified as open cluster. CMD class: 0.92 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2837/" target="_blank" style="color: red;">HSC 2837</a> | Classified as open cluster. CMD class: 0.52 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc284/" target="_blank" style="color: $blue;">HSC 284</a> | Classified as open cluster. CMD class: 0.14 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc284/" target="_blank" style="color: red;">HSC 284</a> | Classified as open cluster. CMD class: 0.14 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2842/" target="_blank" style="color: red;">HSC 2842</a> | Classified as open cluster. CMD class: 0.06 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2847/" target="_blank" style="color: red;">HSC 2847</a> | Classified as open cluster. CMD class: 0.04 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2848/" target="_blank" style="color: $blue;">HSC 2848</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -3296,7 +3296,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2901/" target="_blank" style="color: red;">HSC 2901</a> | Classified as open cluster. CMD class: 0.81 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2902/" target="_blank" style="color: red;">HSC 2902</a> | Classified as open cluster. CMD class: 0.89 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2903/" target="_blank" style="color: red;">HSC 2903</a> | Classified as open cluster. CMD class: 0.92 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2904/" target="_blank" style="color: $blue;">HSC 2904</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2904/" target="_blank" style="color: red;">HSC 2904</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2905/" target="_blank" style="color: red;">HSC 2905</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2906/" target="_blank" style="color: red;">HSC 2906</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2907/" target="_blank" style="color: $blue;">HSC 2907</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
@@ -3309,7 +3309,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2913/" target="_blank" style="color: $blue;">HSC 2913</a> | Classified as open cluster. CMD class: 0.15 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2914/" target="_blank" style="color: red;">HSC 2914</a> | Classified as open cluster. CMD class: 0.65 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2915/" target="_blank" style="color: red;">HSC 2915</a> | Classified as open cluster. CMD class: 0.31 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc2916/" target="_blank" style="color: $blue;">HSC 2916</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc2916/" target="_blank" style="color: red;">HSC 2916</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2917/" target="_blank" style="color: red;">HSC 2917</a> | Classified as open cluster. CMD class: 0.15 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2918/" target="_blank" style="color: red;">HSC 2918</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc2919/" target="_blank" style="color: $blue;">HSC 2919</a> | Classified as open cluster. CMD class: 0.86 (50th percentile). |
@@ -3484,7 +3484,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc435/" target="_blank" style="color: red;">HSC 435</a> | Classified as open cluster. CMD class: 0.13 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc436/" target="_blank" style="color: $blue;">HSC 436</a> | Classified as open cluster. CMD class: 0.91 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc437/" target="_blank" style="color: red;">HSC 437</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc438/" target="_blank" style="color: $blue;">HSC 438</a> | Classified as open cluster. CMD class: 0.57 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc438/" target="_blank" style="color: red;">HSC 438</a> | Classified as open cluster. CMD class: 0.57 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc44/" target="_blank" style="color: red;">HSC 44</a> | Classified as open cluster. CMD class: 0.09 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc440/" target="_blank" style="color: red;">HSC 440</a> | Classified as open cluster. CMD class: 0.70 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc441/" target="_blank" style="color: $blue;">HSC 441</a> | Classified as open cluster. CMD classes: 0.03 (50th percentile), false positive (human-assigned). |
@@ -3508,7 +3508,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc461/" target="_blank" style="color: red;">HSC 461</a> | Classified as open cluster. CMD class: 0.07 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc462/" target="_blank" style="color: red;">HSC 462</a> | Classified as open cluster. CMD class: 0.36 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc463/" target="_blank" style="color: red;">HSC 463</a> | Classified as open cluster. CMD class: 0.91 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc464/" target="_blank" style="color: $blue;">HSC 464</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc464/" target="_blank" style="color: red;">HSC 464</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc465/" target="_blank" style="color: red;">HSC 465</a> | Classified as open cluster. CMD class: 0.01 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc466/" target="_blank" style="color: red;">HSC 466</a> | Classified as open cluster. CMD class: 0.90 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc467/" target="_blank" style="color: red;">HSC 467</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -3517,7 +3517,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc471/" target="_blank" style="color: red;">HSC 471</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc473/" target="_blank" style="color: red;">HSC 473</a> | Classified as open cluster. CMD class: 0.95 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc474/" target="_blank" style="color: $blue;">HSC 474</a> | Classified as open cluster. CMD class: 0.82 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc475/" target="_blank" style="color: $blue;">HSC 475</a> | Classified as open cluster. CMD class: 0.90 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc475/" target="_blank" style="color: red;">HSC 475</a> | Classified as open cluster. CMD class: 0.90 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc476/" target="_blank" style="color: red;">HSC 476</a> | Classified as open cluster. CMD class: 0.59 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc477/" target="_blank" style="color: red;">HSC 477</a> | Classified as open cluster. CMD class: 0.65 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc478/" target="_blank" style="color: red;">HSC 478</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
@@ -3532,7 +3532,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc489/" target="_blank" style="color: red;">HSC 489</a> | Classified as open cluster. CMD class: 0.02 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc490/" target="_blank" style="color: red;">HSC 490</a> | Classified as open cluster. CMD class: 0.87 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc491/" target="_blank" style="color: red;">HSC 491</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc492/" target="_blank" style="color: $blue;">HSC 492</a> | Classified as open cluster. CMD class: 0.26 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc492/" target="_blank" style="color: red;">HSC 492</a> | Classified as open cluster. CMD class: 0.26 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc493/" target="_blank" style="color: red;">HSC 493</a> | Classified as open cluster. CMD classes: 0.31 (50th percentile), true positive? (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc494/" target="_blank" style="color: red;">HSC 494</a> | Classified as open cluster. CMD class: 0.81 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc496/" target="_blank" style="color: red;">HSC 496</a> | Classified as open cluster. CMD class: 0.85 (50th percentile). |
@@ -3609,7 +3609,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc575/" target="_blank" style="color: red;">HSC 575</a> | Classified as open cluster. CMD class: 0.78 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc576/" target="_blank" style="color: red;">HSC 576</a> | Classified as open cluster. CMD class: 0.92 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc579/" target="_blank" style="color: red;">HSC 579</a> | Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned). |
-| <a href="{{ site.baseurl }}/_clusters/hsc580/" target="_blank" style="color: $blue;">HSC 580</a> | Classified as open cluster. CMD classes: 0.32 (50th percentile), false positive (human-assigned). |
+| <a href="{{ site.baseurl }}/_clusters/hsc580/" target="_blank" style="color: red;">HSC 580</a> | Classified as open cluster. CMD classes: 0.32 (50th percentile), false positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/hsc581/" target="_blank" style="color: red;">HSC 581</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc582/" target="_blank" style="color: red;">HSC 582</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc583/" target="_blank" style="color: red;">HSC 583</a> | Classified as open cluster. CMD class: 0.59 (50th percentile). |
@@ -3651,12 +3651,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc622/" target="_blank" style="color: red;">HSC 622</a> | Classified as open cluster. CMD class: 0.18 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc623/" target="_blank" style="color: red;">HSC 623</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc624/" target="_blank" style="color: $blue;">HSC 624</a> | Classified as open cluster. CMD class: 0.25 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc625/" target="_blank" style="color: $blue;">HSC 625</a> | Classified as open cluster. CMD class: 0.25 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc625/" target="_blank" style="color: red;">HSC 625</a> | Classified as open cluster. CMD class: 0.25 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc626/" target="_blank" style="color: $blue;">HSC 626</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc627/" target="_blank" style="color: $blue;">HSC 627</a> | Classified as open cluster. CMD class: 0.90 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc628/" target="_blank" style="color: $blue;">HSC 628</a> | Classified as open cluster. CMD class: 0.82 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc629/" target="_blank" style="color: red;">HSC 629</a> | Classified as open cluster. CMD class: 0.60 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc63/" target="_blank" style="color: $blue;">HSC 63</a> | Classified as open cluster. CMD class: 0.15 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc63/" target="_blank" style="color: red;">HSC 63</a> | Classified as open cluster. CMD class: 0.15 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc630/" target="_blank" style="color: $blue;">HSC 630</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc631/" target="_blank" style="color: red;">HSC 631</a> | Classified as moving group. CMD class: 0.04 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc632/" target="_blank" style="color: red;">HSC 632</a> | Classified as open cluster. CMD class: 0.21 (50th percentile). |
@@ -3686,9 +3686,9 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc658/" target="_blank" style="color: red;">HSC 658</a> | Classified as open cluster. CMD class: 0.95 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc659/" target="_blank" style="color: red;">HSC 659</a> | Classified as open cluster. CMD class: 0.74 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc66/" target="_blank" style="color: red;">HSC 66</a> | Classified as open cluster. CMD class: 0.06 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc660/" target="_blank" style="color: $blue;">HSC 660</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc660/" target="_blank" style="color: red;">HSC 660</a> | Classified as open cluster. CMD class: 0.05 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc661/" target="_blank" style="color: red;">HSC 661</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/hsc662/" target="_blank" style="color: $blue;">HSC 662</a> | Classified as open cluster. CMD class: 0.77 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/hsc662/" target="_blank" style="color: red;">HSC 662</a> | Classified as open cluster. CMD class: 0.77 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc663/" target="_blank" style="color: red;">HSC 663</a> | Classified as open cluster. CMD class: 0.18 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc665/" target="_blank" style="color: $blue;">HSC 665</a> | Classified as open cluster. CMD class: 0.30 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/hsc667/" target="_blank" style="color: red;">HSC 667</a> | Classified as open cluster. CMD class: 0.17 (50th percentile). |
@@ -4579,7 +4579,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0018/" target="_blank" style="color: $blue;">OC 0018</a> | Classified as open cluster. CMD class: 0.24 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0019/" target="_blank" style="color: $blue;">OC 0019</a> | Classified as open cluster. CMD class: 0.30 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0023/" target="_blank" style="color: $blue;">OC 0023</a> | Classified as open cluster. CMD class: 0.72 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/oc0024/" target="_blank" style="color: $blue;">OC 0024</a> | Classified as open cluster. CMD class: 0.26 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/oc0024/" target="_blank" style="color: red;">OC 0024</a> | Classified as open cluster. CMD class: 0.26 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0025/" target="_blank" style="color: red;">OC 0025</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0026/" target="_blank" style="color: $blue;">OC 0026</a> | Classified as open cluster. CMD class: 0.03 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0027/" target="_blank" style="color: $blue;">OC 0027</a> | Classified as open cluster. CMD class: 0.08 (50th percentile). |
@@ -4629,7 +4629,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0148/" target="_blank" style="color: $blue;">OC 0148</a> | Classified as open cluster. CMD class: 0.32 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0149/" target="_blank" style="color: $blue;">OC 0149</a> | Classified as open cluster. CMD class: 0.37 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0150/" target="_blank" style="color: $blue;">OC 0150</a> | Classified as open cluster. CMD class: 0.02 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/oc0153/" target="_blank" style="color: $blue;">OC 0153</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/oc0153/" target="_blank" style="color: red;">OC 0153</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0158/" target="_blank" style="color: $blue;">OC 0158</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0160/" target="_blank" style="color: red;">OC 0160</a> | Classified as open cluster. CMD class: 0.45 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0165/" target="_blank" style="color: red;">OC 0165</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -4641,8 +4641,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0185/" target="_blank" style="color: red;">OC 0185</a> | Classified as open cluster. CMD class: 0.94 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0186/" target="_blank" style="color: $blue;">OC 0186</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0189/" target="_blank" style="color: red;">OC 0189</a> | Classified as open cluster. CMD class: 0.07 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/oc0190/" target="_blank" style="color: $blue;">OC 0190</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/oc0192/" target="_blank" style="color: $blue;">OC 0192</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/oc0190/" target="_blank" style="color: red;">OC 0190</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/oc0192/" target="_blank" style="color: red;">OC 0192</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0193/" target="_blank" style="color: red;">OC 0193</a> | Classified as open cluster. CMD class: 0.91 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0196/" target="_blank" style="color: $blue;">OC 0196</a> | Classified as open cluster. CMD class: 0.67 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/oc0203/" target="_blank" style="color: $blue;">OC 0203</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
@@ -4833,7 +4833,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/phoc26/" target="_blank" style="color: $blue;">PHOC 26</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/phoc27/" target="_blank" style="color: $blue;">PHOC 27</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/phoc29/" target="_blank" style="color: $blue;">PHOC 29</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/phoc3/" target="_blank" style="color: $blue;">PHOC 3</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
+| <a href="{{ site.baseurl }}/_clusters/phoc3/" target="_blank" style="color: red;">PHOC 3</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/phoc30/" target="_blank" style="color: $blue;">PHOC 30</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/phoc31/" target="_blank" style="color: $blue;">PHOC 31</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/phoc32/" target="_blank" style="color: red;">PHOC 32</a> | Classified as open cluster. CMD classes: 0.62 (50th percentile), true positive (human-assigned). |
@@ -5175,7 +5175,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia123/" target="_blank" style="color: $blue;">Theia 123</a> | Classified as open cluster. CMD class: 0.84 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia1232/" target="_blank" style="color: red;">Theia 1232</a> | Classified as open cluster. CMD class: 0.93 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia1256/" target="_blank" style="color: red;">Theia 1256</a> | Classified as open cluster. CMD class: 0.34 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/theia128/" target="_blank" style="color: $blue;">Theia 128</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/theia128/" target="_blank" style="color: red;">Theia 128</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia1297/" target="_blank" style="color: red;">Theia 1297</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia13/" target="_blank" style="color: $blue;">Theia 13</a> | Classified as open cluster. CMD class: 0.94 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia1306/" target="_blank" style="color: red;">Theia 1306</a> | Classified as open cluster. CMD class: 0.75 (50th percentile). |
@@ -5425,7 +5425,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia3327/" target="_blank" style="color: $blue;">Theia 3327</a> | Classified as open cluster. CMD class: 0.62 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia3329/" target="_blank" style="color: $blue;">Theia 3329</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia333/" target="_blank" style="color: red;">Theia 333</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/theia3333/" target="_blank" style="color: $blue;">Theia 3333</a> | Classified as open cluster. CMD class: 0.54 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/theia3333/" target="_blank" style="color: red;">Theia 3333</a> | Classified as open cluster. CMD class: 0.54 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia3337/" target="_blank" style="color: $blue;">Theia 3337</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia3339/" target="_blank" style="color: $blue;">Theia 3339</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia3381/" target="_blank" style="color: $blue;">Theia 3381</a> | Classified as open cluster. CMD class: 0.68 (50th percentile). |
@@ -5444,7 +5444,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia35/" target="_blank" style="color: red;">Theia 35</a> | Classified as open cluster. CMD class: 0.60 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia3502/" target="_blank" style="color: $blue;">Theia 3502</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia3524/" target="_blank" style="color: $blue;">Theia 3524</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/theia354/" target="_blank" style="color: $blue;">Theia 354</a> | Classified as open cluster. CMD class: 0.95 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/theia354/" target="_blank" style="color: red;">Theia 354</a> | Classified as open cluster. CMD class: 0.95 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/theia358/" target="_blank" style="color: red;">Theia 358</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/theia3581/" target="_blank" style="color: $blue;">Theia 3581</a> | Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/theia3582/" target="_blank" style="color: red;">Theia 3582</a> | Classified as open cluster. CMD class: 0.76 (50th percentile). |
@@ -5864,7 +5864,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1168/" target="_blank" style="color: red;">UBC 1168</a> | Classified as open cluster. CMD class: 0.94 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1169/" target="_blank" style="color: $blue;">UBC 1169</a> | Classified as open cluster. CMD class: 0.69 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1170/" target="_blank" style="color: red;">UBC 1170</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/ubc1171/" target="_blank" style="color: $blue;">UBC 1171</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/ubc1171/" target="_blank" style="color: red;">UBC 1171</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1173/" target="_blank" style="color: $blue;">UBC 1173</a> | Classified as open cluster. CMD class: 0.55 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1174/" target="_blank" style="color: red;">UBC 1174</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1176/" target="_blank" style="color: $blue;">UBC 1176</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
@@ -6071,7 +6071,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1443/" target="_blank" style="color: $blue;">UBC 1443</a> | Classified as open cluster. CMD class: 0.90 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1444/" target="_blank" style="color: $blue;">UBC 1444</a> | Classified as open cluster. CMD class: 0.88 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1446/" target="_blank" style="color: $blue;">UBC 1446</a> | Classified as open cluster. CMD class: 0.79 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/ubc1447/" target="_blank" style="color: $blue;">UBC 1447</a> | Classified as open cluster. CMD class: 0.57 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/ubc1447/" target="_blank" style="color: red;">UBC 1447</a> | Classified as open cluster. CMD class: 0.57 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1448/" target="_blank" style="color: $blue;">UBC 1448</a> | Classified as open cluster. CMD class: 0.48 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1449/" target="_blank" style="color: $blue;">UBC 1449</a> | Classified as open cluster. CMD class: 0.44 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1450/" target="_blank" style="color: $blue;">UBC 1450</a> | Classified as open cluster. CMD class: 0.79 (50th percentile). |
@@ -6095,7 +6095,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1473/" target="_blank" style="color: $blue;">UBC 1473</a> | Classified as open cluster. CMD class: 0.13 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1474/" target="_blank" style="color: $blue;">UBC 1474</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1475/" target="_blank" style="color: $blue;">UBC 1475</a> | Classified as open cluster. CMD class: 0.81 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/ubc1476/" target="_blank" style="color: $blue;">UBC 1476</a> | Classified as open cluster. CMD class: 0.82 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/ubc1476/" target="_blank" style="color: red;">UBC 1476</a> | Classified as open cluster. CMD class: 0.82 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1477/" target="_blank" style="color: red;">UBC 1477</a> | Classified as open cluster. CMD class: 0.37 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc148/" target="_blank" style="color: $blue;">UBC 148</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1480/" target="_blank" style="color: $blue;">UBC 1480</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
@@ -6118,7 +6118,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1504/" target="_blank" style="color: $blue;">UBC 1504</a> | Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1505/" target="_blank" style="color: $blue;">UBC 1505</a> | Classified as open cluster. CMD class: 0.85 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1506/" target="_blank" style="color: $blue;">UBC 1506</a> | Classified as open cluster. CMD class: 0.36 (50th percentile). |
-| <a href="{{ site.baseurl }}/_clusters/ubc1507/" target="_blank" style="color: $blue;">UBC 1507</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/ubc1507/" target="_blank" style="color: red;">UBC 1507</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1509/" target="_blank" style="color: $blue;">UBC 1509</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1510/" target="_blank" style="color: $blue;">UBC 1510</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/ubc1511/" target="_blank" style="color: $blue;">UBC 1511</a> | Classified as open cluster. CMD class: 0.72 (50th percentile). |

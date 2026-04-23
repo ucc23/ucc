@@ -13,17 +13,17 @@ glon: 243.98555
 glat: -2.0821
 r50: 3.3
 plx: 0.246
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.89"
+UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#d0eac9"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 1.0
+UTI_C_dens: 0.94
 UTI_C_C3: 1.0
-UTI_C_lit: 0.77
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 2.0
-dens_val: 5.4
+rc_val: 2.1
+dens_val: 4.7
 N_membs_val: 273
 scix_url: Haffner%2014
 posit_table: |
@@ -119,7 +119,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VVVX-Obasi 26](/_clusters/vvvxobasi26/)| 96.3 | 116.18 | -28.38 | 0.25 | -1.82 | 1.75 | 69.97 |0.07 |
+    |[VVVX-Obasi 26](/_clusters/vvvxobasi26/)| 96.3 | 116.18 | -28.38 | 0.25 | -1.82 | 1.75 | 69.97 |0.06 |
     |[OC 0422](/_clusters/oc0422/)| 13.2 | 116.16 | -28.38 | 0.25 | -1.82 | 1.73 | 70.1 |0.0 |
 N_rows_shared: "2"
 ---

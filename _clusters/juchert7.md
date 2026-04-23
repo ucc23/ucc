@@ -16,12 +16,12 @@ plx: 0.1642
 UTI: "0.43"
 UTI_COLOR: "#fef7db"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#f5fbdc"
+UTI_C_dens_COL: "#f3fad8"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 0.57
+UTI_C_dens: 0.59
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 3.0
+rc_val: 2.8
 dens_val: 2.9
 N_membs_val: 247
 scix_url: Juchert%207

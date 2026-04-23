@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 2.0
-dens_val: 22
+rc_val: 2.7
+dens_val: 17
 N_membs_val: 2019
 scix_url: Stock%202
 posit_table: |

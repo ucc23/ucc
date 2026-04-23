@@ -13,17 +13,17 @@ glon: 326.53007
 glat: 4.24845
 r50: 13.3
 plx: 1.491
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#fcfee5"
-UTI_C_dens_COL: "#fee2c7"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
-UTI_C_dens: 0.3
+UTI_C_dens: 0.25
 UTI_C_C3: 0.75
-UTI_C_lit: 0.81
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 1.5
-dens_val: 1.5
+rc_val: 2.7
+dens_val: 1.3
 N_membs_val: 54
 scix_url: Alessi%208
 posit_table: |

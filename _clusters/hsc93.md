@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 3.7
-dens_val: 0.05
+rc_val: 10
+dens_val: 0.03
 N_membs_val: 12
 scix_url: HSC%2093
 posit_table: |

@@ -16,12 +16,12 @@ plx: 0.2432
 UTI: "0.08"
 UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#e9f5d0"
-UTI_C_dens_COL: "#e9f5d0"
+UTI_C_dens_COL: "#ecf7d3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f9c9bc"
 UTI_C_N: 0.65
-UTI_C_dens: 0.65
+UTI_C_dens: 0.63
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.19
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 1.7
-dens_val: 3.2
+rc_val: 1.8
+dens_val: 3.1
 N_membs_val: 80
 scix_url: DBSB%205
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Mayer  3](/_clusters/mayer3/)| 81.2 | 112.52 | -18.55 | 0.23 | -1.88 | 2.36 | 219.52 |0.6 |
+    |[Mayer  3](/_clusters/mayer3/)| 81.2 | 112.52 | -18.55 | 0.23 | -1.88 | 2.36 | 219.52 |0.66 |
     |[S 305](/_clusters/s305/)| 78.8 | 112.51 | -18.55 | 0.23 | -1.89 | 2.36 | 219.52 |0.0 |
 N_rows_shared: "2"
 ---

@@ -16,14 +16,14 @@ plx: 0.4084
 UTI: "0.15"
 UTI_COLOR: "#f5c1b8"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#e7f4cf"
+UTI_C_dens_COL: "#fefee8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fee7cc"
 UTI_C_N: 0.81
-UTI_C_dens: 0.66
+UTI_C_dens: 0.5
 UTI_C_C3: 0.75
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.33
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-rc_val: 3.1
-dens_val: 3.3
+rc_val: 3.4
+dens_val: 2.5
 N_membs_val: 268
 scix_url: QC%203
 posit_table: |
@@ -79,7 +79,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 506](/_clusters/fof506/)| 66.8 | 310.36 | 46.14 | 0.41 | -2.25 | -4.47 | -26.54 |0.42 |
+    |[FoF 506](/_clusters/fof506/)| 66.8 | 310.36 | 46.14 | 0.41 | -2.25 | -4.47 | -26.54 |0.47 |
     |[OC 0135](/_clusters/oc0135/)| 23.5 | 310.37 | 46.13 | 0.41 | -2.25 | -4.48 | -- |0.0 |
 N_rows_shared: "2"
 ---

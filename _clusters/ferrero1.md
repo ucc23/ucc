@@ -13,17 +13,17 @@ glon: 0.64944
 glat: -8.13954
 r50: 8.9
 plx: 1.1464
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.89"
+UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#afdbc1"
+UTI_C_dens_COL: "#add7c0"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
-UTI_C_dens: 0.9
+UTI_C_dens: 0.92
 UTI_C_C3: 1.0
-UTI_C_lit: 0.84
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -56,8 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-rc_val: 1.6
-dens_val: 4.5
+rc_val: 1.8
+dens_val: 4.6
 N_membs_val: 109
 scix_url: Ferrero%201
 posit_table: |

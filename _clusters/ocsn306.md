@@ -16,12 +16,12 @@ plx: 4.7162
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#fdddc5"
+UTI_C_dens_COL: "#fef0d2"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#edb2b3"
 UTI_C_N: 0.81
-UTI_C_dens: 0.28
+UTI_C_dens: 0.38
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.08
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 4.9
-dens_val: 1.4
+rc_val: 2.0
+dens_val: 1.9
 N_membs_val: 258
 scix_url: OCSN%20306
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 116](/_clusters/theia116/)| 91.9 | 92.58 | 14.93 | 4.77 | 5.89 | -17.1 | 22.36 |0.37 |
-    |[HSC 1553](/_clusters/hsc1553/)| 90.7 | 92.79 | 14.34 | 4.63 | 5.64 | -16.52 | 22.1 |0.1 |
+    |[Theia 116](/_clusters/theia116/)| 91.9 | 92.58 | 14.93 | 4.77 | 5.89 | -17.1 | 22.36 |0.39 |
+    |[HSC 1553](/_clusters/hsc1553/)| 90.7 | 92.79 | 14.34 | 4.63 | 5.64 | -16.52 | 22.1 |0.12 |
 N_rows_shared: "2"
 ---

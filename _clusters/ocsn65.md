@@ -13,25 +13,25 @@ glon: 205.67393
 glat: -17.74156
 r50: 32.1
 plx: 2.3665
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.57"
+UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#f0f8d5"
+UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f6c2b8"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#c4e5c7"
 UTI_C_N: 0.81
-UTI_C_dens: 0.61
+UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.16
+UTI_C_lit: 0.31
 UTI_C_dup: 0.82
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>OCSN 65</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry, and a small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 65</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry, and a small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 3.2
-dens_val: 3.1
+rc_val: 1.1
+dens_val: 6.8
 N_membs_val: 255
 scix_url: OCSN%2065
 posit_table: |
@@ -89,8 +89,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.6 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.65 |
     |[OCSN 194](/_clusters/ocsn194/)| 14.5 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.44 |
+    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.53 |
 N_rows_shared: "3"
 ---

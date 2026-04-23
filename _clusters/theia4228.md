@@ -16,14 +16,14 @@ plx: 0.9644
 UTI: "0.07"
 UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fdddc5"
 UTI_C_N: 0.55
-UTI_C_dens: 0.21
+UTI_C_dens: 0.13
 UTI_C_C3: 0.38
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.28
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 0.8
-dens_val: 1.1
+rc_val: 3.4
+dens_val: 0.6
 N_membs_val: 60
 scix_url: Theia%204228
 posit_table: |
@@ -79,7 +79,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1059](/_clusters/cwnu1059/)| 71.7 | 17.44 | 66.18 | 0.96 | -0.24 | 0.77 | -21.63 |0.19 |
+    |[CWNU 1059](/_clusters/cwnu1059/)| 71.7 | 17.44 | 66.18 | 0.96 | -0.24 | 0.77 | -21.63 |0.18 |
     |[CWWDL 14456](/_clusters/cwwdl14456/)| 65.0 | 17.69 | 66.07 | 0.96 | -0.23 | 0.76 | -19.37 |0.03 |
 N_rows_shared: "2"
 ---

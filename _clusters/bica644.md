@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.4
+rc_val: 4.3
 dens_val: 0.2
 N_membs_val: 14
 scix_url: Bica%20644
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDB2003 G010.62-00.38](/_clusters/bdb2003g010620038/)| 28.0 | 272.62 | -19.94 | 0.4 | -0.87 | -2.13 | 36.43 |0.11 |
+    |[BDB2003 G010.62-00.38](/_clusters/bdb2003g010620038/)| 28.0 | 272.62 | -19.94 | 0.4 | -0.87 | -2.13 | 36.43 |0.1 |
     |[Kes29](/_clusters/kes29/)| 20.0 | 272.65 | -19.94 | 0.35 | -0.85 | -2.13 | 36.43 |0.22 |
 N_rows_shared: "2"
 ---

@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 6.4
+rc_val: 6.8
 dens_val: 0.1
 N_membs_val: 21
 scix_url: Teutsch%20347

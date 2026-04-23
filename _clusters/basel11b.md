@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-rc_val: 1.2
-dens_val: 6.9
+rc_val: 1.6
+dens_val: 6.2
 N_membs_val: 160
 scix_url: Basel%2011b
 posit_table: |

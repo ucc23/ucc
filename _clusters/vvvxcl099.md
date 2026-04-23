@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.8
+rc_val: 0.9
 dens_val: 11
 N_membs_val: 42
 scix_url: VVVX%20CL099

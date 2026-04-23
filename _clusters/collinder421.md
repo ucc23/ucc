@@ -13,17 +13,17 @@ glon: 79.43415
 glat: 2.51826
 r50: 10.8
 plx: 0.8248
-UTI: "0.90"
-UTI_COLOR: "#afdbc1"
+UTI: "0.92"
+UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#bce1c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.85
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.84
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -55,8 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-rc_val: 1.7
-dens_val: 6.8
+rc_val: 1.6
+dens_val: 6.4
 N_membs_val: 357
 scix_url: Collinder%20421
 posit_table: |
@@ -128,6 +128,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 142](/_clusters/ubc142/)| 100.0 | 305.83 | 41.69 | 0.82 | -3.64 | -8.36 | 0.77 |0.06 |
-    |[Dolidze 9](/_clusters/dolidze9/)| 6.7 | 306.19 | 41.94 | 0.82 | -3.68 | -8.32 | -2.61 |0.22 |
+    |[Dolidze 9](/_clusters/dolidze9/)| 6.7 | 306.19 | 41.94 | 0.82 | -3.68 | -8.32 | -2.61 |0.3 |
 N_rows_shared: "2"
 ---

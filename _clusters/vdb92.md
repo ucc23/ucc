@@ -13,17 +13,17 @@ glon: 224.59402
 glat: -2.40986
 r50: 8.9
 plx: 0.8644
-UTI: "0.92"
-UTI_COLOR: "#add7c0"
+UTI: "0.93"
+UTI_COLOR: "#acd6bf"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -57,8 +57,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
-rc_val: 2.5
-dens_val: 14
+rc_val: 0.6
+dens_val: 34
 N_membs_val: 682
 scix_url: VDB%2092
 posit_table: |
@@ -137,6 +137,6 @@ shared_table: |
     |[BRC27](/_clusters/brc27/)| 13.6 | 106.03 | -11.41 | 0.87 | -4.52 | 1.67 | 30.36 |0.0 |
     |[NGC 2327](/_clusters/ngc2327/)| 12.2 | 106.03 | -11.39 | 0.87 | -4.55 | 1.66 | 30.36 |0.0 |
     |[FSR 1184](/_clusters/fsr1184/)| 2.1 | 105.68 | -11.45 | 0.88 | -3.8 | 1.53 | -10.55 |0.15 |
-    |[CWWDL 14341](/_clusters/cwwdl14341/)| 0.3 | 106.46 | -11.12 | 0.85 | -3.92 | 1.46 | 22.47 |0.11 |
+    |[CWWDL 14341](/_clusters/cwwdl14341/)| 0.3 | 106.46 | -11.12 | 0.85 | -3.92 | 1.46 | 22.47 |0.1 |
 N_rows_shared: "4"
 ---

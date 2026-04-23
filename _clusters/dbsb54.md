@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 0.5
-dens_val: 25
+rc_val: 0.6
+dens_val: 22
 N_membs_val: 84
 scix_url: DBSB%2054
 posit_table: |
@@ -71,6 +71,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Trumpler 14](/_clusters/trumpler14/)| 100.0 | 160.99 | -59.55 | 0.39 | -6.51 | 2.08 | -17.89 |0.95 |
-    |[Collinder 232](/_clusters/collinder232/)| 27.4 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.05 |
+    |[Collinder 232](/_clusters/collinder232/)| 27.4 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.06 |
 N_rows_shared: "2"
 ---

@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 1.3
-dens_val: 26
+rc_val: 1.2
+dens_val: 27
 N_membs_val: 665
 scix_url: Alessi%205
 posit_table: |

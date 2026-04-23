@@ -16,14 +16,14 @@ plx: 0.3704
 UTI: "0.01"
 UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.0
-UTI_C_dens: 0.22
+UTI_C_dens: 0.21
 UTI_C_C3: 0.5
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.04
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 1.6
-dens_val: 1.1
+rc_val: 2.0
+dens_val: 1.0
 N_membs_val: 23
 scix_url: Theia%201774
 posit_table: |
@@ -80,8 +80,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch J0706.0 0907](/_clusters/teutschj070600907/)| 100.0 | 106.76 | -9.18 | 0.37 | -1.17 | 0.92 | -- |0.08 |
-    |[OC 0375](/_clusters/oc0375/)| 96.0 | 106.76 | -9.17 | 0.37 | -1.17 | 0.91 | -- |0.18 |
-    |[UBC 218](/_clusters/ubc218/)| 36.0 | 106.52 | -9.18 | 0.35 | -1.18 | 0.89 | -- |0.16 |
+    |[OC 0375](/_clusters/oc0375/)| 96.0 | 106.76 | -9.17 | 0.37 | -1.17 | 0.91 | -- |0.17 |
+    |[UBC 218](/_clusters/ubc218/)| 36.0 | 106.52 | -9.18 | 0.35 | -1.18 | 0.89 | -- |0.18 |
     |[CWWDL 4703](/_clusters/cwwdl4703/)| 4.0 | 106.42 | -9.12 | 0.35 | -1.09 | 0.89 | -- |0.08 |
 N_rows_shared: "4"
 ---

@@ -58,7 +58,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "7"
 rc_val: 0.7
-dens_val: 31
+dens_val: 26
 N_membs_val: 192
 scix_url: Collinder%20205
 posit_table: |

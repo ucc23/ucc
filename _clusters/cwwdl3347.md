@@ -16,12 +16,12 @@ plx: 0.3724
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fef2d4"
-UTI_C_dens_COL: "#fefae1"
+UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.39
-UTI_C_dens: 0.46
+UTI_C_dens: 0.33
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 0.9
-dens_val: 2.3
+rc_val: 1.4
+dens_val: 1.6
 N_membs_val: 39
 scix_url: CWWDL%203347
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.13 |
-    |[UBC 44](/_clusters/ubc44/)| 100.0 | 31.12 | 54.37 | 0.37 | -2.28 | -0.26 | -37.93 |0.4 |
+    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.14 |
+    |[UBC 44](/_clusters/ubc44/)| 100.0 | 31.12 | 54.37 | 0.37 | -2.28 | -0.26 | -37.93 |0.44 |
 N_rows_shared: "2"
 ---

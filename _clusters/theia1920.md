@@ -13,17 +13,17 @@ glon: 76.48853
 glat: 1.74561
 r50: 14.8
 plx: 0.8726
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e4aab3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.04
+UTI_C_dens: 0.05
 UTI_C_C3: 0.38
-UTI_C_lit: 0.03
+UTI_C_lit: 0.06
 UTI_C_dup: 0.96
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -54,7 +54,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "4"
-rc_val: 3.4
+rc_val: 3.6
 dens_val: 0.2
 N_membs_val: 21
 scix_url: Theia%201920
@@ -80,6 +80,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Dolidze 42](/_clusters/dolidze42/)| 4.0 | 304.98 | 38.1 | 0.87 | -2.97 | -7.32 | 10.15 |0.26 |
+    |[Dolidze 42](/_clusters/dolidze42/)| 4.0 | 304.98 | 38.1 | 0.87 | -2.97 | -7.32 | 10.15 |0.33 |
 N_rows_shared: "1"
 ---

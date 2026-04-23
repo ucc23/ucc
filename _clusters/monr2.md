@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-rc_val: 1.1
-dens_val: 20
+rc_val: 0.5
+dens_val: 33
 N_membs_val: 321
 scix_url: MonR2
 posit_table: |
@@ -76,6 +76,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2262](/_clusters/fof2262/)| 53.9 | 91.95 | -6.39 | 1.14 | -2.82 | 1.06 | 33.79 |0.02 |
-    |[OC 0357](/_clusters/oc0357/)| 48.3 | 91.94 | -6.4 | 1.14 | -2.81 | 1.06 | 36.0 |0.03 |
+    |[OC 0357](/_clusters/oc0357/)| 48.3 | 91.94 | -6.4 | 1.14 | -2.81 | 1.06 | 36.0 |0.04 |
 N_rows_shared: "2"
 ---

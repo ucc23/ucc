@@ -13,17 +13,17 @@ glon: 118.77799
 glat: -9.92524
 r50: 12.4
 plx: 0.5662
-UTI: "0.00"
-UTI_COLOR: "#dfa5b3"
+UTI: "0.01"
+UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e7adb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.0
-UTI_C_dens: 0.05
+UTI_C_dens: 0.03
 UTI_C_C3: 0.38
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 0.04
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -53,7 +53,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.2
+rc_val: 4.2
 dens_val: 0.2
 N_membs_val: 21
 scix_url: Theia%202936
@@ -83,7 +83,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1202](/_clusters/ubc1202/)| 96.0 | 6.5 | 52.75 | 0.56 | -1.99 | -1.27 | -17.01 |0.28 |
     |[CWNU 177](/_clusters/cwnu177/)| 56.0 | 6.57 | 52.73 | 0.57 | -1.99 | -1.27 | -- |0.0 |
-    |[UBC 1197](/_clusters/ubc1197/)| 28.0 | 5.36 | 52.69 | 0.55 | -2.02 | -1.35 | -37.29 |0.11 |
+    |[UBC 1197](/_clusters/ubc1197/)| 28.0 | 5.36 | 52.69 | 0.55 | -2.02 | -1.35 | -37.29 |0.1 |
     |[OC 0224](/_clusters/oc0224/)| 20.0 | 6.64 | 52.91 | 0.57 | -2.04 | -1.24 | -7.39 |0.02 |
     |[CWNU 479](/_clusters/cwnu479/)| 8.0 | 5.23 | 52.59 | 0.56 | -2.05 | -1.36 | -37.29 |0.06 |
 N_rows_shared: "5"

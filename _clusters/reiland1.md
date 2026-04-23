@@ -13,17 +13,17 @@ glon: 110.01974
 glat: -0.02996
 r50: 11.0
 plx: 1.5842
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#fcd2c0"
+UTI_C_dens_COL: "#f8c6ba"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 0.23
+UTI_C_dens: 0.18
 UTI_C_C3: 0.25
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 1.2
+rc_val: 1.9
+dens_val: 0.9
 N_membs_val: 25
 scix_url: Reiland%201
 posit_table: |

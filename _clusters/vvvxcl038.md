@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 7.2
+rc_val: 7.5
 dens_val: 0.07
 N_membs_val: 13
 scix_url: VVVX%20CL038

@@ -13,25 +13,25 @@ glon: 351.16882
 glat: 0.68045
 r50: 3.8
 plx: 0.5926
-UTI: "0.18"
-UTI_COLOR: "#f8c6ba"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fbfde3"
 UTI_C_N: 0.3
-UTI_C_dens: 1.0
+UTI_C_dens: 0.34
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.53
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>BDSB 97</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>BDSB 97</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: ""
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 0.5
-dens_val: 6.4
+rc_val: 1.4
+dens_val: 1.7
 N_membs_val: 30
 scix_url: BDSB%2097
 posit_table: |
@@ -75,10 +75,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 63.3 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.23 |
-    |[NGC 6334 V](/_clusters/ngc6334v/)| 46.7 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.22 |
+    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 63.3 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.28 |
+    |[NGC 6334 V](/_clusters/ngc6334v/)| 46.7 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.23 |
     |[BDSB 98](/_clusters/bdsb98/)| 36.7 | 260.0 | -35.93 | 0.56 | -0.19 | -1.82 | -14.06 |0.04 |
-    |[NGC 6334](/_clusters/ngc6334/)| 3.3 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.43 |
+    |[NGC 6334](/_clusters/ngc6334/)| 3.3 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.5 |
     |[NGC 6334 III](/_clusters/ngc6334iii/)| 3.3 | 260.09 | -35.9 | 0.58 | -0.24 | -1.71 | -- |0.05 |
 N_rows_shared: "5"
 ---

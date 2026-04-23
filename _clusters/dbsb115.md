@@ -13,17 +13,17 @@ glon: 345.32622
 glat: 1.49742
 r50: 4.0
 plx: 0.605
-UTI: "0.24"
-UTI_COLOR: "#fcd4c1"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#fef0d2"
-UTI_C_dens_COL: "#fefae1"
+UTI_C_dens_COL: "#feebce"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.38
-UTI_C_dens: 0.46
+UTI_C_dens: 0.35
 UTI_C_C3: 0.25
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.5
-dens_val: 2.3
+rc_val: 1.8
+dens_val: 1.7
 N_membs_val: 38
 scix_url: DBSB%20115
 posit_table: |
@@ -79,7 +79,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 114](/_clusters/dbsb114/)| 78.9 | 254.76 | -40.2 | 0.6 | -0.32 | -1.28 | -14.73 |0.51 |
-    |[DBSB 117](/_clusters/dbsb117/)| 23.7 | 254.81 | -40.2 | 0.6 | -0.38 | -1.32 | -15.63 |0.28 |
+    |[DBSB 117](/_clusters/dbsb117/)| 23.7 | 254.81 | -40.2 | 0.6 | -0.38 | -1.32 | -15.63 |0.23 |
     |[CWNU 4046](/_clusters/cwnu4046/)| 18.4 | 254.73 | -40.2 | 0.55 | -0.15 | -1.38 | -15.49 |0.12 |
 N_rows_shared: "3"
 ---

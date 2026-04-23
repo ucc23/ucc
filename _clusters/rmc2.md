@@ -16,12 +16,12 @@ plx: 0.6763
 UTI: "0.37"
 UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#e3f3cd"
-UTI_C_dens_COL: "#fef5d7"
+UTI_C_dens_COL: "#fef7db"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
-UTI_C_dens: 0.41
+UTI_C_dens: 0.43
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 2.8
+rc_val: 2.7
 dens_val: 2.1
 N_membs_val: 85
 scix_url: RMC-2
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RMC-4b](/_clusters/rmc4b/)| 36.5 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.54 |
+    |[RMC-4b](/_clusters/rmc4b/)| 36.5 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.58 |
     |[RMC-4a](/_clusters/rmc4a/)| 25.9 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.55 |
     |[RMC-5](/_clusters/rmc5/)| 7.1 | 98.58 | 4.43 | 0.69 | -1.58 | 0.14 | 7.99 |0.5 |
     |[LP 39](/_clusters/lp39/)| 2.4 | 98.6 | 4.43 | 0.68 | -1.57 | 0.12 | 25.77 |0.0 |

@@ -13,15 +13,15 @@ glon: 0.29337
 glat: -0.22872
 r50: 5.2
 plx: 0.3558
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 1.4
-dens_val: 0.5
+rc_val: 3.9
+dens_val: 0.2
 N_membs_val: 20
 scix_url: Dutra%20Bica%204
 posit_table: |
@@ -71,7 +71,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Dutra Bica 5](/_clusters/dutrabica5/)| 88.0 | 266.79 | -28.78 | 0.38 | 0.11 | -2.15 | -22.0 |0.47 |
-    |[Dutra Bica 6](/_clusters/dutrabica6/)| 76.0 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.11 |
-    |[Arches](/_clusters/arches/)| 16.0 | 266.52 | -28.85 | 0.49 | 0.08 | -2.1 | 21.14 |0.16 |
+    |[Dutra Bica 6](/_clusters/dutrabica6/)| 76.0 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.13 |
+    |[Arches](/_clusters/arches/)| 16.0 | 266.52 | -28.85 | 0.49 | 0.08 | -2.1 | 21.14 |0.15 |
 N_rows_shared: "3"
 ---

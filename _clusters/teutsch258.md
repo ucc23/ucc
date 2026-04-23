@@ -16,12 +16,12 @@ plx: 0.6434
 UTI: "0.04"
 UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.08
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-rc_val: 3.9
-dens_val: 0.3
+rc_val: 3.6
+dens_val: 0.4
 N_membs_val: 19
 scix_url: Teutsch%20258
 posit_table: |
@@ -70,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LS 474](/_clusters/ls474/)| 20.0 | 257.88 | -38.3 | 0.58 | -2.45 | -3.32 | -27.48 |0.21 |
-    |[Ryu 403](/_clusters/ryu403/)| 8.0 | 257.95 | -38.52 | 0.76 | -2.93 | -7.2 | 12.27 |0.2 |
-    |[FSR 1755](/_clusters/fsr1755/)| 4.0 | 258.1 | -38.44 | 0.61 | -2.63 | -3.64 | -36.13 |0.17 |
+    |[LS 474](/_clusters/ls474/)| 20.0 | 257.88 | -38.3 | 0.58 | -2.45 | -3.32 | -27.48 |0.2 |
+    |[Ryu 403](/_clusters/ryu403/)| 8.0 | 257.95 | -38.52 | 0.76 | -2.93 | -7.2 | 12.27 |0.16 |
+    |[FSR 1755](/_clusters/fsr1755/)| 4.0 | 258.1 | -38.44 | 0.61 | -2.63 | -3.64 | -36.13 |0.22 |
 N_rows_shared: "3"
 ---

@@ -52,7 +52,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
 rc_val: 0.2
-dens_val: 57
+dens_val: 54
 N_membs_val: 51
 scix_url: NGC%201333NE
 posit_table: |
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 1333](/_clusters/ngc1333/)| 100.0 | 52.28 | 31.27 | 3.38 | 7.39 | -9.29 | 10.82 |0.48 |
+    |[NGC 1333](/_clusters/ngc1333/)| 100.0 | 52.28 | 31.27 | 3.38 | 7.39 | -9.29 | 10.82 |0.54 |
     |[OCSN 223](/_clusters/ocsn223/)| 88.2 | 52.24 | 31.28 | 3.38 | 7.41 | -9.59 | 8.45 |0.0 |
     |[NGC 1333SW](/_clusters/ngc1333sw/)| 86.3 | 52.28 | 31.32 | 3.36 | 6.82 | -9.77 | 16.54 |0.49 |
     |[HSC 1250](/_clusters/hsc1250/)| 3.9 | 52.44 | 31.08 | 3.39 | 7.54 | -8.24 | 9.46 |0.0 |

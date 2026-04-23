@@ -16,12 +16,12 @@ plx: 0.5609
 UTI: "0.35"
 UTI_COLOR: "#feebce"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#feebce"
+UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 0.35
+UTI_C_dens: 0.33
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-rc_val: 2.8
-dens_val: 1.8
+rc_val: 2.9
+dens_val: 1.7
 N_membs_val: 153
 scix_url: DBSB%2097
 posit_table: |

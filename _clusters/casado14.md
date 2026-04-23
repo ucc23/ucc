@@ -13,17 +13,17 @@ glon: 122.03103
 glat: -0.26311
 r50: 4.0
 plx: 0.2368
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.38"
+UTI_COLOR: "#fef0d2"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
-UTI_C_dens: 0.21
+UTI_C_dens: 0.14
 UTI_C_C3: 0.75
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 2.9
-dens_val: 1.1
+rc_val: 4.5
+dens_val: 0.7
 N_membs_val: 109
 scix_url: Casado%2014
 posit_table: |

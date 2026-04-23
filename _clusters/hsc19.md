@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-rc_val: 16
-dens_val: 0.01
+rc_val: 10
+dens_val: 0.02
 N_membs_val: 17
 scix_url: HSC%2019
 posit_table: |

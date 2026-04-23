@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-rc_val: 2.1
+rc_val: 2.5
 dens_val: 1.6
 N_membs_val: 76
 scix_url: Teutsch%2016

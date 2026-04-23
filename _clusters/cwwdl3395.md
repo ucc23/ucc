@@ -13,15 +13,15 @@ glon: 262.59113
 glat: -4.8733
 r50: 3.7
 plx: 0.2967
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#feebce"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee9cd"
 UTI_C_N: 0.35
-UTI_C_dens: 0.17
+UTI_C_dens: 0.08
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.34
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 0.8
+rc_val: 4.2
+dens_val: 0.4
 N_membs_val: 35
 scix_url: CWWDL%203395
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0477](/_clusters/oc0477/)| 65.7 | 125.65 | -45.62 | 0.3 | -3.05 | 3.85 | 46.2 |0.16 |
+    |[OC 0477](/_clusters/oc0477/)| 65.7 | 125.65 | -45.62 | 0.3 | -3.05 | 3.85 | 46.2 |0.19 |
 N_rows_shared: "1"
 ---

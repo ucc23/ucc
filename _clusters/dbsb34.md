@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 7.6
+rc_val: 10
 dens_val: 0.04
 N_membs_val: 19
 scix_url: DBSB%2034

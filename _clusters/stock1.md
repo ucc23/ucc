@@ -13,15 +13,15 @@ glon: 60.20474
 glat: 2.05994
 r50: 39.9
 plx: 2.4589
-UTI: "0.88"
-UTI_COLOR: "#b4ddc3"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#f0f8d5"
+UTI_C_dens_COL: "#fdfee6"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 0.61
+UTI_C_dens: 0.51
 UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 2.8
-dens_val: 3.0
+rc_val: 3.3
+dens_val: 2.5
 N_membs_val: 266
 scix_url: Stock%201
 posit_table: |

@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 3.2
-dens_val: 0.09
+rc_val: 8.9
+dens_val: 0.08
 N_membs_val: 20
 scix_url: LISC-III%203492
 posit_table: |

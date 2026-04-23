@@ -13,17 +13,17 @@ glon: 212.60467
 glat: 5.3594
 r50: 3.3
 plx: 0.1814
-UTI: "0.84"
-UTI_COLOR: "#bfe2c5"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#a8cfbb"
+UTI_C_dens_COL: "#a6ccba"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 0.97
+UTI_C_dens: 0.99
 UTI_C_C3: 0.75
-UTI_C_lit: 0.84
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -56,7 +56,7 @@ class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
 rc_val: 1.4
-dens_val: 4.9
+dens_val: 5.0
 N_membs_val: 259
 scix_url: Berkeley%2035
 posit_table: |

@@ -13,17 +13,17 @@ glon: 249.51236
 glat: 1.9453
 r50: 3.4
 plx: 0.2728
-UTI: "0.21"
-UTI_COLOR: "#fbcdbe"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#fdddc5"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.28
-UTI_C_dens: 0.12
+UTI_C_dens: 0.07
 UTI_C_C3: 0.5
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-rc_val: 1.9
-dens_val: 0.6
+rc_val: 3.3
+dens_val: 0.4
 N_membs_val: 28
 scix_url: Casado%208
 posit_table: |
@@ -81,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1581](/_clusters/ubc1581/)| 67.9 | 123.47 | -30.97 | 0.29 | -2.96 | 2.08 | 53.34 |0.04 |
+    |[UBC 1581](/_clusters/ubc1581/)| 67.9 | 123.47 | -30.97 | 0.29 | -2.96 | 2.08 | 53.34 |0.03 |
 N_rows_shared: "1"
 ---

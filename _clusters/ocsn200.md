@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.9
-dens_val: 9.7
+rc_val: 0.9
+dens_val: 20
 N_membs_val: 657
 scix_url: OCSN%20200
 posit_table: |
@@ -72,10 +72,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2387](/_clusters/fof2387/)| 93.9 | 117.39 | -46.67 | 2.53 | -4.71 | 8.96 | 17.63 |0.51 |
-    |[OC 0470](/_clusters/oc0470/)| 13.7 | 117.34 | -46.37 | 2.55 | -4.71 | 9.06 | 17.63 |0.6 |
+    |[FoF 2387](/_clusters/fof2387/)| 93.9 | 117.39 | -46.67 | 2.53 | -4.71 | 8.96 | 17.63 |0.52 |
+    |[OC 0470](/_clusters/oc0470/)| 13.7 | 117.34 | -46.37 | 2.55 | -4.71 | 9.06 | 17.63 |0.66 |
     |[CWWL 3526](/_clusters/cwwl3526/)| 7.6 | 117.91 | -46.81 | 2.54 | -4.78 | 8.82 | 19.74 |0.0 |
     |[CWWDL 14576](/_clusters/cwwdl14576/)| 3.8 | 116.76 | -47.37 | 2.52 | -4.68 | 8.88 | 20.47 |0.0 |
-    |[OC 0468](/_clusters/oc0468/)| 3.8 | 117.31 | -46.26 | 2.57 | -4.73 | 9.26 | 16.68 |0.4 |
+    |[OC 0468](/_clusters/oc0468/)| 3.8 | 117.31 | -46.26 | 2.57 | -4.73 | 9.26 | 16.68 |0.29 |
 N_rows_shared: "5"
 ---

@@ -13,17 +13,17 @@ glon: 343.05884
 glat: 2.66171
 r50: 9.5
 plx: 0.9045
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#f3fad8"
+UTI_C_dens_COL: "#fafce1"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#f7fbde"
 UTI_C_N: 0.75
-UTI_C_dens: 0.59
+UTI_C_dens: 0.54
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 0.56
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -53,8 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-rc_val: 1.9
-dens_val: 3.0
+rc_val: 2.1
+dens_val: 2.7
 N_membs_val: 111
 scix_url: HXHWL%2033
 posit_table: |
@@ -85,6 +85,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14192](/_clusters/cwwdl14192/)| 65.8 | 251.7 | -41.21 | 0.9 | 1.43 | -3.0 | -6.31 |0.0 |
     |[UBC 1561](/_clusters/ubc1561/)| 52.3 | 251.68 | -41.21 | 0.9 | 1.45 | -2.99 | -10.85 |0.0 |
-    |[VVVX CL048](/_clusters/vvvxcl048/)| 44.1 | 251.69 | -41.22 | 0.9 | 1.46 | -3.0 | -10.85 |0.45 |
+    |[VVVX CL048](/_clusters/vvvxcl048/)| 44.1 | 251.69 | -41.22 | 0.9 | 1.46 | -3.0 | -10.85 |0.4 |
 N_rows_shared: "3"
 ---

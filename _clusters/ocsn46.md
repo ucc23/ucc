@@ -16,12 +16,12 @@ plx: 2.2814
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#ceeac8"
-UTI_C_dens_COL: "#e3f3cd"
+UTI_C_dens_COL: "#d9eeca"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.78
-UTI_C_dens: 0.68
+UTI_C_dens: 0.73
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 3.0
-dens_val: 3.4
+rc_val: 2.1
+dens_val: 3.7
 N_membs_val: 169
 scix_url: OCSN%2046
 posit_table: |
@@ -74,8 +74,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2428](/_clusters/fof2428/)| 100.0 | 43.09 | 68.86 | 2.28 | 1.46 | -7.93 | -6.86 |0.46 |
+    |[FoF 2428](/_clusters/fof2428/)| 100.0 | 43.09 | 68.86 | 2.28 | 1.46 | -7.93 | -6.86 |0.45 |
     |[OC 0242](/_clusters/oc0242/)| 14.8 | 42.42 | 68.98 | 2.28 | 1.56 | -7.98 | -7.13 |0.18 |
-    |[Theia 123](/_clusters/theia123/)| 14.8 | 43.34 | 68.86 | 2.27 | 1.38 | -7.93 | -5.67 |0.26 |
+    |[Theia 123](/_clusters/theia123/)| 14.8 | 43.34 | 68.86 | 2.27 | 1.38 | -7.93 | -5.67 |0.27 |
 N_rows_shared: "3"
 ---

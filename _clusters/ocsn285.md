@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 1.1
-dens_val: 6.5
+rc_val: 1.4
+dens_val: 5.0
 N_membs_val: 171
 scix_url: OCSN%20285
 posit_table: |
@@ -72,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 31](/_clusters/ubc31/)| 43.3 | 60.98 | 32.35 | 2.74 | 3.75 | -5.38 | 18.67 |0.48 |
-    |[OC 0280](/_clusters/oc0280/)| 20.5 | 60.57 | 32.15 | 2.65 | 3.6 | -5.21 | 21.76 |0.16 |
+    |[UBC 31](/_clusters/ubc31/)| 43.3 | 60.98 | 32.35 | 2.74 | 3.75 | -5.38 | 18.67 |0.59 |
+    |[OC 0280](/_clusters/oc0280/)| 20.5 | 60.57 | 32.15 | 2.65 | 3.6 | -5.21 | 21.76 |0.19 |
     |[CWNU 442](/_clusters/cwnu442/)| 2.9 | 63.19 | 31.6 | 2.78 | 3.68 | -5.65 | 19.87 |0.3 |
 N_rows_shared: "3"
 ---

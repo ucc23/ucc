@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 10
+rc_val: 9.8
 dens_val: 0.1
 N_membs_val: 51
 scix_url: CKCWDM%2054928
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ruprecht 66](/_clusters/ruprecht66/)| 45.1 | 130.14 | -38.07 | 0.23 | -3.1 | 3.09 | 38.08 |0.85 |
+    |[Ruprecht 66](/_clusters/ruprecht66/)| 45.1 | 130.14 | -38.07 | 0.23 | -3.1 | 3.09 | 38.08 |0.89 |
 N_rows_shared: "1"
 ---

@@ -16,12 +16,12 @@ plx: 0.3792
 UTI: "0.01"
 UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.09
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.24
@@ -50,7 +50,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 1.8
+rc_val: 2.1
 dens_val: 0.5
 N_membs_val: 17
 scix_url: GLIMPSE%2039
@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[MCM 39](/_clusters/mcm39/)| 76.0 | 206.89 | -62.78 | 0.37 | -5.31 | -1.07 | -- |0.07 |
+    |[MCM 39](/_clusters/mcm39/)| 76.0 | 206.89 | -62.78 | 0.37 | -5.31 | -1.07 | -- |0.06 |
 N_rows_shared: "1"
 ---

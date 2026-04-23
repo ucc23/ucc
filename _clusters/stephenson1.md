@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 1.0
-dens_val: 18
+rc_val: 0.9
+dens_val: 16
 N_membs_val: 438
 scix_url: Stephenson%201
 posit_table: |

@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.2
-dens_val: 1.0
+rc_val: 3.4
+dens_val: 0.9
 N_membs_val: 57
 scix_url: OCSN%202
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 70](/_clusters/theia70/)| 84.2 | 257.21 | -18.02 | 4.77 | -5.66 | -11.51 | -18.62 |0.38 |
+    |[Theia 70](/_clusters/theia70/)| 84.2 | 257.21 | -18.02 | 4.77 | -5.66 | -11.51 | -18.62 |0.37 |
 N_rows_shared: "1"
 ---

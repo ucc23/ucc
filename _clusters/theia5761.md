@@ -52,8 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-rc_val: 0.7
-dens_val: 11
+rc_val: 0.9
+dens_val: 8.6
 N_membs_val: 68
 scix_url: Theia%205761
 posit_table: |

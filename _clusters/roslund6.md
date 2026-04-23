@@ -13,15 +13,15 @@ glon: 78.5433
 glat: 0.61212
 r50: 55.6
 plx: 2.8307
-UTI: "0.86"
-UTI_COLOR: "#b9e0c4"
+UTI: "0.87"
+UTI_COLOR: "#b7dfc3"
 UTI_C_N_COL: "#b7dfc3"
-UTI_C_dens_COL: "#fef9de"
+UTI_C_dens_COL: "#fefce4"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.87
-UTI_C_dens: 0.45
+UTI_C_dens: 0.48
 UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -59,8 +59,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "9"
-rc_val: 4.6
-dens_val: 2.3
+rc_val: 3.0
+dens_val: 2.4
 N_membs_val: 412
 scix_url: Roslund%206
 posit_table: |

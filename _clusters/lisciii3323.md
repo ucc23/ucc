@@ -16,12 +16,12 @@ plx: 1.693
 UTI: "0.16"
 UTI_COLOR: "#f6c2b8"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e9afb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.06
+UTI_C_dens: 0.03
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 2.6
-dens_val: 0.3
+rc_val: 5.1
+dens_val: 0.2
 N_membs_val: 23
 scix_url: LISC-III%203323
 posit_table: |
@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC-III 3668](/_clusters/lisciii3668/)| 80.0 | 120.48 | -44.82 | 1.71 | -6.27 | 7.27 | 28.16 |0.38 |
+    |[LISC-III 3668](/_clusters/lisciii3668/)| 80.0 | 120.48 | -44.82 | 1.71 | -6.27 | 7.27 | 28.16 |0.4 |
 N_rows_shared: "1"
 ---

@@ -13,15 +13,15 @@ glon: 342.23761
 glat: 0.53131
 r50: 1.4
 plx: 0.4359
-UTI: "0.15"
-UTI_COLOR: "#f5c1b8"
+UTI: "0.13"
+UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ecf7d3"
+UTI_C_dens_COL: "#f4fada"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.63
+UTI_C_dens: 0.58
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 0.3
-dens_val: 3.2
+rc_val: 1.2
+dens_val: 2.9
 N_membs_val: 21
 scix_url: Ryu%2082
 posit_table: |
@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 175](/_clusters/dbsb175/)| 4.0 | 253.07 | -43.42 | 0.41 | -1.26 | -3.82 | -23.94 |0.07 |
+    |[DBSB 175](/_clusters/dbsb175/)| 4.0 | 253.07 | -43.42 | 0.41 | -1.26 | -3.82 | -23.94 |0.11 |
 N_rows_shared: "1"
 ---

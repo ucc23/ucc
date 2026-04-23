@@ -51,7 +51,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 3.7
+rc_val: 5.5
 dens_val: 0.09
 N_membs_val: 19
 scix_url: BDSB%2039
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kronberger 23](/_clusters/kronberger23/)| 40.0 | 346.49 | 60.25 | 0.33 | -3.72 | -2.48 | -59.29 |0.27 |
-    |[BDSB 42](/_clusters/bdsb42/)| 20.0 | 346.59 | 60.26 | 0.34 | -3.77 | -2.74 | 2.56 |0.1 |
+    |[Kronberger 23](/_clusters/kronberger23/)| 40.0 | 346.49 | 60.25 | 0.33 | -3.72 | -2.48 | -59.29 |0.29 |
+    |[BDSB 42](/_clusters/bdsb42/)| 20.0 | 346.59 | 60.26 | 0.34 | -3.77 | -2.74 | 2.56 |0.06 |
 N_rows_shared: "2"
 ---

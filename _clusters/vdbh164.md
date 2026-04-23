@@ -58,8 +58,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "8"
-rc_val: 2.3
-dens_val: 9.6
+rc_val: 1.5
+dens_val: 7.8
 N_membs_val: 456
 scix_url: VDBH%20164
 posit_table: |
@@ -146,6 +146,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2648](/_clusters/hsc2648/)| 4.6 | 222.4 | -66.33 | 2.61 | -7.54 | -10.54 | -0.51 |0.04 |
+    |[HSC 2648](/_clusters/hsc2648/)| 4.6 | 222.4 | -66.33 | 2.61 | -7.54 | -10.54 | -0.51 |0.05 |
 N_rows_shared: "1"
 ---

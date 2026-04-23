@@ -16,12 +16,12 @@ plx: 0.2398
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f7fbde"
-UTI_C_dens_COL: "#d4ecc9"
+UTI_C_dens_COL: "#d0eac9"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.56
-UTI_C_dens: 0.75
+UTI_C_dens: 0.77
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gaia 6](/_clusters/gaia6/)| 100.0 | 122.12 | -23.7 | 0.24 | -2.21 | 4.04 | 54.42 |0.55 |
+    |[Gaia 6](/_clusters/gaia6/)| 100.0 | 122.12 | -23.7 | 0.24 | -2.21 | 4.04 | 54.42 |0.58 |
     |[UBC 1395](/_clusters/ubc1395/)| 100.0 | 122.11 | -23.7 | 0.23 | -2.21 | 4.05 | 53.87 |0.0 |
 N_rows_shared: "2"
 ---

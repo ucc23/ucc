@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-rc_val: 3.6
-dens_val: 0.2
+rc_val: 5.0
+dens_val: 0.1
 N_membs_val: 36
 scix_url: CWNU%20294
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 237](/_clusters/cwnu237/)| 30.6 | 335.89 | 43.28 | 1.64 | -0.83 | -4.53 | -8.8 |0.11 |
-    |[CWNU 311](/_clusters/cwnu311/)| 22.2 | 332.91 | 42.37 | 1.56 | -1.14 | -4.52 | -10.47 |0.16 |
+    |[CWNU 237](/_clusters/cwnu237/)| 30.6 | 335.89 | 43.28 | 1.64 | -0.83 | -4.53 | -8.8 |0.1 |
+    |[CWNU 311](/_clusters/cwnu311/)| 22.2 | 332.91 | 42.37 | 1.56 | -1.14 | -4.52 | -10.47 |0.18 |
 N_rows_shared: "2"
 ---

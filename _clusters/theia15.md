@@ -13,17 +13,17 @@ glon: 216.33073
 glat: -15.02621
 r50: 3.8
 plx: 1.1773
-UTI: "0.44"
-UTI_COLOR: "#fef8dd"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0b6b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.1
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very dense
@@ -54,8 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-rc_val: 0.4
-dens_val: 15
+rc_val: 0.7
+dens_val: 6.8
 N_membs_val: 24
 scix_url: Theia%2015
 posit_table: |
@@ -84,8 +84,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0362](/_clusters/oc0362/)| 96.0 | 90.89 | -9.79 | 1.19 | -2.11 | 1.64 | 39.52 |0.32 |
+    |[OC 0362](/_clusters/oc0362/)| 96.0 | 90.89 | -9.79 | 1.19 | -2.11 | 1.64 | 39.52 |0.31 |
     |[CWWDL 14261](/_clusters/cwwdl14261/)| 64.0 | 90.89 | -9.75 | 1.16 | -2.05 | 1.62 | 44.56 |0.01 |
-    |[OC 0361](/_clusters/oc0361/)| 52.0 | 90.56 | -9.92 | 1.23 | -2.02 | 1.77 | 18.13 |0.26 |
+    |[OC 0361](/_clusters/oc0361/)| 52.0 | 90.56 | -9.92 | 1.23 | -2.02 | 1.77 | 18.13 |0.27 |
 N_rows_shared: "3"
 ---

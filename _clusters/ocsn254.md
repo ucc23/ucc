@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 0.5
-dens_val: 44
+rc_val: 0.7
+dens_val: 38
 N_membs_val: 654
 scix_url: OCSN%20254
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Pozzo 1](/_clusters/pozzo1/)| 87.8 | 122.39 | -47.33 | 2.89 | -6.41 | 9.61 | 15.22 |0.95 |
+    |[Pozzo 1](/_clusters/pozzo1/)| 87.8 | 122.39 | -47.33 | 2.89 | -6.41 | 9.61 | 15.22 |0.96 |
     |[CWWDL 14586](/_clusters/cwwdl14586/)| 4.4 | 121.61 | -48.0 | 2.74 | -6.0 | 9.04 | 18.68 |0.21 |
     |[CWWDL 14592](/_clusters/cwwdl14592/)| 4.3 | 123.01 | -46.3 | 2.79 | -6.35 | 9.19 | 15.12 |0.13 |
     |[CWWDL 14595](/_clusters/cwwdl14595/)| 4.3 | 122.36 | -46.77 | 2.73 | -6.23 | 9.01 | 16.28 |0.08 |

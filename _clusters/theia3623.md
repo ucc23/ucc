@@ -52,7 +52,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-rc_val: 5.8
+rc_val: 10
 dens_val: 0.03
 N_membs_val: 6
 scix_url: Theia%203623

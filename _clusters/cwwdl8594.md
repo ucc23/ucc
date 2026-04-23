@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Koposov 43](/_clusters/koposov43/)| 28.0 | 88.08 | 29.9 | 0.19 | -0.08 | -1.67 | 12.03 |0.73 |
+    |[Koposov 43](/_clusters/koposov43/)| 28.0 | 88.08 | 29.9 | 0.19 | -0.08 | -1.67 | 12.03 |0.77 |
 N_rows_shared: "1"
 ---

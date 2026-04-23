@@ -13,15 +13,15 @@ glon: 275.80198
 glat: -1.21001
 r50: 1.0
 plx: 0.0918
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.34"
+UTI_COLOR: "#fee9cd"
 UTI_C_N_COL: "#e7f4cf"
-UTI_C_dens_COL: "#feebce"
+UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.66
-UTI_C_dens: 0.35
+UTI_C_dens: 0.3
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,8 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-rc_val: 2.2
-dens_val: 1.7
+rc_val: 2.6
+dens_val: 1.5
 N_membs_val: 82
 scix_url: Kronberger%2033
 posit_table: |

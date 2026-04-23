@@ -16,12 +16,12 @@ plx: 0.4141
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee5ca"
 UTI_C_N: 0.0
-UTI_C_dens: 0.09
+UTI_C_dens: 0.05
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.32
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-rc_val: 1.6
-dens_val: 0.5
+rc_val: 4.0
+dens_val: 0.3
 N_membs_val: 19
 scix_url: CWWDL%202624
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 420](/_clusters/ubc420/)| 68.0 | 40.37 | 60.84 | 0.43 | -0.65 | -0.21 | -61.21 |0.35 |
+    |[UBC 420](/_clusters/ubc420/)| 68.0 | 40.37 | 60.84 | 0.43 | -0.65 | -0.21 | -61.21 |0.4 |
     |[CWWDL 10668](/_clusters/cwwdl10668/)| 28.0 | 39.85 | 60.77 | 0.39 | -0.56 | -0.34 | -41.75 |0.03 |
     |[CWWDL 10681](/_clusters/cwwdl10681/)| 4.0 | 40.28 | 61.13 | 0.41 | -0.28 | -0.27 | -- |0.03 |
 N_rows_shared: "3"

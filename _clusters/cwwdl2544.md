@@ -16,12 +16,12 @@ plx: 0.2578
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fef9de"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f1b8b4"
 UTI_C_N: 0.45
-UTI_C_dens: 0.14
+UTI_C_dens: 0.13
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.11
@@ -50,8 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-rc_val: 3.5
-dens_val: 0.7
+rc_val: 3.8
+dens_val: 0.6
 N_membs_val: 45
 scix_url: CWWDL%202544
 posit_table: |
@@ -72,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Berkeley 95](/_clusters/berkeley95/)| 88.9 | 337.07 | 59.13 | 0.26 | -3.34 | -2.37 | 34.0 |0.88 |
+    |[Berkeley 95](/_clusters/berkeley95/)| 88.9 | 337.07 | 59.13 | 0.26 | -3.34 | -2.37 | 34.0 |0.91 |
     |[OC 0182](/_clusters/oc0182/)| 60.0 | 337.07 | 59.13 | 0.26 | -3.34 | -2.39 | 87.84 |0.0 |
     |[OC 0183](/_clusters/oc0183/)| 22.2 | 337.08 | 59.14 | 0.28 | -3.33 | -2.38 | 87.84 |0.0 |
 N_rows_shared: "3"
