@@ -9,6 +9,13 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260423](https://zenodo.org/records/19712053)
+
+- Modified `C_lit` to return better literature weights
+- Fixed a few issues with core radius and density estimates
+
+
+
 ## Version [260413](https://zenodo.org/records/19559975)
 
 - Added Hu et al (2021); comments only

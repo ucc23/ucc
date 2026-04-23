@@ -86,15 +86,42 @@ as members.
 
 ## How are the core values estimated?
 
-The core radius is estimated as the radius where the stellar density drops to half of
-the central density. The core stellar density is then obtained as the number of members
+The **core radius** is estimated as the radius where the stellar density drops to half of
+the central density. Starting from the King surface-density profile,
+
+$$
+\Sigma(R)=k\left[\frac{1}{\sqrt{1+(R/r_c)^2}}-\frac{1}{\sqrt{1+(r_t/r_c)^2}}\right]^2
+$$
+
+take the limit $$r_t \to \infty$$
+
+$$
+\Sigma(R)=\frac{k}{1+(R/r_c)^2}
+$$
+
+With $$\Sigma_0=\Sigma(0)=k$$, we obtain
+
+$$
+\frac{\Sigma(R)}{\Sigma_0}=\frac{1}{1+(R/r_c)^2}
+$$
+
+evaluating at $$R=r_c$$
+
+$$
+\Sigma(r_c)=\frac{1}{2}\Sigma_0
+$$
+
+The **core stellar density** is obtained as the number of members
 within the core radius divided by the area of the core.
 
 Notice that both values are approximations since the actual core radius should
-be estimated by fitting a King profile to the observed stellar density distribution.
+be estimated by fitting a King or Plummer profile to the observed stellar density
+distribution.
 
 The conversion to parsec is done using the parallax of the cluster, estimated as the
-median parallax of the identified members.
+median parallax of the identified members. There is a hard limit imposed to both
+values: the core radius is capped at 10 pc, and the density at 250 stars/pc^2. This
+is done to avoid outliers that can arise from very sparse clusters.
 
 
 
@@ -127,16 +154,18 @@ of members, stellar density, the `C3` parameter, the presence of the object
 in the literature, and the probability of the object being a duplicate of a previous
 entry. It is estimated via the relation:
 
-    UTI = 0.2 * (C_N + C_dens + C_C3 + 2*C_lit) * C_dup
+$$
+UTI = \frac{C_N + C_{dens} + C_{C3} + 2 \, C_{lit}}{5} \times C_{dup}
+$$
 
-where the `C` factors have values in the [0, 1] range (1 is best) representing
+where the $$C$$ factors have values in the [0, 1] range (1 is best) representing
 normalized estimates of:
 
-- `C_N`: number of members (0=very few members, 1=many members)
-- `C_dens`: stellar density in pc^2 (0=very sparse object, 1=dense object)
-- `C_C3`: C3 parameter (0=DD class, 1=AA class)
-- `C_lit`: presence in literature (0=rarely mentioned in the literature, 1=frequently mentioned in the literature)
-- `C_dup`: likelihood of uniqueness (0=very likely a duplicate entry, 1=not a duplicate entry)
+- $$C_N$$: number of members (0=very few members, 1=many members)
+- $$C_{dens}$$: stellar density in pc^2 (0=very sparse object, 1=dense object)
+- $$C_{C3}$$: C3 parameter (0=DD class, 1=AA class)
+- $$C_{lit}$$: presence in literature (0=rarely mentioned in the literature, 1=frequently mentioned in the literature)
+- $$C_{dup}$$: likelihood of uniqueness (0=very likely a duplicate entry, 1=not a duplicate entry)
 
 
 
@@ -150,7 +179,9 @@ names.
 
 The probability of being a duplicate is calculated as:
 
-    P_dup = max(shared_members_percent) / 100
+$$
+P_{dup} = max(\mathrm{shared\_members\_percent}) / 100
+$$
 
 where `shared_members_percent` is the percentage of common members between objects
 (since a given object can be compared to many others, we take the maximum value found).
@@ -201,7 +232,7 @@ from the [**UCC** literature](/articles).
 
 Users can also filter the search results by:
 
-- **N<sub>50</sub>**: estimated number of members (stars with membership probability >50%)
+- **N<sub>m</sub>**: estimated number of members (stars with membership probability >50%)
 - **P<sub>dup</sub>**: [probability](#how-is-the-duplicate-probability-estimated) of the object being a duplicate of another object
 - **UTI**: [UCC Trust Index](#what-is-the-uti-parameter)
 
@@ -287,14 +318,17 @@ need to be transformed to maintain homogeneity. The transformations are as follo
 Metallicity is shown as `[Fe/H]`. We use the [Bressan et al. (2012)](https://academic.oup.com/mnras/article/427/1/127/1027734)
 `z_sun=0.0152` coefficient to transform from `z` values as:
 
-    [Fe/H]=log10(z/z_sun)
+$$
+[Fe/H]=\log_{10}(z/z_{\odot})
+$$
 
 #### Age
 
-Ages are given in [Myr]. When ages are provided in [log(age/yr)], we apply:
+Ages are given in [Myr]. When ages are provided in `log10(age/yr)`, we apply:
 
-    Age [Myr] = 10^(log(age/yr)/1e6)
-
+$$
+Age = \frac{10^{log_{10}(age/yr)}}{1e6} \;[Myr]
+$$
 
 #### Absorption / Extinction
 
@@ -338,3 +372,8 @@ Similar to the cluster region plot, the distance is estimated as the inverse of 
 parallax of the **UCC** estimated members.
 
 Radial velocities are used when available and set to 0.0 Km/s when they are not.
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js" defer></script>
+
