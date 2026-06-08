@@ -13,17 +13,17 @@ glon: 160.63809
 glat: -2.65773
 r50: 11.5
 plx: 0.9721
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.43"
+UTI_COLOR: "#fef7db"
 UTI_C_N_COL: "#feeed1"
 UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#f0f8d5"
+UTI_C_lit_COL: "#ecf7d3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.37
 UTI_C_dens: 0.17
 UTI_C_C3: 0.38
-UTI_C_lit: 0.61
+UTI_C_lit: 0.63
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -46,6 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2026A%26A...708A.238L' target='_blank'>Li et al. (2026)</a></u><br>Tidal & Core radii: r_t=182+/-43.3 [pc], r_c=0.31+/-0.0 [pc]; stars within r_t: N~50</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 40 along with COIN-Gaia_10, and as tidal capture (resonant trapping binary) 46 along with ASCC_12, and of multiple system 2 along with COIN-Gaia_10, HSC_1308, HXHWL_18 and ASCC_12.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G110, along with ASCC_12, HXHWL_18 and HSC_1308.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
@@ -56,7 +57,7 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "7"
+N_comments: "8"
 rc_val: 2.1
 dens_val: 0.8
 N_membs_val: 37
@@ -65,6 +66,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |69.516 | 42.969 | 0.972 | 0.145 | -2.518 | 13.507 |
+    |[Li et al.](https://scixplorer.org/abs/2026A%26A...708A.238L) | 2026 | 69.56 | 42.96 | -- | -- | -- | -- |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 69.58 | 42.97 | 0.97 | 0.1 | -2.54 | 7.96 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 69.612 | 42.95 | 0.991 | 0.238 | -2.467 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 69.582 | 42.977 | -- | -- | -- | -- |
@@ -73,18 +75,19 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 69.574 | 42.985 | 0.964 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 69.581 | 42.97 | 0.967 | 0.098 | -2.544 | 7.962 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 69.55 | 43.024 | 0.966 | 0.123 | -2.54 | -- |
+    |[Fu et al.](https://scixplorer.org/abs/2022A%26A...668A...4F) | 2022 | 69.612 | 42.95 | -- | -- | -- | -3.839 |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 69.582 | 42.977 | 0.99 | 0.254 | -2.45 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 69.612 | 42.95 | 0.991 | 0.238 | -2.467 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 69.612 | 42.95 | 0.991 | 0.238 | -2.467 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 69.612 | 42.95 | -- | -- | -- | 2.074 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 69.612 | 42.95 | 0.99 | 0.24 | -2.46 | -- 
-N_rows_pos: "13"
+N_rows_pos: "15"
 cds_radec: 69.5157,+42.96867
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.99 | 1.13 | 0.44 | 274 | -0.131 | 110 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.99 | 1.13 | 0.44 | 274 | -0.106 | 110 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.41 | 0.34 | -- | 204 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.05 | 1.00 | -- | 71 | 0.152 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.99 | 1.32 | -- | 281 | -- | 84 | -- | -- |
@@ -93,6 +96,7 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.99 | 1.35 | -- | 288 | -0.160 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.99 | 0.89 | 0.44 | 274 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.30 | -- | 79 | -- | -- | -- | -- |
+    | [Fu et al.](https://scixplorer.org/abs/2022A%26A...668A...4F) | 2022 | -- | -- | -- | -- | -0.081 | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.97 | -- | -- | 309 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.99 | 1.32 | -- | 281 | -0.131 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.01 | 0.63 | -- | 288 | -- | -- | -- | -- |
@@ -100,7 +104,7 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.98 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.08 | 1.22 | -- | 36 | 0.018 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 0.98 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "15"
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

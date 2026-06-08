@@ -73,8 +73,9 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 208](/_clusters/ubc208/)| 96.2 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
-    |[NGC 1980](/_clusters/ngc1980/)| 92.4 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.88 |
+    |[NGC 1980](/_clusters/ngc1980/)| 92.4 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.89 |
     |[OC 0347](/_clusters/oc0347/)| 28.4 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
+    |[LP 2373](/_clusters/lp2373/)| 13.5 | 83.83 | -5.73 | 2.6 | 1.2 | 0.61 | 16.2 |0.0 |
     |[NGC 1976](/_clusters/ngc1976/)| 7.3 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.78 |
     |[OCSN 244](/_clusters/ocsn244/)| 6.5 | 83.82 | -5.43 | 2.52 | 1.39 | 0.33 | 25.62 |0.25 |
     |[OCSN 225](/_clusters/ocsn225/)| 5.3 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
@@ -83,5 +84,5 @@ shared_table: |
     |[Orion Nebula](/_clusters/orionnebula/)| 1.2 | 83.82 | -5.36 | 2.51 | 1.23 | 0.18 | 25.16 |0.34 |
     |[LDN1641 North](/_clusters/ldn1641north/)| 0.9 | 84.08 | -6.37 | 2.55 | 0.73 | 0.35 | 10.96 |0.23 |
     |[Morgan 8](/_clusters/morgan8/)| 0.9 | 84.13 | -6.42 | 2.55 | 0.85 | 0.3 | 16.82 |0.41 |
-N_rows_shared: "11"
+N_rows_shared: "12"
 ---

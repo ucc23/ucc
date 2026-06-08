@@ -13,17 +13,17 @@ glon: 204.65478
 glat: -16.90828
 r50: 37.5
 plx: 2.5578
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.55"
+UTI_COLOR: "#f8fcdf"
 UTI_C_N_COL: "#bfe2c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#fef8dd"
 UTI_C_dup_COL: "#d7eec9"
 UTI_C_N: 0.84
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.38
+UTI_C_lit: 0.44
 UTI_C_dup: 0.74
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -65,13 +65,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |84.063 | -0.592 | 2.558 | -1.029 | -0.633 | 29.898 |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 84.08 | -0.4 | 2.59 | -1.04 | -0.63 | 26.82 |
     |[Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | 84.084 | -0.402 | -- | -- | -- | -- |
+    |[Qin et al.](https://scixplorer.org/abs/2025A%26A...695A..22Q) | 2025 | 84.084 | -0.402 | -- | -- | -- | -- |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 84.084 | -0.402 | -- | -- | -- | -- |
     |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 84.084 | -0.402 | 2.59 | -1.045 | -0.63 | 31.646 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 84.084 | -0.402 | 2.59 | -1.045 | -0.63 | 26.823 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 84.133 | -0.747 | 2.596 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 84.084 | -0.402 | 2.59 | -1.045 | -0.63 | 26.823 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 84.14 | -0.45 | 2.57 | -1.08 | -0.62 | 31.65 
-N_rows_pos: "8"
+N_rows_pos: "9"
 cds_radec: 84.0627,-0.59222
 carousel: UCC_HUNT23
 fpars_table: |
@@ -80,21 +81,22 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.375 | 0.19 | 0.655 | 12 | -0.130 | 108 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.32 | 0.01 | -- | 27 | -- | -- | -- | -- |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 12 | -0.130<sup>(3)</sup> | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2025A%26A...695A..22Q) | 2025 | -- | -- | -- | 12<sup>(1)</sup> | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.049<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.38 | -- | -- | 12 | -- | 116 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.37 | 0.19 | 0.65 | 12 | -- | 100<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.39 | 0.57 | -- | 7 | -0.130 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.37 | 0.19 | 0.66 | 12 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.42 | 0.19 | -- | 18 | -- | -- | -- | -- |
-N_rows_pars: "8"
+N_rows_pars: "9"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 194](/_clusters/ocsn194/)| 27.1 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[Gulliver 6](/_clusters/gulliver6/)| 26.2 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.65 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 26.2 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.66 |
     |[OC 0340](/_clusters/oc0340/)| 5.0 | 84.54 | -0.18 | 2.44 | -0.07 | -0.62 | 24.57 |0.33 |
-    |[OCSN 65](/_clusters/ocsn65/)| 0.3 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.57 |
+    |[OCSN 65](/_clusters/ocsn65/)| 0.3 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.59 |
     |[OCSN 66](/_clusters/ocsn66/)| 0.3 | 85.38 | -1.87 | 2.5 | 0.07 | -0.89 | 24.93 |0.35 |
 N_rows_shared: "5"
 ---

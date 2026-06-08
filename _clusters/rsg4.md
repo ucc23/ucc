@@ -13,8 +13,8 @@ glon: 87.46788
 glat: 19.94085
 r50: 24.8
 plx: 3.0806
-UTI: "0.55"
-UTI_COLOR: "#f8fcdf"
+UTI: "0.54"
+UTI_COLOR: "#fafce1"
 UTI_C_N_COL: "#fef4d6"
 UTI_C_dens_COL: "#fcd4c1"
 UTI_C_C3_COL: "#d4ecc9"
@@ -67,6 +67,7 @@ posit_table: |
     |[Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | 287.696 | 56.523 | 3.086 | -2.489 | 3.734 | -- |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 287.87 | 56.801 | 3.049 | -2.579 | 3.649 | -- |
     |[Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | 287.696 | 56.523 | -- | -- | -- | -- |
+    |[Qin et al.](https://scixplorer.org/abs/2025A%26A...695A..22Q) | 2025 | 287.696 | 56.523 | -- | -- | -- | -- |
     |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 288.032 | 56.887 | 3.049 | -2.479 | 3.717 | -- |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 287.696 | 56.523 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 287.696 | 56.523 | 3.086 | -2.489 | 3.734 | -24.333 |
@@ -81,16 +82,17 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 287.824 | 56.624 | -- | -- | -- | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 287.998 | 56.833 | 3.051 | -2.493 | 3.694 | -21.46 |
     |[Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 288.54 | 56.97 | -- | -0.27 | 5.71 | -- 
-N_rows_pos: "17"
+N_rows_pos: "18"
 cds_radec: 287.74793,+56.78662
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.32 | 0.22 | 0.41 | 89 | 0.024 | 108 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.32 | 0.22 | 0.41 | 96 | 0.024 | 108 | -- | -- |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 111 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.31 | 0.02 | -- | 102 | 0.049 | -- | -- | -- |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 112 | -0.010<sup>(3)</sup> | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2025A%26A...695A..22Q) | 2025 | -- | -- | -- | 112<sup>(1)</sup> | -- | -- | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.33 | 0.35 | -- | 89 | 0.009 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.155<sup>(1)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.32 | 0.06 | 0.41 | 112 | -- | 108<sup>(1)</sup> | -- | -- |
@@ -104,7 +106,7 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.33 | 0.35 | -- | 69 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.32 | -- | -- | -- | -- | -- | -- | -- |
     | [Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 0.36 | 0.22 | -- | 355 | -- | -- | -- | -- |
-N_rows_pars: "16"
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

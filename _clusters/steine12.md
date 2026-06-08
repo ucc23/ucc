@@ -80,7 +80,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 1](/_clusters/coingaia1/)| 96.6 | 11.82 | 66.75 | 1.55 | -5.04 | -3.15 | -14.34 |0.68 |
+    |[COIN-Gaia 1](/_clusters/coingaia1/)| 96.6 | 11.82 | 66.75 | 1.55 | -5.04 | -3.15 | -14.34 |0.67 |
     |[UBC 34](/_clusters/ubc34/)| 85.2 | 11.8 | 66.75 | 1.55 | -5.03 | -3.14 | -15.01 |0.0 |
 N_rows_shared: "2"
 ---

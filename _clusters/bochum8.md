@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDBH 90](/_clusters/vdbh90/)| 59.3 | 153.06 | -58.07 | 0.38 | -5.4 | 2.33 | 25.53 |0.9 |
+    |[VDBH 90](/_clusters/vdbh90/)| 59.3 | 153.06 | -58.07 | 0.38 | -5.4 | 2.33 | 25.53 |0.89 |
 N_rows_shared: "1"
 ---

@@ -78,8 +78,9 @@ posit_table: |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 114.196 | -23.383 | -- | -0.11 | -0.51 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 114.196 | -23.383 | -- | 0.36 | 1.67 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 114.192 | -23.384 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.196 | -23.383 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 114.133 | -23.365 | -- | -- | -- | -- 
-N_rows_pos: "16"
+N_rows_pos: "17"
 cds_radec: 114.19738,-23.38478
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

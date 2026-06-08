@@ -13,17 +13,17 @@ glon: 61.59356
 glat: 40.32711
 r50: 7.9
 plx: 0.1319
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.15"
+UTI_COLOR: "#f5c1b8"
 UTI_C_N_COL: "#fcd6c2"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#f2bab5"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.01
 UTI_C_C3: 0.12
-UTI_C_lit: 0.12
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -59,10 +59,11 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |251.413 | 38.352 | 0.132 | -1.887 | -2.368 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 251.377 | 38.36 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 251.35 | 38.35 | -- | 9.51 | 2.86 | -46.1 |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 251.35 | 38.35 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 251.35 | 38.35 | -- | 9.51 | 2.86 | -46.1 |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 251.35 | 38.35 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 251.327 | 38.28 | -- | -- | -- | -- 
-N_rows_pos: "4"
+N_rows_pos: "5"
 cds_radec: 251.41318,+38.35176
 carousel: UCC
 fpars_table: |
@@ -70,8 +71,8 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.82 | 0.09 | -- | 5000 | -- | -- | -- | -- |
     | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 0.95 | 0.20 | -- | 2818 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 0.82 | 0.09 | -- | 5012 | -- | -- | -- | -- |
     | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 0.82 | 0.09 | -- | 5000 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.82 | 0.09 | -- | 5012 | -- | -- | -- | -- |
 N_rows_pars: "3"
 note_asterisk: false
 shared_table: |

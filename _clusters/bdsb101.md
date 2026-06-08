@@ -13,25 +13,25 @@ glon: 353.09672
 glat: 0.63037
 r50: 1.7
 plx: 0.5523
-UTI: "0.00"
-UTI_COLOR: "#dfa5b3"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#dfa5b3"
+UTI_C_dup_COL: "#fefce4"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
-UTI_C_dup: 0.0
+UTI_C_dup: 0.48
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Very likely duplicate
+UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>BDSB 101</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>BDSB 101</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry, and a large percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -72,6 +72,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 100.0 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.44 |
     |[Pismis 24](/_clusters/pismis24/)| 52.1 | 261.4 | -34.36 | 0.56 | -0.95 | -2.53 | 9.47 |0.67 |
-    |[OC 0688](/_clusters/oc0688/)| 31.5 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.04 |
+    |[OC 0688](/_clusters/oc0688/)| 31.5 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.12 |
 N_rows_shared: "3"
 ---

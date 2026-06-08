@@ -60,8 +60,8 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |14.67 | 56.478 | 0.374 | 0.315 | -2.264 | -19.663 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.1 | -1.36 | -- |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 14.621 | 56.498 | -- | 0.32 | -1.07 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 14.621 | 56.498 | -- | 0.48 | -2.29 | -54.0 |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 14.621 | 56.498 | -- | 0.48 | -2.29 | -54.0 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 14.621 | 56.498 | -- | 0.48 | -2.29 | -54.0 |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 14.621 | 56.498 | -- | 0.48 | -2.29 | -54.0 
 N_rows_pos: "4"
 cds_radec: 14.66958,+56.47848
 carousel: UCC

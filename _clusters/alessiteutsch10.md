@@ -68,8 +68,8 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 56.331 | 29.742 | 2.491 | 2.671 | -5.238 | 18.203 |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 56.115 | 29.667 | -- | 1.991 | -5.918 | 26.07 |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 56.108 | 29.667 | -- | 5.79 | -3.25 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 56.108 | 29.667 | -- | 4.85 | -3.35 | 26.07 |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 56.108 | 29.667 | -- | 4.85 | -3.35 | 26.07 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 56.108 | 29.667 | -- | 4.85 | -3.35 | 26.07 |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 56.108 | 29.667 | -- | 4.85 | -3.35 | 26.07 
 N_rows_pos: "9"
 cds_radec: 56.43429,+29.82245
 carousel: UCC_HUNT23

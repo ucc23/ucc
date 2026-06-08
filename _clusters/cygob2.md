@@ -13,25 +13,25 @@ glon: 80.20931
 glat: 0.7756
 r50: 4.5
 plx: 0.58
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fcd6c2"
-UTI_C_dup_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fee4c9"
+UTI_C_dup_COL: "#aad2bd"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
-UTI_C_dup: 0.25
+UTI_C_lit: 0.31
+UTI_C_dup: 0.95
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Poorly studied
-UTI_C_dup_desc: Possibly duplicate
+UTI_C_dup_desc: Unique
 summary: |
-    <b>Cyg OB2</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as an <u>extremely</u> massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature, with no articles listed in the last 8 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Cyg OB2</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as an <u>extremely</u> massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature, with no articles listed in the last 8 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -60,11 +60,12 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |308.307 | 41.3 | 0.58 | -2.72 | -4.407 | -8.189 |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 308.317 | 41.32 | -- | -- | -- | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 308.317 | 41.32 | -- | -- | -- | -- |
+    |[Kharchenko et al.](https://scixplorer.org/abs/2009A%26A...504..681K) | 2009 | 308.299 | 41.304 | -- | -- | -- | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 308.299 | 41.304 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 308.1 | 41.28 | -- | 0.6 | -- | -28.0 |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 308.299 | 41.304 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 308.31 | 41.31 | -- | -1.6 | -4.72 | -28.0 
-N_rows_pos: "6"
+N_rows_pos: "7"
 cds_radec: 308.30703,+41.30043
 carousel: UCC
 fpars_table: |
@@ -73,19 +74,20 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.5 | 4.1 | -- | 5 | -- | 25645 | -- | -- |
     | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 1.59 | -- | -- | 5 | -- | -- | -- | -- |
     | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 1.59 | 5.78 | -- | 5 | -- | 30903 | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2009A%26A...504..681K) | 2009 | 1.50 | 4.10 | -- | 5 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.50 | 4.10 | -- | 5 | -- | 25645<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 1.50 | 4.10 | -- | 5 | -- | 3532 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.50 | 4.10 | -- | 5 | -- | -- | -- | -- |
-N_rows_pars: "5"
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.79 |
-    |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.81 |
-    |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 4.8 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.16 |
+    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.03 |
+    |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.52 |
+    |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 4.8 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.21 |
     |[G 80.35+0.72](/_clusters/g8035p072/)| 4.3 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.03 |
-    |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.68 |
+    |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.61 |
     |[OC 0129](/_clusters/oc0129/)| 1.3 | 308.06 | 41.46 | 0.58 | -2.53 | -4.04 | 57.08 |0.19 |
     |[OC 0128](/_clusters/oc0128/)| 0.9 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.57 |
 N_rows_shared: "7"

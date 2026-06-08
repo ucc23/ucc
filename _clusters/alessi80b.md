@@ -81,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.35 |
+    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.38 |
 N_rows_shared: "1"
 ---

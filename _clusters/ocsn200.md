@@ -58,8 +58,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |117.364 | -46.537 | 2.539 | -4.694 | 9.014 | 17.631 |
+    |[Qin et al.](https://scixplorer.org/abs/2025A%26A...695A..22Q) | 2025 | 117.398 | -46.601 | -- | -- | -- | -- |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 117.41 | -46.39 | 2.54 | -4.64 | 8.97 | 19.44 
-N_rows_pos: "1"
+N_rows_pos: "2"
 cds_radec: 117.36398,-46.53691
 carousel: UCC
 fpars_table: |
@@ -73,7 +74,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2387](/_clusters/fof2387/)| 93.9 | 117.39 | -46.67 | 2.53 | -4.71 | 8.96 | 17.63 |0.52 |
-    |[OC 0470](/_clusters/oc0470/)| 13.7 | 117.34 | -46.37 | 2.55 | -4.71 | 9.06 | 17.63 |0.66 |
+    |[OC 0470](/_clusters/oc0470/)| 13.7 | 117.34 | -46.37 | 2.55 | -4.71 | 9.06 | 17.63 |0.69 |
     |[CWWL 3526](/_clusters/cwwl3526/)| 7.6 | 117.91 | -46.81 | 2.54 | -4.78 | 8.82 | 19.74 |0.0 |
     |[CWWDL 14576](/_clusters/cwwdl14576/)| 3.8 | 116.76 | -47.37 | 2.52 | -4.68 | 8.88 | 20.47 |0.0 |
     |[OC 0468](/_clusters/oc0468/)| 3.8 | 117.31 | -46.26 | 2.57 | -4.73 | 9.26 | 16.68 |0.29 |

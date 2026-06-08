@@ -66,8 +66,8 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 87.433 | 27.108 | -- | -0.275 | -0.981 | 2.114 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 1.33 | -4.58 | -- |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 87.433 | 27.108 | -- | -3.42 | 3.64 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 87.433 | 27.108 | -- | -3.0 | 3.47 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 87.433 | 27.108 | -- | -3.0 | 3.47 | -- 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 87.433 | 27.108 | -- | -3.0 | 3.47 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 87.433 | 27.108 | -- | -3.0 | 3.47 | -- 
 N_rows_pos: "9"
 cds_radec: 87.45191,+27.03632
 carousel: UCC

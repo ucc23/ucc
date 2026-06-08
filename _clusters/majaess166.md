@@ -61,7 +61,7 @@ posit_table: |
     |[Sánchez et al.](https://scixplorer.org/abs/2020MNRAS.495.2882S) | 2020 | 238.338 | -55.248 | -- | -2.692 | -2.812 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.29 | -3.74 | -- |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 238.338 | -55.248 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 238.338 | -55.248 | -- | -2.17 | -2.7 | -- 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 238.338 | -55.248 | -- | -2.17 | -2.7 | -- 
 N_rows_pos: "4"
 cds_radec: 238.29599,-55.30864
 carousel: UCC

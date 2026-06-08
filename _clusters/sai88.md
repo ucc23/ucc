@@ -61,10 +61,10 @@ posit_table: |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 123.245 | -41.875 | 0.127 | -1.135 | 3.319 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 123.236 | -41.872 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 123.233 | -41.886 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 123.242 | -41.884 | -- | -3.95 | 4.95 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 123.236 | -41.872 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 123.241 | -41.875 | -- | -3.95 | 4.95 | -- |
-    |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 123.24 | -41.884 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 123.242 | -41.884 | -- | -3.95 | 4.95 | -- 
+    |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 123.24 | -41.884 | -- | -- | -- | -- 
 N_rows_pos: "7"
 cds_radec: 123.24442,-41.87691
 carousel: UCC
@@ -74,10 +74,10 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.84 | 3.55 | -- | 920 | -- | 762 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 5.37 | 3.55 | -- | 1995 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 841 | -- | 762 | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 8.24 | 2.90 | -- | 1000 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.84 | 3.61 | -- | 841 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.84 | 3.61 | -- | 841 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 8.24 | 2.90 | -- | 1000 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 8.24 | 2.90 | -- | 1000 | -- | -- | -- | -- |
 N_rows_pars: "6"
 note_asterisk: false
 shared_table: |

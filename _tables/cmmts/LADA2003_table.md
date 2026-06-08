@@ -12,13 +12,13 @@ style: style
 
 | Name | Comment |
 | --- | :-: |
-| <a href="{{ site.baseurl }}/_clusters/afgl4029/" target="_blank" style="color: $blue;">AFGL4029</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/afgl4029/" target="_blank" style="color: red;">AFGL4029</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/afgl437/" target="_blank" style="color: red;">AFGL437</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/afgl490/" target="_blank" style="color: red;">AFGL490</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/afgl5142/" target="_blank" style="color: red;">AFGL5142</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/afgl5180/" target="_blank" style="color: red;">AFGL5180</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/afgl6366s/" target="_blank" style="color: red;">AFGL6366-S</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/bsf56/" target="_blank" style="color: $blue;">BSF 56</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/bsf56/" target="_blank" style="color: red;">BSF 56</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/cepa/" target="_blank" style="color: $blue;">Cep A</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/cepc/" target="_blank" style="color: red;">Cep C</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ggd1215/" target="_blank" style="color: $blue;">GGD 12-15</a> | Embedded cluster within ∼2 Kpc of the Sun. |
@@ -30,12 +30,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ic5146/" target="_blank" style="color: $blue;">IC 5146</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras01546p6319/" target="_blank" style="color: red;">IRAS 01546+6319</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02044p6031/" target="_blank" style="color: red;">IRAS 02044+6031</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/iras02048p5957/" target="_blank" style="color: $blue;">IRAS 02048+5957</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/iras02048p5957/" target="_blank" style="color: red;">IRAS 02048+5957</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02054p6011/" target="_blank" style="color: red;">IRAS 02054+6011</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02175p5845/" target="_blank" style="color: red;">IRAS 02175+5845</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02232p6138/" target="_blank" style="color: $blue;">IRAS 02232+6138</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02245p6115/" target="_blank" style="color: red;">IRAS 02245+6115</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/iras02407p6047/" target="_blank" style="color: $blue;">IRAS 02407+6047</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/iras02407p6047/" target="_blank" style="color: red;">IRAS 02407+6047</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02461p6147/" target="_blank" style="color: red;">IRAS 02461+6147</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02484p6022/" target="_blank" style="color: $blue;">IRAS 02484+6022</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02497p6217/" target="_blank" style="color: red;">IRAS 02497+6217</a> | Embedded cluster within ∼2 Kpc of the Sun. |

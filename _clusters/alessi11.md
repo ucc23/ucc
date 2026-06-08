@@ -13,17 +13,17 @@ glon: 59.82984
 glat: -10.29233
 r50: 7.6
 plx: 0.2725
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.12
-UTI_C_lit: 0.0
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -47,7 +47,7 @@ badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi.</p>
-    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Alessi, B. S. 2005, private communication); cat V3.5 (Jan 2016)</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2016)</a></u><br>Asterism (Alessi, B. S. 2005, private communication); cat V3.5 (Jan 2016)</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
@@ -61,8 +61,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |305.3 | 18.376 | 0.273 | -3.319 | -5.319 | -39.681 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 305.348 | 18.357 | -- | -- | -- | -- |
-    |[Alessi et al.](https://scixplorer.org/abs/2003A%26A...410..565A) | 2003 | 305.3 | 18.4 | -- | -0.3 | -9.6 | -- 
-N_rows_pos: "2"
+    |[Alessi et al.](https://scixplorer.org/abs/2003A%26A...410..565A) | 2003 | 305.3 | 18.4 | -- | -0.3 | -9.6 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 305.35 | 18.36 | -- | -0.31 | -9.64 | -- 
+N_rows_pos: "3"
 cds_radec: 305.29954,+18.37571
 carousel: UCC
 fpars_table: |

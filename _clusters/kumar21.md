@@ -61,10 +61,10 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |334.003 | 60.053 | 0.134 | -2.703 | -1.775 | -111.854 |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 334.083 | 60.097 | 0.179 | -2.181 | -1.651 | -97.02 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 334.081 | 60.099 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 334.083 | 60.102 | -- | 3.02 | 12.02 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 334.081 | 60.099 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 334.087 | 60.103 | -- | -1.55 | -2.34 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 334.087 | 60.103 | -- | -1.55 | -2.34 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 334.083 | 60.102 | -- | 3.02 | 12.02 | -- 
+    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 334.087 | 60.103 | -- | -1.55 | -2.34 | -- 
 N_rows_pos: "6"
 cds_radec: 334.00318,+60.05323
 carousel: UCC
@@ -74,10 +74,10 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.5 | 5.21 | -- | 48 | -- | 59 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 7.24 | 5.50 | -- | 2 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 48 | -- | 59 | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 2.50 | 5.21 | -- | 48 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.50 | 5.21 | -- | 48 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.50 | 5.21 | -- | 48 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.50 | 5.21 | -- | 48 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.50 | 5.21 | -- | 48 | -- | -- | -- | -- |
 N_rows_pars: "6"
 note_asterisk: false
 shared_table: |

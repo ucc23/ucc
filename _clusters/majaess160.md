@@ -66,7 +66,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 225.345 | -63.182 | 1.274 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 225.805 | -63.386 | 1.264 | -2.857 | -3.73 | 5.012 |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 225.858 | -63.388 | -- | -6.01 | -2.1 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 225.858 | -63.388 | -- | -10.23 | -4.45 | -- 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 225.858 | -63.388 | -- | -10.23 | -4.45 | -- 
 N_rows_pos: "5"
 cds_radec: 225.53667,-63.18585
 carousel: UCC_HUNT23

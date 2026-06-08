@@ -13,8 +13,8 @@ glon: 204.25169
 glat: -0.55054
 r50: 7.4
 plx: 0.5578
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#fee5ca"
 UTI_C_C3_COL: "#fefee8"
@@ -46,6 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2026A%26A...708A.238L' target='_blank'>Li et al. (2026)</a></u><br>Tidal & Core radii: r_t=116+/-83.9 [pc], r_c=0.25+/-0.0 [pc]; stars within r_t: N~54</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P393, along with PHOC_24.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
@@ -55,7 +56,7 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "6"
+N_comments: "7"
 rc_val: 2.0
 dens_val: 1.6
 N_membs_val: 66
@@ -64,6 +65,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |98.383 | 7.478 | 0.558 | -0.95 | 2.284 | 40.902 |
+    |[Li et al.](https://scixplorer.org/abs/2026A%26A...708A.238L) | 2026 | 98.39 | 7.48 | -- | -- | -- | -- |
     |[Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | 98.384 | 7.466 | -- | -- | -- | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 98.38 | 7.499 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 98.384 | 7.466 | 0.56 | -0.947 | 2.281 | 40.781 |
@@ -77,7 +79,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 98.383 | 7.478 | -- | -- | -- | 2.439 |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 98.383 | 7.478 | -- | -- | -- | 40.24 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 98.383 | 7.478 | 0.577 | -0.879 | 2.304 | -- 
-N_rows_pos: "13"
+N_rows_pos: "14"
 cds_radec: 98.3831,+7.47802
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

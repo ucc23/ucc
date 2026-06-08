@@ -58,8 +58,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |122.209 | -47.669 | 2.568 | -5.742 | 8.108 | 21.391 |
+    |[Qin et al.](https://scixplorer.org/abs/2025A%26A...695A..22Q) | 2025 | 121.164 | -48.885 | -- | -- | -- | -- |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 122.34 | -47.62 | 2.58 | -5.71 | 8.09 | 21.8 
-N_rows_pos: "1"
+N_rows_pos: "2"
 cds_radec: 122.20889,-47.66853
 carousel: UCC
 fpars_table: |

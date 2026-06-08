@@ -13,17 +13,17 @@ glon: 124.65088
 glat: 2.83122
 r50: 1.0
 plx: 0.1662
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.38"
+UTI_COLOR: "#fef0d2"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#fef0d2"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#f2bab5"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.38
 UTI_C_C3: 0.62
-UTI_C_lit: 0.12
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -60,17 +60,18 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |17.025 | 65.647 | 0.166 | -1.853 | -0.127 | -74.299 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 17.024 | 65.646 | -- | -- | -- | -- |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 17.029 | 65.647 | -- | -0.78 | -0.04 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 17.029 | 65.647 | -- | -2.48 | 3.83 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 17.004 | 65.646 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 17.029 | 65.647 | -- | -2.48 | 3.83 | -- 
-N_rows_pos: "4"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 17.021 | 65.647 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 17.02488,+65.6468
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.525 | 2.7 | -- | 1130 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 7.20 | 2.97 | -- | 1000 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 7.85<sup>(1)</sup> | 2.43 | -- | 1259 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 7.20 | 2.97 | -- | 1000 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true
 shared_table: |

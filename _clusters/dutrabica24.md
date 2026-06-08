@@ -13,17 +13,17 @@ glon: 0.98442
 glat: -1.9377
 r50: 8.3
 plx: 0.042
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e9afb3"
+UTI_C_lit_COL: "#f2bab5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.06
+UTI_C_lit: 0.12
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016)</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2016)</a></u><br>Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016)</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -61,8 +61,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |268.901 | -29.067 | 0.042 | -2.836 | -7.015 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 268.844 | -29.046 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 268.852 | -29.045 | -- | 3.14 | -2.14 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 268.875 | -29.027 | -- | -- | -- | -- |
     |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 268.868 | -29.033 | -- | -- | -- | -- 
-N_rows_pos: "3"
+N_rows_pos: "4"
 cds_radec: 268.90094,-29.06704
 carousel: UCC
 fpars_table: |

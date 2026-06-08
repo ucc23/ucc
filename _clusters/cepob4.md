@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Berkeley 59](/_clusters/berkeley59/)| 100.0 | 0.57 | 67.45 | 0.95 | -1.63 | -1.84 | -14.09 |0.9 |
+    |[Berkeley 59](/_clusters/berkeley59/)| 100.0 | 0.57 | 67.45 | 0.95 | -1.63 | -1.84 | -14.09 |0.91 |
 N_rows_shared: "1"
 ---

@@ -13,18 +13,18 @@ glon: 287.40768
 glat: -0.57866
 r50: 1.3
 plx: 0.391
-UTI: "0.00"
-UTI_COLOR: "#dfa5b3"
+UTI: "0.01"
+UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#e5f4ce"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#dfa5b3"
+UTI_C_dup_COL: "#e0a7b3"
 UTI_C_N: 0.67
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
-UTI_C_dup: 0.0
+UTI_C_dup: 0.01
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
@@ -70,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 14](/_clusters/trumpler14/)| 100.0 | 160.99 | -59.55 | 0.39 | -6.51 | 2.08 | -17.89 |0.95 |
-    |[Collinder 232](/_clusters/collinder232/)| 27.4 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.06 |
+    |[Trumpler 14](/_clusters/trumpler14/)| 98.8 | 160.99 | -59.55 | 0.39 | -6.54 | 2.06 | -14.28 |0.91 |
+    |[Collinder 232](/_clusters/collinder232/)| 27.4 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.2 |
 N_rows_shared: "2"
 ---

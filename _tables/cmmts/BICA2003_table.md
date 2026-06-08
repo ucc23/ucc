@@ -13,7 +13,7 @@ style: style
 | Name | Comment |
 | --- | :-: |
 | <a href="{{ site.baseurl }}/_clusters/afgl333/" target="_blank" style="color: red;">AFGL333</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/afgl4029/" target="_blank" style="color: $blue;">AFGL4029</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/afgl4029/" target="_blank" style="color: red;">AFGL4029</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/afgl437/" target="_blank" style="color: red;">AFGL437</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/afgl490/" target="_blank" style="color: red;">AFGL490</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/afgl5066/" target="_blank" style="color: red;">AFGL5066</a> | Classified as infrared cluster (IRC). |
@@ -92,7 +92,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ic4955/" target="_blank" style="color: $blue;">IC4955</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/iras02175p5845/" target="_blank" style="color: red;">IRAS 02175+5845</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/iras02327p6019/" target="_blank" style="color: red;">IRAS 02327+6019</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/iras02407p6047/" target="_blank" style="color: $blue;">IRAS 02407+6047</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/iras02407p6047/" target="_blank" style="color: red;">IRAS 02407+6047</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/iras02484p6022/" target="_blank" style="color: $blue;">IRAS 02484+6022</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/iras03064p5638/" target="_blank" style="color: red;">IRAS 03064+5638</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/iras04324p5106/" target="_blank" style="color: red;">IRAS 04324+5106</a> | Classified as infrared cluster (IRC). |

@@ -61,10 +61,10 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.4 | -0.62 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 37.41 | 60.707 | -- | -1.343 | -2.513 | -7.18 |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 37.417 | 60.707 | -- | -3.09 | -0.76 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 37.417 | 60.707 | -- | -3.33 | 0.24 | -7.18 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 37.417 | 60.707 | -- | -4.44 | 0.32 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 37.417 | 60.707 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 37.41 | 60.67 | -- | -4.8 | -1.73 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 37.417 | 60.707 | -- | -3.33 | 0.24 | -7.18 |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 37.406 | 60.652 | -- | -- | -- | -8.0 
 N_rows_pos: "8"
 cds_radec: 37.42865,+60.68453
@@ -74,9 +74,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.7 | 1.77 | -- | 16 | -- | 30 | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.59 | 1.74 | -- | 16 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 0.70 | 1.91 | -- | 16 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.70 | -- | -- | 16 | -- | 30 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.70 | 1.80 | -- | -- | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.70 | 1.91 | -- | 16 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.48 | 1.64 | -- | 25 | -- | -- | -- | -- |
 N_rows_pars: "5"
 note_asterisk: false

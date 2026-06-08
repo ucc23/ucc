@@ -13,25 +13,25 @@ glon: 259.65037
 glat: -2.92479
 r50: 7.3
 plx: 0.66
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.40"
+UTI_COLOR: "#fef4d6"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#d3ecc9"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#fef8dd"
-UTI_C_dup_COL: "#a5cab9"
+UTI_C_dup_COL: "#e0f1cb"
 UTI_C_N: 0.75
 UTI_C_dens: 0.76
 UTI_C_C3: 0.5
 UTI_C_lit: 0.44
-UTI_C_dup: 1.0
+UTI_C_dup: 0.7
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Poorly studied
-UTI_C_dup_desc: Unique
+UTI_C_dup_desc: Likely unique
 summary: |
-    <b>Majaess 99</b> is a rich, dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Majaess 99</b> is a rich, dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -70,8 +70,8 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 125.438 | -42.082 | -- | -4.372 | 5.187 | 2.308 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -6.21 | 5.56 | -- |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 125.438 | -42.082 | -- | -4.22 | 1.92 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 125.438 | -42.082 | -- | -4.29 | 2.62 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 125.438 | -42.082 | -- | -4.51 | 1.54 | -- 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 125.438 | -42.082 | -- | -4.51 | 1.54 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 125.438 | -42.082 | -- | -4.29 | 2.62 | -- 
 N_rows_pos: "9"
 cds_radec: 125.53889,-42.10341
 carousel: UCC_HUNT23
@@ -91,7 +91,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 13331](/_clusters/cwwdl13331/)| 44.5 | 125.54 | -42.12 | 0.66 | -4.31 | 5.28 | -7.14 |0.0 |
     |[OC 0463](/_clusters/oc0463/)| 38.2 | 125.49 | -42.1 | 0.66 | -4.32 | 5.2 | 0.76 |0.0 |
-    |[DBSB 18](/_clusters/dbsb18/)| 30.0 | 125.7 | -42.11 | 0.66 | -4.32 | 5.3 | 23.83 |0.0 |
+    |[DBSB 18](/_clusters/dbsb18/)| 30.0 | 125.7 | -42.11 | 0.66 | -4.32 | 5.3 | 23.83 |0.21 |
     |[OC 0466](/_clusters/oc0466/)| 30.0 | 125.65 | -42.12 | 0.66 | -4.31 | 5.31 | 0.76 |0.0 |
 N_rows_shared: "4"
 ---

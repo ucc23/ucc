@@ -12,7 +12,7 @@ style: style
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <a href="{{ site.baseurl }}/_clusters/gaia8/" target="_blank" style="color: $blue;">Gaia 8</a> | 282.56 | 33.36 | 63.21 | 14.73 | 3.45 | 133 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.62 |
+| <a href="{{ site.baseurl }}/_clusters/gaia8/" target="_blank" style="color: $blue;">Gaia 8</a> | 282.56 | 33.36 | 63.21 | 14.73 | 3.45 | 133 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.64 |
 
 
 

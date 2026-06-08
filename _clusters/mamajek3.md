@@ -68,10 +68,10 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 80.888 | 7.107 | 10.018 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 81.552 | 6.736 | 10.052 | 9.714 | -32.736 | 16.108 |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 81.502 | 6.33 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 81.796 | 6.267 | -- | 8.4 | -32.3 | 18.0 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 81.796 | 6.267 | -- | 0.55 | -2.75 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 81.796 | 6.267 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 81.79 | 6.27 | -- | 2.08 | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 81.796 | 6.267 | -- | 8.4 | -32.3 | 18.0 
+    |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 81.79 | 6.27 | -- | 2.08 | -- | -- 
 N_rows_pos: "9"
 cds_radec: 80.5077,+6.86604
 carousel: UCC_HUNT23
@@ -84,8 +84,8 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.09 | 0.38 | -- | 28 | 0.360 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.10 | 0.10 | 0.31 | 17 | -- | -- | -- | -- |
     | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 0.10 | 0.00 | -- | 32 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 0.09 | 0.19 | -- | 20 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.09 | -- | -- | 20 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.09 | 0.19 | -- | 20 | -- | -- | -- | -- |
 N_rows_pars: "7"
 note_asterisk: false
 shared_table: |

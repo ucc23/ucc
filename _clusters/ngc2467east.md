@@ -13,25 +13,25 @@ glon: 243.15696
 glat: 0.45132
 r50: 2.7
 plx: 0.2005
-UTI: "0.01"
-UTI_COLOR: "#e0a7b3"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dbefca"
 UTI_C_dens_COL: "#f0f8d5"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#e4aab3"
+UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.72
 UTI_C_dens: 0.61
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
-UTI_C_dup: 0.03
+UTI_C_dup: 0.24
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Very likely duplicate
+UTI_C_dup_desc: Likely duplicate
 summary: |
-    <b>NGC 2467-East</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>NGC 2467-East</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 18](/_clusters/haffner18/)| 96.8 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.73 |
-    |[Haffner 19](/_clusters/haffner19/)| 43.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.84 |
+    |[Haffner 18](/_clusters/haffner18/)| 76.3 | 118.17 | -26.39 | 0.2 | -2.53 | 2.69 | 103.52 |0.84 |
+    |[Haffner 19](/_clusters/haffner19/)| 12.9 | 118.19 | -26.27 | 0.2 | -2.53 | 2.5 | 111.14 |0.86 |
 N_rows_shared: "2"
 ---

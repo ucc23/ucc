@@ -61,8 +61,8 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |335.843 | 56.626 | 0.217 | -3.051 | -1.985 | -103.253 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 335.837 | 56.612 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 335.85 | 56.609 | -- | 1.069 | -3.481 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 335.85 | 56.608 | -- | 1.1 | -3.69 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 335.85 | 56.608 | -- | 1.1 | -3.69 | -- 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 335.85 | 56.608 | -- | 1.1 | -3.69 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 335.85 | 56.608 | -- | 1.1 | -3.69 | -- 
 N_rows_pos: "4"
 cds_radec: 335.84306,+56.62586
 carousel: UCC
@@ -71,7 +71,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.12 | 0.985 | -- | 1047 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.97 | 1.65 | -- | 2089 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.27 | 0.32 | -- | 5 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 2.27 | 0.32 | -- | 5 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: false
 shared_table: |

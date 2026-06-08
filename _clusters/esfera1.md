@@ -1,0 +1,75 @@
+---
+layout: layout_cluster
+style: style_cluster
+title: ESFERA 1
+title_flag: true
+more_names: 
+fname: esfera1
+members_file: "320_324"
+fov: 0.087
+ra_icrs: 227.36422
+de_icrs: -58.42252
+glon: 320.19251
+glat: -0.24824
+r50: 2.6
+plx: 0.4152
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
+UTI_C_N_COL: "#fee5ca"
+UTI_C_dens_COL: "#fafce1"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
+UTI_C_N: 0.32
+UTI_C_dens: 0.54
+UTI_C_C3: 0.25
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Moderately dense
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Rarely studied
+UTI_C_dup_desc: Unique
+summary: |
+    <b>ESFERA 1</b> is a poorly populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
+badge_av: "High extinction"
+badge_av_url: "av_min=3&av_max=5"
+badge_mass: ""
+badge_mass_url: ""
+badge_feh: ""
+badge_feh_url: ""
+badge_age: "Young"
+badge_age_url: "age_min=20&age_max=100"
+badge_bss: ""
+badge_bss_url: ""
+badge_nofpars_url: ""
+comments: |
+
+class3: |
+    <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
+N_comments: ""
+rc_val: 1.2
+dens_val: 2.7
+N_membs_val: 32
+scix_url: ESFERA%201
+posit_table: |
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |227.364 | -58.423 | 0.415 | -3.398 | -2.845 | -17.862 |
+    |[Corti et al.](https://scixplorer.org/abs/2026arXiv260601418C) | 2026 | 227.323 | -58.427 | -- | -3.46 | -2.86 | -- 
+N_rows_pos: "1"
+cds_radec: 227.36422,-58.42252
+carousel: UCC
+fpars_table: |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.45 | 4.0 | -- | 30 | -- | -- | -- | -- |
+    | [Corti et al.](https://scixplorer.org/abs/2026arXiv260601418C) | 2026 | 2.45 | 4.00 | -- | 30 | -- | -- | -- | -- |
+N_rows_pars: "1"
+note_asterisk: false
+shared_table: |
+
+N_rows_shared: "0"
+---

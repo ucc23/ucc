@@ -73,12 +73,13 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 99.157 | 4.816 | 0.514 | -1.23 | 0.507 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 99.12 | 4.818 | -- | -0.206 | -0.584 | 6.33 |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 99.125 | 4.817 | -- | 0.66 | -1.74 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 99.125 | 4.817 | -- | -0.03 | -1.03 | 6.33 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 99.105 | 4.774 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 99.125 | 4.817 | -- | -0.03 | -1.03 | 6.33 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 99.112 | 4.773 | -- | -1.99 | -1.74 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.125 | 4.817 | -- | -0.03 | -1.03 | 6.33 |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.125 | 4.817 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 99.107 | 4.821 | -- | -- | -- | -- 
-N_rows_pos: "15"
+N_rows_pos: "16"
 cds_radec: 99.18704,+4.78965
 carousel: UCC_HUNT23
 fpars_table: |
@@ -94,15 +95,15 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 316 | -- | 83 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.60 | 2.10 | -- | 16 | -0.104 | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.42 | 2.50 | -- | 166 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 2.02 | 2.63 | -- | 316 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.02 | 2.63 | -- | 316 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.02 | 2.63 | -- | 316 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.02 | 2.63 | -- | 316 | -- | -- | -- | -- |
 N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14136](/_clusters/cwwdl14136/)| 24.0 | 99.16 | 4.85 | 0.64 | -1.43 | 0.63 | -- |0.02 |
-    |[Collinder 107](/_clusters/collinder107/)| 20.0 | 99.25 | 4.9 | 0.61 | -1.36 | 0.65 | -- |0.42 |
+    |[Collinder 107](/_clusters/collinder107/)| 20.0 | 99.25 | 4.9 | 0.61 | -1.36 | 0.65 | -- |0.43 |
 N_rows_shared: "2"
 ---

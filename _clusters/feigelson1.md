@@ -63,10 +63,10 @@ posit_table: |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 179.97 | -78.207 | -- | -39.494 | -0.995 | 13.7 |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 179.963 | -78.207 | -- | -4.34 | 0.9 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 180.3 | -78.335 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 179.963 | -78.207 | -- | -39.5 | -1.0 | 13.0 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 179.963 | -78.207 | -- | -4.16 | 1.14 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 179.963 | -78.207 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 179.97 | -78.21 | -- | 0.15 | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 179.963 | -78.207 | -- | -39.5 | -1.0 | 13.0 
+    |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 179.97 | -78.21 | -- | 0.15 | -- | -- 
 N_rows_pos: "9"
 cds_radec: 180.4322,-76.36936
 carousel: UCC
@@ -77,8 +77,8 @@ fpars_table: |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.05 | -- | 8 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.11 | 0.06 | -- | 4 | -- | -- | -- | -- |
     | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 0.12 | 0.00 | -- | 4 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 0.11 | 0.06 | -- | 4 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.11 | -- | -- | 4 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.11 | 0.06 | -- | 4 | -- | -- | -- | -- |
 N_rows_pars: "5"
 note_asterisk: false
 shared_table: |

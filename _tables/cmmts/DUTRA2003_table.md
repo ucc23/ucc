@@ -89,7 +89,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/dbsb177/" target="_blank" style="color: red;">DBSB 177</a> | Classified as cluster candidate (IRCC). |
 | <a href="{{ site.baseurl }}/_clusters/dbsb178/" target="_blank" style="color: red;">DBSB 178</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/dbsb179/" target="_blank" style="color: red;">DBSB 179</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/dbsb18/" target="_blank" style="color: $blue;">DBSB 18</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/dbsb18/" target="_blank" style="color: red;">DBSB 18</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/dbsb19/" target="_blank" style="color: $blue;">DBSB 19</a> | Classified as stellar group (IRGr). |
 | <a href="{{ site.baseurl }}/_clusters/dbsb21/" target="_blank" style="color: $blue;">DBSB 21</a> | Classified as stellar group (IRGr). |
 | <a href="{{ site.baseurl }}/_clusters/dbsb23/" target="_blank" style="color: red;">DBSB 23</a> | Classified as infrared cluster (IRC). |

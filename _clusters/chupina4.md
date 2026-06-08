@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#fddfc6"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f2bab5"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.0
 UTI_C_dens: 0.29
 UTI_C_C3: 0.75
-UTI_C_lit: 0.12
+UTI_C_lit: 0.19
 UTI_C_dup: 0.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -61,8 +61,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |133.009 | 12.337 | 1.154 | -10.931 | -2.95 | 33.991 |
     |[Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | 133.0 | 12.378 | -- | -10.99 | -2.86 | 33.8 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 132.998 | 12.377 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 133.0 | 12.378 | -- | 4.58 | -14.11 | -- 
-N_rows_pos: "3"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 133.0 | 12.378 | -- | 4.58 | -14.11 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 133.0 | 12.378 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 133.00911,+12.3373
 carousel: UCC
 fpars_table: |

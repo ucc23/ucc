@@ -1667,6 +1667,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/fof1994/" target="_blank" style="color: $blue;">FoF 1994</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2068/" target="_blank" style="color: $blue;">FoF 2068</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2094/" target="_blank" style="color: $blue;">FoF 2094</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/fof2100/" target="_blank" style="color: $blue;">FoF 2100</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2117/" target="_blank" style="color: $blue;">FoF 2117</a> | Classified as open cluster. CMD class: 0.29 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2123/" target="_blank" style="color: $blue;">FoF 2123</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2139/" target="_blank" style="color: $blue;">FoF 2139</a> | Classified as open cluster. CMD class: 0.39 (50th percentile). |
@@ -1675,6 +1676,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/fof2220/" target="_blank" style="color: $blue;">FoF 2220</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2238/" target="_blank" style="color: $blue;">FoF 2238</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2253/" target="_blank" style="color: $blue;">FoF 2253</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/fof2383/" target="_blank" style="color: $blue;">FoF 2383</a> | Classified as open cluster. CMD class: 0.98 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof273/" target="_blank" style="color: $blue;">FoF 273</a> | Classified as open cluster. CMD class: 0.55 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof321/" target="_blank" style="color: $blue;">FoF 321</a> | Classified as open cluster. CMD classes: 0.95 (50th percentile), true positive (human-assigned). |
 | <a href="{{ site.baseurl }}/_clusters/fof403/" target="_blank" style="color: $blue;">FoF 403</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |

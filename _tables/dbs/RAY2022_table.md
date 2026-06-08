@@ -1,0 +1,83 @@
+---
+layout: page
+title:  
+permalink: /tables/dbs/RAY2022_table/
+style: style
+---
+
+&nbsp;
+# [Ray et al. (2022)](https://scixplorer.org/abs/2022AJ....163..195R)
+
+This database consists of 58 entries, of which 2% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+
+
+
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| <a href="{{ site.baseurl }}/_clusters/collinder205/" target="_blank" style="color: $blue;">Collinder 205</a> | 135.12 | -48.98 | 269.21 | -1.85 | 0.53 | 192 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.91 |
+| <a href="{{ site.baseurl }}/_clusters/collinder258/" target="_blank" style="color: $blue;">Collinder 258</a> | 186.81 | -60.78 | 299.98 | 1.96 | 0.8 | 119 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
+| <a href="{{ site.baseurl }}/_clusters/harvard10/" target="_blank" style="color: $blue;">Harvard 10</a> | 244.86 | -54.97 | 329.87 | -3.38 | 1.45 | 286 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
+| <a href="{{ site.baseurl }}/_clusters/ic2395/" target="_blank" style="color: $blue;">IC 2395</a> | 130.52 | -48.1 | 266.58 | -3.64 | 1.4 | 517 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.46 | 0.54 |
+| <a href="{{ site.baseurl }}/_clusters/ic2488/" target="_blank" style="color: $blue;">IC 2488</a> | 141.87 | -57.01 | 277.82 | -4.44 | 0.73 | 575 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ic2581/" target="_blank" style="color: $blue;">IC 2581</a> | 156.86 | -57.62 | 284.59 | 0.03 | 0.37 | 149 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.95 |
+| <a href="{{ site.baseurl }}/_clusters/ic4651/" target="_blank" style="color: $blue;">IC 4651</a> | 261.22 | -49.92 | 340.1 | -7.9 | 1.06 | 929 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ic4756/" target="_blank" style="color: $blue;">IC 4756</a> | 279.66 | 5.45 | 36.34 | 5.32 | 2.11 | 643 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/lynga1/" target="_blank" style="color: $blue;">Lynga 1</a> | 210.01 | -62.15 | 310.85 | -0.34 | 0.44 | 48 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.89 |
+| <a href="{{ site.baseurl }}/_clusters/lynga2/" target="_blank" style="color: $blue;">Lynga 2</a> | 216.08 | -61.33 | 313.84 | -0.44 | 1.05 | 191 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.95 |
+| <a href="{{ site.baseurl }}/_clusters/ngc1662/" target="_blank" style="color: $blue;">NGC 1662</a> | 72.19 | 10.89 | 187.77 | -21.1 | 2.43 | 455 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.98 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2215/" target="_blank" style="color: $blue;">NGC 2215</a> | 95.22 | -7.27 | 215.99 | -10.09 | 1.03 | 176 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.96 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2301/" target="_blank" style="color: $blue;">NGC 2301</a> | 102.94 | 0.47 | 212.55 | 0.29 | 1.14 | 1134 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2323/" target="_blank" style="color: $blue;">NGC 2323</a> | 105.7 | -8.36 | 221.66 | -1.3 | 1.01 | 781 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2353/" target="_blank" style="color: $blue;">NGC 2353</a> | 108.64 | -10.25 | 224.68 | 0.4 | 0.83 | 281 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.91 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2354/" target="_blank" style="color: $blue;">NGC 2354</a> | 108.5 | -25.73 | 238.39 | -6.85 | 0.77 | 435 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.98 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2423/" target="_blank" style="color: $blue;">NGC 2423</a> | 114.3 | -13.86 | 230.49 | 3.57 | 1.06 | 613 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2437/" target="_blank" style="color: $blue;">NGC 2437</a> | 115.45 | -14.84 | 231.89 | 4.05 | 0.6 | 2014 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2447/" target="_blank" style="color: $blue;">NGC 2447</a> | 116.14 | -23.85 | 240.04 | 0.15 | 0.99 | 1077 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2482/" target="_blank" style="color: $blue;">NGC 2482</a> | 118.79 | -24.27 | 241.65 | 2.02 | 0.73 | 157 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.79 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2516/" target="_blank" style="color: $blue;">NGC 2516</a> | 119.5 | -60.77 | 273.84 | -15.87 | 2.43 | 3560 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2527/" target="_blank" style="color: $blue;">NGC 2527</a> | 121.27 | -28.11 | 246.07 | 1.89 | 1.56 | 501 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2539/" target="_blank" style="color: $blue;">NGC 2539</a> | 122.66 | -12.83 | 233.72 | 11.11 | 0.76 | 743 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2546/" target="_blank" style="color: $blue;">NGC 2546</a> | 123.1 | -37.67 | 254.92 | -2.0 | 1.06 | 345 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.91 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2547/" target="_blank" style="color: $blue;">NGC 2547</a> | 122.5 | -49.18 | 264.43 | -8.61 | 2.58 | 541 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2548/" target="_blank" style="color: $blue;">NGC 2548</a> | 123.39 | -5.73 | 227.87 | 15.36 | 1.3 | 592 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2567/" target="_blank" style="color: $blue;">NGC 2567</a> | 124.64 | -30.62 | 249.79 | 2.98 | 0.57 | 294 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.96 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2579/" target="_blank" style="color: red;">NGC 2579</a> | 125.22 | -36.22 | 254.68 | 0.22 | 0.17 | 32 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.36 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2669/" target="_blank" style="color: $blue;">NGC 2669</a> | 131.61 | -52.93 | 270.84 | -6.07 | 0.86 | 386 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2670/" target="_blank" style="color: $blue;">NGC 2670</a> | 131.39 | -48.8 | 267.49 | -3.62 | 0.67 | 320 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.92 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2682/" target="_blank" style="color: $blue;">NGC 2682</a> | 132.85 | 11.82 | 215.69 | 31.92 | 1.15 | 1650 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2925/" target="_blank" style="color: $blue;">NGC 2925</a> | 143.3 | -53.4 | 275.96 | -1.26 | 1.32 | 275 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.96 |
+| <a href="{{ site.baseurl }}/_clusters/ngc3680/" target="_blank" style="color: $blue;">NGC 3680</a> | 171.4 | -43.24 | 286.76 | 16.92 | 0.95 | 93 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.9 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5138/" target="_blank" style="color: $blue;">NGC 5138</a> | 201.85 | -59.02 | 307.55 | 3.53 | 0.52 | 197 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.96 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5281/" target="_blank" style="color: $blue;">NGC 5281</a> | 206.61 | -62.92 | 309.15 | -0.71 | 0.64 | 331 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5316/" target="_blank" style="color: $blue;">NGC 5316</a> | 208.51 | -61.88 | 310.24 | 0.1 | 0.68 | 431 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5460/" target="_blank" style="color: $blue;">NGC 5460</a> | 211.88 | -48.3 | 315.75 | 12.67 | 1.37 | 250 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.96 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5617/" target="_blank" style="color: $blue;">NGC 5617</a> | 217.45 | -60.72 | 314.67 | -0.11 | 0.42 | 492 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.98 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5662/" target="_blank" style="color: $blue;">NGC 5662</a> | 218.73 | -56.67 | 316.83 | 3.4 | 1.29 | 447 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5822/" target="_blank" style="color: $blue;">NGC 5822</a> | 226.05 | -54.38 | 321.55 | 3.62 | 1.2 | 749 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc5823/" target="_blank" style="color: $blue;">NGC 5823</a> | 226.37 | -55.61 | 321.12 | 2.45 | 0.54 | 580 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6025/" target="_blank" style="color: $blue;">NGC 6025</a> | 240.78 | -60.43 | 324.53 | -5.88 | 1.29 | 386 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6031/" target="_blank" style="color: $blue;">NGC 6031</a> | 241.89 | -54.01 | 329.28 | -1.49 | 0.54 | 114 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.95 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6067/" target="_blank" style="color: $blue;">NGC 6067</a> | 243.3 | -54.23 | 329.74 | -2.21 | 0.47 | 1131 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6124/" target="_blank" style="color: $blue;">NGC 6124</a> | 246.31 | -40.66 | 340.72 | 6.02 | 1.59 | 1504 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6134/" target="_blank" style="color: $blue;">NGC 6134</a> | 246.95 | -49.16 | 334.91 | -0.2 | 0.87 | 1351 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6167/" target="_blank" style="color: $blue;">NGC 6167</a> | 248.67 | -49.76 | 335.24 | -1.44 | 0.68 | 1019 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6250/" target="_blank" style="color: $blue;">NGC 6250</a> | 254.5 | -45.95 | 340.68 | -1.93 | 1.01 | 139 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6281/" target="_blank" style="color: $blue;">NGC 6281</a> | 256.18 | -37.96 | 347.76 | 1.99 | 1.88 | 606 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6405/" target="_blank" style="color: $blue;">NGC 6405</a> | 265.09 | -32.23 | 356.6 | -0.77 | 2.18 | 761 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6416/" target="_blank" style="color: $blue;">NGC 6416</a> | 266.01 | -32.34 | 356.93 | -1.5 | 0.92 | 252 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.94 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6603/" target="_blank" style="color: $blue;">NGC 6603</a> | 274.61 | -18.41 | 12.86 | -1.31 | 0.33 | 829 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6705/" target="_blank" style="color: $blue;">NGC 6705</a> | 282.77 | -6.27 | 27.3 | -2.78 | 0.41 | 1899 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/ngc6885/" target="_blank" style="color: $blue;">NGC 6885</a> | 302.92 | 26.5 | 65.52 | -4.01 | 0.56 | 23 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.42 |
+| <a href="{{ site.baseurl }}/_clusters/roslund3/" target="_blank" style="color: $blue;">Roslund 3</a> | 299.7 | 20.51 | 58.84 | -4.69 | 0.57 | 184 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.91 |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht119/" target="_blank" style="color: $blue;">Ruprecht 119</a> | 247.01 | -51.5 | 333.27 | -1.85 | 0.45 | 108 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.86 |
+| <a href="{{ site.baseurl }}/_clusters/trumpler10/" target="_blank" style="color: $blue;">Trumpler 10</a> | 131.92 | -42.48 | 262.8 | 0.6 | 2.3 | 634 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
+| <a href="{{ site.baseurl }}/_clusters/trumpler18/" target="_blank" style="color: $blue;">Trumpler 18</a> | 167.83 | -60.64 | 290.95 | -0.12 | 0.65 | 158 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

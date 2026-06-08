@@ -81,6 +81,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.83 |
+    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.82 |
 N_rows_shared: "1"
 ---

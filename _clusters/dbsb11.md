@@ -13,25 +13,25 @@ glon: 238.48688
 glat: -4.27761
 r50: 2.4
 plx: 0.709
-UTI: "0.16"
-UTI_COLOR: "#f6c2b8"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#fee7cc"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
-UTI_C_dup: 0.33
+UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Possibly duplicate
+UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 11</b> is a rich, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>DBSB 11</b> is a rich, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -70,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ivanov 6](/_clusters/ivanov6/)| 67.3 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.67 |
+    |[Ivanov 6](/_clusters/ivanov6/)| 67.3 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.03 |
     |[CWNU 1337](/_clusters/cwnu1337/)| 6.7 | 111.03 | -24.4 | 0.72 | -2.14 | 2.23 | 31.62 |0.13 |
-    |[Majaess 90](/_clusters/majaess90/)| 6.7 | 111.19 | -24.48 | 0.74 | -2.16 | 2.27 | 31.62 |0.39 |
+    |[Majaess 90](/_clusters/majaess90/)| 6.7 | 111.19 | -24.48 | 0.74 | -2.16 | 2.27 | 31.62 |0.31 |
 N_rows_shared: "3"
 ---

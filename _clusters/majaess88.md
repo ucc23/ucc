@@ -13,25 +13,25 @@ glon: 239.53159
 glat: -4.91793
 r50: 9.3
 plx: 0.7617
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#ddf0ca"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f2bab5"
-UTI_C_dup_COL: "#a5cab9"
+UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.7
 UTI_C_dens: 0.71
 UTI_C_C3: 0.75
 UTI_C_lit: 0.12
-UTI_C_dup: 1.0
+UTI_C_dup: 0.12
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Unique
+UTI_C_dup_desc: Likely duplicate
 summary: |
-    <b>Majaess 88</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Majaess 88</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -65,7 +65,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 110.988 | -25.887 | 0.765 | -2.666 | 3.288 | 34.149 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 110.949 | -25.778 | 0.763 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 110.988 | -25.887 | 0.765 | -2.666 | 3.288 | 34.149 |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 111.029 | -25.899 | -- | -7.28 | 15.9 | -- 
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 111.029 | -25.899 | -- | -7.28 | 15.9 | -- 
 N_rows_pos: "4"
 cds_radec: 110.9787,-25.86958
 carousel: UCC_HUNT23
@@ -81,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1297](/_clusters/fsr1297/)| 87.9 | 110.98 | -25.88 | 0.76 | -2.7 | 3.28 | 38.56 |0.05 |
+    |[FSR 1297](/_clusters/fsr1297/)| 87.9 | 110.98 | -25.88 | 0.76 | -2.7 | 3.28 | 38.56 |0.6 |
 N_rows_shared: "1"
 ---

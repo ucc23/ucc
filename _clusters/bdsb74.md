@@ -74,7 +74,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0817](/_clusters/fsr0817/)| 81.3 | 84.86 | 30.89 | 0.68 | -0.19 | -3.16 | 0.34 |0.72 |
+    |[FSR 0817](/_clusters/fsr0817/)| 81.3 | 84.86 | 30.89 | 0.68 | -0.19 | -3.16 | 0.34 |0.71 |
     |[CWNU 1571](/_clusters/cwnu1571/)| 36.3 | 84.86 | 30.89 | 0.71 | -0.2 | -3.17 | 0.34 |0.0 |
 N_rows_shared: "2"
 ---

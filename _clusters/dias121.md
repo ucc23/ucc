@@ -72,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Loden 821](/_clusters/loden821/)| 8.0 | 201.07 | -59.8 | 0.19 | -5.91 | -1.15 | -- |0.28 |
+    |[Loden 821](/_clusters/loden821/)| 8.0 | 201.07 | -59.8 | 0.19 | -5.91 | -1.15 | -- |0.29 |
 N_rows_shared: "1"
 ---
