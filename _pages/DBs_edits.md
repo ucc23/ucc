@@ -6,11 +6,11 @@ style: style
 ---
 
 Every database employed to generate the UCC is listed here, with a full description
-of the modifications and corrections made before merging it in to our final catalogue.
-The individual `csv` files con be found [here](https://github.com/ucc23/updt_UCC/tree/main/databases).
+of the modifications and corrections made before merging it into our final catalogue.
+The individual `csv` files can be found [here](https://github.com/ucc23/updt_UCC/tree/main/databases).
 
-The original [UCC article](https://doi.org/10.1093/mnras/stad2826) employed 32 articles, the rest where added after its
-publication.
+The original [UCC article](https://doi.org/10.1093/mnras/stad2826) employed 32 articles,
+the rest were added after its publication.
 
 ---
 
@@ -92,7 +92,7 @@ Removed:
 - ic 4451: The name corresponds to a galaxy even if the coordinates
   (260.2,-49.9) are not really close to the ones published (218.65, -36.285)
 
-There are 234 final entries, with one new entries added by this DB (VDBH_220,
+There are 234 final entries, with one new entry added by this DB (VDBH_220,
 quite probably a duplicate of NGC 6322).
 
 
@@ -111,8 +111,8 @@ The second one is the Vizier entry of the 1987 catalogue but with a 1995 year
 publication. From this publication we obtain the [Vizier table](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=VII/92A).
 
 
--ngc 2175: duplicated, removed second entry (no params data)
--basel 11: two entries, renamed "basel 11a" and "basel 11b" given their coordinates
+- ngc 2175: duplicated, removed second entry (no params data)
+- basel 11: two entries, renamed "basel 11a" and "basel 11b" given their coordinates
 
 Removed GCs by name:
 - VDBH_208, van den Bergh-Hagen_208 --> NGC 6256,VDBH 208        d=1.1
@@ -241,60 +241,39 @@ which are present in the UCC (11 removed total).
 
 [New catalogue of optically visible open clusters and candidates](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D/abstract)
 
-The data was obtained from the [HEASARC archive](https://heasarc.gsfc.nasa.gov/w3browse/all/openclust.html). Removed all entries with these
-classes:
+This is the original version (v1) of this catalogue, obtained from [Vizier](https://cdsarc.cds.unistra.fr/viz-bin/cat/B/ocl#/browse),
+containing 1598 entries.
 
-```
-a = possible asterism/dust hole/star cloud (no cluster)
-cr =  Cluster Remnant (Pavani and Bica 2007A&A...468..139P)
-d = dubious, objects considered doubtful by the DSS images inspection
-g = possible globular cluster
-m = possible moving group
-n = "non-existent NGC" (RNGC, Sulentic, 1979, Cat. VII/1). Some of Bica's POCRs (Possible Open Cluster Remnant, 2001A&A...366..827B) are also "non-existent NGC" objects.
-nf =  objects not found in the DSS images inspection (wrong coordinates?)
-o = possible OB association (or detached part of)
-```
+The final version of this catalogue (v3.5) is Dias et al. 2016.
 
-Converted `RA, DEC` columns to degrees.
-
-FSR 1496 duplicated in lines 1015, 1016; removed 1016
-
-These entries corresponded to a single entry in the UCC. Only one was kept, selected
-according to the primary name in the UCC:
-
-- 330 teutsch1, 331 koposov27       --> koposov27
-- 1049 ngc3909, 1050 eso21708       --> ngc3909
-- 1653 collinder416, 1655 ngc6882   --> ngc6882
-- 357 koposov43, 359 fsr0828        --> koposov43
-- 1676 dolidze41, 1677 berkeley85   --> berkeley85
-- 387 fsr0856, 388 koposov53        --> koposov53
-- 701 eso36814, 702 fsr1343         --> eso36814
-- 706 ah03j0748269, 707 fsr1315     --> fsr1315
-- 321 fsr0814, 322 koposov36        --> koposov36
-- 1079 collinder257, 1085 harvard5  --> harvard5
-- 791 eso31203, 793 fsr1394         --> eso31203
-- 1908 fsr0436, 1910 skiffj2330p602 --> fsr0436
-- 395 koposov63, 396 fsr0869        --> koposov63
-- 838 ngc2669, 839 vdbh52           --> ngc2669
+Removed:
+- Collinder 427 (dup of NGC 7023)
+- Berkeley 48 (dup of NGC 6827)
+- BH 52 (dup of NGC 2669)
+- ESO 260-07 (dup of Ruprecht 7)
+- Ruprecht 80 (dup of NGC 2982)
+- ESO 217-08 (dup of NGC 3909)
+- BH 218 (dup of NGC 6318)
+- Harvard 16 (dup of Collinder 332)
+- Dolidze 2 (dup of IC 1311)
+- Dolidze 41 (dup of Berkeley 85)
+- Berkeley 57 (dup of NGC 7423)
 
 Removed GCS:
-
-- 1022   ESO 093 08      --> 19     ESO 93-8       d=0.11
-- 1282   BH 208          --> 68     NGC 6256       d=2.36
-- 1320   FSR 1758        --> 89     FSR 1758       d=3.18
-- 1091   BH 140          --> 28     BH 140         d=4.65
-
-Renamed OCS:
-- BH      --> VDBH
-- vdBergh --> VDB
-
-Renamed:
-- Alessi J2327+55 --> Alessi J2327.0+55
+- Whiting 1    -->  Whiting 1,               d=0.0
+- ESO 093-08   -->  ESO 93-8,                d=0.0
+- VDBH 140     -->  BH 140,VDBH 140          d=0.0
+- VDBH 176     -->  BH 176,VDBH 176          d=0.0
+- VDBH 208     -->  NGC 6256,VDBH 208        d=0.0
+- ESO 456-29   -->  Gran 1,ESO 456-29        d=0.0
+- Pfleiderer 2 -->  Pfleiderer 2,            d=0.0
+- VDBH 261     -->  BH 261,ESO 456-78, VDBH 261d=0.0
+- Berkeley 42  -->  NGC 6749,Berkeley 42     d=0.0
 
 
 
 
-## Alessi et al 2003
+## Alessi et al. 2003
 
 [Searching for unknown open clusters in the Tycho-2 catalog (2003)](https://ui.adsabs.harvard.edu/abs/2003A%26A...410..565A/abstract)
 
@@ -303,7 +282,7 @@ No Vizier data, extracted and merged Tables 1 & 2. Added 'RA_ICRS, DE_ICRS' colu
 
 
 
-## Bica et al 2003
+## Bica et al. 2003
 
 [A Catalogue of infrared star clusters and stellar groups](https://scixplorer.org/abs/2003A%26A...397..177B/abstract)
 
@@ -326,7 +305,7 @@ Added 'S 242' to 'Sh2-242' (duplicate according to KHARCHENKO2013)
 
 
 
-## Bica et al 2003 (1)
+## Bica et al. 2003 (1)
 
 [New infrared star clusters in the Northern and Equatorial Milky Way with 2MASS](https://scixplorer.org/abs/2003A%26A...404..223B/abstract)
 
@@ -337,9 +316,9 @@ respectively, for a total of "167 new infrared clusters, stellar groups and cand
 Added 'BDSB_XX' and 'BDS2003_XX' to the sequence of names.
 
 Added (duplicated in the UCC):
--'FSR_0055' to 'BDSB_8, BDS2003_8'
--'FSR_0780, Stock_8' to 'BDSB_69, BDS2003_69'
--'AH03 J1725 34.4' to 'BDSB_100, BDS2003_100'
+- 'FSR_0055' to 'BDSB_8, BDS2003_8'
+- 'FSR_0780, Stock_8' to 'BDSB_69, BDS2003_69'
+- 'AH03 J1725 34.4' to 'BDSB_100, BDS2003_100'
 
 The entry 91 has incorrect (positive) latitude which is corrected to negative.
 
@@ -371,13 +350,13 @@ contains 216 entries.
 Fixed the following `(GLON, GLAT)` coordinates manually because I suspect they are
 incorrectly uploaded to Vizier:
 
-Collinder 197: 261.7 +08.9 --> 261.7 +0.89
-IC 1848      : 137.2 +00.1 --> 137.2 +1.00
+- Collinder 197: 261.7 +08.9 --> 261.7 +0.89
+- IC 1848      : 137.2 +00.1 --> 137.2 +1.00
 
 
 
 
-## Dutra et al 2003
+## Dutra et al. 2003
 
 
 [New infrared star clusters in the southern Milky Way with 2MASS](https://scixplorer.org/abs/2003A%26A...400..533D)
@@ -434,7 +413,7 @@ ONC cluster"_
 Added `ra,dec` columns in degrees.
 Added 'IRAS' to 15 entries.
 
-Added  alternative naming taken from Morales et al 2013 and Bica et al 2003:
+Added  alternative naming taken from Morales et al. 2013 and Bica et al. 2003:
 - M 17 --> NGC 6618
 - L1228 --> LDN_1228
 - L1641C --> LDN_1641C
@@ -457,7 +436,7 @@ coordinates in its Vizier table.
 
 
 
-## Mercer et al 2005
+## Mercer et al. 2005
 
 [New Star Clusters Discovered in the GLIMPSE Survey](https://ui.adsabs.harvard.edu/abs/2005ApJ...635..560M/abstract)
 
@@ -467,7 +446,7 @@ Added 'MCM' to the names of the entries.
 
 Removed GC MCM_5 (Mercer 5)
 
-Added  alternative naming taken from Morales et al 2013:
+Added  alternative naming taken from Morales et al. 2013:
 - MCM 19 --> Alessi 56
 - MCM 23 --> Teutsch 42
 - MCM 38 --> FSR 1662
@@ -501,6 +480,9 @@ Changes:
 - Added 'ASCC_' id to ASCC column
 - Added alternative names as main names to ASCC column
  
+Renamed ASCC_72 to MWSC_2044.
+
+
 
 ## van den Bergh 2006
 
@@ -530,7 +512,7 @@ recognized by VizieR as other objects:
 
 
 
-## Kronberger et al 2006
+## Kronberger et al. 2006
 
 [New galactic open cluster candidates from DSS and 2MASS imagery](https://ui.adsabs.harvard.edu/abs/2006A%26A...447..921K/abstract)
 
@@ -644,11 +626,11 @@ name of `SAI 92` in `GLUSHKOVA2010`.
 
 Froebrich (2007) lists `fsr0827` associated to `kronberger60`.
 
-`fsr0827` is associated to `kronberger6` in Bica et al (2019).
+`fsr0827` is associated to `kronberger6` in Bica et al. (2019).
 
-The `kronberger60` entry is only mentioned in Dias et al (2002), which
+The `kronberger60` entry is only mentioned in Dias et al. (2002), which
 does not list `kronberger6`. The OC `kronberger60` also appears in
-[Kronberger et al (2006)](https://ui.adsabs.harvard.edu/abs/2006A%26A...447..921K/abstract), which has no mention of `kronberger6`. The DIAS2002
+[Kronberger et al. (2006)](https://ui.adsabs.harvard.edu/abs/2006A%26A...447..921K/abstract), which has no mention of `kronberger6`. The DIAS2002
 catalogue was done with collaboration in [private communication with Kronberger](https://heasarc.gsfc.nasa.gov/W3Browse/star-catalog/openclust.html#type_flag).
 
 Both `kronberger6` and `kronberger60` have almost the same (ra, dec) coordinates:
@@ -664,7 +646,7 @@ thus add this as the primary identification to DIAS2002.
 
 
 
-## Piskunov et el. 2007
+## Piskunov et al. 2007
 
 [Towards absolute scales for the radii and masses of open clusters](https://ui.adsabs.harvard.edu/abs/2007A%26A...468..151P/abstract)
 
@@ -674,7 +656,7 @@ Added 'VDBH' and 'VDB' naming.
 
 
 
-## Piskunov et el. 2008
+## Piskunov et al. 2008
 
 
 [Tidal radii and masses of open clusters](https://ui.adsabs.harvard.edu/abs/2008A%26A...477..165P/abstract)
@@ -682,6 +664,9 @@ Added 'VDBH' and 'VDB' naming.
 [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/477/165) table shows 650 entries.
 
 Added 'VDBH' and 'VDB' naming.
+
+Renamed ASCC_72 to MWSC_2044.
+
 
 
 
@@ -700,6 +685,20 @@ Table 1 in the article lists 11 Koposov clusters and these are used here.
 
 The remaining 4 clusters are listed in Table 2 as "new infrared embedded clusters"
 with central coordinates only.
+
+
+
+## Kharchenko et al. 2009
+
+[Integrated BVJHKs parameters and luminosity functions of 650 Galactic open clusters](https://scixplorer.org/abs/2009A%26A...504..681K)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2009A%26A...504..681K) table lists 650 entries.
+
+Removed GC Lynga 7.
+
+Renamed ASCC_72 to MWSC_2044.
+
+
 
 
 ## Glushkova et al. 2010
@@ -754,7 +753,7 @@ Added VDBH to the BH entries.
 
 
 
-## Paunzen et al (2010)
+## Paunzen et al. 2010
 
 [On the metallicity of open clusters. I. Photometry](https://scixplorer.org/abs/2010A%26A...517A..32P/abstract)
 
@@ -776,7 +775,7 @@ Removed GC "Berkeley 42".
 - Added 'VVV-CL' naming with leading zeroes
 
 
-## Bukowiecki  et al. 2011
+## Bukowiecki et al. 2011
 
 [Open Clusters in 2MASS Photometry. I. Structural and Basic Astrophysical Parameters](https://ui.adsabs.harvard.edu/abs/2011AcA....61..231B/abstract)
 
@@ -813,7 +812,7 @@ ngc6996              44
 
 
 
-## Piatti et al 2011
+## Piatti et al. 2011
 
 [First CCD UBVI photometric analysis of six open cluster candidates](https://scixplorer.org/abs/2011NewA...16..161P)
 
@@ -822,7 +821,7 @@ Only comments on clusters, no data table used.
 
 
 
-## Bukowiecki  et al. 2012
+## Bukowiecki et al. 2012
 
 [Open Clusters in 2MASS Photometry. II. Mass Function and Mass Segregation](https://scixplorer.org/abs/2012AcA....62..281B/abstract)
 
@@ -849,7 +848,7 @@ Removed 'FSR 780', duplicate of "Stock 8" and has the same parameters.
 
 
 
-## Gozha at al. 2012
+## Gozha et al. 2012
 
 [Heterogeneity of the population of open star clusters in the Galaxy](https://scixplorer.org/abs/2012AstL...38..506G)
 
@@ -887,6 +886,7 @@ Changes:
 - Merged 'Dolidze_2, MWSC_3270' into 'IC_1311, MWSC_3271', same OC according to BICA2019
 - Removed GCs: VDBH 140, ESO 456-29, FSR 1716, FSR 1758
 - Removed incorrect [Fe/H]=90.128 for VDBH 99
+- Renamed ASCC_72 to MWSC_2044.
 
 Final table lists 2262 entries
 
@@ -909,14 +909,14 @@ Modified names:
 - Added W49_A to W49A Welch Ring
 
 Removed:
--FSR2007 1681, duplicate of NGC 5606
--FSR2007 55, duplicate of BDS2003 8
+- FSR2007 1681, duplicate of NGC 5606
+- FSR2007 55, duplicate of BDS2003 8
 
 
 
 
 
-## Dias et el. 2014
+## Dias et al. 2014
 
 [Proper motions of the optically visible open clusters based on the UCAC4 catalog](https://scixplorer.org/abs/2014A%26A...564A..79D)
 
@@ -930,9 +930,16 @@ Removed:
   NGC 6882, IC 1311, ESO 260 07, FSR 0814, FSR 0828, FSR 0856, FSR 0869, Koposov 27,
   NGC 2982
 
+Replaced ASCC_72 with MWSC_2044.
+Changed FSR_0124 (RA, DEC) to UCC values (wrong FSR_0123 coords).
 
 
-## Heiter et al 2014
+
+
+
+
+
+## Heiter et al. 2014
 
 [On the metallicity of open clusters. II. Spectroscopy](https://scixplorer.org/abs/2014A%26A...561A..93H/abstract)
 
@@ -980,14 +987,74 @@ Data table from my PDF.
 
 
 
-## Joshi et al 2016
+## Dias et al. 2016
+
+[New catalogue of optically visible open clusters and candidates](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D/abstract)
+
+The data was obtained from the [HEASARC archive](https://heasarc.gsfc.nasa.gov/w3browse/all/openclust.html). Removed all entries with these
+classes:
+
+```
+a = possible asterism/dust hole/star cloud (no cluster)
+cr =  Cluster Remnant (Pavani and Bica 2007A&A...468..139P)
+d = dubious, objects considered doubtful by the DSS images inspection
+g = possible globular cluster
+m = possible moving group
+n = "non-existent NGC" (RNGC, Sulentic, 1979, Cat. VII/1). Some of Bica's POCRs (Possible Open Cluster Remnant, 2001A&A...366..827B) are also "non-existent NGC" objects.
+nf =  objects not found in the DSS images inspection (wrong coordinates?)
+o = possible OB association (or detached part of)
+```
+
+Converted `RA, DEC` columns to degrees.
+
+FSR 1496 duplicated in lines 1015, 1016; removed 1016
+
+These entries corresponded to a single entry in the UCC. Only one was kept, selected
+according to the primary name in the UCC:
+
+- teutsch1, koposov27     --> koposov27
+- ngc3909, eso21708       --> ngc3909
+- collinder416, ngc6882   --> ngc6882
+- koposov43, fsr0828      --> koposov43
+- dolidze41, berkeley85   --> berkeley85
+- fsr0856, koposov53      --> koposov53
+- eso36814, fsr1343       --> eso36814
+- ah03j0748269, fsr1315   --> fsr1315
+- fsr0814, koposov36      --> koposov36
+- collinder257, harvard5  --> harvard5
+- eso31203, fsr1394       --> eso31203
+- fsr0436, skiffj2330p602 --> fsr0436
+- koposov63, fsr0869      --> koposov63
+- ngc2669, vdbh52         --> ngc2669
+
+Removed GCS:
+
+- 1022   ESO 093 08      --> 19     ESO 93-8       d=0.11
+- 1282   BH 208          --> 68     NGC 6256       d=2.36
+- 1320   FSR 1758        --> 89     FSR 1758       d=3.18
+- 1091   BH 140          --> 28     BH 140         d=4.65
+
+Renamed OCS:
+- BH      --> VDBH
+- vdBergh --> VDB
+
+Renamed:
+- Alessi J2327+55 --> Alessi J2327.0+55
+- ASCC_72 --> MWSC_2044
+
+Changed FSR_0124 (RA, DEC) to UCC values (wrong FSR_0123 coords).
+
+
+
+
+## Joshi et al. 2016
 
 [Study of open clusters within 1.8 kpc and understanding the Galactic structure](https://scixplorer.org/abs/2016A%26A...593A.116J)
 
 [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2016A%26A...593A.116J) table contains 1241 entries.
 
-Added name:
-- NGC_6991 to NGC_6991A
+Added name: NGC_6991 to NGC_6991A.
+Replaced ASCC_72 with MWSC_2044.
 
 New entries added by this DB (7): B_30, BDSB_31, BDSB_105, DBSB_47, DBSB_34, ESO_464_09,
 IC_1023 
@@ -1009,12 +1076,13 @@ Changes:
 - Removed 'Type' == ('a','g','m','n','r','s')
 - Merged 'Dolidze_2, MWSC_3270' into 'IC_1311, MWSC_3271', same OC according to BICA2019
 - Removed GCs: VDBH 140, ESO 456-29, FSR 1716, FSR 1758
+- Remove ASCC_72 from name
 
 Final table lists 2454 entries
 
 
 
-## Netopil et al 2016
+## Netopil et al. 2016
 
 [On the metallicity of open clusters. III. Homogenised sample](https://scixplorer.org/abs/2016A%26A...585A.150N/abstract)
 
@@ -1024,8 +1092,7 @@ Final table lists 2454 entries
 
 
 
-
-## Roser et al 2016
+## Roser et al. 2016
 
 [Nine new open clusters within 500 pc from the Sun](https://ui.adsabs.harvard.edu/abs/2016A%26A...595A..22R)
 
@@ -1034,6 +1101,7 @@ Final table lists 2454 entries
 
 For RSG entries 2, 3, 4, 6 and 9 I add as secondary name 'TRSG X' to match what's
 already in the catalogue.
+
 
 
 
@@ -1080,11 +1148,11 @@ Removed entries that are marked as duplicates in the UCC:
 - Basel 9 (duplicate of Ruprecht 148)
 
 The naming for 'Basel 11a' and 'Basel 11b' is interchanged according to their coordinate
-values. I rename them a to b and viceversa.
+values. I rename them a to b and vice versa.
 
 The article says that: "_also includes our 48 newly discovered and
 hitherto unknown poor open clusters_" but the CDS table lists 54 named 'LP_XX'
-were XX goes from 01 to 55 (LP 03 is not present in the Vizier table). The last six
+where XX goes from 01 to 55 (LP 03 is not present in the Vizier table). The last six
 entries are named '50A, 51A, 52A, 53A, 54A, 55A' so these are probably from a previous
 article.
 
@@ -1095,7 +1163,7 @@ OCs with no formal ID assigned (only numbers).
 
 
 
-## Sampedro et al 2017
+## Sampedro et al. 2017
 
 [A multimembership catalogue for 1876 open clusters using UCAC4 data](https://scixplorer.org/abs/2017MNRAS.470.3937S)
 
@@ -1120,6 +1188,8 @@ Removed duplicated entries:
 - Koposov_63 (FSR_0869)
 - NGC_2982 (Ruprecht_80)
 
+Replaced ASCC_72 with MWSC_2044.
+Changed FSR_0124 (RA, DEC) to UCC values (wrong FSR_0123 coords).
 
 
 
@@ -1162,7 +1232,7 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/618/A59)
 
 
 
-## Dias et al 2018
+## Dias et al. 2018
 
 [Update of membership and mean proper motion of open clusters from UCAC5 catalogue](https://scixplorer.org/abs/2018MNRAS.478.5184D)
 
@@ -1187,7 +1257,7 @@ Removed duplicated entries:
 
 
 
-## Dib et al 2018
+## Dib et al. 2018
 
 [Structure and mass segregation in Galactic stellar clusters](https://scixplorer.org/abs/2018MNRAS.473..849D)
 
@@ -1199,6 +1269,7 @@ Corrected duplicated names (based on coordinates):
 
 Changed names:
 - MWSC_4249 to MWSC_4229 (first one does not exist in the UCC and the coords match)
+- ASCC_72 to MWSC_2044
 
 Added names:
 - NGC_6991 to NGC_6991A
@@ -1313,14 +1384,7 @@ Changes to names:
 - 'FSR 1032,MWSC 927' to 'FSR 1032,MWSC 926', correct naming according to Kharchenko 2013
 - Removed 'MWSC 732' from 'FSR 732', the coordinates are wrong
 - Removed 'FSR 1184' from 'Saurer 1', the coordinates are wrong (probably meant 'MWSC 1184')
-
-Wrong coordinates:
-
-- ASCC 120 has wrong latitude ('-8.6' should be '-0.6')
-- ASCC 72 has wrong coordinates. BICA2019 says it took the values from
-  [Kharchenko et al. 2005](https://scixplorer.org/abs/2005A%26A...440..403K/abstract) but the Vizier table for that article shows different
-  values for the coordinates.
-
+- Remove MWSC_2044 (incorrectly attached to ASCC_72)
 
 Removed entries pointing to a GC:
 
@@ -1328,6 +1392,9 @@ Removed entries pointing to a GC:
 - ESO 93-8,MWSC 1932
 - FSR 1758,MWSC 2617
 - VDBH 140,vdBergh-Hagen 140,FSR 1632,MWSC 2071
+
+ASCC_120 has wrong coordinates, the -8,6 latitude should be -0.6.
+
 
 #### Ryu clusters
 
@@ -1453,7 +1520,7 @@ have no assigned CG18 id.
 Added VDBH_ to the BH_ entries.
 
 
-## Monteiro et al 2019
+## Monteiro et al. 2019
 
 [Distances and ages from isochrone fits of 150 open clusters using Gaia DR2 data](https://scixplorer.org/abs/2019MNRAS.487.2385M)
 
@@ -1498,7 +1565,7 @@ UBC 74, UBC 72, UBC 56, and UBC 7" --> These were already identified as UBC entr
 
 ### Vizier duplicates
 
-"eight of our OC candidates are identified with one UPK object (Sim et al 2019)" -->
+"eight of our OC candidates are identified with one UPK object (Sim et al. 2019)" -->
 Does not specify the names
 
 "we find 45 cases that are compatible with one of the 76 from Liu & Pang (2019)" -->
@@ -1563,20 +1630,20 @@ Data from Table 2 lists 16 clusters with no acronym. Used 'HXWHB_' to match HUNT
 
 
 
-## Kounkel et al 2020
+## Kounkel et al. 2020
 
 [Untangling the Galaxy. II. Structure within 3 kpc](https://scixplorer.org/abs/2020AJ....160..279K/abstract)
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/AJ/160/279/tablea1) table contains 1910 entries.
 
 The list contains two UBC entries not listed in the UCC: UBC 581, UBC 658. Since the
-table does not contain (ra, dec) values, these entries can not be added without these
+table does not contain (ra, dec) values, these entries cannot be added without these
 values. The table states that parameters are taken from the articles:
 
--Cantat-Gaudin+, 2018, J/A+A/618/A93
--Cantat-Gaudin+, 2019, J/A+A/624/A126
--Castro-Ginard+, 2019, J/A+A/627/A35
--Castro-Ginard+, 2020, J/A+A/635/A45
+- Cantat-Gaudin+, 2018, J/A+A/618/A93
+- Cantat-Gaudin+, 2019, J/A+A/624/A126
+- Castro-Ginard+, 2019, J/A+A/627/A35
+- Castro-Ginard+, 2020, J/A+A/635/A45
 
 but I find no such entries in either of those articles (or anywhere else). These two
 entries are thus removed.
@@ -1601,6 +1668,8 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2020MNRAS.495.
 Removed GC Pfleiderer 2.
 
 Combined 'fsr0436; skiffj2330p602', same entry according to UCC (removed Skiff J2330+60.2).
+
+Renamed FSR_0124 to FSR_0123 (as per coordinate values)
 
 
 
@@ -1688,7 +1757,7 @@ Added `(RA_ICRS,DE_ICRS)` columns.
 
 
 
-## Hu et al 2021
+## Hu et al. 2021
 
 [Decoding the morphological evolution of open clusters](https://scixplorer.org/abs/2021A%26A...656A..49H)
 
@@ -1734,7 +1803,7 @@ Removed entries pointing to a GC:
 - Berkeley 42 --> NGC 6749
 
 
-## Rain et al 2021
+## Rain et al. 2021
 
 [A new, Gaia-based, catalogue of blue straggler stars in open clusters](https://ui.adsabs.harvard.edu/abs/2021A%26A...650A..67R/abstract)
 
@@ -1744,7 +1813,7 @@ Added 'Markarian' to 'mrk 18, mrk 50'. Renamed 'Coin' to 'Coin-Gaia'.
 
 
 
-## Richer et al 2021
+## Richer et al. 2021
 
 [Massive White Dwarfs in Young Star Clusters](https://scixplorer.org/abs/2021ApJ...912..165R/abstract)
 
@@ -1779,7 +1848,7 @@ Contains two 'FOF' clusters.
 
 
 
-## Spina et al 2021
+## Spina et al. 2021
 
 [The GALAH survey: tracing the Galactic disc with open clusters](https://scixplorer.org/abs/2021MNRAS.503.3279S/abstract)
 
@@ -1803,7 +1872,7 @@ articles.
 
 
 
-# Dias et al. 2022
+## Dias et al. 2022
 
 [58 open clusters investigated with UBVRI and Gaia eDR3 data](https://scixplorer.org/abs/2022MNRAS.512.4464D/abstract)
 
@@ -1813,6 +1882,17 @@ Table A2 lists 32 entries, not 33 as expected.
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/MNRAS/512/4464) table lists 60 entries, not 58 as expected. Three of those are not
 in Tables 1, 2, or A2: NGC_6773, Ruprecht_170, Ruprecht_171
+
+
+
+
+## Fu et al. 2022
+
+[LAMOST meets Gaia The Galactic open clusters](https://scixplorer.org/abs/2022A%26A...668A...4F)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2022A%26A...668A...4F) table contains data (metallicity and radial velocities) for 386 entries.
+
+
 
 
 
@@ -1836,7 +1916,7 @@ Removed entries pointing to a GC:
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/260/8) table contains 541 with no acronym, added 'CWNU_'.
 Replaced '---' with '' for RV values.
 
-Added "LISC_3420" to "CWNU_394" according to Deng et al 2023.
+Added "LISC_3420" to "CWNU_394" according to Deng et al. 2023.
 
 
 
@@ -1856,7 +1936,7 @@ Changes to names:
 - Changed 'LP_' to 'FoF_'
 - CWNU_289 --> CWNU_287 (clearly wrong name assigned based on coordinates)
 
-14 entries named 'H21OC_*' are 'hxhwl*' entries from He et al 2021. Renamed them as
+14 entries named 'H21OC_*' are 'hxhwl*' entries from He et al. 2021. Renamed them as
 follows:
 - H21OC_10 --> HXHWL 10, H21OC_10
 - H21OC_12 --> HXHWL 12, H21OC_12
@@ -1903,7 +1983,7 @@ I only include the 61 new clusters in `table1` which contains a column called
 
 
 
-## Netopil et al 2022
+## Netopil et al. 2022
 
 [The Galactic metallicity gradient shown by open clusters in the light of radial migration](https://scixplorer.org/abs/2022MNRAS.509..421N)
 
@@ -1925,6 +2005,12 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/663/A131
 Removed two entries identified as GCs: VDBH 176 and ESO 093 08.
 
 
+
+## Ray et al. 2022
+
+[The Open Cluster Chemical Abundances and Mapping Survey. V. Chemical Abundances of CTIOHydra Clusters Using The Cannon](https://scixplorer.org/abs/2022AJ....163..195R)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2022AJ....163..195R) table contains 58 clusters. Added VDBH to BH entries.
 
 
 
@@ -2027,7 +2113,7 @@ The (GLON, GLAT) column in their [Vizier table](https://vizier.cds.unistra.fr/vi
 (RAICRS, DEICRS) values.
 
 
-## Cordoni et al 2023
+## Cordoni et al. 2023
 
 [Photometric binaries, mass functions, and structural parameters of 78 Galactic open clusters
 ](https://ui.adsabs.harvard.edu/abs/2023A%26A...672A..29C/abstract)
@@ -2037,7 +2123,7 @@ a single one.
 
 
 
-## Deng et al 2023
+## Deng et al. 2023
 
 [Analysis of metallicities of open clusters in the Galactic disc](https://scixplorer.org/abs/2023MNRAS.521.6284D)
 
@@ -2130,10 +2216,11 @@ Fixes:
 Changes:
 
 - Added 'MWSC_' to names
-- Took names from the Kharchenko et al 2013 [List of MWSC objects](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/558/A53/index)
+- Took names from the Kharchenko et al. 2013 [List of MWSC objects](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/558/A53/index)
   which contains naming for all MWSC objects (this database only lists MWSC ids)
+- Removed ASCC_72 naming from MWSC_2044
 - Added 'VDB' & 'VDBH' to names
-- Added 'Type' column with values from Kharchenko et al 2013
+- Added 'Type' column with values from Kharchenko et al. 2013
 - Removed 'Type' == ('a','g','m','n','r','s')
 - Merged 'Dolidze_2, MWSC_3270' into 'IC_1311, MWSC_3271', same OC according to BICA2019
 - Removed GCs: VDBH_140, ESO_456-29, FSR_1716, FSR_1758
@@ -2165,9 +2252,7 @@ Added 'FoF' to 'LP' entries.
 
 
 
-
-
-## Piatti et al 2023
+## Piatti et al. 2023
 
 Extracted data from PDF.
 
@@ -2195,6 +2280,8 @@ Added VDBH to the BH entries.
 
 The coordinates for ASCC 123 are incorrect and appear to be those that correspond to
 the cluster Stock 12.
+
+
 
 
 ## Cavallo et al. 2024
@@ -2312,7 +2399,7 @@ contains the correct coordinates and matches the fundamental parameter values li
 in other DBs.
 
 
-## Celli et al 2024
+## Celli et al. 2024
 
 [Mass and wind luminosity of young Galactic open clusters in Gaia DR2](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.118C/abstract)
 
@@ -2437,9 +2524,9 @@ Added 'FoF 1800' to 'LP 1800'.
 
 This database marks the following entries as duplicates, which we adopt:
 
--'UBC 60' (CASTRO2019) duplicate of 'Coin-Gaia 11'
--'UBC 131' (CASTRO2020) duplicate of 'UPK 84'
--'UBC 170' (CASTRO2020) duplicate of 'FoF 1800'
+- 'UBC 60' (CASTRO2019) duplicate of 'Coin-Gaia 11'
+- 'UBC 131' (CASTRO2020) duplicate of 'UPK 84'
+- 'UBC 170' (CASTRO2020) duplicate of 'FoF 1800'
 
 Modified the Castro-Ginard databases accordingly.
 Also removed 'UBC 60' from KOUNKEL2020
@@ -2475,7 +2562,7 @@ Added the 'CKCWDM' prefix to the cluster names that were just numbers.
 
 
 
-## Cui et al 2025
+## Cui et al. 2025
 
 [Census of Blue Straggler Stars in Distant Open Clusters and Maximum Fractional Mass Excess of Open Cluster Blue Straggler Stars](https://scixplorer.org/abs/2025AJ....169..219C/abstract)
 
@@ -2510,7 +2597,7 @@ classification was performed based on follow criteria:
 
 
 
-## Guerco et a. 2025
+## Guerco et al. 2025
 
 [Open cluster members in APOGEE DR17: I. Dynamics and star members](https://scixplorer.org/abs/2025A%26A...701A.100G/abstract)
 
@@ -2548,7 +2635,7 @@ Removed 'Harvard_5' (duplicate of Collinder_258).
 
 [Binary clusters in the Galactic I: systematic identification and classification using Gaia DR3](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..48L/abstract)
 
-The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/702/A48) tables lists 800 and 278 entries. After merging, the final table
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/702/A48) tables list 800 and 278 entries. After merging, the final table
 contains 686 unique entries.
 
 Added 'CMa_02' to 'CMa2'
@@ -2585,6 +2672,23 @@ Only comments on clusters, no data table used.
 
 
 
+## Qin et al. 2025
+
+[The 3D morphology of open clusters in the solar neighborhood III. Fractal dimension of open clusters](https://scixplorer.org/abs/2025A%26A...695A..22Q)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2025A%26A...695A..22Q) lists two tables:
+
+- Table A.1 (Pang et al. 2024): 93 entries. Removed 'gp' and 'is' entries, 74 entries
+  remained.
+- Table A.2 (Hunt & Reffert 2024): 127 entries
+
+NGC_2362 --> NGC_2632 (correct name given the coordinates and age)
+
+Merged both tables, edited a few common names, final table contains 158 entries.
+
+
+
+
 ## Wei et al. 2025
 
 [Forest Fire Clustering: A Novel Tool for Identifying Star Members of Clusters](https://scixplorer.org/abs/2025AJ....169..115W/abstract)
@@ -2601,7 +2705,7 @@ Added: 'ocsn38' to 'oc038'
 
 
 
-## Yang et al 2025
+## Yang et al. 2025
 
 [Chemical Abundance Gradients in Open Clusters from the Gaia/LAMOST Sample](https://scixplorer.org/abs/2025AJ....169..214Y/abstract)
 
@@ -2612,9 +2716,28 @@ Added "XDOCC_02" to "XDOCC_2".
 
 
 
+## Boin et al. 2026
+
+[Stellar age determination using deep neural networks Isochrone ages for 1.3 million stars, based on BaSTI, MIST, PARSEC, Dartmouth, and SYCLIST evolutionary grids](https://scixplorer.org/abs/2026A%26A...708A.215B)
+
+Age data requested to T. Boin for the 14 objects in Fig 2.
+
+Removed GC NGC 6397.
 
 
-## Dias et al 2026
+
+
+
+## Corti et al. 2026
+
+[Multiwavelength study of the Carina--Sagittarius Arm. I.Astrometric and photometric search for new open clusters in the 320\<l\<325 region](https://scixplorer.org/abs/2026arXiv260601418C)
+
+Five new 'ESFERA' clusters.
+
+
+
+
+## Dias et al. 2026
 
 [Discovery of 178 Open Clusters with Gaia DR3](https://scixplorer.org/abs/2026AJ....171...24D/abstract)
 
@@ -2643,13 +2766,27 @@ This DB adds 169 entries to the UCC.
 
 
 
-## Ferreira et al 2026
+## Ferreira et al. 2026
 
 [New star clusters discovered towards the Galactic anticentre direction using Gaia DR3 data](https://scixplorer.org/abs/2026arXiv260326572F/abstract)
 
 Data extracted from PDF. This DB adds 31 new entries.
 
 
+
+## Li et al. 2026
+
+[The morphological stability of open clusters A new 2D perspective](https://scixplorer.org/abs/2026A%26A...708A.238L)
+
+Renamed:
+- Skiff_J0058+68 --> Skiff_J0058+68.4
+- Skiff_J0458+43 --> Skiff_J0458+43.0
+- Skiff_J0507+30 --> Skiff_J0507+30.8
+- Skiff_J1942+38 --> Skiff_J1942+38.6
+- Skiff_J2330+60 --> Skiff_J2330+60.2
+
+Added:
+-  FoF to LP entries
 
 
 
@@ -2683,8 +2820,16 @@ UPK 442 is missing from Table 2.
 
 
 
+## Schweers & McSwain 2026
 
-# Yan et al. 2026
+[Stellar Paternity Tests Matching High-latitude B Stars to the Open Clusters of their Birth](https://scixplorer.org/abs/2026ApJ..1000..145S)
+
+447 entries.
+
+
+
+
+## Yan et al. 2026
 
 [Searching for White Dwarf Candidates Formed Through Binary Evolution in Star Clusters](https://scixplorer.org/abs/2026ApJ...999..167Y/abstract)
 
