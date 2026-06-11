@@ -9,6 +9,28 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260611](https://zenodo.org/records/20645868)
+
+- Qin et al (2025)
+- Boin et al (2026)
+- Ray et al (2022)
+- Fu et al. (2022)
+- Schweers & McSwain (2026)
+- Added Corti et al (2026), 5 new 'ESFERA' clusters
+- Added Li et al. (2026)
+- Kharchenko et al. (2009)
+- Split DIAS2002 into DIAS2002 (v1) and DIAS2016 (v3.5)
+- Re-processed some OCs with better initial values
+- Fixed ASCC_72 / MWSC_2044 wrong coordinates
+- Merged a few OCS (VDBH_203 -> Collinder_316; DB2001_3 -> IC_4955)
+- Fixed FSR_0124 / FSR_0123 coordinates mix up
+- Fixed ASCC_120 bad latitude in BICA2019
+- Cep A & Cep C are duplicates of Cepheus A & Cepheus C respectively
+- Re-process ngc6618 with N_clust=50
+
+
+
+
 ## Version [260423](https://zenodo.org/records/19712053)
 
 - Modified `C_lit` to return better literature weights
@@ -19,7 +41,7 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 ## Version [260413](https://zenodo.org/records/19559975)
 
 - Added Hu et al (2021); comments only
-- Fixed Sampedro et al 2017 bad plx,pmra/pmde columns
+- Fixed Sampedro et al (2017) bad plx,pmra/pmde columns
 - Better stellar density estimation + add core radius estimation
 - Added more parameters to HUNT2024 (same as HUNT2023)
 
