@@ -12,12 +12,12 @@ style: style
 
 | Name | Comment |
 | --- | :-: |
-| <a href="{{ site.baseurl }}/_clusters/haffner25/" target="_blank" style="color: red;">Haffner 25</a> | Not a genuine open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/haffner25/" target="_blank" style="color: $blue;">Haffner 25</a> | Not a genuine open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/haffner3/" target="_blank" style="color: $blue;">Haffner 3</a> | Not a genuine open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/haffner5/" target="_blank" style="color: $blue;">Haffner 5</a> | Not a genuine open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/hogg3/" target="_blank" style="color: red;">Hogg 3</a> | Not a genuine open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/hogg4/" target="_blank" style="color: $blue;">Hogg 4</a> | Not a genuine open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/ngc2368/" target="_blank" style="color: red;">NGC 2368</a> | Not a genuine open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2368/" target="_blank" style="color: $blue;">NGC 2368</a> | Not a genuine open cluster. |
 
 
 <script type="module">

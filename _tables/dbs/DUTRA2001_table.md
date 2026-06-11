@@ -8,7 +8,7 @@ style: style
 &nbsp;
 # [Dutra & Bica (2001)](https://scixplorer.org/abs/2001A%26A...376..434D)
 
-This database consists of 31 entries, of which 3% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 65% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+This database consists of 31 entries, of which 3% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 61% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
 
 
 
@@ -26,7 +26,6 @@ This database consists of 31 entries, of which 3% are probable duplicates ([P<su
 | <a href="{{ site.baseurl }}/_clusters/db200124/" target="_blank" style="color: red;">DB2001 24</a> | 84.83 | 35.75 | 173.48 | 2.46 | 0.51 | 20 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.09 |
 | <a href="{{ site.baseurl }}/_clusters/db200125/" target="_blank" style="color: red;">DB2001 25</a> | 88.04 | 27.4 | 182.05 | 0.48 | 0.38 | 19 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/db200129/" target="_blank" style="color: $blue;">DB2001 29</a> | 93.7 | 19.0 | 191.93 | 0.83 | 0.48 | 133 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.56 |
-| <a href="{{ site.baseurl }}/_clusters/db20013/" target="_blank" style="color: red;">DB2001 3</a> | 301.17 | 29.2 | 66.95 | -1.25 | 0.22 | 19 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/db200130/" target="_blank" style="color: red;">DB2001 30</a> | 93.17 | 17.99 | 192.6 | -0.08 | 0.48 | 23 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.14 |
 | <a href="{{ site.baseurl }}/_clusters/db200131/" target="_blank" style="color: $blue;">DB2001 31</a> | 93.19 | 17.99 | 192.6 | -0.09 | 0.47 | 55 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.31 |
 | <a href="{{ site.baseurl }}/_clusters/db200132/" target="_blank" style="color: red;">DB2001 32</a> | 93.37 | 17.92 | 192.73 | 0.03 | 0.44 | 16 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.06 |
@@ -41,7 +40,8 @@ This database consists of 31 entries, of which 3% are probable duplicates ([P<su
 | <a href="{{ site.baseurl }}/_clusters/db20018/" target="_blank" style="color: red;">DB2001 8</a> | 307.95 | 38.95 | 78.16 | -0.38 | 0.57 | 21 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.15 |
 | <a href="{{ site.baseurl }}/_clusters/db20019/" target="_blank" style="color: red;">DB2001 9</a> | 308.06 | 38.86 | 78.14 | -0.53 | 0.65 | 29 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.18 |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica59/" target="_blank" style="color: red;">Dutra-Bica 59</a> | 264.39 | -25.18 | 2.22 | 3.51 | 0.09 | 25 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.18 |
-| <a href="{{ site.baseurl }}/_clusters/dutrabica60/" target="_blank" style="color: red;">Dutra-Bica 60</a> | 264.87 | -23.7 | 3.74 | 3.94 | 0.15 | 12 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.2 |
+| <a href="{{ site.baseurl }}/_clusters/dutrabica60/" target="_blank" style="color: $blue;">Dutra-Bica 60</a> | 264.87 | -23.7 | 3.74 | 3.94 | 0.15 | 12 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.2 |
+| <a href="{{ site.baseurl }}/_clusters/ic4955/" target="_blank" style="color: red;">IC 4955</a> | 301.17 | 29.2 | 66.95 | -1.25 | 0.23 | 14 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/ic466/" target="_blank" style="color: red;">IC466</a> | 107.14 | -4.34 | 218.74 | 1.82 | 0.25 | 21 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.05 |
 | <a href="{{ site.baseurl }}/_clusters/vdbhrn26/" target="_blank" style="color: red;">vdBH-RN26</a> | 134.53 | -47.39 | 267.75 | -1.1 | 0.57 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.08 |
 | <a href="{{ site.baseurl }}/_clusters/vdbhrn43/" target="_blank" style="color: red;">vdBH-RN43</a> | 161.36 | -59.95 | 287.75 | -0.84 | 0.43 | 19 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.07 |

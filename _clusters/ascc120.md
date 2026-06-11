@@ -59,7 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |337.631 | 57.226 | 0.238 | -0.756 | -1.966 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 337.561 | 57.191 | -- | -- | -- | -- |
-    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 344.055 | 50.158 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 344.055 | 57.21 | -- | -- | -- | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 337.567 | 57.195 | -- | -- | -- | -- |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 337.65 | 57.21 | -- | -0.01 | -0.54 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 337.567 | 57.195 | -- | -- | -- | -- |

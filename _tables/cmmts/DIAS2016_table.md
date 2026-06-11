@@ -24,20 +24,20 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/chereul1/" target="_blank" style="color: red;">Chereul 1</a> | Moving group (Chereul, E. et al. 1999, A&AS 135, 5); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/chereul2/" target="_blank" style="color: red;">Chereul 2</a> | Moving group (Chereul, E. et al. 1999, A&AS 135, 5); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/chereul3/" target="_blank" style="color: red;">Chereul 3</a> | Moving group (Chereul, E. et al. 1999, A&AS 135, 5); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/collinder21/" target="_blank" style="color: red;">Collinder 21</a> | Asterism (Villanova, S. et al. 2004, A&A 428, 67); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/collinder21/" target="_blank" style="color: $blue;">Collinder 21</a> | Asterism (Villanova, S. et al. 2004, A&A 428, 67); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/collinder234/" target="_blank" style="color: $blue;">Collinder 234</a> | Part of Tr 16 (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/collinder399/" target="_blank" style="color: red;">Collinder 399</a> | Asterism (Baumgardt, H. 1998, A&A 340, 402; Orellana, R. B.; De Biasi, M. S. 2008, RevMexAA 34, 111); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/doldzim1/" target="_blank" style="color: red;">Dol Dzim 1</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/doldzim8/" target="_blank" style="color: red;">Dol Dzim 8</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze12/" target="_blank" style="color: red;">Dolidze 12</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze17/" target="_blank" style="color: red;">Dolidze 17</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/dolidze18/" target="_blank" style="color: red;">Dolidze 18</a> | Asterism (Kronberger, M. 2007, private communication); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/dolidze29/" target="_blank" style="color: red;">Dolidze 29</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/dolidze18/" target="_blank" style="color: $blue;">Dolidze 18</a> | Asterism (Kronberger, M. 2007, private communication); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/dolidze29/" target="_blank" style="color: $blue;">Dolidze 29</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze30/" target="_blank" style="color: red;">Dolidze 30</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze31/" target="_blank" style="color: red;">Dolidze 31</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze39/" target="_blank" style="color: $blue;">Dolidze 39</a> | Asterism (Bica, E.; Bonatto, C. 2011, A&A 530, 32); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze43/" target="_blank" style="color: red;">Dolidze 43</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/dolidze46/" target="_blank" style="color: red;">Dolidze 46</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/dolidze46/" target="_blank" style="color: $blue;">Dolidze 46</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze50/" target="_blank" style="color: red;">Dolidze 50</a> | Asterism (Kronberger, M. 2007, private communication); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze51/" target="_blank" style="color: red;">Dolidze 51</a> | Asterism (Kronberger, M. 2007, private communication); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dolidze55/" target="_blank" style="color: red;">Dolidze 55</a> | Asterism (Kronberger, M. 2007, private communication); cat V3.5 (Jan 2016) |
@@ -50,7 +50,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/dutrabica24/" target="_blank" style="color: red;">Dutra Bica 24</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica3/" target="_blank" style="color: red;">Dutra Bica 3</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica30/" target="_blank" style="color: red;">Dutra Bica 30</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/dutrabica33/" target="_blank" style="color: red;">Dutra Bica 33</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/dutrabica33/" target="_blank" style="color: $blue;">Dutra Bica 33</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica36/" target="_blank" style="color: red;">Dutra Bica 36</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica37/" target="_blank" style="color: red;">Dutra Bica 37</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica4/" target="_blank" style="color: red;">Dutra Bica 4</a> | Asterism (Dutra et al. 2003, A&A 408, 127); cat V3.5 (Jan 2016) |
@@ -66,7 +66,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/eso48901/" target="_blank" style="color: red;">ESO 489 01</a> | No cluster (Carraro, G. 2016, MNRAS 455, 4031); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/eso52020/" target="_blank" style="color: red;">ESO 520 20</a> | Not found (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/grasdalen1/" target="_blank" style="color: $blue;">Grasdalen 1</a> | IR-only cluster (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/haffner25/" target="_blank" style="color: red;">Haffner 25</a> | No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/haffner25/" target="_blank" style="color: $blue;">Haffner 25</a> | No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/haffner3/" target="_blank" style="color: $blue;">Haffner 3</a> | No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/haffner5/" target="_blank" style="color: $blue;">Haffner 5</a> | No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/hogg3/" target="_blank" style="color: red;">Hogg 3</a> | No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016) |
@@ -75,22 +75,22 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/iskudarian1/" target="_blank" style="color: red;">Iskudarian 1</a> | Moving group of white dwarfs? (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/king25/" target="_blank" style="color: $blue;">King 25</a> | No cluster (Carraro, G.; Janes, K. A.; Eastman, J. D. 2005, MNRAS 364, 179); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/kronberger3/" target="_blank" style="color: red;">Kronberger 3</a> | Asterism (Kronberger, M. 2005, private communication); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/kronberger5/" target="_blank" style="color: red;">Kronberger 5</a> | Asterism (Kronberger, M. 2005, private communication); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/kronberger5/" target="_blank" style="color: $blue;">Kronberger 5</a> | Asterism (Kronberger, M. 2005, private communication); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/latysev1/" target="_blank" style="color: red;">Latysev 1</a> | Moving group? (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/latysev2/" target="_blank" style="color: red;">Latysev 2</a> | Moving group? (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/mandushev1/" target="_blank" style="color: red;">Mandushev 1</a> | Asterism (Turner, D. G. et al. 1998, JRASC 92, 145); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/melotte227/" target="_blank" style="color: red;">Melotte 227</a> | Asterism (Baumgardt, H. 1998, A&A 340, 402; Orellana, R. B.; De Biasi, M. S. 2008, RevMexAA 34, 111); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc1146/" target="_blank" style="color: red;">NGC 1146</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc1724/" target="_blank" style="color: $blue;">NGC 1724</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc1807/" target="_blank" style="color: red;">NGC 1807</a> | Asterism (Balaguer-Núñez et al. 2004, A&A 426, 827; 819); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc1807/" target="_blank" style="color: $blue;">NGC 1807</a> | Asterism (Balaguer-Núñez et al. 2004, A&A 426, 827; 819); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc1891/" target="_blank" style="color: red;">NGC 1891</a> | Asterism (Carraro, G. et al. 2004, astro-ph/0412019); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc1963/" target="_blank" style="color: red;">NGC 1963</a> | Asterism (Carraro, G. et al. 2004, astro-ph/0412019); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc2039/" target="_blank" style="color: red;">NGC 2039</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc2063/" target="_blank" style="color: red;">NGC 2063</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc2189/" target="_blank" style="color: red;">NGC 2189</a> | Not found (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc2189/" target="_blank" style="color: $blue;">NGC 2189</a> | Not found (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc2248/" target="_blank" style="color: red;">NGC 2248</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc2368/" target="_blank" style="color: red;">NGC 2368</a> | No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc2413/" target="_blank" style="color: red;">NGC 2413</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc2368/" target="_blank" style="color: $blue;">NGC 2368</a> | No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc2413/" target="_blank" style="color: $blue;">NGC 2413</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc2459/" target="_blank" style="color: red;">NGC 2459</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc2664/" target="_blank" style="color: red;">NGC 2664</a> | Asterism (Villanova, S. et al. 2004, A&A 428, 67); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc272/" target="_blank" style="color: $blue;">NGC 272</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
@@ -100,11 +100,11 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ngc3519/" target="_blank" style="color: $blue;">NGC 3519</a> | Spiral arm (Cheon, S. et al. 2010, JKAS, arXiv:1007.2686); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc3520/" target="_blank" style="color: red;">NGC 3520</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc5045/" target="_blank" style="color: $blue;">NGC 5045</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc5155/" target="_blank" style="color: red;">NGC 5155</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc5284/" target="_blank" style="color: red;">NGC 5284</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc5299/" target="_blank" style="color: red;">NGC 5299</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc5155/" target="_blank" style="color: $blue;">NGC 5155</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc5284/" target="_blank" style="color: $blue;">NGC 5284</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc5299/" target="_blank" style="color: $blue;">NGC 5299</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc5385/" target="_blank" style="color: red;">NGC 5385</a> | Asterism (Villanova, S. et al. 2004, A&A 428, 67); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ngc6222/" target="_blank" style="color: red;">NGC 6222</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ngc6222/" target="_blank" style="color: $blue;">NGC 6222</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc6360/" target="_blank" style="color: red;">NGC 6360</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc6415/" target="_blank" style="color: red;">NGC 6415</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ngc6421/" target="_blank" style="color: red;">NGC 6421</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
@@ -134,13 +134,13 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/riddle6/" target="_blank" style="color: $blue;">Riddle 6</a> | Asterism (Kronberger, M. 2005, private communication); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht103/" target="_blank" style="color: red;">Ruprecht 103</a> | Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht124/" target="_blank" style="color: red;">Ruprecht 124</a> | Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht129/" target="_blank" style="color: red;">Ruprecht 129</a> | Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht146/" target="_blank" style="color: red;">Ruprecht 146</a> | Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht129/" target="_blank" style="color: $blue;">Ruprecht 129</a> | Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht146/" target="_blank" style="color: $blue;">Ruprecht 146</a> | Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht156/" target="_blank" style="color: red;">Ruprecht 156</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht158/" target="_blank" style="color: red;">Ruprecht 158</a> | Field fluctuation (Vázquez, R. A. et al. 2010, A&A 511, 38); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht30/" target="_blank" style="color: red;">Ruprecht 30</a> | Spiral arm (Carraro, G. et al. 2010, ApJ 718, 683); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: red;">Ruprecht 46</a> | Asterism (Carraro, G.; Patat, F. 1995, MNRAS 276, 563); cat V3.5 (Jan 2016) |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht72/" target="_blank" style="color: red;">Ruprecht 72</a> | Field fluctuation (Vázquez, R. A. et al. 2010, A&A 511, 38); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht158/" target="_blank" style="color: $blue;">Ruprecht 158</a> | Field fluctuation (Vázquez, R. A. et al. 2010, A&A 511, 38); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht30/" target="_blank" style="color: $blue;">Ruprecht 30</a> | Spiral arm (Carraro, G. et al. 2010, ApJ 718, 683); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: $blue;">Ruprecht 46</a> | Asterism (Carraro, G.; Patat, F. 1995, MNRAS 276, 563); cat V3.5 (Jan 2016) |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht72/" target="_blank" style="color: $blue;">Ruprecht 72</a> | Field fluctuation (Vázquez, R. A. et al. 2010, A&A 511, 38); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/shorlin1/" target="_blank" style="color: $blue;">Shorlin 1</a> | Asterism (Turner, D. G. 2012, Ap&SS 337, 303); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/shorlin2/" target="_blank" style="color: red;">Shorlin 2</a> | Asterism (Turner, D. G. 2012, private communication); cat V3.5 (Jan 2016) |
 | <a href="{{ site.baseurl }}/_clusters/terzanju20/" target="_blank" style="color: red;">Terzan-Ju 20</a> | Asterism (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016) |

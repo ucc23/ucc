@@ -13,7 +13,7 @@ style: style
 | Name | Comment |
 | --- | :-: |
 | <a href="{{ site.baseurl }}/_clusters/alessi56/" target="_blank" style="color: $blue;">Alessi 56</a> | Association of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
-| <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: red;">DBSB 88</a> | Associated with mid-IR extended emission. Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
+| <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: $blue;">DBSB 88</a> | Associated with mid-IR extended emission. Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/juchert10/" target="_blank" style="color: $blue;">Juchert 10</a> | Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm1/" target="_blank" style="color: red;">MCM 1</a> | Association of stars. Associated with mid-IR extended emission. |
 | <a href="{{ site.baseurl }}/_clusters/mcm10/" target="_blank" style="color: red;">MCM 10</a> | Association of stars. Appears in 2MASS images. |
@@ -68,13 +68,13 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/mcm6/" target="_blank" style="color: red;">MCM 6</a> | Association of stars. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm60/" target="_blank" style="color: red;">MCM 60</a> | Association of stars. Associated with mid-IR extended emission. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm61/" target="_blank" style="color: red;">MCM 61</a> | Associated with mid-IR extended emission. Cluster of stars. |
-| <a href="{{ site.baseurl }}/_clusters/mcm62/" target="_blank" style="color: red;">MCM 62</a> | Associated with mid-IR extended emission. Cluster of stars. Detected in 2MASS catalog with our algorithm. Detected using 'bright' 3.6m magnitude cut. |
+| <a href="{{ site.baseurl }}/_clusters/mcm62/" target="_blank" style="color: $blue;">MCM 62</a> | Associated with mid-IR extended emission. Cluster of stars. Detected in 2MASS catalog with our algorithm. Detected using 'bright' 3.6m magnitude cut. |
 | <a href="{{ site.baseurl }}/_clusters/mcm63/" target="_blank" style="color: red;">MCM 63</a> | Association of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm64/" target="_blank" style="color: red;">MCM 64</a> | Association of stars. Associated with mid-IR extended emission. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm65/" target="_blank" style="color: red;">MCM 65</a> | Cluster of stars. Associated with mid-IR extended emission. |
 | <a href="{{ site.baseurl }}/_clusters/mcm66/" target="_blank" style="color: red;">MCM 66</a> | Cluster of stars. Associated with mid-IR extended emission. |
 | <a href="{{ site.baseurl }}/_clusters/mcm67/" target="_blank" style="color: red;">MCM 67</a> | Cluster of stars. Associated with mid-IR extended emission. |
-| <a href="{{ site.baseurl }}/_clusters/mcm68/" target="_blank" style="color: red;">MCM 68</a> | Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
+| <a href="{{ site.baseurl }}/_clusters/mcm68/" target="_blank" style="color: $blue;">MCM 68</a> | Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/mcm69/" target="_blank" style="color: red;">MCM 69</a> | Cluster of stars. Associated with mid-IR extended emission. |
 | <a href="{{ site.baseurl }}/_clusters/mcm7/" target="_blank" style="color: red;">MCM 7</a> | Association of stars. Detected in 2MASS catalog with our algorithm. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm70/" target="_blank" style="color: $blue;">MCM 70</a> | Association of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |

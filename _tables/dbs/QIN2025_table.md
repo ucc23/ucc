@@ -8,7 +8,7 @@ style: style
 &nbsp;
 # [Qin et al. (2025)](https://scixplorer.org/abs/2025A%26A...695A..22Q)
 
-This database consists of 158 entries, of which 13% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 8% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+This database consists of 158 entries, of which 13% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 6% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
 
 
 
@@ -39,7 +39,7 @@ This database consists of 158 entries, of which 13% are probable duplicates ([P<
 | <a href="{{ site.baseurl }}/_clusters/cwnu1084/" target="_blank" style="color: $blue;">CWNU 1084</a> | 302.66 | 33.53 | 71.21 | 0.04 | 3.09 | 78 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.55 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu314/" target="_blank" style="color: red;">CWNU 314</a> | 288.1 | -9.67 | 26.62 | -9.05 | 2.7 | 28 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.23 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu519/" target="_blank" style="color: $blue;">CWNU 519</a> | 313.77 | 56.71 | 94.74 | 7.53 | 3.05 | 103 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.58 |
-| <a href="{{ site.baseurl }}/_clusters/cwnu522/" target="_blank" style="color: red;">CWNU 522</a> | 75.97 | 8.08 | 192.37 | -19.57 | 2.57 | 23 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.32 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu522/" target="_blank" style="color: $blue;">CWNU 522</a> | 75.97 | 8.08 | 192.37 | -19.57 | 2.57 | 23 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.32 |
 | <a href="{{ site.baseurl }}/_clusters/chamaleoni/" target="_blank" style="color: $blue;">Chamaleon I</a> | 167.16 | -77.2 | 297.21 | -15.53 | 5.25 | 205 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.77 |
 | <a href="{{ site.baseurl }}/_clusters/collinder135/" target="_blank" style="color: $blue;">Collinder 135</a> | 109.36 | -36.95 | 248.84 | -11.17 | 3.34 | 421 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
 | <a href="{{ site.baseurl }}/_clusters/collinder140/" target="_blank" style="color: $blue;">Collinder 140</a> | 110.9 | -31.99 | 244.99 | -7.81 | 2.6 | 275 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.91 |
@@ -145,7 +145,7 @@ This database consists of 158 entries, of which 13% are probable duplicates ([P<
 | <a href="{{ site.baseurl }}/_clusters/theia13/" target="_blank" style="color: $blue;">Theia 13</a> | 83.14 | -1.76 | 205.27 | -18.32 | 2.4 | 98 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0 | 0.0 |
 | <a href="{{ site.baseurl }}/_clusters/theia172/" target="_blank" style="color: $blue;">Theia 172</a> | 110.21 | 3.7 | 212.95 | 8.23 | 2.12 | 330 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.6 |
 | <a href="{{ site.baseurl }}/_clusters/theia23/" target="_blank" style="color: $blue;">Theia 23</a> | 277.9 | -3.95 | 27.19 | 2.6 | 2.61 | 115 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.68 |
-| <a href="{{ site.baseurl }}/_clusters/theia240/" target="_blank" style="color: red;">Theia 240</a> | 279.28 | -20.38 | 13.14 | -6.12 | 2.43 | 21 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.28 |
+| <a href="{{ site.baseurl }}/_clusters/theia240/" target="_blank" style="color: $blue;">Theia 240</a> | 279.28 | -20.38 | 13.14 | -6.12 | 2.43 | 21 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.28 |
 | <a href="{{ site.baseurl }}/_clusters/theia517/" target="_blank" style="color: $blue;">Theia 517</a> | 322.8 | 48.25 | 92.19 | -2.25 | 3.36 | 348 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.9 | 0.07 |
 | <a href="{{ site.baseurl }}/_clusters/theia58/" target="_blank" style="color: $blue;">Theia 58</a> | 120.26 | -30.79 | 247.85 | -0.35 | 2.02 | 20 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.38 |
 | <a href="{{ site.baseurl }}/_clusters/theia711/" target="_blank" style="color: red;">Theia 711</a> | 282.21 | -7.56 | 25.84 | -2.89 | 2.3 | 22 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.19 |

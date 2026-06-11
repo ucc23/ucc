@@ -8,8 +8,6 @@ style: style
 &nbsp;
 # [Perren et al. (2022)](https://scixplorer.org/abs/2022A%26A...663A.131P)
 
-This database consists of 23 entries, of which 9% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
-
 
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
@@ -29,10 +27,10 @@ This database consists of 23 entries, of which 9% are classified as [likely non-
 | <a href="{{ site.baseurl }}/_clusters/fsr1212/" target="_blank" style="color: $blue;">FSR 1212</a> | 106.95 | -14.15 | 227.37 | -2.86 | 0.16 | 55 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.57 |
 | <a href="{{ site.baseurl }}/_clusters/fsr1419/" target="_blank" style="color: $blue;">FSR 1419</a> | 124.71 | -47.78 | 264.04 | -6.61 | 0.09 | 261 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.58 |
 | <a href="{{ site.baseurl }}/_clusters/kronberger31/" target="_blank" style="color: $blue;">Kronberger 31</a> | 295.03 | 26.26 | 61.63 | 1.91 | 0.05 | 41 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.39 |
-| <a href="{{ site.baseurl }}/_clusters/kronberger39/" target="_blank" style="color: red;">Kronberger 39</a> | 163.58 | -61.75 | 289.53 | -1.96 | 0.12 | 22 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.23 |
+| <a href="{{ site.baseurl }}/_clusters/kronberger39/" target="_blank" style="color: $blue;">Kronberger 39</a> | 163.58 | -61.75 | 289.53 | -1.96 | 0.12 | 22 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.23 |
 | <a href="{{ site.baseurl }}/_clusters/saurer1/" target="_blank" style="color: $blue;">Saurer 1</a> | 110.23 | 1.81 | 214.69 | 7.38 | 0.08 | 22 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.34 |
 | <a href="{{ site.baseurl }}/_clusters/saurer3/" target="_blank" style="color: $blue;">Saurer 3</a> | 160.35 | -55.29 | 285.09 | 3.01 | 0.14 | 130 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.68 |
-| <a href="{{ site.baseurl }}/_clusters/saurer6/" target="_blank" style="color: red;">Saurer 6</a> | 297.77 | 32.23 | 68.0 | 2.85 | 0.12 | 12 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.35 |
+| <a href="{{ site.baseurl }}/_clusters/saurer6/" target="_blank" style="color: $blue;">Saurer 6</a> | 297.77 | 32.23 | 68.0 | 2.85 | 0.12 | 12 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.35 |
 | <a href="{{ site.baseurl }}/_clusters/tombaugh2/" target="_blank" style="color: $blue;">Tombaugh 2</a> | 105.78 | -20.82 | 232.84 | -6.88 | 0.11 | 796 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.95 |
 | <a href="{{ site.baseurl }}/_clusters/vdbh144/" target="_blank" style="color: $blue;">VDBH 144</a> | 198.82 | -65.92 | 305.36 | -3.16 | 0.07 | 213 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.77 |
 | <a href="{{ site.baseurl }}/_clusters/vdbh37/" target="_blank" style="color: $blue;">VDBH 37</a> | 128.95 | -43.61 | 262.34 | -1.78 | 0.25 | 228 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.82 |

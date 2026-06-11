@@ -1194,7 +1194,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc365/" target="_blank" style="color: $blue;">UBC 365</a> | Tidal & Core radii: r_t=23+/-23.1 [pc], r_c=0.68+/-0.02 [pc]; stars within r_t: N~122 |
 | <a href="{{ site.baseurl }}/_clusters/ubc366/" target="_blank" style="color: $blue;">UBC 366</a> | Tidal & Core radii: r_t=35+/-48.2 [pc], r_c=0.38+/-0.03 [pc]; stars within r_t: N~101 |
 | <a href="{{ site.baseurl }}/_clusters/ubc368/" target="_blank" style="color: $blue;">UBC 368</a> | Tidal & Core radii: r_t=134+/-64.3 [pc], r_c=0.67+/-0.0 [pc]; stars within r_t: N~176 |
-| <a href="{{ site.baseurl }}/_clusters/ubc371/" target="_blank" style="color: red;">UBC 371</a> | Tidal & Core radii: r_t=69+/-55.9 [pc], r_c=0.55+/-0.0 [pc]; stars within r_t: N~270 |
+| <a href="{{ site.baseurl }}/_clusters/ubc371/" target="_blank" style="color: $blue;">UBC 371</a> | Tidal & Core radii: r_t=69+/-55.9 [pc], r_c=0.55+/-0.0 [pc]; stars within r_t: N~270 |
 | <a href="{{ site.baseurl }}/_clusters/ubc372/" target="_blank" style="color: $blue;">UBC 372</a> | Tidal & Core radii: r_t=31+/-43.6 [pc], r_c=0.82+/-0.03 [pc]; stars within r_t: N~92 |
 | <a href="{{ site.baseurl }}/_clusters/ubc373/" target="_blank" style="color: $blue;">UBC 373</a> | Tidal & Core radii: r_t=64+/-77.3 [pc], r_c=0.34+/-0.0 [pc]; stars within r_t: N~101 |
 | <a href="{{ site.baseurl }}/_clusters/ubc374/" target="_blank" style="color: $blue;">UBC 374</a> | Tidal & Core radii: r_t=46+/-38.9 [pc], r_c=0.3+/-0.0 [pc]; stars within r_t: N~112 |
@@ -1222,7 +1222,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc412/" target="_blank" style="color: $blue;">UBC 412</a> | Tidal & Core radii: r_t=144+/-66.7 [pc], r_c=0.67+/-0.0 [pc]; stars within r_t: N~138 |
 | <a href="{{ site.baseurl }}/_clusters/ubc415/" target="_blank" style="color: $blue;">UBC 415</a> | Tidal & Core radii: r_t=41+/-29.6 [pc], r_c=0.34+/-0.02 [pc]; stars within r_t: N~113 |
 | <a href="{{ site.baseurl }}/_clusters/ubc418/" target="_blank" style="color: $blue;">UBC 418</a> | Tidal & Core radii: r_t=168+/-55.1 [pc], r_c=0.92+/-0.0 [pc]; stars within r_t: N~481 |
-| <a href="{{ site.baseurl }}/_clusters/ubc419/" target="_blank" style="color: red;">UBC 419</a> | Tidal & Core radii: r_t=113+/-72.1 [pc], r_c=1.02+/-0.0 [pc]; stars within r_t: N~255 |
+| <a href="{{ site.baseurl }}/_clusters/ubc419/" target="_blank" style="color: $blue;">UBC 419</a> | Tidal & Core radii: r_t=113+/-72.1 [pc], r_c=1.02+/-0.0 [pc]; stars within r_t: N~255 |
 | <a href="{{ site.baseurl }}/_clusters/ubc422/" target="_blank" style="color: $blue;">UBC 422</a> | Tidal & Core radii: r_t=82+/-77.6 [pc], r_c=0.57+/-0.0 [pc]; stars within r_t: N~110 |
 | <a href="{{ site.baseurl }}/_clusters/ubc424/" target="_blank" style="color: $blue;">UBC 424</a> | Tidal & Core radii: r_t=43+/-64.7 [pc], r_c=0.27+/-0.0 [pc]; stars within r_t: N~53 |
 | <a href="{{ site.baseurl }}/_clusters/ubc425/" target="_blank" style="color: $blue;">UBC 425</a> | Tidal & Core radii: r_t=99+/-85.3 [pc], r_c=0.58+/-0.0 [pc]; stars within r_t: N~51 |
@@ -1256,7 +1256,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc475/" target="_blank" style="color: $blue;">UBC 475</a> | Tidal & Core radii: r_t=131+/-83.2 [pc], r_c=0.64+/-0.0 [pc]; stars within r_t: N~76 |
 | <a href="{{ site.baseurl }}/_clusters/ubc476/" target="_blank" style="color: $blue;">UBC 476</a> | Tidal & Core radii: r_t=88+/-84.3 [pc], r_c=0.41+/-0.0 [pc]; stars within r_t: N~75 |
 | <a href="{{ site.baseurl }}/_clusters/ubc478/" target="_blank" style="color: $blue;">UBC 478</a> | Tidal & Core radii: r_t=146+/-71.2 [pc], r_c=0.4+/-0.0 [pc]; stars within r_t: N~68 |
-| <a href="{{ site.baseurl }}/_clusters/ubc482/" target="_blank" style="color: red;">UBC 482</a> | Tidal & Core radii: r_t=49+/-42.5 [pc], r_c=0.64+/-0.0 [pc]; stars within r_t: N~316 |
+| <a href="{{ site.baseurl }}/_clusters/ubc482/" target="_blank" style="color: $blue;">UBC 482</a> | Tidal & Core radii: r_t=49+/-42.5 [pc], r_c=0.64+/-0.0 [pc]; stars within r_t: N~316 |
 | <a href="{{ site.baseurl }}/_clusters/ubc486/" target="_blank" style="color: $blue;">UBC 486</a> | Tidal & Core radii: r_t=129+/-76.3 [pc], r_c=0.3+/-0.0 [pc]; stars within r_t: N~87 |
 | <a href="{{ site.baseurl }}/_clusters/ubc487/" target="_blank" style="color: $blue;">UBC 487</a> | Tidal & Core radii: r_t=82+/-78.5 [pc], r_c=0.6+/-0.0 [pc]; stars within r_t: N~86 |
 | <a href="{{ site.baseurl }}/_clusters/ubc488/" target="_blank" style="color: $blue;">UBC 488</a> | Tidal & Core radii: r_t=138+/-79.0 [pc], r_c=0.37+/-0.0 [pc]; stars within r_t: N~64 |
@@ -1308,7 +1308,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc545/" target="_blank" style="color: $blue;">UBC 545</a> | Tidal & Core radii: r_t=93+/-68.2 [pc], r_c=0.44+/-0.0 [pc]; stars within r_t: N~105 |
 | <a href="{{ site.baseurl }}/_clusters/ubc546/" target="_blank" style="color: $blue;">UBC 546</a> | Tidal & Core radii: r_t=25+/-12.7 [pc], r_c=0.69+/-0.01 [pc]; stars within r_t: N~139 |
 | <a href="{{ site.baseurl }}/_clusters/ubc548/" target="_blank" style="color: $blue;">UBC 548</a> | Tidal & Core radii: r_t=59+/-71.9 [pc], r_c=0.62+/-0.0 [pc]; stars within r_t: N~145 |
-| <a href="{{ site.baseurl }}/_clusters/ubc549/" target="_blank" style="color: red;">UBC 549</a> | Tidal & Core radii: r_t=95+/-75.0 [pc], r_c=0.44+/-0.0 [pc]; stars within r_t: N~145 |
+| <a href="{{ site.baseurl }}/_clusters/ubc549/" target="_blank" style="color: $blue;">UBC 549</a> | Tidal & Core radii: r_t=95+/-75.0 [pc], r_c=0.44+/-0.0 [pc]; stars within r_t: N~145 |
 | <a href="{{ site.baseurl }}/_clusters/ubc550/" target="_blank" style="color: $blue;">UBC 550</a> | Tidal & Core radii: r_t=37+/-43.4 [pc], r_c=0.32+/-0.0 [pc]; stars within r_t: N~102 |
 | <a href="{{ site.baseurl }}/_clusters/ubc552/" target="_blank" style="color: $blue;">UBC 552</a> | Tidal & Core radii: r_t=14+/-8.4 [pc], r_c=0.34+/-0.05 [pc]; stars within r_t: N~78 |
 | <a href="{{ site.baseurl }}/_clusters/ubc554/" target="_blank" style="color: $blue;">UBC 554</a> | Tidal & Core radii: r_t=31+/-34.0 [pc], r_c=0.55+/-0.0 [pc]; stars within r_t: N~87 |
@@ -1332,10 +1332,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc587/" target="_blank" style="color: $blue;">UBC 587</a> | Tidal & Core radii: r_t=33+/-42.7 [pc], r_c=0.55+/-0.02 [pc]; stars within r_t: N~108 |
 | <a href="{{ site.baseurl }}/_clusters/ubc588/" target="_blank" style="color: $blue;">UBC 588</a> | Tidal & Core radii: r_t=22+/-23.0 [pc], r_c=0.39+/-0.0 [pc]; stars within r_t: N~67 |
 | <a href="{{ site.baseurl }}/_clusters/ubc59/" target="_blank" style="color: $blue;">UBC 59</a> | Tidal & Core radii: r_t=11+/-3.4 [pc], r_c=0.66+/-0.05 [pc]; stars within r_t: N~72 |
-| <a href="{{ site.baseurl }}/_clusters/ubc592/" target="_blank" style="color: red;">UBC 592</a> | Tidal & Core radii: r_t=179+/-52.7 [pc], r_c=0.51+/-0.0 [pc]; stars within r_t: N~90 |
-| <a href="{{ site.baseurl }}/_clusters/ubc597/" target="_blank" style="color: red;">UBC 597</a> | Tidal & Core radii: r_t=77+/-58.6 [pc], r_c=0.49+/-0.0 [pc]; stars within r_t: N~117 |
+| <a href="{{ site.baseurl }}/_clusters/ubc592/" target="_blank" style="color: $blue;">UBC 592</a> | Tidal & Core radii: r_t=179+/-52.7 [pc], r_c=0.51+/-0.0 [pc]; stars within r_t: N~90 |
+| <a href="{{ site.baseurl }}/_clusters/ubc597/" target="_blank" style="color: $blue;">UBC 597</a> | Tidal & Core radii: r_t=77+/-58.6 [pc], r_c=0.49+/-0.0 [pc]; stars within r_t: N~117 |
 | <a href="{{ site.baseurl }}/_clusters/ubc600/" target="_blank" style="color: $blue;">UBC 600</a> | Tidal & Core radii: r_t=161+/-58.8 [pc], r_c=0.58+/-0.0 [pc]; stars within r_t: N~157 |
-| <a href="{{ site.baseurl }}/_clusters/ubc604/" target="_blank" style="color: red;">UBC 604</a> | Tidal & Core radii: r_t=76+/-73.6 [pc], r_c=0.62+/-0.0 [pc]; stars within r_t: N~76 |
+| <a href="{{ site.baseurl }}/_clusters/ubc604/" target="_blank" style="color: $blue;">UBC 604</a> | Tidal & Core radii: r_t=76+/-73.6 [pc], r_c=0.62+/-0.0 [pc]; stars within r_t: N~76 |
 | <a href="{{ site.baseurl }}/_clusters/ubc608/" target="_blank" style="color: $blue;">UBC 608</a> | Tidal & Core radii: r_t=84+/-81.0 [pc], r_c=0.32+/-0.0 [pc]; stars within r_t: N~55 |
 | <a href="{{ site.baseurl }}/_clusters/ubc61/" target="_blank" style="color: $blue;">UBC 61</a> | Tidal & Core radii: r_t=77+/-67.7 [pc], r_c=0.51+/-0.0 [pc]; stars within r_t: N~73 |
 | <a href="{{ site.baseurl }}/_clusters/ubc614/" target="_blank" style="color: $blue;">UBC 614</a> | Tidal & Core radii: r_t=158+/-68.4 [pc], r_c=0.25+/-0.0 [pc]; stars within r_t: N~58 |
@@ -1343,14 +1343,14 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc626/" target="_blank" style="color: $blue;">UBC 626</a> | Tidal & Core radii: r_t=139+/-71.7 [pc], r_c=0.45+/-0.0 [pc]; stars within r_t: N~91 |
 | <a href="{{ site.baseurl }}/_clusters/ubc628/" target="_blank" style="color: $blue;">UBC 628</a> | Tidal & Core radii: r_t=137+/-76.1 [pc], r_c=0.28+/-0.0 [pc]; stars within r_t: N~64 |
 | <a href="{{ site.baseurl }}/_clusters/ubc634/" target="_blank" style="color: $blue;">UBC 634</a> | Tidal & Core radii: r_t=86+/-82.1 [pc], r_c=0.27+/-0.0 [pc]; stars within r_t: N~82 |
-| <a href="{{ site.baseurl }}/_clusters/ubc636/" target="_blank" style="color: red;">UBC 636</a> | Tidal & Core radii: r_t=78+/-78.0 [pc], r_c=0.29+/-0.0 [pc]; stars within r_t: N~59 |
+| <a href="{{ site.baseurl }}/_clusters/ubc636/" target="_blank" style="color: $blue;">UBC 636</a> | Tidal & Core radii: r_t=78+/-78.0 [pc], r_c=0.29+/-0.0 [pc]; stars within r_t: N~59 |
 | <a href="{{ site.baseurl }}/_clusters/ubc637/" target="_blank" style="color: $blue;">UBC 637</a> | Tidal & Core radii: r_t=121+/-79.4 [pc], r_c=0.45+/-0.0 [pc]; stars within r_t: N~62 |
 | <a href="{{ site.baseurl }}/_clusters/ubc640/" target="_blank" style="color: $blue;">UBC 640</a> | Tidal & Core radii: r_t=97+/-77.4 [pc], r_c=0.58+/-0.0 [pc]; stars within r_t: N~118 |
-| <a href="{{ site.baseurl }}/_clusters/ubc650/" target="_blank" style="color: red;">UBC 650</a> | Tidal & Core radii: r_t=84+/-74.6 [pc], r_c=0.53+/-0.0 [pc]; stars within r_t: N~92 |
+| <a href="{{ site.baseurl }}/_clusters/ubc650/" target="_blank" style="color: $blue;">UBC 650</a> | Tidal & Core radii: r_t=84+/-74.6 [pc], r_c=0.53+/-0.0 [pc]; stars within r_t: N~92 |
 | <a href="{{ site.baseurl }}/_clusters/ubc651/" target="_blank" style="color: $blue;">UBC 651</a> | Tidal & Core radii: r_t=43+/-51.2 [pc], r_c=0.44+/-0.0 [pc]; stars within r_t: N~81 |
 | <a href="{{ site.baseurl }}/_clusters/ubc652/" target="_blank" style="color: $blue;">UBC 652</a> | Tidal & Core radii: r_t=161+/-69.1 [pc], r_c=0.41+/-0.0 [pc]; stars within r_t: N~80 |
 | <a href="{{ site.baseurl }}/_clusters/ubc654/" target="_blank" style="color: $blue;">UBC 654</a> | Tidal & Core radii: r_t=32+/-19.2 [pc], r_c=0.71+/-0.0 [pc]; stars within r_t: N~369 |
-| <a href="{{ site.baseurl }}/_clusters/ubc659/" target="_blank" style="color: red;">UBC 659</a> | Tidal & Core radii: r_t=42+/-26.2 [pc], r_c=0.76+/-0.0 [pc]; stars within r_t: N~335 |
+| <a href="{{ site.baseurl }}/_clusters/ubc659/" target="_blank" style="color: $blue;">UBC 659</a> | Tidal & Core radii: r_t=42+/-26.2 [pc], r_c=0.76+/-0.0 [pc]; stars within r_t: N~335 |
 | <a href="{{ site.baseurl }}/_clusters/ubc660/" target="_blank" style="color: $blue;">UBC 660</a> | Tidal & Core radii: r_t=14+/-6.0 [pc], r_c=0.32+/-0.07 [pc]; stars within r_t: N~91 |
 | <a href="{{ site.baseurl }}/_clusters/ubc662/" target="_blank" style="color: $blue;">UBC 662</a> | Tidal & Core radii: r_t=104+/-74.7 [pc], r_c=0.36+/-0.0 [pc]; stars within r_t: N~105 |
 | <a href="{{ site.baseurl }}/_clusters/ubc664/" target="_blank" style="color: $blue;">UBC 664</a> | Tidal & Core radii: r_t=110+/-87.1 [pc], r_c=0.45+/-0.0 [pc]; stars within r_t: N~107 |

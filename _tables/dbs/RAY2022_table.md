@@ -8,8 +8,6 @@ style: style
 &nbsp;
 # [Ray et al. (2022)](https://scixplorer.org/abs/2022AJ....163..195R)
 
-This database consists of 58 entries, of which 2% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
-
 
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
@@ -41,7 +39,7 @@ This database consists of 58 entries, of which 2% are classified as [likely non-
 | <a href="{{ site.baseurl }}/_clusters/ngc2547/" target="_blank" style="color: $blue;">NGC 2547</a> | 122.5 | -49.18 | 264.43 | -8.61 | 2.58 | 541 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2548/" target="_blank" style="color: $blue;">NGC 2548</a> | 123.39 | -5.73 | 227.87 | 15.36 | 1.3 | 592 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2567/" target="_blank" style="color: $blue;">NGC 2567</a> | 124.64 | -30.62 | 249.79 | 2.98 | 0.57 | 294 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.96 |
-| <a href="{{ site.baseurl }}/_clusters/ngc2579/" target="_blank" style="color: red;">NGC 2579</a> | 125.22 | -36.22 | 254.68 | 0.22 | 0.17 | 32 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.36 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2579/" target="_blank" style="color: $blue;">NGC 2579</a> | 125.22 | -36.22 | 254.68 | 0.22 | 0.17 | 32 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.36 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2669/" target="_blank" style="color: $blue;">NGC 2669</a> | 131.61 | -52.93 | 270.84 | -6.07 | 0.86 | 386 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2670/" target="_blank" style="color: $blue;">NGC 2670</a> | 131.39 | -48.8 | 267.49 | -3.62 | 0.67 | 320 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.92 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2682/" target="_blank" style="color: $blue;">NGC 2682</a> | 132.85 | 11.82 | 215.69 | 31.92 | 1.15 | 1650 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |

@@ -8,14 +8,14 @@ style: style
 &nbsp;
 # [Mercer et al. (2005)](https://scixplorer.org/abs/2005ApJ...635..560M)
 
-This database consists of 91 entries, of which 1% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 92% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+This database consists of 91 entries, of which 1% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 89% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
 
 
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/alessi56/" target="_blank" style="color: $blue;">Alessi 56</a> | 286.72 | 9.6 | 43.22 | 0.97 | 0.28 | 24 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.39 |
-| <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: red;">DBSB 88</a> | 215.0 | -65.46 | 311.95 | -4.13 | 0.2 | 14 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.15 |
+| <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: $blue;">DBSB 88</a> | 215.0 | -65.46 | 311.95 | -4.13 | 0.2 | 14 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.15 |
 | <a href="{{ site.baseurl }}/_clusters/juchert10/" target="_blank" style="color: $blue;">Juchert 10</a> | 220.07 | -60.38 | 315.99 | -0.29 | 0.18 | 240 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.77 |
 | <a href="{{ site.baseurl }}/_clusters/mcm1/" target="_blank" style="color: red;">MCM 1</a> | 273.48 | -17.94 | 12.76 | -0.15 | 0.43 | 21 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.08 |
 | <a href="{{ site.baseurl }}/_clusters/mcm10/" target="_blank" style="color: red;">MCM 10</a> | 278.7 | -8.81 | 23.22 | -0.37 | 0.43 | 18 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.06 |
@@ -70,13 +70,13 @@ This database consists of 91 entries, of which 1% are probable duplicates ([P<su
 | <a href="{{ site.baseurl }}/_clusters/mcm6/" target="_blank" style="color: red;">MCM 6</a> | 276.42 | -12.46 | 18.95 | -0.04 | 0.68 | 21 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> | 0.0 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/mcm60/" target="_blank" style="color: red;">MCM 60</a> | 229.13 | -58.2 | 321.11 | -0.52 | 0.25 | 16 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/mcm61/" target="_blank" style="color: red;">MCM 61</a> | 236.47 | -55.12 | 326.16 | -0.33 | 0.41 | 20 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.07 |
-| <a href="{{ site.baseurl }}/_clusters/mcm62/" target="_blank" style="color: red;">MCM 62</a> | 236.09 | -54.22 | 326.56 | 0.53 | 0.42 | 17 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.84 | 0.02 |
+| <a href="{{ site.baseurl }}/_clusters/mcm62/" target="_blank" style="color: $blue;">MCM 62</a> | 236.09 | -54.22 | 326.56 | 0.53 | 0.42 | 17 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.84 | 0.02 |
 | <a href="{{ site.baseurl }}/_clusters/mcm63/" target="_blank" style="color: red;">MCM 63</a> | 237.51 | -54.62 | 326.95 | -0.27 | 0.64 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/mcm64/" target="_blank" style="color: red;">MCM 64</a> | 238.75 | -54.46 | 327.6 | -0.62 | 0.41 | 19 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.12 |
 | <a href="{{ site.baseurl }}/_clusters/mcm65/" target="_blank" style="color: red;">MCM 65</a> | 239.45 | -54.03 | 328.19 | -0.56 | 0.49 | 21 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/mcm66/" target="_blank" style="color: red;">MCM 66</a> | 239.42 | -53.95 | 328.22 | -0.47 | 0.44 | 23 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/mcm67/" target="_blank" style="color: red;">MCM 67</a> | 239.59 | -53.98 | 328.29 | -0.57 | 0.41 | 16 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.03 |
-| <a href="{{ site.baseurl }}/_clusters/mcm68/" target="_blank" style="color: red;">MCM 68</a> | 238.66 | -52.54 | 328.79 | 0.86 | 0.37 | 17 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.21 |
+| <a href="{{ site.baseurl }}/_clusters/mcm68/" target="_blank" style="color: $blue;">MCM 68</a> | 238.66 | -52.54 | 328.79 | 0.86 | 0.37 | 17 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.21 |
 | <a href="{{ site.baseurl }}/_clusters/mcm69/" target="_blank" style="color: red;">MCM 69</a> | 241.36 | -53.04 | 329.69 | -0.52 | 0.19 | 10 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.13 |
 | <a href="{{ site.baseurl }}/_clusters/mcm7/" target="_blank" style="color: red;">MCM 7</a> | 276.41 | -12.41 | 18.95 | -0.02 | 0.37 | 16 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/mcm70/" target="_blank" style="color: $blue;">MCM 70</a> | 240.12 | -52.18 | 329.7 | 0.59 | 0.31 | 62 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |

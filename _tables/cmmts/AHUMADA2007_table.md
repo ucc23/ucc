@@ -215,7 +215,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ruprecht119/" target="_blank" style="color: $blue;">Ruprecht 119</a> | Selected angular diameter from (1987, Lund Catalogue of Open Cluster Data). |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht120/" target="_blank" style="color: $blue;">Ruprecht 120</a> | Selected angular diameter from (1987, Lund Catalogue of Open Cluster Data). |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht36/" target="_blank" style="color: $blue;">Ruprecht 36</a> | Star 1=CD-26 5011 appears as a straggler in (1972A&AS....7..133V), but it is a non-member according to that reference. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: red;">Ruprecht 46</a> | The red limit of the blue straggler area is (V-I)=0.78. |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: $blue;">Ruprecht 46</a> | The red limit of the blue straggler area is (V-I)=0.78. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht67/" target="_blank" style="color: $blue;">Ruprecht 67</a> | Adopted cluster centre: star 10 in (1975A&AS...20...85M). |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht7/" target="_blank" style="color: $blue;">Ruprecht 7</a> | Only straggler candidates inside a radius of 3' around the centre of coordinates have been considered. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht75/" target="_blank" style="color: $blue;">Ruprecht 75</a> | All cluster parameters are from (2005AN....326....3A). Only stars up to 2' from the centre were considered. |

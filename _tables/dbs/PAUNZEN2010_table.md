@@ -8,8 +8,6 @@ style: style
 &nbsp;
 # [Paunzen et al. (2010)](https://scixplorer.org/abs/2010A%26A...517A..32P)
 
-This database consists of 187 entries, of which 2% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
-
 
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
@@ -32,7 +30,7 @@ This database consists of 187 entries, of which 2% are classified as [likely non
 | <a href="{{ site.baseurl }}/_clusters/berkeley79/" target="_blank" style="color: $blue;">Berkeley 79</a> | 281.25 | -1.14 | 31.18 | 0.91 | 0.4 | 178 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.92 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley86/" target="_blank" style="color: $blue;">Berkeley 86</a> | 305.08 | 38.71 | 76.66 | 1.3 | 0.56 | 109 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
 | <a href="{{ site.baseurl }}/_clusters/collinder140/" target="_blank" style="color: $blue;">Collinder 140</a> | 110.9 | -31.99 | 244.99 | -7.81 | 2.6 | 275 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.91 |
-| <a href="{{ site.baseurl }}/_clusters/collinder173/" target="_blank" style="color: red;">Collinder 173</a> | 120.73 | -46.39 | 261.38 | -8.15 | 0.17 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.2 |
+| <a href="{{ site.baseurl }}/_clusters/collinder173/" target="_blank" style="color: $blue;">Collinder 173</a> | 120.73 | -46.39 | 261.38 | -8.15 | 0.17 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.2 |
 | <a href="{{ site.baseurl }}/_clusters/collinder258/" target="_blank" style="color: $blue;">Collinder 258</a> | 186.81 | -60.78 | 299.98 | 1.96 | 0.8 | 119 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
 | <a href="{{ site.baseurl }}/_clusters/collinder272/" target="_blank" style="color: $blue;">Collinder 272</a> | 202.6 | -61.33 | 307.59 | 1.19 | 0.44 | 395 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
 | <a href="{{ site.baseurl }}/_clusters/collinder74/" target="_blank" style="color: $blue;">Collinder 74</a> | 87.16 | 7.38 | 199.01 | -10.38 | 0.37 | 184 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.89 |
@@ -190,9 +188,9 @@ This database consists of 187 entries, of which 2% are classified as [likely non
 | <a href="{{ site.baseurl }}/_clusters/pismis4/" target="_blank" style="color: $blue;">Pismis 4</a> | 128.8 | -44.42 | 262.93 | -2.36 | 1.45 | 200 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.86 |
 | <a href="{{ site.baseurl }}/_clusters/pleiades/" target="_blank" style="color: $blue;">Pleiades</a> | 56.6 | 24.11 | 166.5 | -23.59 | 7.36 | 1678 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht18/" target="_blank" style="color: $blue;">Ruprecht 18</a> | 111.16 | -26.21 | 239.92 | -4.95 | 0.38 | 386 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.93 |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht20/" target="_blank" style="color: red;">Ruprecht 20</a> | 111.67 | -28.81 | 242.43 | -5.75 | 0.27 | 18 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht20/" target="_blank" style="color: $blue;">Ruprecht 20</a> | 111.67 | -28.81 | 242.43 | -5.75 | 0.27 | 18 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht32/" target="_blank" style="color: $blue;">Ruprecht 32</a> | 116.3 | -25.55 | 241.57 | -0.57 | 0.2 | 29 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.43 |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: red;">Ruprecht 46</a> | 120.54 | -19.45 | 238.36 | 5.91 | 0.32 | 22 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: $blue;">Ruprecht 46</a> | 120.54 | -19.45 | 238.36 | 5.91 | 0.32 | 22 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht79/" target="_blank" style="color: $blue;">Ruprecht 79</a> | 145.26 | -53.84 | 277.1 | -0.8 | 0.24 | 312 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht97/" target="_blank" style="color: $blue;">Ruprecht 97</a> | 179.37 | -62.71 | 296.79 | -0.48 | 0.25 | 121 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.86 |
 | <a href="{{ site.baseurl }}/_clusters/stock2/" target="_blank" style="color: $blue;">Stock 2</a> | 33.86 | 59.56 | 133.4 | -1.59 | 2.67 | 2019 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |

@@ -1150,11 +1150,11 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc10a/" target="_blank" style="color: $blue;">UBC 10 a</a> | Ellipticities (core, all): e_core=0.513, e_all=0.4549. |
 | <a href="{{ site.baseurl }}/_clusters/ubc10b/" target="_blank" style="color: $blue;">UBC 10 b</a> | Ellipticities (core, all): e_core=0.115, e_all=0.3624. |
 | <a href="{{ site.baseurl }}/_clusters/ubc11/" target="_blank" style="color: $blue;">UBC 11</a> | Ellipticities (core, all): e_core=0.5477, e_all=0.1926. |
-| <a href="{{ site.baseurl }}/_clusters/ubc14/" target="_blank" style="color: red;">UBC 14</a> | Ellipticities (core, all): e_core=0.7476, e_all=0.37. |
+| <a href="{{ site.baseurl }}/_clusters/ubc14/" target="_blank" style="color: $blue;">UBC 14</a> | Ellipticities (core, all): e_core=0.7476, e_all=0.37. |
 | <a href="{{ site.baseurl }}/_clusters/ubc17a/" target="_blank" style="color: $blue;">UBC 17 a</a> | Ellipticities (core, all): e_core=0.4417, e_all=0.2354. |
 | <a href="{{ site.baseurl }}/_clusters/ubc17b/" target="_blank" style="color: $blue;">UBC 17 b</a> | Ellipticities (core, all): e_core=0.1979, e_all=0.1807. |
 | <a href="{{ site.baseurl }}/_clusters/ubc19/" target="_blank" style="color: $blue;">UBC 19</a> | Ellipticities (core, all): e_core=0.3847, e_all=0.3384. |
-| <a href="{{ site.baseurl }}/_clusters/ubc21/" target="_blank" style="color: red;">UBC 21</a> | Ellipticities (core, all): e_core=0.6398, e_all=0.4292. |
+| <a href="{{ site.baseurl }}/_clusters/ubc21/" target="_blank" style="color: $blue;">UBC 21</a> | Ellipticities (core, all): e_core=0.6398, e_all=0.4292. |
 | <a href="{{ site.baseurl }}/_clusters/ubc26/" target="_blank" style="color: $blue;">UBC 26</a> | Ellipticities (core, all): e_core=0.5114, e_all=0.3636. |
 | <a href="{{ site.baseurl }}/_clusters/ubc27/" target="_blank" style="color: $blue;">UBC 27</a> | Ellipticities (core, all): e_core=0.1047, e_all=0.1298. |
 | <a href="{{ site.baseurl }}/_clusters/ubc31/" target="_blank" style="color: $blue;">UBC 31</a> | Ellipticities (core, all): e_core=0.5215, e_all=0.2446. |
@@ -1206,7 +1206,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/upk38/" target="_blank" style="color: $blue;">UPK 38</a> | Ellipticities (core, all): e_core=0.1662, e_all=0.1216. |
 | <a href="{{ site.baseurl }}/_clusters/upk385/" target="_blank" style="color: $blue;">UPK 385</a> | Ellipticities (core, all): e_core=0.3543, e_all=0.3374. |
 | <a href="{{ site.baseurl }}/_clusters/upk402/" target="_blank" style="color: $blue;">UPK 402</a> | Ellipticities (core, all): e_core=0.5821, e_all=0.4603. |
-| <a href="{{ site.baseurl }}/_clusters/upk452/" target="_blank" style="color: red;">UPK 452</a> | Ellipticities (core, all): e_core=0.0435, e_all=0.1633. |
+| <a href="{{ site.baseurl }}/_clusters/upk452/" target="_blank" style="color: $blue;">UPK 452</a> | Ellipticities (core, all): e_core=0.0435, e_all=0.1633. |
 | <a href="{{ site.baseurl }}/_clusters/upk5/" target="_blank" style="color: $blue;">UPK 5</a> | Ellipticities (core, all): e_core=0.5028, e_all=0.314. |
 | <a href="{{ site.baseurl }}/_clusters/upk508/" target="_blank" style="color: $blue;">UPK 508</a> | Ellipticities (core, all): e_core=0.242, e_all=0.1315. |
 | <a href="{{ site.baseurl }}/_clusters/upk51/" target="_blank" style="color: $blue;">UPK 51</a> | Ellipticities (core, all): e_core=0.4209, e_all=0.3564. |

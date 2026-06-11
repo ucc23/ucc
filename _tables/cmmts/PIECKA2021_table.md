@@ -129,7 +129,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/trumpler15/" target="_blank" style="color: $blue;">Trumpler 15</a> | Belongs to cluster aggregate 'Agg41' along with Gulliver 52. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler22/" target="_blank" style="color: $blue;">Trumpler 22</a> | Belongs to cluster aggregate 'Agg45' along with Hogg 17, NGC 5617 and Pismis 19. |
 | <a href="{{ site.baseurl }}/_clusters/ubc10a/" target="_blank" style="color: $blue;">UBC 10 a</a> | Belongs to cluster aggregate 'Agg58' along with UPK 169. |
-| <a href="{{ site.baseurl }}/_clusters/ubc14/" target="_blank" style="color: red;">UBC 14</a> | Belongs to cluster aggregate 'Agg06' along with Alessi 44. |
+| <a href="{{ site.baseurl }}/_clusters/ubc14/" target="_blank" style="color: $blue;">UBC 14</a> | Belongs to cluster aggregate 'Agg06' along with Alessi 44. |
 | <a href="{{ site.baseurl }}/_clusters/ubc17a/" target="_blank" style="color: $blue;">UBC 17 a</a> | Belongs to cluster aggregate 'Agg02' along with ASCC 19, Gulliver 6 and UBC 17b. |
 | <a href="{{ site.baseurl }}/_clusters/ubc17b/" target="_blank" style="color: $blue;">UBC 17 b</a> | Belongs to cluster aggregate 'Agg02' along with ASCC 19, Gulliver 6 and UBC 17a. |
 | <a href="{{ site.baseurl }}/_clusters/ubc39/" target="_blank" style="color: $blue;">UBC 39</a> | Belongs to cluster aggregate 'Agg30' along with FSR 0534. |

@@ -40,7 +40,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/herschel1/" target="_blank" style="color: $blue;">Herschel 1</a> | The expected number of WDs is 1.5, 0 WD candidates found, and 0 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ic2391/" target="_blank" style="color: $blue;">IC 2391</a> | The expected number of WDs is 0.0, 0 WD candidates found, and 1 WD candidate found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ic2488/" target="_blank" style="color: $blue;">IC 2488</a> | The expected number of WDs is 22.8, 0 WD candidates found, and 0 WD candidates found in the wide search. |
-| <a href="{{ site.baseurl }}/_clusters/loden143/" target="_blank" style="color: red;">Loden 143</a> | The expected number of WDs is 0.55, 0 WD candidates found, and 0 WD candidates found in the wide search. |
+| <a href="{{ site.baseurl }}/_clusters/loden143/" target="_blank" style="color: $blue;">Loden 143</a> | The expected number of WDs is 0.55, 0 WD candidates found, and 0 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/lynga2/" target="_blank" style="color: $blue;">Lynga 2</a> | The expected number of WDs is 3.2, 0 WD candidates found, and 0 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/melotte20/" target="_blank" style="color: $blue;">Melotte 20</a> | The expected number of WDs is 0.72, 0 WD candidates found, and 1 WD candidate found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1027/" target="_blank" style="color: $blue;">NGC 1027</a> | The expected number of WDs is 22.9, 0 WD candidates found, and 0 WD candidates found in the wide search. |
@@ -68,7 +68,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ngc2343/" target="_blank" style="color: $blue;">NGC 2343</a> | The expected number of WDs is 3.0, 0 WD candidates found, and 0 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2396/" target="_blank" style="color: $blue;">NGC 2396</a> | The expected number of WDs is 4.5, 0 WD candidates found, and 0 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2422/" target="_blank" style="color: $blue;">NGC 2422</a> | The expected number of WDs is 16.5, 1 WD candidate found, and 10 WD candidates found in the wide search. |
-| <a href="{{ site.baseurl }}/_clusters/ngc2430/" target="_blank" style="color: red;">NGC 2430</a> | The expected number of WDs is 47.6, 0 WD candidates found, and 0 WD candidates found in the wide search. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2430/" target="_blank" style="color: $blue;">NGC 2430</a> | The expected number of WDs is 47.6, 0 WD candidates found, and 0 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2448/" target="_blank" style="color: $blue;">NGC 2448</a> | The expected number of WDs is 7.4, 0 WD candidates found, and 0 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2451b/" target="_blank" style="color: $blue;">NGC 2451B</a> | The expected number of WDs is 0.0, 0 WD candidates found, and 10 WD candidates found in the wide search. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2516/" target="_blank" style="color: $blue;">NGC 2516</a> | The expected number of WDs is 34.6, 1 WD candidate found, and 6 WD candidates found in the wide search. |

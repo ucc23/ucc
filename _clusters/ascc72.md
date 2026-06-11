@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: ASCC 72
 title_flag: true
-more_names: MWSC 2044
+more_names: 
 fname: ascc72
 members_file: "300_304"
 fov: 0.063
@@ -13,31 +13,31 @@ glon: 303.3708
 glat: 1.82616
 r50: 1.9
 plx: 0.3154
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.55"
+UTI_COLOR: "#f8fcdf"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#d9eeca"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f0f8d5"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 0.73
 UTI_C_C3: 1.0
-UTI_C_lit: 0.61
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>ASCC 72</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.17 kpc) differs significantly from the median photometric distance (~1.23 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>ASCC 72</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
-badge_av: "Low extinction"
-badge_av_url: "av_min=0&av_max=1"
-badge_mass: ""
-badge_mass_url: ""
+badge_av: "Moderate extinction"
+badge_av_url: "av_min=1&av_max=3"
+badge_mass: "Massive"
+badge_mass_url: "mass_min=1000&mass_max=5000"
 badge_feh: "Near-solar metallicity"
 badge_feh_url: "feh_min=-0.5&feh_max=0.5"
 badge_age: "Intermediate age"
@@ -64,38 +64,18 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 193.764 | -61.054 | 0.312 | -5.251 | -0.371 | -12.778 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 193.772 | -61.058 | 0.312 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 193.764 | -61.054 | 0.312 | -5.251 | -0.371 | -12.778 |
-    |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 188.263 | -60.927 | -- | -- | -- | -- |
-    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 193.741 | -60.949 | -- | -- | -- | -- |
-    |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 188.272 | -60.93 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 188.25 | -60.95 | -- | -2.34 | -1.91 | -- |
-    |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 188.272 | -60.93 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 188.25 | -60.95 | -- | -4.99 | -0.48 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 188.263 | -60.927 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 188.25 | -60.95 | -- | -2.35 | -1.95 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 188.272 | -60.93 | -- | -5.94 | -0.75 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2009A%26A...504..681K) | 2009 | 188.241 | -60.951 | -- | -- | -- | -- |
-    |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 188.241 | -60.951 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 188.25 | -60.95 | -- | -4.99 | -0.48 | -- 
-N_rows_pos: "15"
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 193.741 | -60.949 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 193.76596,-61.04238
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.23 | 0.5 | 2.9 | 160 | 0.460 | 955 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.82 | 1.92 | 2.9 | 179 | 0.460 | 1048 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.82 | 1.92 | 2.90 | 179 | -- | 1048<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.06 | 1.79 | -- | 355 | 0.460 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.82 | 1.92 | 2.90 | 179 | -- | -- | -- | -- |
-    | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 160 | -- | 126 | -- | -- |
-    | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 1.23 | -- | -- | 160 | -- | -- | -- | -- |
-    | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 1.23 | 0.50 | -- | 160 | -- | 955 | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 1.10 | 0.50 | -- | 135 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.23 | 0.50 | -- | 160 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.23 | 0.50 | -- | 160 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2009A%26A...504..681K) | 2009 | 1.10 | 0.50 | -- | 135 | -- | -- | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.10 | 0.50 | -- | 135 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 1.10 | 0.50 | -- | 135 | -- | -- | -- | -- |
-N_rows_pars: "12"
+N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

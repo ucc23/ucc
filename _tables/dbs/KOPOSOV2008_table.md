@@ -8,8 +8,6 @@ style: style
 &nbsp;
 # [Koposov et al. (2008)](https://scixplorer.org/abs/2008A%26A...486..771K)
 
-This database consists of 11 entries, of which 9% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
-
 
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
@@ -22,7 +20,7 @@ This database consists of 11 entries, of which 9% are classified as [likely non-
 | <a href="{{ site.baseurl }}/_clusters/koposov53/" target="_blank" style="color: $blue;">Koposov 53</a> | 92.23 | 26.26 | 184.9 | 3.13 | 0.19 | 78 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.69 |
 | <a href="{{ site.baseurl }}/_clusters/koposov62/" target="_blank" style="color: $blue;">Koposov 62</a> | 94.53 | 24.76 | 187.22 | 4.25 | 0.17 | 19 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.36 |
 | <a href="{{ site.baseurl }}/_clusters/koposov63/" target="_blank" style="color: $blue;">Koposov 63</a> | 92.5 | 24.57 | 186.5 | 2.52 | 0.22 | 79 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.68 |
-| <a href="{{ site.baseurl }}/_clusters/koposov77/" target="_blank" style="color: red;">Koposov 77</a> | 85.99 | 21.67 | 186.03 | -4.1 | 0.15 | 14 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.24 |
+| <a href="{{ site.baseurl }}/_clusters/koposov77/" target="_blank" style="color: $blue;">Koposov 77</a> | 85.99 | 21.67 | 186.03 | -4.1 | 0.15 | 14 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.24 |
 | <a href="{{ site.baseurl }}/_clusters/teutsch10/" target="_blank" style="color: $blue;">Teutsch 10</a> | 86.1 | 28.82 | 179.95 | -0.29 | 0.32 | 83 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.74 |
 | <a href="{{ site.baseurl }}/_clusters/teutsch51/" target="_blank" style="color: $blue;">Teutsch 51</a> | 88.46 | 26.83 | 182.74 | 0.48 | 0.23 | 259 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.85 |
 

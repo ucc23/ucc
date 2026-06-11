@@ -8,7 +8,7 @@ style: style
 &nbsp;
 # [Cui et al. (2025)](https://scixplorer.org/abs/2025AJ....169..219C)
 
-This database consists of 53 entries, of which 19% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 30% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+This database consists of 53 entries, of which 19% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 26% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
 
 
 
@@ -65,8 +65,8 @@ This database consists of 53 entries, of which 19% are probable duplicates ([P<s
 | <a href="{{ site.baseurl }}/_clusters/fsr0687/" target="_blank" style="color: $blue;">FSR 0687</a> | 69.85 | 48.2 | 156.92 | 0.96 | 0.21 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.55 |
 | <a href="{{ site.baseurl }}/_clusters/pfleiderer4/" target="_blank" style="color: $blue;">Pfleiderer 4</a> | 357.72 | 62.32 | 115.96 | 0.27 | 0.1 | 109 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.61 |
 | <a href="{{ site.baseurl }}/_clusters/saurer1/" target="_blank" style="color: $blue;">Saurer 1</a> | 110.23 | 1.81 | 214.69 | 7.38 | 0.08 | 22 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.34 |
-| <a href="{{ site.baseurl }}/_clusters/saurer4/" target="_blank" style="color: red;">Saurer 4</a> | 183.5 | -63.59 | 298.79 | -1.03 | 0.09 | 7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
-| <a href="{{ site.baseurl }}/_clusters/teutsch48/" target="_blank" style="color: red;">Teutsch 48</a> | 140.11 | -52.83 | 274.17 | -2.17 | 0.21 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
+| <a href="{{ site.baseurl }}/_clusters/saurer4/" target="_blank" style="color: $blue;">Saurer 4</a> | 183.5 | -63.59 | 298.79 | -1.03 | 0.09 | 7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
+| <a href="{{ site.baseurl }}/_clusters/teutsch48/" target="_blank" style="color: $blue;">Teutsch 48</a> | 140.11 | -52.83 | 274.17 | -2.17 | 0.21 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.26 |
 
 
 
