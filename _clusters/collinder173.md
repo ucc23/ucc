@@ -13,25 +13,25 @@ glon: 261.37512
 glat: -8.15259
 r50: 6.4
 plx: 0.1709
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.12
-UTI_C_lit: 0.44
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very low quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 173</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.85 kpc) differs significantly from the median photometric distance (~0.42 kpc).</p>
+    <b>Collinder 173</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.85 kpc) differs significantly from the median photometric distance (~0.42 kpc).</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -64,8 +64,9 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 120.704 | -46.383 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 120.9 | -46.283 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 120.704 | -46.383 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 120.791 | -46.284 | -- | -- | -- | -- 
-N_rows_pos: "7"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 120.791 | -46.284 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 120.791 | -46.284 | -- | -- | -- | -- 
+N_rows_pos: "8"
 cds_radec: 120.73466,-46.38784
 carousel: UCC
 fpars_table: |
@@ -79,7 +80,8 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.42 | 0.16 | -- | 14 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.42 | 0.16 | -- | 14 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.33 | 0.28 | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "7"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.50 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: false
 shared_table: |
 

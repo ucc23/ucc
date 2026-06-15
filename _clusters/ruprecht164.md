@@ -13,25 +13,25 @@ glon: 293.19627
 glat: 0.58142
 r50: 1.8
 plx: 0.2088
-UTI: "0.91"
-UTI_COLOR: "#add9c0"
+UTI: "0.92"
+UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#b2dcc2"
+UTI_C_lit_COL: "#afdbc1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.89
+UTI_C_lit: 0.9
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Well-studied
+UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Ruprecht 164</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>Ruprecht 164</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Low extinction"
@@ -93,8 +93,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 172.72 | -60.75 | -- | -0.89 | 5.03 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 172.713 | -60.783 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 172.776 | -60.809 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 172.2 | -60.533 | -- | -- | -- | -- 
-N_rows_pos: "30"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 172.2 | -60.533 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 172.776 | -60.809 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 172.6079,-60.75034
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

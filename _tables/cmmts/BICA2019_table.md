@@ -130,6 +130,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/bdsb38/" target="_blank" style="color: red;">BDSB 38</a> | Web updates in DAML02, some were later removed (2003 to 2010). The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb42/" target="_blank" style="color: red;">BDSB 42</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb99/" target="_blank" style="color: $blue;">BDSB 99</a> | Present study. |
+| <a href="{{ site.baseurl }}/_clusters/barkhatova1/" target="_blank" style="color: $blue;">Barkhatova 1</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/basel10/" target="_blank" style="color: $blue;">Basel 10</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley85/" target="_blank" style="color: $blue;">Berkeley 85</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/bica105/" target="_blank" style="color: red;">Bica 105</a> | Present study. |
@@ -192,7 +193,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/chupina5/" target="_blank" style="color: $blue;">Chupina 5</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/collinder132/" target="_blank" style="color: $blue;">Collinder 132</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
 | <a href="{{ site.baseurl }}/_clusters/collinder21/" target="_blank" style="color: $blue;">Collinder 21</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
-| <a href="{{ site.baseurl }}/_clusters/collinder234/" target="_blank" style="color: $blue;">Collinder 234</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
+| <a href="{{ site.baseurl }}/_clusters/collinder234/" target="_blank" style="color: red;">Collinder 234</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/collinder399/" target="_blank" style="color: red;">Collinder 399</a> | Asterisms reported by amateur astronomers in the web. |
 | <a href="{{ site.baseurl }}/_clusters/collinder69/" target="_blank" style="color: $blue;">Collinder 69</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. Asterisms reported by amateur astronomers in the web. |
 | <a href="{{ site.baseurl }}/_clusters/collinder70/" target="_blank" style="color: $blue;">Collinder 70</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
@@ -211,8 +212,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/dias8/" target="_blank" style="color: $blue;">Dias 8</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/doldzim11/" target="_blank" style="color: $blue;">Dol Dzim 11</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze12/" target="_blank" style="color: red;">Dolidze 12</a> | Web updates in DAML02, some were later removed (2003 to 2010). Asterisms and cluster alikes by B. Alessi reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/dolidze15/" target="_blank" style="color: red;">Dolidze 15</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/dolidze17/" target="_blank" style="color: red;">Dolidze 17</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. Web updates in DAML02, some were later removed (2003 to 2010). |
+| <a href="{{ site.baseurl }}/_clusters/dolidze15/" target="_blank" style="color: $blue;">Dolidze 15</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. |
+| <a href="{{ site.baseurl }}/_clusters/dolidze17/" target="_blank" style="color: $blue;">Dolidze 17</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/dolidze20/" target="_blank" style="color: $blue;">Dolidze 20</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze22/" target="_blank" style="color: $blue;">Dolidze 22</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze23/" target="_blank" style="color: $blue;">Dolidze 23</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
@@ -226,7 +227,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/dolidze34/" target="_blank" style="color: $blue;">Dolidze 34</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze37/" target="_blank" style="color: $blue;">Dolidze 37</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze38/" target="_blank" style="color: $blue;">Dolidze 38</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. Asterisms and cluster alikes by B. Alessi reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/dolidze4/" target="_blank" style="color: red;">Dolidze 4</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. |
+| <a href="{{ site.baseurl }}/_clusters/dolidze4/" target="_blank" style="color: $blue;">Dolidze 4</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze40/" target="_blank" style="color: $blue;">Dolidze 40</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze45/" target="_blank" style="color: $blue;">Dolidze 45</a> | Analysis of Dolidze objects by M. Kronberger reported in DAML02. Asterisms reported by amateur astronomers in the web. |
 | <a href="{{ site.baseurl }}/_clusters/dolidze46/" target="_blank" style="color: $blue;">Dolidze 46</a> | Web updates in DAML02, some were later removed (2003 to 2010). Asterisms and cluster alikes by B. Alessi reported in DAML02. |
@@ -420,7 +421,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ngc6554/" target="_blank" style="color: $blue;">NGC 6554</a> | Original NGC and IC catalogues at Vizier: NGC 2000.0, Sky Publishing, ed. Sinnott 1988 (1997yCat.7118....0S). |
 | <a href="{{ site.baseurl }}/_clusters/ngc6588/" target="_blank" style="color: red;">NGC 6588</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/ngc6595/" target="_blank" style="color: $blue;">NGC 6595</a> | 2MASS website. |
-| <a href="{{ site.baseurl }}/_clusters/ngc6605/" target="_blank" style="color: red;">NGC 6605</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
+| <a href="{{ site.baseurl }}/_clusters/ngc6605/" target="_blank" style="color: $blue;">NGC 6605</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/ngc6647/" target="_blank" style="color: red;">NGC 6647</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/ngc6659/" target="_blank" style="color: red;">NGC 6659</a> | List of clusters and alike reported by B. Alessi. Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/ngc6664/" target="_blank" style="color: $blue;">NGC 6664</a> | List of clusters and alike reported by B. Alessi. |
@@ -507,7 +508,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/riddle6/" target="_blank" style="color: $blue;">Riddle 6</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/riddle7/" target="_blank" style="color: red;">Riddle 7</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht105/" target="_blank" style="color: $blue;">Ruprecht 105</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht124/" target="_blank" style="color: red;">Ruprecht 124</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht124/" target="_blank" style="color: $blue;">Ruprecht 124</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht128/" target="_blank" style="color: $blue;">Ruprecht 128</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht156/" target="_blank" style="color: red;">Ruprecht 156</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: $blue;">Ruprecht 46</a> | Web updates in DAML02, some were later removed (2003 to 2010). |

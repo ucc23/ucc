@@ -105,14 +105,15 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 56.95 | 59.05 | -- | -0.39 | -2.64 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 56.95 | 59.06 | -- | 0.26 | -3.04 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 56.95 | 59.05 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 56.956 | 59.057 | -- | -- | -- | -- 
-N_rows_pos: "42"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 56.956 | 59.057 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 56.944 | 59.049 | -- | -- | -- | -- 
+N_rows_pos: "43"
 cds_radec: 56.97458,+59.06644
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.61 | 2.07 | 1.78 | 200 | 0.012 | 1439 | 0.69 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.62 | 2.07 | 1.78 | 200 | 0.012 | 1439 | 0.69 | -- |
     | [Bijavara Seshashayana et al.](https://scixplorer.org/abs/2025A%26A...704A.220B) | 2025 | -- | 2.07 | -- | 190 | 0.030<sup>(14)</sup> | -- | -- | -- |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 186 | -0.040<sup>(15)</sup> | -- | -- | -- |
     | [Schweers & McSwain](https://scixplorer.org/abs/2026ApJ..1000..145S) | 2026 | 1.61 | -- | -- | 158 | -- | -- | -- | -- |
@@ -151,7 +152,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.00 | 0.79 | -- | 537 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.80 | 0.79 | -- | -- | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.80 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "38"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 1.80 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "39"
 note_asterisk: true
 shared_table: |
 

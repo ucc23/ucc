@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 12
 title_flag: true
-more_names: VDBH 62; MWSC 1650; OCL 765; vdBergh-Hagen 62; ESO 261 05; FSR 1458; FoF 391
+more_names: Pishmish 12; VDBH 62; MWSC 1650; OCL 765; vdBergh-Hagen 62; ESO 261 05; FSR 1458; FoF 391
 fname: pismis12
 members_file: "268_272"
 fov: 0.15
@@ -13,25 +13,25 @@ glon: 268.65462
 glat: 3.2112
 r50: 4.5
 plx: 0.4442
-UTI: "0.88"
-UTI_COLOR: "#b4ddc3"
+UTI: "0.89"
+UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#b4ddc3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#b2dcc2"
+UTI_C_lit_COL: "#afdbc1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.88
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.89
+UTI_C_lit: 0.9
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Well-studied
+UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Pismis 12</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Pismis 12</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -93,8 +93,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 140.004 | -45.124 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 140.0 | -45.117 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 139.984 | -45.128 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 139.525 | -44.917 | -- | -- | -- | -- 
-N_rows_pos: "29"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 139.525 | -44.917 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 139.984 | -45.128 | -- | -- | -- | -- 
+N_rows_pos: "30"
 cds_radec: 140.0061,-45.13096
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

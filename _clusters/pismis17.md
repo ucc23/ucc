@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 17
 title_flag: true
-more_names: OCL 833; MWSC 1882
+more_names: Pishmish 17; OCL 833; MWSC 1882
 fname: pismis17
 members_file: "288_292"
 fov: 0.103
@@ -18,12 +18,12 @@ UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#f7fbde"
 UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#dbefca"
+UTI_C_lit_COL: "#d7eec9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.33
 UTI_C_C3: 0.5
-UTI_C_lit: 0.72
+UTI_C_lit: 0.74
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -81,8 +81,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 165.27 | -59.87 | -- | -6.27 | 3.12 | 61.7 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 165.275 | -59.817 | -- | -- | -- | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 165.267 | -59.818 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 165.295 | -59.821 | -- | -- | -- | -- 
-N_rows_pos: "21"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 165.295 | -59.821 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 165.295 | -59.821 | -- | -- | -- | -- 
+N_rows_pos: "22"
 cds_radec: 165.39747,-59.88968
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

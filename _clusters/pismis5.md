@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 5
 title_flag: true
-more_names: MWSC 1516
+more_names: Pishmish 5; MWSC 1516
 fname: pismis5
 members_file: "256_260"
 fov: 0.36
@@ -18,12 +18,12 @@ UTI_COLOR: "#afdbc1"
 UTI_C_N_COL: "#bce1c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.85
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -97,8 +97,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 129.408 | -39.584 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 129.408 | -39.583 | -- | -- | -- | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 129.408 | -39.584 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 129.388 | -39.658 | -- | -- | -- | -- 
-N_rows_pos: "32"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 129.388 | -39.658 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 129.388 | -39.658 | -- | -- | -- | -- 
+N_rows_pos: "33"
 cds_radec: 129.40948,-39.61947
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

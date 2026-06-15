@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 285
 title_flag: true
-more_names: MWSC 2242
+more_names: UMa Mov Cl; MWSC 2242
 fname: collinder285
 members_file: "108_112"
 fov: 0.36
@@ -13,17 +13,17 @@ glon: 109.9378
 glat: 44.64837
 r50: 10.8
 plx: 0.5556
-UTI: "0.18"
-UTI_COLOR: "#f8c6ba"
+UTI: "0.21"
+UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#fcd6c2"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#dfa5b3"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.03
 UTI_C_C3: 0.0
-UTI_C_lit: 0.31
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -63,8 +63,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 220.27 | 69.57 | -- | 12.0 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 220.225 | 69.567 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 220.275 | 69.567 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 220.281 | 69.574 | -- | -- | -- | -- 
-N_rows_pos: "6"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 220.281 | 69.574 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 219.335 | 69.571 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 220.23795,+69.59461
 carousel: UCC
 fpars_table: |
@@ -76,7 +77,8 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.03 | 0.00 | -- | 200 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.03 | 0.00 | -- | 200 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.02 | 0.00 | -- | 162 | -- | -- | -- | -- |
-N_rows_pars: "5"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.02 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: false
 shared_table: |
 

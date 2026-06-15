@@ -105,8 +105,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.25 | -32.483 | -- | -0.58 | -2.02 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 264.25 | -32.483 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 264.187 | -32.485 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 263.375 | -32.45 | -- | -- | -- | -- 
-N_rows_pos: "39"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 263.375 | -32.45 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 264.187 | -32.485 | -- | -- | -- | -- 
+N_rows_pos: "40"
 cds_radec: 264.22401,-32.46405
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 23
 title_flag: true
-more_names: vdB-Hagen 23; van den Bergh-Hagen 23; vdBergh-Hagen 23; BH 23; OCSN 146
+more_names: van den Bergh-Hagen 23; vdB-Hagen 23; vdBergh-Hagen 23; BH 23; OCSN 146
 fname: vdbh23
 members_file: "252_256"
 fov: 0.717

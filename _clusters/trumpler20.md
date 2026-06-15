@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Trumpler 20
 title_flag: true
-more_names: Collinder 262; MWSC 2060; Harvard 7; OCL 888; ESO 131 13; FSR 1624
+more_names: Collinder 262; VDBH 137; MWSC 2060; Harvard 7; OCL 888; ESO 131 13; FSR 1624
 fname: trumpler20
 members_file: "300_304"
 fov: 0.173
@@ -13,17 +13,17 @@ glon: 301.47682
 glat: 2.1979
 r50: 5.2
 plx: 0.2669
-UTI: "0.99"
-UTI_COLOR: "#a6ccba"
+UTI: "1.0"
+UTI_COLOR: "#a5cab9"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#a7cebb"
+UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.98
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -97,8 +97,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 189.887 | -60.618 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 189.892 | -60.617 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 189.903 | -60.598 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 189.2 | -60.333 | -- | -- | -- | -- 
-N_rows_pos: "33"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 189.2 | -60.333 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 189.903 | -60.598 | -- | -- | -- | -- 
+N_rows_pos: "34"
 cds_radec: 189.89251,-60.64095
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

@@ -48,7 +48,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ngc7801/" target="_blank" style="color: $blue;">NGC 7801</a> | Long regarded as doubtful or non-existent. Included in some catalogues as a remnant, but evidence is weak. More details in Appendix A of the article. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7826/" target="_blank" style="color: $blue;">NGC 7826</a> | Classified as non-existent; Gaia DR2 and radial velocities confirm it is not a physical cluster. More details in Appendix A of the article. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht155/" target="_blank" style="color: $blue;">Ruprecht 155</a> | Listed as a remnant in catalogues but never studied in detail; physical nature uncertain. More details in Appendix A of the article. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht3/" target="_blank" style="color: red;">Ruprecht 3</a> | Appears as a tight group of bright stars, but Gaia DR1 and DR2 parallaxes and proper motions show it is an asterism. More details in Appendix A of the article. |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht3/" target="_blank" style="color: $blue;">Ruprecht 3</a> | Appears as a tight group of bright stars, but Gaia DR1 and DR2 parallaxes and proper motions show it is an asterism. More details in Appendix A of the article. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht46/" target="_blank" style="color: $blue;">Ruprecht 46</a> | Density enhancement without meaningful CMD features; likely not a real cluster. More details in Appendix A of the article. |
 
 

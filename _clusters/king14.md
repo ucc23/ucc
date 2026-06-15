@@ -13,17 +13,17 @@ glon: 120.73673
 glat: 0.38767
 r50: 5.1
 plx: 0.3926
-UTI: "0.88"
-UTI_COLOR: "#b4ddc3"
+UTI: "0.89"
+UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#bfe2c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#add9c0"
+UTI_C_lit_COL: "#add7c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.84
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.91
+UTI_C_lit: 0.92
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -94,14 +94,15 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 7.975 | 63.167 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 7.975 | 63.167 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 7.975 | 63.167 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 7.958 | 63.148 | -- | -- | -- | -- 
-N_rows_pos: "30"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 7.958 | 63.148 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 7.958 | 63.148 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 7.98808,+63.17549
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.38 | 1.56 | 1.09 | 50 | -0.034 | 855 | 0.55 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.4 | 1.56 | 1.09 | 50 | -0.034 | 855 | 0.55 | 0 |
     | [Schweers & McSwain](https://scixplorer.org/abs/2026ApJ..1000..145S) | 2026 | 31.62 | -- | -- | 63 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 2.29 | 1.46 | -- | 72 | 0.059 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.21 | 1.59 | -- | 46 | -- | 592 | -- | -- |
@@ -128,7 +129,8 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.59 | 1.29 | -- | 83 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.59 | 1.31 | -- | 84 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 2.60 | 1.74 | -- | 16 | -- | -- | -- | -- |
-N_rows_pars: "26"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 2.60 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "27"
 note_asterisk: true
 shared_table: |
 

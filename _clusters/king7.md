@@ -99,8 +99,9 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 59.75 | 51.8 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 59.75 | 51.8 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 59.75 | 51.8 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 59.71 | 51.794 | -- | -- | -- | -- 
-N_rows_pos: "36"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 59.71 | 51.794 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 59.745 | 51.788 | -- | -- | -- | -- 
+N_rows_pos: "37"
 cds_radec: 59.78776,+51.78538
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

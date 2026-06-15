@@ -115,14 +115,15 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.82 | -30.14 | -- | 19.86 | 3.37 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.063 | -29.882 | -- | 20.17 | 3.0 | 5.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.029 | -29.833 | -- | 20.17 | 3.0 | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.055 | -29.943 | -- | -- | -- | 5.0 
-N_rows_pos: "48"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.055 | -29.943 | -- | -- | -- | 5.0 |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 1.055 | -29.943 | -- | -- | -- | -- 
+N_rows_pos: "49"
 cds_radec: 1.22232,-29.9478
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.245 | 0.03 | 0.4 | 93 | 0.030 | 2985 | 0.23 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.25 | 0.03 | 0.4 | 93 | 0.030 | 2985 | 0.23 | 0 |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 104 | -- | -- | -- | -- |
     | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.24 | 0.02 | -- | 279 | 0.040 | -- | -- | -- |
     | [Schweers & McSwain](https://scixplorer.org/abs/2026ApJ..1000..145S) | 2026 | 0.23 | -- | -- | 126 | -- | -- | -- | -- |
@@ -169,7 +170,8 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.27 | 0.03 | -- | 60 | 0.230<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.27 | 0.03 | -- | 63 | 0.230 | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.19 | 0.28 | -- | 50 | 0.030 | -- | -- | -- |
-N_rows_pars: "46"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.25 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "47"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

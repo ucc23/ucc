@@ -149,6 +149,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Markarian 6](/_clusters/markarian6/)| 15.9 | 37.43 | 60.68 | 1.47 | -3.55 | 0.48 | -5.89 |0.5 |
+    |[Markarian 6](/_clusters/markarian6/)| 15.9 | 37.43 | 60.68 | 1.47 | -3.55 | 0.48 | -5.89 |0.52 |
 N_rows_shared: "1"
 ---

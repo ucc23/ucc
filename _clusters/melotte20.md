@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Melotte 20
 title_flag: true
-more_names: MWSC 274; Alpha Persei; Alpha Per; OCSN 218
+more_names: Per Mov Cl; MWSC 274; Alpha Persei; Alpha Per; OCSN 218
 fname: melotte20
 members_file: "144_148"
 fov: 2.99
@@ -124,8 +124,9 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 50.488 | 48.622 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 50.5 | 48.617 | -- | -- | -- | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 51.079 | 49.862 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 50.513 | 48.611 | -- | -- | -- | -2.0 
-N_rows_pos: "56"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 50.513 | 48.611 | -- | -- | -- | -2.0 |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 50.513 | 48.611 | -- | -- | -- | -- 
+N_rows_pos: "57"
 cds_radec: 51.63254,+48.9655
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -190,7 +191,8 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.18 | 0.28 | -- | 71 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.15 | 0.31 | -- | 25 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.17 | 0.28 | -- | 51 | 0.100 | -- | -- | -- |
-N_rows_pars: "58"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.17 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "59"
 note_asterisk: true
 shared_table: |
 

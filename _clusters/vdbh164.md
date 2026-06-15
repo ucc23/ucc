@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 164
 title_flag: true
-more_names: vdB-Hagen 164; van den Bergh-Hagen 164; vdBergh-Hagen 164; BH 164; MWSC 2255; Alessi 7; FoF 2403; OCSN 148
+more_names: van den Bergh-Hagen 164; vdB-Hagen 164; vdBergh-Hagen 164; BH 164; MWSC 2255; Alessi 7; FoF 2403; OCSN 148
 fname: vdbh164
 members_file: "312_316"
 fov: 0.837

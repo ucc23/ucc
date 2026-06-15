@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 99
 title_flag: true
-more_names: vdB-Hagen 99; van den Bergh-Hagen 99; vdBergh-Hagen 99; BH 99; MWSC 1831; FoF 2413; OCSN 147
+more_names: van den Bergh-Hagen 99; vdB-Hagen 99; vdBergh-Hagen 99; BH 99; MWSC 1831; FoF 2413; OCSN 147
 fname: vdbh99
 members_file: "284_288"
 fov: 0.86

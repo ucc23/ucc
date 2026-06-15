@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 10
 title_flag: true
-more_names: MWSC 1619
+more_names: Pishmish 10; MWSC 1619
 fname: pismis10
 members_file: "264_268"
 fov: 0.183
@@ -13,25 +13,25 @@ glon: 265.44562
 glat: 1.99077
 r50: 5.5
 plx: 0.2503
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#f5fbdc"
 UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f9c9bc"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.09
 UTI_C_C3: 0.25
-UTI_C_lit: 0.19
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Pismis 10</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.00 kpc) differs significantly from the median photometric distance (~8.84 kpc).</p>
+    <b>Pismis 10</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.00 kpc) differs significantly from the median photometric distance (~8.84 kpc).</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "High extinction"
@@ -62,8 +62,9 @@ posit_table: |
     |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 135.65 | -43.633 | -- | 6.19 | -2.55 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 135.653 | -43.633 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 135.658 | -43.636 | -- | -11.89 | 8.01 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 135.65 | -43.633 | -- | -- | -- | -- 
-N_rows_pos: "5"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 135.65 | -43.633 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 135.651 | -43.634 | -- | -- | -- | -- 
+N_rows_pos: "6"
 cds_radec: 135.68869,-43.63479
 carousel: UCC
 fpars_table: |

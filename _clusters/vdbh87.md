@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 87
 title_flag: true
-more_names: vdB-Hagen 87; van den Bergh-Hagen 87; FSR 1522; BH 87; vdBergh-Hagen 87; MWSC 1755
+more_names: van den Bergh-Hagen 87; FSR 1522; BH 87; vdBergh-Hagen 87; MWSC 1755; vdB-Hagen 87
 fname: vdbh87
 members_file: "280_284"
 fov: 0.107

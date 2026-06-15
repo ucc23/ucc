@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Lynga 2
 title_flag: true
-more_names: MWSC 2215; FoF 2308
+more_names: VDBH 157; MWSC 2215; FoF 2308
 fname: lynga2
 members_file: "312_316"
 fov: 0.303
@@ -113,8 +113,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 216.04 | -61.35 | -- | -5.25 | -6.27 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 216.146 | -61.333 | -- | -5.16 | -5.8 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 216.007 | -61.396 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 215.075 | -61.167 | -- | -- | -- | -- 
-N_rows_pos: "47"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 215.075 | -61.167 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 216.007 | -61.396 | -- | -- | -- | -- 
+N_rows_pos: "48"
 cds_radec: 216.07549,-61.32512
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

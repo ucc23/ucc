@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 54
 title_flag: true
-more_names: vdB-Hagen 54; van den Bergh-Hagen 54; BH 54; vdBergh-Hagen 54; MWSC 1575
+more_names: van den Bergh-Hagen 54; BH 54; vdBergh-Hagen 54; MWSC 1575; vdB-Hagen 54
 fname: vdbh54
 members_file: "264_268"
 fov: 0.127

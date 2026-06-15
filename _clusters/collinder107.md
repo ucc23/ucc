@@ -102,8 +102,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 99.625 | 4.633 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 99.63 | 4.63 | -- | -2.58 | -0.75 | 17.73 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.425 | 4.733 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 99.4 | 4.736 | -- | -- | -- | -- 
-N_rows_pos: "36"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 99.4 | 4.736 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 99.4 | 4.736 | -- | -- | -- | -- 
+N_rows_pos: "37"
 cds_radec: 99.255,+4.90392
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -147,7 +148,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 104](/_clusters/collinder104/)| 60.0 | 99.19 | 4.79 | 0.61 | -1.42 | 0.6 | 36.18 |0.56 |
+    |[Collinder 104](/_clusters/collinder104/)| 60.0 | 99.19 | 4.79 | 0.61 | -1.42 | 0.6 | 36.18 |0.57 |
     |[CWWDL 14136](/_clusters/cwwdl14136/)| 40.0 | 99.16 | 4.85 | 0.64 | -1.43 | 0.63 | -- |0.02 |
 N_rows_shared: "2"
 ---

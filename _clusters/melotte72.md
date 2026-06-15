@@ -18,12 +18,12 @@ UTI_COLOR: "#afdbc1"
 UTI_C_N_COL: "#b4ddc3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#acd6bf"
+UTI_C_lit_COL: "#abd4be"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.88
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.93
+UTI_C_lit: 0.94
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -94,8 +94,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 114.621 | -10.7 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 114.31 | -10.57 | -- | -1.33 | 0.19 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.6 | -10.683 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 114.622 | -10.682 | -- | -- | -- | -- 
-N_rows_pos: "31"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 114.622 | -10.682 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 114.608 | -10.678 | -- | -- | -- | -- 
+N_rows_pos: "32"
 cds_radec: 114.62351,-10.7018
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -133,6 +134,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 467](/_clusters/collinder467/)| 5.6 | 114.73 | -10.65 | 0.37 | -4.16 | 3.71 | 70.4 |0.2 |
+    |[Collinder 467](/_clusters/collinder467/)| 5.6 | 114.73 | -10.65 | 0.37 | -4.16 | 3.71 | 70.4 |0.22 |
 N_rows_shared: "1"
 ---

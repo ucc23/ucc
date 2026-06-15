@@ -101,8 +101,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 31.12 | 64.36 | -- | -0.85 | -1.51 | -19.3 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 31.17 | 64.35 | -- | -0.33 | -2.19 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 31.125 | 64.433 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 31.169 | 64.406 | -- | -- | -- | -18.0 
-N_rows_pos: "35"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 31.169 | 64.406 | -- | -- | -- | -18.0 |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 31.169 | 64.406 | -- | -- | -- | -- 
+N_rows_pos: "36"
 cds_radec: 31.15716,+64.36299
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

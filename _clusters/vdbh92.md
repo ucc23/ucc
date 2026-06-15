@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 92
 title_flag: true
-more_names: vdB-Hagen 92; van den Bergh-Hagen 92; BH 92; vdBergh-Hagen 92; MWSC 1791; ESO 168 01; FSR 1533
+more_names: van den Bergh-Hagen 92; vdB-Hagen 92; BH 92; vdBergh-Hagen 92; MWSC 1791; ESO 168 01; FSR 1533
 fname: vdbh92
 members_file: "280_284"
 fov: 0.07
@@ -18,12 +18,12 @@ UTI_COLOR: "#b7dfc3"
 UTI_C_N_COL: "#e7f4cf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.66
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense

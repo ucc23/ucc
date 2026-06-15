@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: King 23
 title_flag: true
-more_names: MWSC 1190; Czernik 28; OCL 552; FSR 1121; FoF 584
+more_names: Czernik 28; MWSC 1190; OCL 552; FSR 1121; FoF 584
 fname: king23
 members_file: "216_220"
 fov: 0.113
@@ -18,12 +18,12 @@ UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#fefde6"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#a9d1bc"
+UTI_C_lit_COL: "#a8cfbb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 0.49
 UTI_C_C3: 0.75
-UTI_C_lit: 0.96
+UTI_C_lit: 0.97
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Loose
@@ -96,8 +96,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 110.446 | -0.983 | -- | 4.69 | -6.13 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 110.454 | 0.978 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 110.45 | -0.983 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 110.461 | -0.98 | -- | -- | -- | -- 
-N_rows_pos: "33"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 110.461 | -0.98 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 110.461 | -0.98 | -- | -- | -- | -- 
+N_rows_pos: "34"
 cds_radec: 110.46283,-0.98768
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

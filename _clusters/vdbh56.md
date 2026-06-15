@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 56
 title_flag: true
-more_names: vdB-Hagen 56; van den Bergh-Hagen 56; vdBergh-Hagen 56; BH 56; MWSC 1605; ESO 260 12; Magakian 425; FoF 2328
+more_names: van den Bergh-Hagen 56; vdB-Hagen 56; vdBergh-Hagen 56; BH 56; MWSC 1605; ESO 260 12; Magakian 425; FoF 2328
 fname: vdbh56
 members_file: "264_268"
 fov: 0.453

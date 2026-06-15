@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 347
 title_flag: true
-more_names: 
+more_names: VDBH 244
 fname: collinder347
 members_file: "356_360"
 fov: 0.127
@@ -18,12 +18,12 @@ UTI_COLOR: "#dbefca"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#b7dfc3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f3fad8"
+UTI_C_lit_COL: "#f0f8d5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 0.87
 UTI_C_C3: 0.75
-UTI_C_lit: 0.59
+UTI_C_lit: 0.61
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
@@ -76,8 +76,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 266.6 | -29.3 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.575 | -29.333 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 266.587 | -29.291 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 265.8 | -29.283 | -- | -- | -- | -- 
-N_rows_pos: "14"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 265.8 | -29.283 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 266.587 | -29.291 | -- | -- | -- | -- 
+N_rows_pos: "15"
 cds_radec: 266.5755,-29.3355
 carousel: UCC_HUNT23
 fpars_table: |

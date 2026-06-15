@@ -13,8 +13,8 @@ glon: 213.23225
 glat: 1.07272
 r50: 1.8
 plx: 0.2274
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.53"
+UTI_COLOR: "#fbfde3"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#f5fbdc"
 UTI_C_C3_COL: "#fef0d2"

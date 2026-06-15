@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Westerlund 2
 title_flag: true
-more_names: 
+more_names: VDBH 95
 fname: westerlund2
 members_file: "284_288"
 fov: 0.03
@@ -18,12 +18,12 @@ UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#e3f3cd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.68
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -78,8 +78,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 155.992 | -57.764 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 156.008 | -57.767 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 155.989 | -57.753 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 155.525 | -57.5 | -- | -- | -- | -- 
-N_rows_pos: "17"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 155.525 | -57.5 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 155.989 | -57.753 | -- | -- | -- | -- 
+N_rows_pos: "18"
 cds_radec: 156.01012,-57.75842
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

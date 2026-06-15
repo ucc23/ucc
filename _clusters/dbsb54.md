@@ -71,6 +71,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Trumpler 14](/_clusters/trumpler14/)| 98.8 | 160.99 | -59.55 | 0.39 | -6.54 | 2.06 | -14.28 |0.91 |
-    |[Collinder 232](/_clusters/collinder232/)| 27.4 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.2 |
+    |[Collinder 232](/_clusters/collinder232/)| 27.4 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.65 |
 N_rows_shared: "2"
 ---

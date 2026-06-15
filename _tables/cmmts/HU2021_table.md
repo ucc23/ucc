@@ -123,6 +123,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/berkeley27/" target="_blank" style="color: $blue;">Berkeley 27</a> | Ellipticities (core, all): e_core=0.0882, e_all=0.1224. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley28/" target="_blank" style="color: $blue;">Berkeley 28</a> | Ellipticities (core, all): e_core=0.0825, e_all=0.0255. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley29/" target="_blank" style="color: $blue;">Berkeley 29</a> | Ellipticities (core, all): e_core=0.1333, e_all=0.2058. |
+| <a href="{{ site.baseurl }}/_clusters/berkeley3/" target="_blank" style="color: $blue;">Berkeley 3</a> | Ellipticities (core, all): e_core=0.2786, e_all=0.1014. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley30/" target="_blank" style="color: $blue;">Berkeley 30</a> | Ellipticities (core, all): e_core=0.1503, e_all=0.2941. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley31/" target="_blank" style="color: $blue;">Berkeley 31</a> | Ellipticities (core, all): e_core=0.1184, e_all=0.0085. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley32/" target="_blank" style="color: $blue;">Berkeley 32</a> | Ellipticities (core, all): e_core=0.1087, e_all=0.1474. |
@@ -543,6 +544,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ic2948/" target="_blank" style="color: $blue;">IC 2948</a> | Ellipticities (core, all): e_core=0.4887, e_all=0.1666. |
 | <a href="{{ site.baseurl }}/_clusters/ic348/" target="_blank" style="color: $blue;">IC 348</a> | Ellipticities (core, all): e_core=0.0666, e_all=0.1236. |
 | <a href="{{ site.baseurl }}/_clusters/ic361/" target="_blank" style="color: $blue;">IC 361</a> | Ellipticities (core, all): e_core=0.0266, e_all=0.0463. |
+| <a href="{{ site.baseurl }}/_clusters/ic4291/" target="_blank" style="color: $blue;">IC 4291</a> | Ellipticities (core, all): e_core=0.0762, e_all=0.0753. |
 | <a href="{{ site.baseurl }}/_clusters/ic4651/" target="_blank" style="color: $blue;">IC 4651</a> | Ellipticities (core, all): e_core=0.0741, e_all=0.1195. |
 | <a href="{{ site.baseurl }}/_clusters/ic4665/" target="_blank" style="color: $blue;">IC 4665</a> | Ellipticities (core, all): e_core=0.2503, e_all=0.3905. |
 | <a href="{{ site.baseurl }}/_clusters/ic4725/" target="_blank" style="color: $blue;">IC 4725</a> | Ellipticities (core, all): e_core=0.0705, e_all=0.1878. |
@@ -598,6 +600,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/lynga2/" target="_blank" style="color: $blue;">Lynga 2</a> | Ellipticities (core, all): e_core=0.2526, e_all=0.0772. |
 | <a href="{{ site.baseurl }}/_clusters/lynga5/" target="_blank" style="color: $blue;">Lynga 5</a> | Ellipticities (core, all): e_core=0.1486, e_all=0.0391. |
 | <a href="{{ site.baseurl }}/_clusters/lynga6/" target="_blank" style="color: $blue;">Lynga 6</a> | Ellipticities (core, all): e_core=0.2281, e_all=0.094. |
+| <a href="{{ site.baseurl }}/_clusters/lynga9/" target="_blank" style="color: $blue;">Lynga 9</a> | Ellipticities (core, all): e_core=0.0825, e_all=0.0208. |
 | <a href="{{ site.baseurl }}/_clusters/mamajek4/" target="_blank" style="color: $blue;">Mamajek 4</a> | Ellipticities (core, all): e_core=0.4837, e_all=0.3181. |
 | <a href="{{ site.baseurl }}/_clusters/markarian38/" target="_blank" style="color: $blue;">Markarian 38</a> | Ellipticities (core, all): e_core=0.1296, e_all=0.127. |
 | <a href="{{ site.baseurl }}/_clusters/markarian50/" target="_blank" style="color: $blue;">Markarian 50</a> | Ellipticities (core, all): e_core=0.0218, e_all=0.1459. |
@@ -935,7 +938,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/pismis11/" target="_blank" style="color: $blue;">Pismis 11</a> | Ellipticities (core, all): e_core=0.0908, e_all=0.1013. |
 | <a href="{{ site.baseurl }}/_clusters/pismis12/" target="_blank" style="color: $blue;">Pismis 12</a> | Ellipticities (core, all): e_core=0.0788, e_all=0.0141. |
 | <a href="{{ site.baseurl }}/_clusters/pismis15/" target="_blank" style="color: $blue;">Pismis 15</a> | Ellipticities (core, all): e_core=0.1196, e_all=0.0318. |
-| <a href="{{ site.baseurl }}/_clusters/pismis18/" target="_blank" style="color: $blue;">Pismis 18</a> | Ellipticities (core, all): e_core=0.0762, e_all=0.0753. |
 | <a href="{{ site.baseurl }}/_clusters/pismis19/" target="_blank" style="color: $blue;">Pismis 19</a> | Ellipticities (core, all): e_core=0.1083, e_all=0.1004. |
 | <a href="{{ site.baseurl }}/_clusters/pismis2/" target="_blank" style="color: $blue;">Pismis 2</a> | Ellipticities (core, all): e_core=0.0384, e_all=0.044. |
 | <a href="{{ site.baseurl }}/_clusters/pismis27/" target="_blank" style="color: $blue;">Pismis 27</a> | Ellipticities (core, all): e_core=0.1042, e_all=0.1613. |
@@ -1073,7 +1075,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/stock20/" target="_blank" style="color: $blue;">Stock 20</a> | Ellipticities (core, all): e_core=0.3322, e_all=0.2096. |
 | <a href="{{ site.baseurl }}/_clusters/stock21/" target="_blank" style="color: $blue;">Stock 21</a> | Ellipticities (core, all): e_core=0.2062, e_all=0.1327. |
 | <a href="{{ site.baseurl }}/_clusters/stock23/" target="_blank" style="color: $blue;">Stock 23</a> | Ellipticities (core, all): e_core=0.4922, e_all=0.2958. |
-| <a href="{{ site.baseurl }}/_clusters/stock24/" target="_blank" style="color: $blue;">Stock 24</a> | Ellipticities (core, all): e_core=0.2786, e_all=0.1014. |
 | <a href="{{ site.baseurl }}/_clusters/stock4/" target="_blank" style="color: $blue;">Stock 4</a> | Ellipticities (core, all): e_core=0.3304, e_all=0.1991. |
 | <a href="{{ site.baseurl }}/_clusters/stock5/" target="_blank" style="color: $blue;">Stock 5</a> | Ellipticities (core, all): e_core=0.2973, e_all=0.3749. |
 | <a href="{{ site.baseurl }}/_clusters/stock7/" target="_blank" style="color: $blue;">Stock 7</a> | Ellipticities (core, all): e_core=0.0505, e_all=0.2698. |
@@ -1235,7 +1236,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/vdbh151/" target="_blank" style="color: $blue;">VDBH 151</a> | Ellipticities (core, all): e_core=0.2255, e_all=0.1678. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh164/" target="_blank" style="color: $blue;">VDBH 164</a> | Ellipticities (core, all): e_core=0.186, e_all=0.4103. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh166/" target="_blank" style="color: $blue;">VDBH 166</a> | Ellipticities (core, all): e_core=0.3055, e_all=0.1996. |
-| <a href="{{ site.baseurl }}/_clusters/vdbh189/" target="_blank" style="color: $blue;">VDBH 189</a> | Ellipticities (core, all): e_core=0.0825, e_all=0.0208. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh19/" target="_blank" style="color: $blue;">VDBH 19</a> | Ellipticities (core, all): e_core=0.1632, e_all=0.1097. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh200/" target="_blank" style="color: $blue;">VDBH 200</a> | Ellipticities (core, all): e_core=0.2044, e_all=0.0768. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh205/" target="_blank" style="color: $blue;">VDBH 205</a> | Ellipticities (core, all): e_core=0.4685, e_all=0.1882. |

@@ -18,12 +18,12 @@ UTI_COLOR: "#b4ddc3"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#acd6bf"
+UTI_C_lit_COL: "#abd4be"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.93
+UTI_C_lit: 0.94
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -93,8 +93,9 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 104.425 | 3.217 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 104.425 | 3.217 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 104.425 | 3.217 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 104.463 | 3.213 | -- | -- | -- | -- 
-N_rows_pos: "29"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 104.463 | 3.213 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 104.266 | 3.136 | -- | -- | -- | -- 
+N_rows_pos: "30"
 cds_radec: 104.43699,+3.2297
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

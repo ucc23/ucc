@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 15
 title_flag: true
-more_names: VDBH 74; MWSC 1690; OCL 773; vdBergh-Hagen 74; ESO 212 10; FSR 1480; FoF 394
+more_names: Pishmish 15; VDBH 74; MWSC 1690; OCL 773; vdBergh-Hagen 74; ESO 212 10; FSR 1480; FoF 394
 fname: pismis15
 members_file: "272_276"
 fov: 0.12
@@ -13,17 +13,17 @@ glon: 272.50337
 glat: 2.85912
 r50: 3.6
 plx: 0.4058
-UTI: "0.93"
-UTI_COLOR: "#acd6bf"
+UTI: "0.94"
+UTI_COLOR: "#abd4be"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#acd6bf"
+UTI_C_lit_COL: "#abd4be"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.93
+UTI_C_lit: 0.94
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -93,8 +93,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 143.679 | -48.039 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 143.687 | -48.033 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 143.681 | -48.123 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 143.2 | -47.8 | -- | -- | -- | -- 
-N_rows_pos: "30"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 143.2 | -47.8 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 143.681 | -48.123 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 143.68609,-48.04792
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

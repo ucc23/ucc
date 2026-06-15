@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 70
 title_flag: true
-more_names: 
+more_names: Orion Belt
 fname: collinder70
 members_file: "204_208"
 fov: 0.217
@@ -18,12 +18,12 @@ UTI_COLOR: "#fef5d7"
 UTI_C_N_COL: "#fef0d2"
 UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#ecf7d3"
+UTI_C_lit_COL: "#e9f5d0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 0.02
 UTI_C_C3: 0.38
-UTI_C_lit: 0.63
+UTI_C_lit: 0.65
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -74,8 +74,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 83.88 | -1.1 | -- | 0.36 | -0.68 | 19.49 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 83.74 | -0.81 | -- | -0.84 | 0.9 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 83.875 | -1.1 | -- | 0.15 | -0.7 | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 83.774 | -1.1 | -- | -- | -- | -- 
-N_rows_pos: "16"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 83.774 | -1.1 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 83.774 | -1.1 | -- | -- | -- | -- 
+N_rows_pos: "17"
 cds_radec: 83.89627,-1.11549
 carousel: UCC
 fpars_table: |
@@ -96,7 +97,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.39 | 0.13 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.39 | 0.13 | -- | 10 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.43 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "14"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.43 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "15"
 note_asterisk: true
 shared_table: |
 

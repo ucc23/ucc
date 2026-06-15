@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 3
 title_flag: true
-more_names: VDBH 33; MWSC 1498; OCL 731; vdBergh-Hagen 33; ESO 313 02; FSR 1385; FoF 388
+more_names: Pishmish 3; VDBH 33; MWSC 1498; OCL 731; vdBergh-Hagen 33; ESO 313 02; FSR 1385; FoF 388
 fname: pismis3
 members_file: "256_260"
 fov: 0.233
@@ -13,17 +13,17 @@ glon: 257.85603
 glat: 0.49894
 r50: 7.0
 plx: 0.4394
-UTI: "0.98"
-UTI_COLOR: "#a7cebb"
+UTI: "0.99"
+UTI_COLOR: "#a6ccba"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#a9d1bc"
+UTI_C_lit_COL: "#a8cfbb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.96
+UTI_C_lit: 0.97
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -98,8 +98,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 127.75 | -38.667 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 127.842 | -38.65 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 127.795 | -38.671 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 127.275 | -38.5 | -- | -- | -- | -- 
-N_rows_pos: "34"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 127.275 | -38.5 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 127.795 | -38.671 | -- | -- | -- | -- 
+N_rows_pos: "35"
 cds_radec: 127.83025,-38.6461
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

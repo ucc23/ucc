@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 89
 title_flag: true
-more_names: MWSC 838
+more_names: Gem Mov Cl; MWSC 838
 fname: collinder89
 members_file: "188_192"
 fov: 0.24
@@ -18,12 +18,12 @@ UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#d3ecc9"
+UTI_C_lit_COL: "#d0eac9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 0.07
 UTI_C_C3: 0.5
-UTI_C_lit: 0.76
+UTI_C_lit: 0.77
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -84,8 +84,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 94.87 | 23.3 | -- | 0.42 | -2.15 | 26.23 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 94.87 | 23.28 | -- | 0.35 | -1.53 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 94.5 | 23.633 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 94.52 | 23.632 | -- | -- | -- | -- 
-N_rows_pos: "22"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 94.52 | 23.632 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 94.52 | 23.632 | -- | -- | -- | -- 
+N_rows_pos: "23"
 cds_radec: 94.72342,+23.19712
 carousel: UCC_HUNT23
 fpars_table: |
@@ -110,7 +111,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.80 | 1.51 | -- | 32 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.67 | 0.63 | -- | -- | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.30 | 1.83 | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "18"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 1.30 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

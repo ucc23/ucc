@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 205
 title_flag: true
-more_names: Markarian 18; MWSC 1613; FoF 984; Mrk 18
+more_names: Markarian 18; VDBH 57; MWSC 1613; FoF 984; Mrk 18
 fname: collinder205
 members_file: "268_272"
 fov: 0.093
@@ -104,8 +104,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 135.133 | -48.983 | -- | -3.86 | 6.5 | 8.5 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 135.133 | -48.983 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 135.127 | -48.988 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 134.725 | -48.783 | -- | -- | -- | -- 
-N_rows_pos: "39"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 134.725 | -48.783 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 135.127 | -48.988 | -- | -- | -- | -- 
+N_rows_pos: "40"
 cds_radec: 135.12282,-48.9837
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

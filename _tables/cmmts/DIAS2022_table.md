@@ -41,7 +41,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ngc6840/" target="_blank" style="color: $blue;">NGC 6840</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6858/" target="_blank" style="color: $blue;">NGC 6858</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6938/" target="_blank" style="color: $blue;">NGC 6938</a> | Likely not a real open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht114/" target="_blank" style="color: red;">Ruprecht 114</a> | Likely not a real open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht114/" target="_blank" style="color: $blue;">Ruprecht 114</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht116/" target="_blank" style="color: $blue;">Ruprecht 116</a> | Likely not a real open cluster. |
 
 

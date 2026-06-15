@@ -13,17 +13,17 @@ glon: 86.12233
 glat: -1.42948
 r50: 1.3
 plx: 0.0976
-UTI: "0.50"
-UTI_COLOR: "#fefee8"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#fefce4"
 UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f3fad8"
+UTI_C_lit_COL: "#f0f8d5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.48
 UTI_C_dens: 0.11
 UTI_C_C3: 0.75
-UTI_C_lit: 0.59
+UTI_C_lit: 0.61
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -75,8 +75,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 315.8 | 44.583 | -- | -3.13 | -1.47 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 315.76 | 44.58 | -- | -0.5 | -0.55 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 315.8 | 44.583 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 315.799 | 44.582 | -- | -- | -- | -- 
-N_rows_pos: "15"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 315.799 | 44.582 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 315.799 | 44.582 | -- | -- | -- | -- 
+N_rows_pos: "16"
 cds_radec: 315.74109,+44.50322
 carousel: UCC_HUNT23
 fpars_table: |
@@ -94,7 +95,8 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2016 | 1.00 | 0.32 | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.00 | 0.32 | -- | -- | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.48 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "11"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.48 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

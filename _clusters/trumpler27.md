@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Trumpler 27
 title_flag: true
-more_names: MWSC 2639
+more_names: VDBH 237; MWSC 2639
 fname: trumpler27
 members_file: "352_356"
 fov: 0.097
@@ -18,12 +18,12 @@ UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#d3ecc9"
+UTI_C_lit_COL: "#d0eac9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.76
+UTI_C_lit: 0.77
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -83,8 +83,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 264.04 | -33.48 | -- | -1.91 | -0.67 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.083 | -33.517 | -- | -0.92 | -0.57 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 264.045 | -33.489 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 263.225 | -33.45 | -- | -- | -- | -- 
-N_rows_pos: "24"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 263.225 | -33.45 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 264.045 | -33.489 | -- | -- | -- | -- 
+N_rows_pos: "25"
 cds_radec: 264.08066,-33.50215
 carousel: UCC
 fpars_table: |

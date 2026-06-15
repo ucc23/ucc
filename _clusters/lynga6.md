@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Lynga 6
 title_flag: true
-more_names: MWSC 2348
+more_names: VDBH 182; MWSC 2348
 fname: lynga6
 members_file: "328_332"
 fov: 0.177
@@ -18,12 +18,12 @@ UTI_COLOR: "#aad2bd"
 UTI_C_N_COL: "#b4ddc3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#acd6bf"
+UTI_C_lit_COL: "#abd4be"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.88
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.93
+UTI_C_lit: 0.94
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -96,8 +96,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 241.217 | -51.933 | -- | -13.61 | -1.83 | -59.4 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 241.217 | -51.933 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 241.2 | -51.92 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 240.25 | -51.817 | -- | -- | -- | -- 
-N_rows_pos: "32"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 240.25 | -51.817 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 241.2 | -51.92 | -- | -- | -- | -- 
+N_rows_pos: "33"
 cds_radec: 241.21251,-51.95858
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

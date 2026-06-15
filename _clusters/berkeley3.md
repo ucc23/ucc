@@ -1,10 +1,10 @@
 ---
 layout: layout_cluster
 style: style_cluster
-title: Stock 24
+title: Berkeley 3
 title_flag: true
-more_names: MWSC 63
-fname: stock24
+more_names: Stock 24; MWSC 63
+fname: berkeley3
 members_file: "120_124"
 fov: 0.09
 ra_icrs: 9.93976
@@ -13,17 +13,17 @@ glon: 121.56158
 glat: -0.87416
 r50: 2.7
 plx: 0.3182
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#b7dfc3"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.87
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Stock 24</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the distance and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
+    <b>Berkeley 3</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the distance and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -60,7 +60,7 @@ N_comments: "7"
 rc_val: 1.3
 dens_val: 6.5
 N_membs_val: 174
-scix_url: Stock%2024
+scix_url: Berkeley%203
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -92,14 +92,15 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 9.925 | 61.95 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 9.925 | 61.95 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 9.925 | 61.95 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 9.919 | 61.96 | -- | -- | -- | -- 
-N_rows_pos: "28"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 9.919 | 61.96 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 9.919 | 61.96 | -- | -- | -- | -- 
+N_rows_pos: "29"
 cds_radec: 9.93976,+61.96703
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.81 | 1.74 | 2.11 | 100 | 0.000 | 439 | 0.64 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.75 | 1.74 | 2.11 | 100 | 0.000 | 439 | 0.64 | 0 |
     | [Schweers & McSwain](https://scixplorer.org/abs/2026ApJ..1000..145S) | 2026 | 32.31 | -- | -- | 100 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.60 | 1.79 | -- | 132 | -- | 368 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.69 | 1.82 | 2.11 | 86 | -- | 864<sup>(1)</sup> | -- | -- |
@@ -126,7 +127,8 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.82 | 1.58 | -- | 120 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.82 | 1.58 | -- | 120 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.90 | 1.83 | -- | 3 | -- | -- | -- | -- |
-N_rows_pars: "26"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 1.90 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "27"
 note_asterisk: true
 shared_table: |
 

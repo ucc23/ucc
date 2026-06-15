@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 132
 title_flag: true
-more_names: vdB-Hagen 132; van den Bergh-Hagen 132; BH 132; vdBergh-Hagen 132; MWSC 2032
+more_names: van den Bergh-Hagen 132; BH 132; vdBergh-Hagen 132; MWSC 2032; vdB-Hagen 132
 fname: vdbh132
 members_file: "300_304"
 fov: 0.083
@@ -13,17 +13,17 @@ glon: 300.25816
 glat: -1.31352
 r50: 2.5
 plx: 0.3685
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#d7eec9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#c9e7c8"
+UTI_C_lit_COL: "#cce9c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense

@@ -101,8 +101,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 270.16 | 2.93 | -- | -0.44 | -7.61 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 270.275 | 2.9 | -- | 0.14 | -9.1 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 270.275 | 2.9 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 270.255 | 2.911 | -- | -- | -- | -- 
-N_rows_pos: "39"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 270.255 | 2.911 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 270.255 | 2.911 | -- | -- | -- | -- 
+N_rows_pos: "40"
 cds_radec: 270.41441,+3.16458
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -147,7 +148,8 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.25 | 0.61 | -- | 32 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.31 | 0.66 | -- | 16 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.20 | 0.00 | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "38"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.20 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "39"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

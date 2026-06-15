@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Ruprecht 85
 title_flag: true
-more_names: VDBH83; FSR 1520; MWSC 1746; OCL 799; vdBergh-Hagen 83; ESO 167 15
+more_names: VDBH 83; FSR 1520; MWSC 1746; OCL 799; vdBergh-Hagen 83; ESO 167 15
 fname: ruprecht85
 members_file: "280_284"
 fov: 0.077
@@ -18,12 +18,12 @@ UTI_COLOR: "#aad2bd"
 UTI_C_N_COL: "#bce1c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.85
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -94,8 +94,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 150.42 | -55.01 | -- | -5.05 | 5.57 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 150.358 | -55.117 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 150.426 | -55.045 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 149.975 | -54.8 | -- | -- | -- | -- 
-N_rows_pos: "31"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 149.975 | -54.8 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 150.426 | -55.045 | -- | -- | -- | -- 
+N_rows_pos: "32"
 cds_radec: 150.35989,-55.11115
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

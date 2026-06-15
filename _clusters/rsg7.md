@@ -105,7 +105,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 7429](/_clusters/ngc7429/)| 55.1 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.7 |
+    |[NGC 7429](/_clusters/ngc7429/)| 55.1 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.71 |
     |[CWWDL 14637](/_clusters/cwwdl14637/)| 31.6 | 343.95 | 59.81 | 2.37 | 4.78 | -2.24 | -12.62 |0.0 |
     |[CWWDL 14638](/_clusters/cwwdl14638/)| 26.6 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.07 |
     |[CWWDL 14622](/_clusters/cwwdl14622/)| 4.4 | 345.68 | 58.22 | 2.25 | 5.43 | -1.31 | -8.93 |0.26 |

@@ -80,6 +80,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Dolidze 42](/_clusters/dolidze42/)| 4.0 | 304.98 | 38.1 | 0.87 | -2.97 | -7.32 | 10.15 |0.33 |
+    |[Dolidze 42](/_clusters/dolidze42/)| 4.0 | 304.98 | 38.1 | 0.87 | -2.97 | -7.32 | 10.15 |0.34 |
 N_rows_shared: "1"
 ---

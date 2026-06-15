@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 205
 title_flag: true
-more_names: vdB-Hagen 205; van den Bergh-Hagen 205; vdBergh-Hagen 205; BH 205
+more_names: van den Bergh-Hagen 205; vdB-Hagen 205; vdBergh-Hagen 205; BH 205
 fname: vdbh205
 members_file: "344_348"
 fov: 0.107
@@ -18,12 +18,12 @@ UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#ceeac8"
+UTI_C_lit_COL: "#d0eac9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.78
+UTI_C_lit: 0.77
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense

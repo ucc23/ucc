@@ -106,8 +106,9 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 305.095 | 38.743 | -- | -3.8 | -4.11 | -19.3 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 305.1 | 38.7 | -- | -4.09 | -4.54 | -19.3 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 305.05 | 38.69 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 305.108 | 38.687 | -- | -- | -- | -- 
-N_rows_pos: "40"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 305.108 | 38.687 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 305.108 | 38.687 | -- | -- | -- | -- 
+N_rows_pos: "41"
 cds_radec: 305.08081,+38.70651
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

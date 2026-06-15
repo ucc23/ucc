@@ -107,8 +107,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 203.058 | -62.8 | -- | -- | -- | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 203.05 | -62.8 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 203.05 | -62.804 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 202.2 | -62.533 | -- | -- | -- | -- 
-N_rows_pos: "41"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 202.2 | -62.533 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 203.05 | -62.804 | -- | -- | -- | -- 
+N_rows_pos: "42"
 cds_radec: 203.0571,-62.78663
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -152,7 +153,8 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.26 | 0.62 | -- | 50 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.13 | 0.68 | -- | 40 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.10 | 0.63 | -- | 63 | -- | -- | -- | -- |
-N_rows_pars: "37"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 1.10 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "38"
 note_asterisk: true
 shared_table: |
 

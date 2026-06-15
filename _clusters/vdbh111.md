@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 111
 title_flag: true
-more_names: vdB-Hagen 111; van den Bergh-Hagen 111; vdBergh-Hagen 111; BH 111; MWSC 1901; ESO 093 05
+more_names: van den Bergh-Hagen 111; vdB-Hagen 111; vdBergh-Hagen 111; BH 111; MWSC 1901; ESO 093 05
 fname: vdbh111
 members_file: "288_292"
 fov: 0.07
@@ -18,12 +18,12 @@ UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 0.94
 UTI_C_C3: 0.75
-UTI_C_lit: 0.85
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense

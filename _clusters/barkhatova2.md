@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Barkhatova 2
 title_flag: true
-more_names: Baractova 2; MWSC 3552
+more_names: Barhatova 2; Baractova 2; MWSC 3552
 fname: barkhatova2
 members_file: "92_96"
 fov: 0.233
@@ -13,17 +13,17 @@ glon: 95.544
 glat: -1.52408
 r50: 7.0
 plx: 0.2753
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f5fbdc"
+UTI_C_lit_COL: "#f3fad8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.02
 UTI_C_C3: 0.25
-UTI_C_lit: 0.57
+UTI_C_lit: 0.59
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -70,8 +70,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 325.917 | 51.07 | -- | -2.2 | -3.53 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 325.879 | 51.059 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 326.075 | 51.217 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 326.079 | 51.213 | -- | -- | -- | -- 
-N_rows_pos: "13"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 326.079 | 51.213 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 326.067 | 51.206 | -- | -- | -- | -- 
+N_rows_pos: "14"
 cds_radec: 325.85468,+51.04826
 carousel: UCC
 fpars_table: |

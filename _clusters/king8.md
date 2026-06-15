@@ -104,14 +104,15 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 87.35 | 33.633 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 87.348 | 33.638 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 87.35 | 33.633 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 87.354 | 33.629 | -- | -- | -- | 0.0 
-N_rows_pos: "40"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 87.354 | 33.629 | -- | -- | -- | 0.0 |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 87.354 | 33.629 | -- | -- | -- | -- 
+N_rows_pos: "41"
 cds_radec: 87.32417,+33.63253
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.52 | 1.83 | 2.08 | 822 | -0.319 | 1517 | -- | 3 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.365 | 1.83 | 2.08 | 822 | -0.319 | 1517 | -- | 3 |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 832 | -0.220<sup>(15)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 4.58 | 2.05 | -- | 925 | -0.151 | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 830 | -0.180 | -- | -- | -- |
@@ -150,7 +151,8 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 6.40 | 1.83 | -- | 410 | -0.460<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.40 | 1.83 | -- | 415 | -0.460 | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 3.50 | 2.62 | -- | 794 | -0.500 | -- | -- | -- |
-N_rows_pars: "38"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 4.15 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "39"
 note_asterisk: true
 shared_table: |
 

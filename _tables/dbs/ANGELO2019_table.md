@@ -8,7 +8,7 @@ style: style
 &nbsp;
 # [Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A)
 
-This database consists of 23 entries, of which 26% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+This database consists of 23 entries, of which 22% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
 
 
 
@@ -23,7 +23,7 @@ This database consists of 23 entries, of which 26% are classified as [likely non
 | <a href="{{ site.baseurl }}/_clusters/eso43548/" target="_blank" style="color: red;">ESO 435 48</a> | 152.47 | -28.41 | 264.9 | 22.25 | 0.46 | 23 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> | 0.0 | 0.11 |
 | <a href="{{ site.baseurl }}/_clusters/lynga8/" target="_blank" style="color: $blue;">Lynga 8</a> | 245.01 | -50.2 | 333.26 | -0.02 | 0.42 | 19 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.25 |
 | <a href="{{ site.baseurl }}/_clusters/ngc1582/" target="_blank" style="color: $blue;">NGC 1582</a> | 67.97 | 43.72 | 159.33 | -3.02 | 1.01 | 112 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.85 |
-| <a href="{{ site.baseurl }}/_clusters/ngc1663/" target="_blank" style="color: $blue;">NGC 1663</a> | 72.34 | 13.11 | 185.91 | -19.66 | 0.13 | 16 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.29 |
+| <a href="{{ site.baseurl }}/_clusters/ngc1663/" target="_blank" style="color: $blue;">NGC 1663</a> | 72.34 | 13.11 | 185.91 | -19.66 | 0.13 | 16 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.3 |
 | <a href="{{ site.baseurl }}/_clusters/ngc188/" target="_blank" style="color: $blue;">NGC 188</a> | 11.79 | 85.24 | 122.84 | 22.37 | 0.52 | 1337 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ngc1901/" target="_blank" style="color: $blue;">NGC 1901</a> | 79.53 | -68.31 | 278.87 | -33.63 | 2.39 | 116 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.85 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2180/" target="_blank" style="color: $blue;">NGC 2180</a> | 92.45 | 4.79 | 203.85 | -7.0 | 0.2 | 20 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.28 |
@@ -35,7 +35,7 @@ This database consists of 23 entries, of which 26% are classified as [likely non
 | <a href="{{ site.baseurl }}/_clusters/ngc7036/" target="_blank" style="color: $blue;">NGC 7036</a> | 317.49 | 15.52 | 64.54 | -21.42 | 0.2 | 24 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.2 |
 | <a href="{{ site.baseurl }}/_clusters/ngc7193/" target="_blank" style="color: $blue;">NGC 7193</a> | 330.74 | 10.81 | 70.09 | -34.26 | 0.44 | 26 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> | 0.0 | 0.19 |
 | <a href="{{ site.baseurl }}/_clusters/ngc752/" target="_blank" style="color: $blue;">NGC 752</a> | 29.22 | 37.8 | 136.95 | -23.3 | 2.27 | 358 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht3/" target="_blank" style="color: red;">Ruprecht 3</a> | 100.48 | -29.47 | 238.76 | -14.83 | 0.15 | 19 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.15 |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht3/" target="_blank" style="color: $blue;">Ruprecht 3</a> | 100.48 | -29.47 | 238.76 | -14.83 | 0.15 | 19 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.18 |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht31/" target="_blank" style="color: $blue;">Ruprecht 31</a> | 115.71 | -35.3 | 249.74 | -5.99 | 2.3 | 26 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.46 |
 
 

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 8
 title_flag: true
-more_names: MWSC 1533; FoF 2088
+more_names: Pishmish 8; VDBH 44; MWSC 1533; FoF 2088
 fname: pismis8
 members_file: "264_268"
 fov: 0.187
@@ -18,12 +18,12 @@ UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#d7eec9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#acd6bf"
+UTI_C_lit_COL: "#abd4be"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.93
+UTI_C_lit: 0.94
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -95,8 +95,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 130.4 | -46.267 | -- | -- | -- | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 130.396 | -46.273 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 130.34 | -46.296 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 129.95 | -46.1 | -- | -- | -- | -- 
-N_rows_pos: "30"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 129.95 | -46.1 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 130.34 | -46.296 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 130.39111,-46.27355
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

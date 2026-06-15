@@ -13,17 +13,17 @@ glon: 287.66983
 glat: -1.04709
 r50: 3.5
 plx: 0.3986
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.72"
+UTI_COLOR: "#dbefca"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#c2e4c6"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e3f3cd"
+UTI_C_lit_COL: "#e0f1cb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 0.83
 UTI_C_C3: 0.75
-UTI_C_lit: 0.68
+UTI_C_lit: 0.7
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -81,8 +81,9 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 160.749 | -59.966 | -- | -6.55 | 2.03 | -12.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 160.517 | -59.917 | -- | -6.55 | 2.03 | -12.0 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 161.0 | -60.087 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 160.755 | -60.002 | -- | -- | -- | -- 
-N_rows_pos: "20"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 160.755 | -60.002 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 160.755 | -60.002 | -- | -- | -- | -- 
+N_rows_pos: "21"
 cds_radec: 161.00909,-60.08967
 carousel: UCC_HUNT23
 fpars_table: |

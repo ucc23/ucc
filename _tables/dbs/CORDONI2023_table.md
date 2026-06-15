@@ -8,8 +8,6 @@ style: style
 &nbsp;
 # [Cordoni et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A..29C)
 
-This database consists of 78 entries, of which 1% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)).
-
 
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
@@ -17,10 +15,10 @@ This database consists of 78 entries, of which 1% are probable duplicates ([P<su
 | <a href="{{ site.baseurl }}/_clusters/alessi12/" target="_blank" style="color: $blue;">Alessi 12</a> | 310.88 | 23.79 | 67.44 | -11.5 | 1.84 | 303 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.84 |
 | <a href="{{ site.baseurl }}/_clusters/alessi33/" target="_blank" style="color: $blue;">Alessi 33</a> | 105.74 | -26.48 | 237.96 | -9.38 | 1.25 | 210 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.8 |
 | <a href="{{ site.baseurl }}/_clusters/collinder258/" target="_blank" style="color: $blue;">Collinder 258</a> | 186.81 | -60.78 | 299.98 | 1.96 | 0.8 | 119 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
-| <a href="{{ site.baseurl }}/_clusters/collinder394/" target="_blank" style="color: $blue;">Collinder 394</a> | 283.19 | -20.15 | 14.99 | -9.33 | 1.38 | 628 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.86 | 0.14 |
+| <a href="{{ site.baseurl }}/_clusters/collinder394/" target="_blank" style="color: $blue;">Collinder 394</a> | 283.19 | -20.15 | 14.99 | -9.33 | 1.38 | 628 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/collinder463/" target="_blank" style="color: $blue;">Collinder 463</a> | 27.14 | 71.72 | 127.43 | 9.35 | 1.15 | 535 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.96 |
 | <a href="{{ site.baseurl }}/_clusters/haffner13/" target="_blank" style="color: $blue;">Haffner 13</a> | 115.22 | -30.08 | 245.03 | -3.61 | 1.78 | 484 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.98 |
-| <a href="{{ site.baseurl }}/_clusters/haffner22/" target="_blank" style="color: $blue;">Haffner 22</a> | 123.1 | -27.92 | 246.78 | 3.36 | 0.35 | 492 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.94 |
+| <a href="{{ site.baseurl }}/_clusters/haffner22/" target="_blank" style="color: $blue;">Haffner 22</a> | 123.1 | -27.92 | 246.78 | 3.36 | 0.35 | 492 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.95 |
 | <a href="{{ site.baseurl }}/_clusters/haffner26/" target="_blank" style="color: $blue;">Haffner 26</a> | 123.9 | -30.85 | 249.62 | 2.32 | 0.32 | 140 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.75 |
 | <a href="{{ site.baseurl }}/_clusters/ic2488/" target="_blank" style="color: $blue;">IC 2488</a> | 141.87 | -57.01 | 277.82 | -4.44 | 0.73 | 575 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ic2714/" target="_blank" style="color: $blue;">IC 2714</a> | 169.38 | -62.71 | 292.4 | -1.78 | 0.74 | 1345 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
@@ -41,7 +39,7 @@ This database consists of 78 entries, of which 1% are probable duplicates ([P<su
 | <a href="{{ site.baseurl }}/_clusters/ngc2302/" target="_blank" style="color: $blue;">NGC 2302</a> | 102.98 | -7.09 | 219.3 | -3.11 | 0.82 | 145 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2323/" target="_blank" style="color: $blue;">NGC 2323</a> | 105.7 | -8.36 | 221.66 | -1.3 | 1.01 | 781 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2353/" target="_blank" style="color: $blue;">NGC 2353</a> | 108.64 | -10.25 | 224.68 | 0.4 | 0.83 | 281 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.91 |
-| <a href="{{ site.baseurl }}/_clusters/ngc2358/" target="_blank" style="color: $blue;">NGC 2358</a> | 109.27 | -17.16 | 231.07 | -2.26 | 1.07 | 144 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.82 |
+| <a href="{{ site.baseurl }}/_clusters/ngc2358/" target="_blank" style="color: $blue;">NGC 2358</a> | 109.27 | -17.16 | 231.07 | -2.26 | 1.07 | 144 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.81 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2360/" target="_blank" style="color: $blue;">NGC 2360</a> | 109.44 | -15.63 | 229.81 | -1.41 | 0.92 | 1227 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2374/" target="_blank" style="color: $blue;">NGC 2374</a> | 111.01 | -13.25 | 228.42 | 1.04 | 0.77 | 104 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.78 |
 | <a href="{{ site.baseurl }}/_clusters/ngc2396/" target="_blank" style="color: $blue;">NGC 2396</a> | 111.98 | -11.72 | 227.51 | 2.61 | 0.68 | 236 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.8 |

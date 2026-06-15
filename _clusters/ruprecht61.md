@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Ruprecht 61
 title_flag: true
-more_names: 
+more_names: VDBH 32
 fname: ruprecht61
 members_file: "252_256"
 fov: 0.093
@@ -13,17 +13,17 @@ glon: 253.49275
 glat: 2.14671
 r50: 2.8
 plx: 0.2604
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.80"
+UTI_COLOR: "#c9e7c8"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#dbefca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.7
+UTI_C_lit: 0.72
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -81,8 +81,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 126.317 | -34.143 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 126.321 | -34.15 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 126.238 | -34.167 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 125.75 | -34.033 | -- | -- | -- | -- 
-N_rows_pos: "20"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 125.75 | -34.033 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 126.238 | -34.167 | -- | -- | -- | -- 
+N_rows_pos: "21"
 cds_radec: 126.32938,-34.14263
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

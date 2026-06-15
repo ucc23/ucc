@@ -167,6 +167,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/berkeley27/" target="_blank" style="color: $blue;">Berkeley 27</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley28/" target="_blank" style="color: $blue;">Berkeley 28</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley29/" target="_blank" style="color: $blue;">Berkeley 29</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/berkeley3/" target="_blank" style="color: $blue;">Berkeley 3</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley30/" target="_blank" style="color: $blue;">Berkeley 30</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley31/" target="_blank" style="color: $blue;">Berkeley 31</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley32/" target="_blank" style="color: $blue;">Berkeley 32</a> | Gold sample. |
@@ -3433,6 +3434,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ic2948/" target="_blank" style="color: $blue;">IC 2948</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic348/" target="_blank" style="color: $blue;">IC 348</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic361/" target="_blank" style="color: $blue;">IC 361</a> | Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic4291/" target="_blank" style="color: $blue;">IC 4291</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic4651/" target="_blank" style="color: $blue;">IC 4651</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic4665/" target="_blank" style="color: $blue;">IC 4665</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic4725/" target="_blank" style="color: $blue;">IC 4725</a> | Gold sample. |
@@ -3536,8 +3538,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/lynga15/" target="_blank" style="color: $blue;">Lynga 15</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/lynga2/" target="_blank" style="color: $blue;">Lynga 2</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/lynga3/" target="_blank" style="color: $blue;">Lynga 3</a> | Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/lynga4/" target="_blank" style="color: $blue;">Lynga 4</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/lynga5/" target="_blank" style="color: $blue;">Lynga 5</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/lynga6/" target="_blank" style="color: $blue;">Lynga 6</a> | Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/lynga9/" target="_blank" style="color: $blue;">Lynga 9</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/mf1/" target="_blank" style="color: red;">MF 1</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/majaess133/" target="_blank" style="color: $blue;">Majaess 133</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/majaess160/" target="_blank" style="color: red;">Majaess 160</a> | Wood sample. |
@@ -4191,7 +4195,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/pismis15/" target="_blank" style="color: $blue;">Pismis 15</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis16/" target="_blank" style="color: $blue;">Pismis 16</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis17/" target="_blank" style="color: $blue;">Pismis 17</a> | Bronze sample. |
-| <a href="{{ site.baseurl }}/_clusters/pismis18/" target="_blank" style="color: $blue;">Pismis 18</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis19/" target="_blank" style="color: $blue;">Pismis 19</a> | Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis2/" target="_blank" style="color: $blue;">Pismis 2</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis20/" target="_blank" style="color: $blue;">Pismis 20</a> | Silver sample. |
@@ -4381,7 +4384,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/stock20/" target="_blank" style="color: $blue;">Stock 20</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/stock21/" target="_blank" style="color: $blue;">Stock 21</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/stock23/" target="_blank" style="color: $blue;">Stock 23</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/stock24/" target="_blank" style="color: $blue;">Stock 24</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/stock4/" target="_blank" style="color: $blue;">Stock 4</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/stock5/" target="_blank" style="color: $blue;">Stock 5</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/stock7/" target="_blank" style="color: $blue;">Stock 7</a> | Gold sample. |
@@ -6112,8 +6114,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/vdbh151/" target="_blank" style="color: $blue;">VDBH 151</a> | Bronze sample. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh164/" target="_blank" style="color: $blue;">VDBH 164</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh166/" target="_blank" style="color: $blue;">VDBH 166</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/vdbh174/" target="_blank" style="color: $blue;">VDBH 174</a> | Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/vdbh189/" target="_blank" style="color: $blue;">VDBH 189</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh19/" target="_blank" style="color: $blue;">VDBH 19</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh200/" target="_blank" style="color: $blue;">VDBH 200</a> | Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh211/" target="_blank" style="color: $blue;">VDBH 211</a> | Gold sample. |

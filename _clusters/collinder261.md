@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 261
 title_flag: true
-more_names: VDBH 136; Harvard 6; MWSC 2055; OCL 889; vdBergh-Hagen 136; ESO 065 02; FSR 1627; FoF 45
+more_names: Harvard 6; VDBH 136; MWSC 2055; OCL 889; vdBergh-Hagen 136; ESO 065 02; FSR 1627; FoF 45
 fname: collinder261
 members_file: "300_304"
 fov: 0.197
@@ -108,8 +108,9 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 189.479 | -68.359 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 189.487 | -68.367 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 189.489 | -68.479 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 188.725 | -68.2 | -- | -- | -- | -- 
-N_rows_pos: "42"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 188.725 | -68.2 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 189.49 | -68.469 | -- | -- | -- | -- 
+N_rows_pos: "43"
 cds_radec: 189.51868,-68.3791
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

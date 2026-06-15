@@ -13,17 +13,17 @@ glon: 320.76251
 glat: 6.41176
 r50: 4.9
 plx: 0.5525
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#fddbc4"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#abd4be"
+UTI_C_lit_COL: "#aad2bd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 0.27
 UTI_C_C3: 0.75
-UTI_C_lit: 0.94
+UTI_C_lit: 0.95
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -94,8 +94,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 222.679 | -52.267 | -- | -1.36 | -3.34 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 222.675 | -52.267 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 222.654 | -52.27 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 221.8 | -52.05 | -- | -- | -- | -- 
-N_rows_pos: "32"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 221.8 | -52.05 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 222.654 | -52.27 | -- | -- | -- | -- 
+N_rows_pos: "33"
 cds_radec: 222.6946,-52.27059
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -132,7 +133,8 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.53 | 1.59 | -- | 57 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.10 | 1.55 | -- | 79 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.10 | 1.58 | -- | 50 | -- | -- | -- | -- |
-N_rows_pars: "30"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 1.10 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "31"
 note_asterisk: true
 shared_table: |
 

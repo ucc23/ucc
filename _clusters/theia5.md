@@ -82,6 +82,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 34](/_clusters/ocsn34/)| 100.0 | 315.44 | 68.16 | 2.91 | 7.44 | -1.39 | -21.36 |0.11 |
-    |[NGC 7023](/_clusters/ngc7023/)| 94.4 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.44 |
+    |[NGC 7023](/_clusters/ngc7023/)| 94.4 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.46 |
 N_rows_shared: "2"
 ---

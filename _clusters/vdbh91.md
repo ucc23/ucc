@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 91
 title_flag: true
-more_names: vdB-Hagen 91; van den Bergh-Hagen 91; vdBergh-Hagen 91; BH 91; MWSC 1787
+more_names: van den Bergh-Hagen 91; vdB-Hagen 91; vdBergh-Hagen 91; BH 91; MWSC 1787
 fname: vdbh91
 members_file: "284_288"
 fov: 0.2

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Trumpler 18
 title_flag: true
-more_names: MWSC 1911; FoF 1526
+more_names: VDBH 113; MWSC 1911; FoF 1526
 fname: trumpler18
 members_file: "288_292"
 fov: 0.167
@@ -106,8 +106,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 167.867 | -60.667 | -- | -8.17 | 1.37 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 167.867 | -60.667 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 167.869 | -60.673 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 167.325 | -60.4 | -- | -- | -- | -- 
-N_rows_pos: "41"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 167.325 | -60.4 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 167.869 | -60.673 | -- | -- | -- | -- 
+N_rows_pos: "42"
 cds_radec: 167.83023,-60.63684
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -150,7 +151,8 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.36 | 0.99 | -- | 16 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.00 | 1.13 | -- | 20 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 2.50 | 1.04 | -- | 25 | -- | -- | -- | -- |
-N_rows_pars: "36"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 2.50 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "37"
 note_asterisk: true
 shared_table: |
 

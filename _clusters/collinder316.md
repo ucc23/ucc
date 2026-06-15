@@ -13,17 +13,17 @@ glon: 344.36193
 glat: 1.75973
 r50: 3.7
 plx: 0.6043
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.31
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -64,8 +64,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 253.68 | -40.76 | -- | -0.89 | -4.33 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 253.875 | -40.833 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 253.865 | -40.831 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 253.0 | -40.75 | -- | -- | -- | -- 
-N_rows_pos: "7"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 253.0 | -40.75 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 253.865 | -40.831 | -- | -- | -- | -- 
+N_rows_pos: "8"
 cds_radec: 253.69738,-40.75954
 carousel: UCC
 fpars_table: |
@@ -79,7 +80,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 323](/_clusters/ubc323/)| 78.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.4 |
-    |[ESO 332 08](/_clusters/eso33208/)| 46.6 | 253.7 | -40.76 | 0.58 | -0.27 | -1.34 | -18.45 |0.14 |
+    |[ESO 332 08](/_clusters/eso33208/)| 46.6 | 253.7 | -40.76 | 0.58 | -0.27 | -1.34 | -18.45 |0.13 |
     |[OC 0674](/_clusters/oc0674/)| 34.2 | 253.7 | -40.77 | 0.6 | -0.28 | -1.29 | -22.14 |0.0 |
 N_rows_shared: "3"
 ---

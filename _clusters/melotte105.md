@@ -98,8 +98,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 169.875 | -63.5 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 169.925 | -63.483 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 169.866 | -63.514 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 169.325 | -63.233 | -- | -- | -- | -- 
-N_rows_pos: "34"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 169.325 | -63.233 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 169.866 | -63.514 | -- | -- | -- | -- 
+N_rows_pos: "35"
 cds_radec: 169.92198,-63.48478
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -136,7 +137,8 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.21 | 1.51 | -- | 209 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.21 | 1.52 | -- | 207 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 2.10 | 1.14 | -- | 59 | -- | -- | -- | -- |
-N_rows_pars: "30"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 2.10 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "31"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

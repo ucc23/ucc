@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 332
 title_flag: true
-more_names: VDBH 230; Harvard 16; MWSC 2616; OCL 1012; OCL 1010; vdBergh-Hagen 230; ESO 393 02; FoF 865
+more_names: Harvard 16; VDBH 230; MWSC 2616; OCL 1012; OCL 1010; vdBergh-Hagen 230; ESO 393 02; FoF 865
 fname: collinder332
 members_file: "348_352"
 fov: 0.213
@@ -13,17 +13,17 @@ glon: 351.71908
 glat: -1.62591
 r50: 6.4
 plx: 0.6347
-UTI: "0.90"
-UTI_COLOR: "#afdbc1"
+UTI: "0.91"
+UTI_COLOR: "#add9c0"
 UTI_C_N_COL: "#b4ddc3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#c2e4c6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.88
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.81
+UTI_C_lit: 0.83
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -90,8 +90,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 262.815 | -36.805 | -- | -2.7 | -0.4 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 262.7 | -37.083 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 262.699 | -37.077 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 262.0 | -36.817 | -- | -- | -- | -- 
-N_rows_pos: "26"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 262.0 | -36.817 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 262.699 | -37.077 | -- | -- | -- | -- 
+N_rows_pos: "27"
 cds_radec: 262.76872,-36.80998
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

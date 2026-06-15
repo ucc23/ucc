@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Melotte 111
 title_flag: true
-more_names: Collinder 256; Coma Ber; MWSC 2020; Coma Star; Coma Berenices; OCL 558
+more_names: Collinder 256; Com Mov Cl; Coma Ber; MWSC 2020; Coma Star; Coma Berenices; OCL 558
 fname: melotte111
 members_file: "220_224"
 fov: 26.85
@@ -108,8 +108,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 185.62 | 25.85 | -- | -11.03 | -9.0 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 186.27 | 26.099 | -- | -11.38 | -9.05 | -0.1 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 186.275 | 26.1 | -- | -10.84 | -3.2 | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 186.255 | 26.113 | -- | -- | -- | 0.0 
-N_rows_pos: "43"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 186.255 | 26.113 | -- | -- | -- | 0.0 |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 186.255 | 26.113 | -- | -- | -- | -- 
+N_rows_pos: "44"
 cds_radec: 185.06002,+25.47846
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -158,7 +159,8 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.10 | 0.04 | -- | 440 | -0.050<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.10 | 0.04 | -- | 449 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.09 | 0.00 | -- | 398 | -0.030 | -- | -- | -- |
-N_rows_pars: "42"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 0.08 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "43"
 note_asterisk: true
 shared_table: |
 

@@ -82,6 +82,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/berkeley2/" target="_blank" style="color: $blue;">Berkeley 2</a> | Tidal & Core radii: r_t=95+/-78.0 [pc], r_c=0.63+/-0.0 [pc]; stars within r_t: N~90 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley24/" target="_blank" style="color: $blue;">Berkeley 24</a> | Tidal & Core radii: r_t=36+/-38.8 [pc], r_c=0.25+/-0.0 [pc]; stars within r_t: N~119 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley28/" target="_blank" style="color: $blue;">Berkeley 28</a> | Tidal & Core radii: r_t=75+/-82.9 [pc], r_c=0.25+/-0.0 [pc]; stars within r_t: N~50 |
+| <a href="{{ site.baseurl }}/_clusters/berkeley3/" target="_blank" style="color: $blue;">Berkeley 3</a> | Tidal & Core radii: r_t=12+/-4.8 [pc], r_c=0.24+/-0.0 [pc]; stars within r_t: N~86 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley30/" target="_blank" style="color: $blue;">Berkeley 30</a> | Tidal & Core radii: r_t=79+/-82.0 [pc], r_c=0.32+/-0.0 [pc]; stars within r_t: N~59 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley31/" target="_blank" style="color: $blue;">Berkeley 31</a> | Tidal & Core radii: r_t=116+/-77.5 [pc], r_c=0.49+/-0.0 [pc]; stars within r_t: N~55 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley32/" target="_blank" style="color: $blue;">Berkeley 32</a> | Tidal & Core radii: r_t=32+/-28.7 [pc], r_c=0.87+/-0.04 [pc]; stars within r_t: N~291 |
@@ -458,6 +459,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ic2948/" target="_blank" style="color: $blue;">IC 2948</a> | Tidal & Core radii: r_t=14+/-0.6 [pc], r_c=0.61+/-0.02 [pc]; stars within r_t: N~452 |
 | <a href="{{ site.baseurl }}/_clusters/ic348/" target="_blank" style="color: $blue;">IC 348</a> | Tidal & Core radii: r_t=27+/-13.9 [pc], r_c=0.38+/-0.02 [pc]; stars within r_t: N~408 |
 | <a href="{{ site.baseurl }}/_clusters/ic361/" target="_blank" style="color: $blue;">IC 361</a> | Tidal & Core radii: r_t=20+/-5.3 [pc], r_c=1.01+/-0.01 [pc]; stars within r_t: N~356 |
+| <a href="{{ site.baseurl }}/_clusters/ic4291/" target="_blank" style="color: $blue;">IC 4291</a> | Tidal & Core radii: r_t=26+/-9.9 [pc], r_c=0.69+/-0.0 [pc]; stars within r_t: N~312 |
 | <a href="{{ site.baseurl }}/_clusters/ic4651/" target="_blank" style="color: $blue;">IC 4651</a> | Tidal & Core radii: r_t=31+/-4.8 [pc], r_c=0.9+/-0.01 [pc]; stars within r_t: N~826 |
 | <a href="{{ site.baseurl }}/_clusters/ic4665/" target="_blank" style="color: $blue;">IC 4665</a> | Tidal & Core radii: r_t=14+/-2.2 [pc], r_c=0.74+/-0.0 [pc]; stars within r_t: N~182 |
 | <a href="{{ site.baseurl }}/_clusters/ic4725/" target="_blank" style="color: $blue;">IC 4725</a> | Tidal & Core radii: r_t=27+/-5.1 [pc], r_c=0.97+/-0.01 [pc]; stars within r_t: N~701 |
@@ -503,6 +505,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/lynga2/" target="_blank" style="color: $blue;">Lynga 2</a> | Tidal & Core radii: r_t=20+/-8.6 [pc], r_c=0.61+/-0.01 [pc]; stars within r_t: N~178 |
 | <a href="{{ site.baseurl }}/_clusters/lynga5/" target="_blank" style="color: $blue;">Lynga 5</a> | Tidal & Core radii: r_t=17+/-4.2 [pc], r_c=0.69+/-0.04 [pc]; stars within r_t: N~241 |
 | <a href="{{ site.baseurl }}/_clusters/lynga6/" target="_blank" style="color: $blue;">Lynga 6</a> | Tidal & Core radii: r_t=77+/-60.5 [pc], r_c=0.76+/-0.0 [pc]; stars within r_t: N~295 |
+| <a href="{{ site.baseurl }}/_clusters/lynga9/" target="_blank" style="color: $blue;">Lynga 9</a> | Tidal & Core radii: r_t=17+/-2.8 [pc], r_c=0.91+/-0.01 [pc]; stars within r_t: N~403 |
 | <a href="{{ site.baseurl }}/_clusters/mamajek4/" target="_blank" style="color: $blue;">Mamajek 4</a> | Tidal & Core radii: r_t=200+/-0.0 [pc], r_c=0.5+/-0.0 [pc]; stars within r_t: N~215 |
 | <a href="{{ site.baseurl }}/_clusters/markarian38/" target="_blank" style="color: $blue;">Markarian 38</a> | Tidal & Core radii: r_t=200+/-0.3 [pc], r_c=0.75+/-0.0 [pc]; stars within r_t: N~224 |
 | <a href="{{ site.baseurl }}/_clusters/markarian50/" target="_blank" style="color: $blue;">Markarian 50</a> | Tidal & Core radii: r_t=149+/-78.4 [pc], r_c=0.55+/-0.0 [pc]; stars within r_t: N~71 |
@@ -830,7 +833,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/pismis11/" target="_blank" style="color: $blue;">Pismis 11</a> | Tidal & Core radii: r_t=180+/-51.2 [pc], r_c=0.36+/-0.0 [pc]; stars within r_t: N~135 |
 | <a href="{{ site.baseurl }}/_clusters/pismis12/" target="_blank" style="color: $blue;">Pismis 12</a> | Tidal & Core radii: r_t=36+/-16.2 [pc], r_c=0.75+/-0.0 [pc]; stars within r_t: N~271 |
 | <a href="{{ site.baseurl }}/_clusters/pismis15/" target="_blank" style="color: $blue;">Pismis 15</a> | Tidal & Core radii: r_t=22+/-8.7 [pc], r_c=0.63+/-0.01 [pc]; stars within r_t: N~210 |
-| <a href="{{ site.baseurl }}/_clusters/pismis18/" target="_blank" style="color: $blue;">Pismis 18</a> | Tidal & Core radii: r_t=26+/-9.9 [pc], r_c=0.69+/-0.0 [pc]; stars within r_t: N~312 |
 | <a href="{{ site.baseurl }}/_clusters/pismis19/" target="_blank" style="color: $blue;">Pismis 19</a> | Tidal & Core radii: r_t=58+/-35.7 [pc], r_c=0.6+/-0.0 [pc]; stars within r_t: N~751 |
 | <a href="{{ site.baseurl }}/_clusters/pismis2/" target="_blank" style="color: $blue;">Pismis 2</a> | Tidal & Core radii: r_t=24+/-18.9 [pc], r_c=0.61+/-0.01 [pc]; stars within r_t: N~215 |
 | <a href="{{ site.baseurl }}/_clusters/pismis27/" target="_blank" style="color: $blue;">Pismis 27</a> | Tidal & Core radii: r_t=90+/-72.3 [pc], r_c=0.49+/-0.0 [pc]; stars within r_t: N~95 |
@@ -958,7 +960,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/stock20/" target="_blank" style="color: $blue;">Stock 20</a> | Tidal & Core radii: r_t=147+/-76.1 [pc], r_c=0.52+/-0.0 [pc]; stars within r_t: N~152 |
 | <a href="{{ site.baseurl }}/_clusters/stock21/" target="_blank" style="color: $blue;">Stock 21</a> | Tidal & Core radii: r_t=23+/-26.3 [pc], r_c=0.45+/-0.01 [pc]; stars within r_t: N~88 |
 | <a href="{{ site.baseurl }}/_clusters/stock23/" target="_blank" style="color: $blue;">Stock 23</a> | Tidal & Core radii: r_t=121+/-65.7 [pc], r_c=0.37+/-0.0 [pc]; stars within r_t: N~111 |
-| <a href="{{ site.baseurl }}/_clusters/stock24/" target="_blank" style="color: $blue;">Stock 24</a> | Tidal & Core radii: r_t=12+/-4.8 [pc], r_c=0.24+/-0.0 [pc]; stars within r_t: N~86 |
 | <a href="{{ site.baseurl }}/_clusters/stock4/" target="_blank" style="color: $blue;">Stock 4</a> | Tidal & Core radii: r_t=60+/-37.0 [pc], r_c=0.59+/-0.0 [pc]; stars within r_t: N~129 |
 | <a href="{{ site.baseurl }}/_clusters/stock5/" target="_blank" style="color: $blue;">Stock 5</a> | Tidal & Core radii: r_t=15+/-13.9 [pc], r_c=0.32+/-0.11 [pc]; stars within r_t: N~157 |
 | <a href="{{ site.baseurl }}/_clusters/stock7/" target="_blank" style="color: $blue;">Stock 7</a> | Tidal & Core radii: r_t=97+/-64.8 [pc], r_c=0.59+/-0.0 [pc]; stars within r_t: N~186 |
@@ -1471,7 +1472,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/vdbh150/" target="_blank" style="color: $blue;">VDBH 150</a> | Tidal & Core radii: r_t=42+/-60.5 [pc], r_c=0.23+/-0.0 [pc]; stars within r_t: N~72 |
 | <a href="{{ site.baseurl }}/_clusters/vdbh151/" target="_blank" style="color: $blue;">VDBH 151</a> | Tidal & Core radii: r_t=53+/-55.7 [pc], r_c=0.56+/-0.0 [pc]; stars within r_t: N~87 |
 | <a href="{{ site.baseurl }}/_clusters/vdbh164/" target="_blank" style="color: $blue;">VDBH 164</a> | Tidal & Core radii: r_t=21+/-3.5 [pc], r_c=0.57+/-0.03 [pc]; stars within r_t: N~276 |
-| <a href="{{ site.baseurl }}/_clusters/vdbh189/" target="_blank" style="color: $blue;">VDBH 189</a> | Tidal & Core radii: r_t=17+/-2.8 [pc], r_c=0.91+/-0.01 [pc]; stars within r_t: N~403 |
 | <a href="{{ site.baseurl }}/_clusters/vdbh19/" target="_blank" style="color: $blue;">VDBH 19</a> | Tidal & Core radii: r_t=51+/-64.8 [pc], r_c=0.39+/-0.0 [pc]; stars within r_t: N~72 |
 | <a href="{{ site.baseurl }}/_clusters/vdbh200/" target="_blank" style="color: $blue;">VDBH 200</a> | Tidal & Core radii: r_t=23+/-12.7 [pc], r_c=0.37+/-0.02 [pc]; stars within r_t: N~145 |
 | <a href="{{ site.baseurl }}/_clusters/vdbh205/" target="_blank" style="color: $blue;">VDBH 205</a> | Tidal & Core radii: r_t=30+/-11.3 [pc], r_c=0.51+/-0.0 [pc]; stars within r_t: N~518 |

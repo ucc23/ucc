@@ -100,8 +100,9 @@ posit_table: |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 85.236 | 32.276 | -- | -- | -- | -- |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 85.237 | 32.271 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 85.325 | 32.383 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 85.321 | 32.391 | -- | -- | -- | -- 
-N_rows_pos: "37"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 85.321 | 32.391 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 85.321 | 32.391 | -- | -- | -- | -- 
+N_rows_pos: "38"
 cds_radec: 85.23671,+32.27698
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

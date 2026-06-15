@@ -14,7 +14,7 @@ This database consists of 53 entries, of which 19% are probable duplicates ([P<s
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <a href="{{ site.baseurl }}/_clusters/berkeley26/" target="_blank" style="color: $blue;">Berkeley 26</a> | 102.57 | 5.73 | 207.69 | 2.36 | 0.17 | 45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.44 |
+| <a href="{{ site.baseurl }}/_clusters/berkeley26/" target="_blank" style="color: $blue;">Berkeley 26</a> | 102.57 | 5.73 | 207.69 | 2.36 | 0.17 | 45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.45 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2946/" target="_blank" style="color: $blue;">CWNU 2946</a> | 161.96 | -55.87 | 286.16 | 2.92 | 0.09 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.5 | 0.17 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2961/" target="_blank" style="color: $blue;">CWNU 2961</a> | 137.23 | -53.25 | 273.27 | -3.71 | 0.14 | 107 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.36 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2974/" target="_blank" style="color: $blue;">CWNU 2974</a> | 122.8 | -46.54 | 262.28 | -7.02 | 0.12 | 118 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.4 | 0.21 |

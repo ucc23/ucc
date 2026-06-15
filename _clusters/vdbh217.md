@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 217
 title_flag: true
-more_names: vdB-Hagen 217; van den Bergh-Hagen 217; BH 217; vdBergh-Hagen 217; MWSC 2553; ESO 333 02
+more_names: van den Bergh-Hagen 217; BH 217; vdBergh-Hagen 217; MWSC 2553; ESO 333 02; vdB-Hagen 217
 fname: vdbh217
 members_file: "344_348"
 fov: 0.067
@@ -13,17 +13,17 @@ glon: 346.78187
 glat: -1.51179
 r50: 2.0
 plx: 0.3209
-UTI: "0.90"
-UTI_COLOR: "#afdbc1"
+UTI: "0.89"
+UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense

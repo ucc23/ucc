@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 66
 title_flag: true
-more_names: vdB-Hagen 66; van den Bergh-Hagen 66; vdBergh-Hagen 66; BH 66; MWSC 1667; UKS 2; ESO 166 11
+more_names: van den Bergh-Hagen 66; vdBergh-Hagen 66; vdB-Hagen 66; BH 66; MWSC 1667; UKS 2; ESO 166 11
 fname: vdbh66
 members_file: "276_280"
 fov: 0.047
@@ -13,17 +13,17 @@ glon: 276.00176
 glat: -3.01213
 r50: 1.4
 plx: 0.1164
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#b2dcc2"
+UTI_C_lit_COL: "#b4ddc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.89
+UTI_C_lit: 0.88
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense

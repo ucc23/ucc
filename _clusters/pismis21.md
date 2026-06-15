@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 21
 title_flag: true
-more_names: MWSC 2283
+more_names: Pishmish 21; VDBH 171; MWSC 2283
 fname: pismis21
 members_file: "320_324"
 fov: 0.057
@@ -18,12 +18,12 @@ UTI_COLOR: "#c2e4c6"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e3f3cd"
+UTI_C_lit_COL: "#e0f1cb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.68
+UTI_C_lit: 0.7
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -80,8 +80,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 229.185 | -59.655 | -- | -5.53 | -1.94 | -41.2 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 229.204 | -59.667 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 229.193 | -59.651 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 228.2 | -59.467 | -- | -- | -- | -- 
-N_rows_pos: "19"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 228.2 | -59.467 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 229.193 | -59.651 | -- | -- | -- | -- 
+N_rows_pos: "20"
 cds_radec: 229.19754,-59.6601
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

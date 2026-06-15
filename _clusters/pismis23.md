@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 23
 title_flag: true
-more_names: MWSC 2399
+more_names: Pishmish 23; VDBH 190; MWSC 2399
 fname: pismis23
 members_file: "332_336"
 fov: 0.023
@@ -13,17 +13,17 @@ glon: 334.66746
 glat: 0.43104
 r50: 0.7
 plx: 0.1875
-UTI: "0.76"
-UTI_COLOR: "#d3ecc9"
+UTI: "0.77"
+UTI_COLOR: "#d0eac9"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#e7f4cf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.65
+UTI_C_lit: 0.66
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -78,8 +78,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 245.992 | -48.892 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 245.95 | -48.917 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 245.961 | -48.912 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 245.025 | -48.8 | -- | -- | -- | -- 
-N_rows_pos: "17"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 245.025 | -48.8 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 245.961 | -48.912 | -- | -- | -- | -- 
+N_rows_pos: "18"
 cds_radec: 245.99062,-48.89166
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

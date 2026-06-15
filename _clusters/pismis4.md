@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 4
 title_flag: true
-more_names: FoF 2289
+more_names: Pishmish 4; VDBH 36; FoF 2289
 fname: pismis4
 members_file: "260_264"
 fov: 0.623
@@ -111,8 +111,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 128.65 | -44.417 | -- | -6.9 | 5.4 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 128.675 | -44.395 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 128.624 | -44.277 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 128.2 | -44.1 | -- | -- | -- | -- 
-N_rows_pos: "44"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 128.2 | -44.1 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 128.624 | -44.277 | -- | -- | -- | -- 
+N_rows_pos: "45"
 cds_radec: 128.79674,-44.42106
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

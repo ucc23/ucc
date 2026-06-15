@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 221
 title_flag: true
-more_names: vdB-Hagen 221; van den Bergh-Hagen 221; vdBergh-Hagen 221; BH 221; MWSC 2563; ESO 454 06
+more_names: van den Bergh-Hagen 221; vdB-Hagen 221; vdBergh-Hagen 221; BH 221; MWSC 2563; ESO 454 06
 fname: vdbh221
 members_file: "352_356"
 fov: 0.287
@@ -18,12 +18,12 @@ UTI_COLOR: "#add9c0"
 UTI_C_N_COL: "#bfe2c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#a7cebb"
+UTI_C_lit_COL: "#a8cfbb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.84
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.98
+UTI_C_lit: 0.97
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense

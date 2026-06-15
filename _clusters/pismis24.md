@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pismis 24
 title_flag: true
-more_names: 
+more_names: Pishmish 24; VDBH 227
 fname: pismis24
 members_file: "352_356"
 fov: 0.22
@@ -13,17 +13,17 @@ glon: 353.11049
 glat: 0.62928
 r50: 6.6
 plx: 0.5602
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#ddf0ca"
 UTI_C_dens_COL: "#c9e7c8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f7fbde"
+UTI_C_lit_COL: "#f5fbdc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.71
 UTI_C_dens: 0.8
 UTI_C_C3: 0.75
-UTI_C_lit: 0.56
+UTI_C_lit: 0.57
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -70,8 +70,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 261.35 | -34.433 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 261.383 | -34.417 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 261.334 | -34.342 | -- | -- | -- | -- |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 260.375 | -34.133 | -- | -- | -- | -- 
-N_rows_pos: "12"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 260.375 | -34.133 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 261.334 | -34.342 | -- | -- | -- | -- 
+N_rows_pos: "13"
 cds_radec: 261.3966,-34.36282
 carousel: UCC
 fpars_table: |

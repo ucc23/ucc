@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Czernik 20](/_clusters/czernik20/)| 83.0 | 80.12 | 39.54 | 0.27 | 0.56 | -1.59 | 31.08 |0.7 |
+    |[Czernik 20](/_clusters/czernik20/)| 83.0 | 80.12 | 39.54 | 0.27 | 0.56 | -1.59 | 31.08 |0.75 |
     |[NGC 1857](/_clusters/ngc1857/)| 13.4 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.9 |
 N_rows_shared: "2"
 ---

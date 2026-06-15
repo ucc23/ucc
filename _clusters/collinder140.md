@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 140
 title_flag: true
-more_names: MWSC 1199; FoF 2397; OCSN 191
+more_names: VDBH 2; MWSC 1199; FoF 2397; OCSN 191
 fname: collinder140
 members_file: "244_248"
 fov: 1.327
@@ -115,8 +115,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 110.8 | -32.033 | -- | -7.33 | 2.7 | 10.5 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 111.112 | -31.85 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 110.954 | -32.198 | -- | -- | -- | 17.0 |
-    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 110.5 | -32.1 | -- | -- | -- | -- 
-N_rows_pos: "49"
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 110.5 | -32.1 | -- | -- | -- | -- |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 110.954 | -32.198 | -- | -- | -- | -- 
+N_rows_pos: "50"
 cds_radec: 110.90368,-31.98592
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

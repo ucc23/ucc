@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Pleiades
 title_flag: true
-more_names: Melotte 22; Collinder 42; MWSC 305; Messier 45; M45; OCL 421; Escorial 1; OCSN 219
+more_names: Melotte 22; Collinder 42; Messier 45; M45; MWSC 305; OCL 421; Escorial 1; OCSN 219
 fname: pleiades
 members_file: "164_168"
 fov: 3.183
@@ -127,8 +127,9 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 56.75 | 24.118 | -- | 19.15 | -45.72 | 5.6 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 56.75 | 24.117 | -- | 19.88 | -45.0 | 5.67 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 56.75 | 24.117 | -- | -- | -- | -- |
-    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 56.736 | 24.117 | -- | -- | -- | 7.0 
-N_rows_pos: "60"
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 56.736 | 24.117 | -- | -- | -- | 7.0 |
+    |[Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 56.736 | 24.117 | -- | -- | -- | -- 
+N_rows_pos: "61"
 cds_radec: 56.59978,+24.11362
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -195,7 +196,8 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.15 | 0.09 | -- | 135 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.12 | 0.13 | -- | 112 | -- | -- | -- | -- |
     | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.12 | 0.16 | -- | 78 | 0.110 | -- | -- | -- |
-N_rows_pars: "60"
+    | [Alter et al.](https://scixplorer.org/abs/1970csca.book.....A) | 1970 | 1.25 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "61"
 note_asterisk: true
 shared_table: |
 

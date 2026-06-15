@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 121
 title_flag: true
-more_names: vdB-Hagen 121; van den Bergh-Hagen 121; vdBergh-Hagen 121; MWSC 1960; BH 121
+more_names: van den Bergh-Hagen 121; vdB-Hagen 121; vdBergh-Hagen 121; MWSC 1960; BH 121
 fname: vdbh121
 members_file: "292_296"
 fov: 0.223
@@ -13,25 +13,25 @@ glon: 294.90366
 glat: -1.66646
 r50: 6.7
 plx: 0.3983
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#afdbc1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#e3f3cd"
-UTI_C_dup_COL: "#a5cab9"
+UTI_C_dup_COL: "#f0f8d5"
 UTI_C_N: 0.9
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.68
-UTI_C_dup: 1.0
+UTI_C_dup: 0.61
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Moderately studied
-UTI_C_dup_desc: Unique
+UTI_C_dup_desc: Likely unique
 summary: |
-    <b>VDBH 121</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>VDBH 121</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -108,8 +108,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[IC 2948](/_clusters/ic2948/)| 38.6 | 174.88 | -63.46 | 0.4 | -5.95 | 0.65 | -11.68 |0.83 |
-    |[IC 2944](/_clusters/ic2944/)| 21.5 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.0 |
+    |[IC 2948](/_clusters/ic2948/)| 38.6 | 174.88 | -63.46 | 0.4 | -5.95 | 0.65 | -11.68 |0.84 |
+    |[IC 2944](/_clusters/ic2944/)| 21.5 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.86 |
     |[VVV 005](/_clusters/vvv005/)| 7.5 | 174.74 | -63.47 | 0.4 | -5.95 | 0.51 | -45.44 |0.0 |
     |[CWWDL 864](/_clusters/cwwdl864/)| 2.4 | 174.28 | -63.27 | 0.39 | -6.15 | 0.9 | 4.55 |0.2 |
 N_rows_shared: "4"
