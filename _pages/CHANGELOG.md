@@ -9,6 +9,23 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260615](https://zenodo.org/records/20705026)
+
+- Added Alter et al (1970)
+
+- Merged:
+  - Pismis_18 into IC_4291
+  - NGC_2818A into NGC_2818
+
+- Renamed:
+  - VDBH_174 into Lynga_4
+  - VDBH_189 into Lynga_9
+
+- Removed VDBH_196 from NGC_6200, the correct match is NGC_6204
+
+
+
+
 ## Version [260611](https://zenodo.org/records/20645868)
 
 - Qin et al (2025)
@@ -27,7 +44,6 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 - Fixed ASCC_120 bad latitude in BICA2019
 - Cep A & Cep C are duplicates of Cepheus A & Cepheus C respectively
 - Re-process ngc6618 with N_clust=50
-
 
 
 

@@ -16,6 +16,70 @@ the rest were added after its publication.
 
 
 
+## Alter et al . 1970
+
+[Catalogue of star clusters and associations](https://ui.adsabs.harvard.edu/abs/1970csca.book.....A/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=VII/5A) table contains 1039 entries.
+
+Added (RA, DEC) columns from Galactic coordinates. Normalized naming.
+
+Modified:
+
+- AN(UPGREN) --> UPGREN_1
+- NGC_2099 (M37) --> NGC_2099
+- NGC_2682 (M67) --> NGC_2682
+- H5 CR 257/8 --> H5 CR 257_8
+- VDBERGH --> VDB_1
+- TRAPEZ CL --> Trapezium
+- NGC_2149 --> NGC_2194 (wrong name)
+- NGC_2347 --> NGC_2374 (wrong name)
+- NGC_2323 --> NGC_2423 (two instances of NGC_2323, one matched NGC_2423)
+- Haffner_18A --> Haffner_18
+- Berkeley_3 --> Added Stock_24 (AKA)
+- NGC_2314 --> Added NGC_2314A
+- NGC_6530 --> Added 'Lagoon, Messier_8'
+
+Removed:
+
+- NGC_6523 Lagoon --> Nebula
+- NGC_2237 --> Rosette Nebula
+- IC_410 --> Nebulosity
+- NGC_6820 --> Nebulosity
+- Haffner_18B, Haffner_18C --> Same coords as Haffner_18A
+
+Removed duplicates:
+
+- DOLIDZE_41 (Berkeley 85)
+- DOLIDZE_2 (IC_1311)
+- Collinder_427 (NGC_7023)
+- KING_22 (Berkeley_18)
+- Harvard_16 (Collinder_332)
+
+Removed GCs:
+
+- NGC_6558
+- NGC_6540
+- NGC_6544
+- NGC_6642
+- NGC_6717
+- IC_1257
+- NGC_6712
+- NGC_6426
+- Berkeley_42
+- NGC_6760
+- NGC_7492
+- NGC_6838
+- Ruprecht_106
+- LYNGA_7
+- NGC_5053 GLOB
+- NGC_6352 GLOB
+- NGC_6355 GLOB
+
+Final table contains 1011 entries.
+
+
+
 ## Sulentic et al. 1973
 
 [The revised new catalogue of nonstellar astronomical objects](https://scixplorer.org/abs/1973rncn.book.....S/abstract)
@@ -1382,6 +1446,8 @@ Changes to names:
 - MWSC 26 removed from 'Haffner 23,OCL 590,MWSC 1127,MWSC 26', it's 'PTB_7 1'
   according to Kharchenko 2013
 - 'FSR 1032,MWSC 927' to 'FSR 1032,MWSC 926', correct naming according to Kharchenko 2013
+- NGC_2818A --> NGC_2818 (no mention of NGC_2818A anywhere else)
+
 - Removed 'MWSC 732' from 'FSR 732', the coordinates are wrong
 - Removed 'FSR 1184' from 'Saurer 1', the coordinates are wrong (probably meant 'MWSC 1184')
 - Remove MWSC_2044 (incorrectly attached to ASCC_72)
